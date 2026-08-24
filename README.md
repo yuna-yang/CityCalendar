@@ -62,8 +62,8 @@ docs/                            generated feeds, served by GitHub Pages
 1. Create `src/citycalendar/sources/<name>.py` with a class extending `BaseSource`
    and implementing `fetch() -> list[Event]`.
 2. Register it in `config/sources.yaml` with its module, class, and params.
-3. If it needs a city not yet in `models.City`, add it there and map it to a
-   feed name in `ics_builder._FEED_BY_CITY`.
+3. If it needs a region not yet in `models.City`, add it there — `ics_builder.py`
+   automatically creates a feed named after the enum value (e.g. `docs/leuven.ics`).
 
 A source only needs to raise on failure — `BaseSource.collect()` already
 handles logging and falling back to cached data, so one broken scraper never
