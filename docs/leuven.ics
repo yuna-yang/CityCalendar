@@ -1180,6 +1180,16 @@ URL:https://www.rommelmarktgids.be/rommelmarkt/201191/camping-flamingo-leu
  ven/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 Flea market at Vlierbeek Abbey
+DTSTART:20260913T090000
+UID:73aaa5440869ff9d85c2d6aa354e6ba333db1ed5@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/flea-market-vlierbeek
+ -abbey
+LOCATION:Abdij van Vlierbeek\, Abdij Vlierbeek 14\, 3010 Kessel-Lo
+URL:https://www.visitleuven.be/en/flea-market-vlierbeek-abbey
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Makers and second-hand market: Camping Flamingo
 DTSTART:20260913T120000
 UID:9608ffed147244d40860eb80b285390d3c64b16b@citycalendar
@@ -1247,6 +1257,17 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/agenda/leuven-on-tap
 LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
 URL:https://www.visitleuven.be/en/agenda/leuven-on-tap
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Student Welcome 2026
+DTSTART:20260924T180000
+UID:4adb9f7c57650ed2ada76dd01ab50b1490eda8b9@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/student-welcome-2025-
+ student-parade-parties-city
+LOCATION:Leuven • Various locations
+URL:https://www.visitleuven.be/en/student-welcome-2025-student-parade-part
+ ies-city
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Pride

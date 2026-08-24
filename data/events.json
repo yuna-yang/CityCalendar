@@ -2580,6 +2580,18 @@
     "source": "odense_kultunaut_highlights"
   },
   {
+    "uid": "73aaa5440869ff9d85c2d6aa354e6ba333db1ed5@citycalendar",
+    "title": "Flea market at Vlierbeek Abbey",
+    "start": "2026-09-13T09:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "Abdij van Vlierbeek, Abdij Vlierbeek 14, 3010 Kessel-Lo",
+    "description": "More info: https://www.visitleuven.be/en/flea-market-vlierbeek-abbey",
+    "url": "https://www.visitleuven.be/en/flea-market-vlierbeek-abbey",
+    "source": "leuven_flea_markets"
+  },
+  {
     "uid": "9608ffed147244d40860eb80b285390d3c64b16b@citycalendar",
     "title": "Makers and second-hand market: Camping Flamingo",
     "start": "2026-09-13T12:00:00",
@@ -2697,6 +2709,18 @@
     "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
     "description": "More info: https://www.visitleuven.be/en/agenda/leuven-on-tap",
     "url": "https://www.visitleuven.be/en/agenda/leuven-on-tap",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "4adb9f7c57650ed2ada76dd01ab50b1490eda8b9@citycalendar",
+    "title": "Student Welcome 2026",
+    "start": "2026-09-24T18:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Leuven \u2022 Various locations",
+    "description": "More info: https://www.visitleuven.be/en/student-welcome-2025-student-parade-parties-city",
+    "url": "https://www.visitleuven.be/en/student-welcome-2025-student-parade-parties-city",
     "source": "leuven_calendar"
   },
   {

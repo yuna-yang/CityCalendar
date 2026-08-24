@@ -1147,6 +1147,17 @@ LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
 URL:https://www.visitleuven.be/en/agenda/leuven-on-tap
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Student Welcome 2026
+DTSTART:20260924T180000
+UID:4adb9f7c57650ed2ada76dd01ab50b1490eda8b9@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/student-welcome-2025-
+ student-parade-parties-city
+LOCATION:Leuven • Various locations
+URL:https://www.visitleuven.be/en/student-welcome-2025-student-parade-part
+ ies-city
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Leuven Pride
 DTSTART:20260926T160000
 UID:f0f2f252259158ca9c7cd0a264f4a1d4ae65410c@citycalendar
