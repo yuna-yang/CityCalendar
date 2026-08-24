@@ -1,16 +1,35 @@
 # Registry of event sources. Disabled sources are skipped by the pipeline.
 sources:
+  # Default sources: scrape public, no-login city/tourism agenda pages. No
+  # registration or API key needed at all - fits a small hobby project fine.
+  - id: leuven_calendar
+    module: citycalendar.sources.leuven_calendar
+    class: VisitLeuvenSource
+    enabled: true
+    params:
+      max_pages: 5
+
+  - id: brussels_agenda
+    module: citycalendar.sources.brussels_agenda
+    class: BrusselsAgendaSource
+    enabled: true
+    params:
+      max_pages: 5
+
+  # Optional, richer alternative for Leuven/Brussels: publiq's UiTdatabank Search
+  # API. Needs a free client id (see README) - disabled by default since the
+  # scrapers above already work with zero signup.
   - id: uitdatabank_leuven
     module: citycalendar.sources.uitdatabank
     class: UitdatabankSource
-    enabled: true
+    enabled: false
     params:
       city: Leuven
 
   - id: uitdatabank_brussels
     module: citycalendar.sources.uitdatabank
     class: UitdatabankSource
-    enabled: true
+    enabled: false
     params:
       city: Brussel
 

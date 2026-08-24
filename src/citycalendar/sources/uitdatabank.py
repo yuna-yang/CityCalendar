@@ -62,7 +62,8 @@ class UitdatabankSource(BaseSource):
         )
 
     def _resolve_city(self) -> City:
-        return City.BRUSSELS if self.city.lower().startswith("bruss") else City.LEUVEN
+        # both Leuven and Brussels feed into the single "leuven" region
+        return City.LEUVEN
 
     def _guess_category(self, item: dict) -> Category:
         haystack = " ".join(

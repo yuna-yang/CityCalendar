@@ -1,5 +1,8 @@
 """Template for a Copenhagen source - disabled by default until implemented.
 
+Scope for this region: Copenhagen, Greater Copenhagen, and notable events from
+Odense or Malmo (close enough to be worth including).
+
 Good starting points for real data:
 - https://www.opendata.dk/ (Danish municipal open data portal)
 - Individual museum / venue websites often publish their own ICS or JSON feeds

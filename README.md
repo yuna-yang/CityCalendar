@@ -1,8 +1,10 @@
 # City Calendar
 
 An open, subscribable calendar of flea markets, exhibitions, museum free days
-and other events — starting with Copenhagen and Leuven/Brussels. Subscribe in
-Google Calendar once, keep getting updates forever, no account needed.
+and other events — starting with two regions: Copenhagen (incl. Greater
+Copenhagen and notable Odense/Malmo events) and Leuven (incl. Brussels and
+nearby areas). Subscribe in Google Calendar once, keep getting updates
+forever, no account needed.
 
 ## How it works
 
@@ -26,8 +28,8 @@ flowchart LR
 | File | Contents |
 | --- | --- |
 | `docs/all.ics` | Every event from every source |
-| `docs/copenhagen.ics` | Copenhagen only |
-| `docs/leuven-brussels.ics` | Leuven & Brussels only |
+| `docs/copenhagen.ics` | Copenhagen region (Greater Copenhagen, notable Odense/Malmo events) |
+| `docs/leuven.ics` | Leuven region (Leuven, Brussels, nearby areas) |
 
 Subscribe in Google Calendar: **Settings → Add calendar → From URL**, using the
 GitHub Pages URL of one of the files above.
@@ -64,15 +66,21 @@ takes down the whole feed.
 
 ## Current sources
 
-- **UiTdatabank** (`sources/uitdatabank.py`) — real, working. Covers Leuven and
-  Brussels via publiq's public Search API. Needs a free **client id**: register
-  an integration for "UiTdatabank Search API" at
-  [platform.publiq.be](https://platform.publiq.be/) (free, instant test credentials),
-  then set it as the `UITDATABANK_CLIENT_ID` secret/env var. No client secret or
-  token is needed — the Search API only requires client identification.
+- **Visit Leuven calendar** (`sources/leuven_calendar.py`) — real, working. Scrapes the
+  public [visitleuven.be/en/calendar](https://www.visitleuven.be/en/calendar) page. No
+  registration or API key needed.
+- **Brussels agenda** (`sources/brussels_agenda.py`) — real, working. Scrapes the public
+  [brussels.be/agenda](https://www.brussels.be/agenda) page, which conveniently publishes
+  category tags per event. No registration or API key needed.
+- **UiTdatabank** (`sources/uitdatabank.py`) — optional, disabled by default. A richer,
+  official alternative covering all of Flanders & Brussels via publiq's Search API, but
+  requires registering a free integration at [platform.publiq.be](https://platform.publiq.be/)
+  (pick "UiTdatabank Search API") and setting the client id as `UITDATABANK_CLIENT_ID`.
+  Enable it in `config/sources.yaml` if you want broader coverage later.
 - **Copenhagen** (`sources/copenhagen_template.py`) — template only, disabled by
   default. Good starting points: municipal open data
-  ([opendata.dk](https://www.opendata.dk/)) or individual museum/venue sites.
+  ([opendata.dk](https://www.opendata.dk/)) or scraping an individual museum/venue site,
+  following the same pattern as the Leuven/Brussels scrapers.
 
 ## Local development
 
@@ -85,16 +93,17 @@ pytest
 ## One-time repo setup (once pushed to GitHub)
 
 - Enable GitHub Pages, serving from the `docs/` folder on `main`.
-- Add `UITDATABANK_CLIENT_ID` as a repository secret (used by the scheduled workflow).
+- No secrets are required for the default sources. If you later enable UiTdatabank,
+  also add `UITDATABANK_CLIENT_ID` as a repository secret.
 
 ## Backlog (grooming notes)
 
 - [x] Core model + extensible source interface
 - [x] Robust pipeline (cache fallback, dedupe, per-city + combined feeds)
 - [x] GitHub Actions: scheduled rebuild + test workflow
+- [x] Real, no-signup sources for Leuven and Brussels (public agenda scrapers)
 - [ ] Implement a real Copenhagen source
-- [ ] Add a Brussels-specific source beyond UiTdatabank (e.g. agenda.brussels)
-- [ ] Category detection for UiTdatabank is keyword-based — replace with UiTdatabank's own taxonomy/terms API for accuracy
+- [ ] Category detection is keyword-based for Leuven (Brussels has real tags) — revisit if it's too noisy
 - [ ] Nicer `docs/index.html` (search/filter, webcal:// buttons)
 
 ## License

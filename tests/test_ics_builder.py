@@ -29,7 +29,7 @@ def test_build_feeds_writes_all_and_per_city_files(tmp_path):
     all_ics = Calendar.from_ical((tmp_path / "all.ics").read_text(encoding="utf-8"))
     assert len(all_ics.walk("VEVENT")) == 2
 
-    leuven_ics = Calendar.from_ical((tmp_path / "leuven-brussels.ics").read_text(encoding="utf-8"))
+    leuven_ics = Calendar.from_ical((tmp_path / "leuven.ics").read_text(encoding="utf-8"))
     assert len(leuven_ics.walk("VEVENT")) == 1
 
     copenhagen_ics = Calendar.from_ical((tmp_path / "copenhagen.ics").read_text(encoding="utf-8"))

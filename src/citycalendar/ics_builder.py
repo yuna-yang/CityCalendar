@@ -8,12 +8,6 @@ from icalendar import Event as ICalEvent
 
 from citycalendar.models import City, Event
 
-_FEED_BY_CITY = {
-    City.COPENHAGEN: "copenhagen",
-    City.LEUVEN: "leuven-brussels",
-    City.BRUSSELS: "leuven-brussels",
-}
-
 
 def build_feeds(events: list[Event], out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -21,8 +15,7 @@ def build_feeds(events: list[Event], out_dir: Path) -> None:
 
     by_feed: dict[str, list[Event]] = {}
     for event in events:
-        feed_name = _FEED_BY_CITY.get(event.city, "other")
-        by_feed.setdefault(feed_name, []).append(event)
+        by_feed.setdefault(event.city.value, []).append(event)
 
     for feed_name, feed_events in by_feed.items():
         _write_ics(feed_events, out_dir / f"{feed_name}.ics", f"City Calendar - {feed_name}")

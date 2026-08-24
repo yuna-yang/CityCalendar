@@ -15,9 +15,10 @@ class Category(str, Enum):
 
 
 class City(str, Enum):
+    # regions, not strict city names: LEUVEN also covers Brussels + nearby Belgium,
+    # COPENHAGEN also covers Greater Copenhagen + notable Odense/Malmo events
     COPENHAGEN = "copenhagen"
     LEUVEN = "leuven"
-    BRUSSELS = "brussels"
 
 
 @dataclass

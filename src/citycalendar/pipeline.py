@@ -32,7 +32,7 @@ def run() -> None:
 
     # last write wins per uid, order doesn't matter since duplicates are identical events
     deduped = list({event.uid: event for event in all_events}.values())
-    deduped.sort(key=lambda event: event.start)
+    deduped.sort(key=lambda event: event.start.replace(tzinfo=None))
 
     _write_events_cache(deduped)
     build_feeds(deduped, DOCS_DIR)
