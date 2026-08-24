@@ -33,9 +33,22 @@ sources:
     params:
       city: Brussel
 
-  - id: copenhagen_template
-    module: citycalendar.sources.copenhagen_template
-    class: CopenhagenTemplateSource
-    enabled: false
+  - id: copenhagen_kultunaut
+    module: citycalendar.sources.kultunaut_denmark
+    class: KultunautSource
+    enabled: true
     params:
-      city: Copenhagen
+      area: Storkøbenhavn
+      max_pages: 3
+
+  # A small, capped set of top-rated highlights from Odense - not the whole city,
+  # just the notable stuff, per the "Greater Copenhagen + notable Odense/Malmo"
+  # scope. Malmo (Sweden) isn't covered - Kultunaut is Denmark-only.
+  - id: odense_kultunaut_highlights
+    module: citycalendar.sources.kultunaut_denmark
+    class: KultunautSource
+    enabled: true
+    params:
+      area: Odense-storkommune
+      max_pages: 1
+      max_events: 10

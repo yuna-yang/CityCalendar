@@ -441,6 +441,14 @@ LOCATION:Vesalius Museum\, Brusselsestraat\, Leuven
 URL:https://www.visitleuven.be/en/opening-vesalius-museum
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:STUK START 2026
+DTSTART:20260817T000000
+UID:c449a947dc44ace157ecb76150a7b10f3c832a8f@citycalendar
+CATEGORIES:event
+LOCATION:STUK\, Naamsestraat 96\, Leuven
+URL:https://www.visitleuven.be/en/stuk-start-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Filmfestival Docville
 DTSTART:20260817T000000
 UID:a574f48ab8b103a7def1f49a614c1388f2697d73@citycalendar
@@ -471,14 +479,6 @@ UID:8ad30d6500c446eb615a48b94ab87cf120054ac7@citycalendar
 CATEGORIES:event
 LOCATION:Various locations
 URL:https://www.visitleuven.be/en/agenda/passion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike Tour: Lovely Leuven Bike Tour
-DTSTART:20260824T100000
-UID:ad32dfad34dcb703e1deceaadb056481ec56337a@citycalendar
-CATEGORIES:event
-LOCATION:Parijsstraat 14\, Leuven
-URL:https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guided walk: ILUVLeuven Walk
@@ -512,6 +512,14 @@ UID:123e6f0d6c85392d1b604830de625a60c398bfd2@citycalendar
 CATEGORIES:event
 LOCATION:STUK\, Naamsestraat 96\, Leuven
 URL:https://www.visitleuven.be/en/festival-plateau26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike Tour: Lovely Leuven Bike Tour
+DTSTART:20260825T140000
+UID:b86193bbba2acb58be7d3ed5c26dbaa9d3de4b35@citycalendar
+CATEGORIES:event
+LOCATION:Parijsstraat 14\, Leuven
+URL:https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tower visit and live carillon concert University Library
@@ -855,6 +863,14 @@ UID:ff809b28084e48428e2cf671a3a61219ef68973b@citycalendar
 CATEGORIES:event
 LOCATION:Museum PARCUM\, Abdij van Park 7\, 3001 Leuven (Heverlee)
 URL:https://www.visitleuven.be/en/guided-walk-tour-heart-abbey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leuven beKOORt
+DTSTART:20260927T133000
+UID:834f80e1efe609e9d271d14f6b39f8562eb19526@citycalendar
+CATEGORIES:event
+LOCATION:Various locations
+URL:https://www.visitleuven.be/en/leuven-bekoort
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition: Scultori Fiamminghi

@@ -1,5 +1,16 @@
 [
   {
+    "title": "Bike Tour: Lovely Leuven Bike Tour",
+    "start": "2026-08-25T14:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Parijsstraat 14, Leuven",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Guided walk: ILUVLeuven Walk",
     "start": "2026-08-24T14:30:00",
     "city": "leuven",
@@ -8,28 +19,6 @@
     "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
     "description": "",
     "url": "https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Wijgmaal",
-    "start": "2026-08-24T15:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
-    "description": "",
-    "url": "https://www.visitleuven.be/en/monday-market",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-08-24T10:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Parijsstraat 14, Leuven",
-    "description": "",
-    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
     "source": "leuven_calendar"
   },
   {
@@ -330,6 +319,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Market in Wijgmaal",
+    "start": "2026-08-24T15:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/monday-market",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Free carillon concerts in Great Beguinage",
     "start": "2026-09-02T19:00:00",
     "city": "leuven",
@@ -462,6 +462,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "STUK START 2026",
+    "start": "2026-08-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/stuk-start-2026",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "HAL 5 celebrates its 9th anniversary!",
     "start": "2026-09-20T09:00:00",
     "city": "leuven",
@@ -514,6 +525,17 @@
     "location": "Martelarenplein, Leuven",
     "description": "",
     "url": "https://www.visitleuven.be/en/leuven-pride",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Leuven beKOORt",
+    "start": "2026-09-27T13:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Various locations",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/leuven-bekoort",
     "source": "leuven_calendar"
   },
   {

@@ -636,6 +636,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "c449a947dc44ace157ecb76150a7b10f3c832a8f@citycalendar",
+    "title": "STUK START 2026",
+    "start": "2026-08-17T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/stuk-start-2026",
+    "source": "leuven_calendar"
+  },
+  {
     "uid": "a574f48ab8b103a7def1f49a614c1388f2697d73@citycalendar",
     "title": "Filmfestival Docville",
     "start": "2026-08-17T00:00:00",
@@ -684,18 +696,6 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "ad32dfad34dcb703e1deceaadb056481ec56337a@citycalendar",
-    "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-08-24T10:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Parijsstraat 14, Leuven",
-    "description": "",
-    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
-    "source": "leuven_calendar"
-  },
-  {
     "uid": "baf5a9930703d060d3011cddb8eb09a48a261292@citycalendar",
     "title": "Guided walk: ILUVLeuven Walk",
     "start": "2026-08-24T14:30:00",
@@ -718,6 +718,30 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/monday-market",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "1d234c5ce004682009047e265eb6558719bed675@citycalendar",
+    "title": "Bachs cellosuiter med Alisa Weilerstein",
+    "start": "2026-08-24T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Tivoli - Glassalen",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19679453",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "a42e830b10f8e310b82e04527903da23f46d04b2@citycalendar",
+    "title": "Kenio: The Support Show",
+    "start": "2026-08-24T19:40:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Studenterhus Odense",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20153241",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "cabb73bfcae24b08cd277ccd54e14108c240ef95@citycalendar",
@@ -744,6 +768,42 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "aced9723ccbe168d4944e30b57e6f7308050c570@citycalendar",
+    "title": "Sicilien - fra barok til belcanto",
+    "start": "2026-08-25T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Metronomen",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "977160d1262b9f6b802476d68ec61e0ebdeeef4a@citycalendar",
+    "title": "Jazz p\u00e5 Pladsen",
+    "start": "2026-08-25T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Ofelia Plads",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "b86193bbba2acb58be7d3ed5c26dbaa9d3de4b35@citycalendar",
+    "title": "Bike Tour: Lovely Leuven Bike Tour",
+    "start": "2026-08-25T14:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Parijsstraat 14, Leuven",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
+    "source": "leuven_calendar"
+  },
+  {
     "uid": "d418143d55976c35652ccb9f776a5421b6591f98@citycalendar",
     "title": "Tower visit and live carillon concert University Library",
     "start": "2026-08-25T18:20:00",
@@ -754,6 +814,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "b6f8c77ee1a3a5dd87e1c7000610268edfc487d5@citycalendar",
+    "title": "En sommeraften med DR Vokalensemblet",
+    "start": "2026-08-25T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Trinitatis Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19774318",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "f9aec7c148d7f4bb4ed401cfde6255f46cbca5b7@citycalendar",
@@ -778,6 +850,30 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/summer-stelplaats-stelplaza",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "94a5084fc00f62dc0137845e0cd5f4f096f739e0@citycalendar",
+    "title": "Tivoli Jazzpris 2026",
+    "start": "2026-08-26T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Tivoli - Glassalen",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19721968",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "9b0262999c2435e8a98180ef431f13f1c1aa630b@citycalendar",
+    "title": "Oplev et af byens bedste livebands: Kresten Osgood Kvintet",
+    "start": "2026-08-26T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "KU.BE",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20159214",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "59e16272a5e60c269c025c437d884737f3e5f9ab@citycalendar",
@@ -840,6 +936,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "74df209435a59db1b3f3234c266494537dc7e112@citycalendar",
+    "title": "Koncert: bach xiii",
+    "start": "2026-08-26T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Vigerslev Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19999440",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "428bc168f4b2cd5db4d8c166d8ed4abc4ce013fe@citycalendar",
     "title": "Open Dance Floor",
     "start": "2026-08-26T20:00:00",
@@ -850,6 +958,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/open-dance-floor",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "a9d20186033aca3b890100da0ee7d2f56d68bb43@citycalendar",
+    "title": "Sjostakovitj - en sovjetkunstner",
+    "start": "2026-08-27T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Musikbiblioteket Odense",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19854930",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "77628196bddbddd25785e90da41cccee2fcd3a73@citycalendar",
@@ -876,6 +996,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "7bdde0b42b4ab3d8557ed93344a622c994a54e4f@citycalendar",
+    "title": "Koncert med Absalon String Quartet",
+    "start": "2026-08-27T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Sct. Thomas kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19941952",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "0e4fbce2d722279a92439cfcaa827b2964582774@citycalendar",
     "title": "Guided tour: Brewery Stella Artois",
     "start": "2026-08-28T00:00:00",
@@ -898,6 +1030,54 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/afternoons-filled-classical-music-summer-saint-peter",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "6e030fdc18fcc471b71cb672cbb9ba3973e85fd6@citycalendar",
+    "title": "Shefunk",
+    "start": "2026-08-28T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Rust",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19866409",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "2409caab44b356316e55e36037175adad7e34aca@citycalendar",
+    "title": "Philippe Bernold & Tr\u00e6bl\u00e6serne fra Den Kongelige Livgardes Musikkorps",
+    "start": "2026-08-28T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Christians Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20116786",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "b665040c94848889b22087ca6cd76c3dae34bf5b@citycalendar",
+    "title": "Copenhagen baroque festival",
+    "start": "2026-08-28T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Trinitatis Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937271",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "3c9390cbcf6cf55a25e18898170dc0a0c4e8d815@citycalendar",
+    "title": "Sommerkoncert med Musica Ficta",
+    "start": "2026-08-28T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Ansgars Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105600",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "48216c45a5cb07e2531f65b234e3af1d1c91a305@citycalendar",
@@ -948,6 +1128,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "55730a299d22af347172242295cddca900cccd46@citycalendar",
+    "title": "The Staircase - A Travel in Time",
+    "start": "2026-08-28T16:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Trinitatis Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20047923",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "482d365ad92ccd42cb3f162db8716d337ecc41ed@citycalendar",
     "title": "Summer pop-up Bar Belvue",
     "start": "2026-08-28T18:00:00",
@@ -958,6 +1150,78 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/summer-pop-bar-belvue",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "24e19c2b7762fbe2d7600512936dcdaf6926428c@citycalendar",
+    "title": "Venner for livet - dank-tysk barokmusik",
+    "start": "2026-08-28T18:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Sankt Petri Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19925854",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "61f3b6ebcf15cacd3b658eb8db2500bd5186b00e@citycalendar",
+    "title": "Synergi med Rasmus S\u00f8rensen og Jakob S\u00f8rensen",
+    "start": "2026-08-28T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kvarterhuset Amagerbro",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "f827cd7a2b09e40c3fa6dd5b017d8d466fb66e2e@citycalendar",
+    "title": "Stenbroen Festival",
+    "start": "2026-08-29T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "N\u00f8rrebro Street Food",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20075536",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "2afbfd3fbc01cd573a3570d24857de029ad622aa@citycalendar",
+    "title": "Koncert med Absalon String Quartet",
+    "start": "2026-08-29T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Lundehus Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "23f4c3bd451dccbe584f7d8a7d125855fc4a76d0@citycalendar",
+    "title": "Anders matthesen",
+    "start": "2026-08-29T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Arken Museum for Samtidskunst",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771767",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "d1b5f1819d6142954105e86316781ec00ca5e29e@citycalendar",
+    "title": "Copenhagen baroque festival",
+    "start": "2026-08-29T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Trinitatis Kirke",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "6ce4e718ffd0bc941c0ed6ab02cce1e84665dc39@citycalendar",
@@ -1020,6 +1284,78 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "aa8ee9c9ee5136b4035d0a2dd9109f10915505ba@citycalendar",
+    "title": "Rejer & Vin ad libitum",
+    "start": "2026-08-29T15:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Restaurant Nordatlanten",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19707059",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "523772233f5877d7bc63e7ef565cf9773012bd25@citycalendar",
+    "title": "Musikkammeret: Carl Nielsen og Rued Langgaard",
+    "start": "2026-08-29T16:45:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Amalienborgmuseet",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218332",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "2c91758865382c2cdaabef114cb7f42ea247ddaf@citycalendar",
+    "title": "Sommerkoncert: Novo Quartet - Sene kvartetter af Haydn og Beethoven",
+    "start": "2026-08-30T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Glyptoteket",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19935417",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "6636469250494c14950a679fbd53519c386354fe@citycalendar",
+    "title": "Kr\u00e6mmer for en dag",
+    "start": "2026-08-30T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Bredek\u00e6rg\u00e5rd",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20008448",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "f4b070e2de41f2418fc983572b2347abc2d1863f@citycalendar",
+    "title": "Schack Gruppen spiller jazz p\u00e5 dansk",
+    "start": "2026-08-30T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kildev\u00e6ldskirken",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20000160",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "d973406677b2c227621c964592bed839ebba0336@citycalendar",
+    "title": "Soloudstilling v. CMK - Carl M\u00e5rten Karlholm\"Dyrefarver I CPH\"",
+    "start": "2026-08-30T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "exhibition",
+    "location": "Gallery House of k3",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "3c9d709dab9b734ea0f0c547338b904d1f62363d@citycalendar",
     "title": "Market in Heverlee",
     "start": "2026-08-30T08:00:00",
@@ -1044,6 +1380,42 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "09bfadd44123400307b7794267f40ee741780a58@citycalendar",
+    "title": "Slowlooking: Ensomhedsslottet",
+    "start": "2026-08-31T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Jagtslottet Eremitagen",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "f26b369455c0700fdc2d530f0985853aad7a901d@citycalendar",
+    "title": "Rundvisning i Kongens Have",
+    "start": "2026-08-31T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Pavillon",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "628c30134ab378baaef5c6a740ddb8969fd3a159@citycalendar",
+    "title": "V\u00e6gteren g\u00e5r sin aftentur",
+    "start": "2026-08-31T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Den Gamle Kro",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560027",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
     "uid": "0cf3d47bf9d8f00bca93d1c233ed80b2747a8ead@citycalendar",
     "title": "Free carillon concerts in Great Beguinage",
     "start": "2026-09-02T19:00:00",
@@ -1056,6 +1428,42 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "92e77531fe4d146227d8c819d9b70d38b38750a1@citycalendar",
+    "title": "Septemberfestival: Mozart",
+    "start": "2026-09-04T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "715d4a29b57f1acd874e62a0996cb569d16f01cd@citycalendar",
+    "title": "Septemberfestival: Mozart",
+    "start": "2026-09-05T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316933",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "cadc600fa75ec3283e2107625ae15be497b27f12@citycalendar",
+    "title": "Sommerdage i Byhaven: Peter Sommer og Min Veninde Signe",
+    "start": "2026-09-05T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Ish\u00f8j Byhave",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131079",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "d0f59f99e035017b184c15291996c45b7eae2923@citycalendar",
     "title": "Buskers Boulevard",
     "start": "2026-09-05T14:00:00",
@@ -1066,6 +1474,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/buskers",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "afd00e2cb87ec42cd569ad2512896fa4e7bc086e@citycalendar",
+    "title": "Jubil\u00e6umskoncert med Musikkoret K\u00f8benhavn",
+    "start": "2026-09-05T16:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Bethesda",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20035117",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "a1c46527e9bf21bda01399cad258882647fbf95c@citycalendar",
@@ -1090,6 +1510,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/sunday-shopping",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "cca78fe955c5821e671119d8d556a44166ec0fe5@citycalendar",
+    "title": "CirkusS\u00f8ndag",
+    "start": "2026-09-06T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Cirkusmuseet i Hvidovre",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719674",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "89da82e18e6fa65ca38fe2c3da28454eb1efa748@citycalendar",
@@ -1152,6 +1584,30 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "4d42cfcb748a5b95ef237cbad6bd5100748fcaad@citycalendar",
+    "title": "International Triennale for Kids",
+    "start": "2026-09-08T15:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Fyns Grafiske V\u00e6rksted",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "cdae0461b3e16f07e99ebfff5a78a2e3248ce770@citycalendar",
+    "title": "Bill Evans Celebration: Lundgren/Jormin/Haffner",
+    "start": "2026-09-10T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Jazzhus Montmartre",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "b8beed60148b94d34e307a5af7942857b71bdefa@citycalendar",
     "title": "Heritage Tour KU Leuven: Thermotechnical Institute",
     "start": "2026-09-12T10:30:00",
@@ -1164,6 +1620,30 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "49087324437a4ec314d5da9b56f4f5883958b56b@citycalendar",
+    "title": "G\u00e5rdcaf\u00e9",
+    "start": "2026-09-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "exhibition",
+    "location": "Medicinsk Museion",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174808",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "247577f4037a3db5a19a05c964077a8204b23e50@citycalendar",
+    "title": "SPOKEN | De Ud\u00f8delige Poeters Klub om den gr\u00f8nlandske litteratur",
+    "start": "2026-09-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Nordatlantisk Hus",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
     "uid": "669f852a73381cb1acb6287e788ab5f0463aaa55@citycalendar",
     "title": "Makers and second-hand market: Camping Flamingo",
     "start": "2026-09-13T12:00:00",
@@ -1174,6 +1654,42 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "3caeb3b424f4e51a52f1566a54dcf1fd41a91744@citycalendar",
+    "title": "Vandreture for alle",
+    "start": "2026-09-17T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Vandreture Hovedstadsomr\u00e5det",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20166685",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "2820f0e3cc90ad85bd3792d92c48db629c8334a1@citycalendar",
+    "title": "Sommerudstilling: Kvinder p\u00e5 kanten",
+    "start": "2026-09-17T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "exhibition",
+    "location": "Lokalhistorisk Bibliotek",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "93358522993ede9d19f2a2a912570805b7ca10cb@citycalendar",
+    "title": "Creedence Experience",
+    "start": "2026-09-19T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kulturium Musikteater",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19356626",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "3e88170c7aaae2be2af7f588601342618acb7218@citycalendar",
@@ -1248,6 +1764,30 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "834f80e1efe609e9d271d14f6b39f8562eb19526@citycalendar",
+    "title": "Leuven beKOORt",
+    "start": "2026-09-27T13:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Various locations",
+    "description": "",
+    "url": "https://www.visitleuven.be/en/leuven-bekoort",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "d061912155fcd7451153a434dc5485f223e37234@citycalendar",
+    "title": "Bjarke Falgren Kvartet",
+    "start": "2026-10-04T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kulturium Musikteater",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771651",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "1920e104910287b0fb0a8ae8b9148651323e75e1@citycalendar",
     "title": "Exhibition: Scultori Fiamminghi",
     "start": "2026-10-09T00:00:00",
@@ -1258,6 +1798,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/exhibition-scultori-fiamminghi",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "8d3b7ce44c3fe9a7ac560f9157ae0733fad777cc@citycalendar",
+    "title": "Uffe Steen Trio & Vestbo Trio",
+    "start": "2026-10-22T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Dexter",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19454183",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "e7cde0d8f45e1ccdca675196b721e605b092c2d7@citycalendar",
@@ -1318,6 +1870,18 @@
     "description": "",
     "url": "https://www.visitleuven.be/en/winter",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "01f3375eeed75c1a13a38262ead8d72dbeee9758@citycalendar",
+    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
+    "start": "2026-12-12T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Tidens Samling",
+    "description": "",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "cff5114b0f69872fdf23dd1f05394b5b274cb242@citycalendar",

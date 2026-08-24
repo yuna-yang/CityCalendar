@@ -77,10 +77,12 @@ takes down the whole feed.
   requires registering a free integration at [platform.publiq.be](https://platform.publiq.be/)
   (pick "UiTdatabank Search API") and setting the client id as `UITDATABANK_CLIENT_ID`.
   Enable it in `config/sources.yaml` if you want broader coverage later.
-- **Copenhagen** (`sources/copenhagen_template.py`) — template only, disabled by
-  default. Good starting points: municipal open data
-  ([opendata.dk](https://www.opendata.dk/)) or scraping an individual museum/venue site,
-  following the same pattern as the Leuven/Brussels scrapers.
+- **Kultunaut** (`sources/kultunaut_denmark.py`) — real, working. Scrapes
+  [kultunaut.dk](https://www.kultunaut.dk/), Denmark's main public cultural events database.
+  One instance covers Greater Copenhagen (`Area=Storkøbenhavn`), another pulls a small,
+  capped set of top-rated highlights from Odense. No registration or API key needed.
+  Note: Kultunaut is Denmark-only, so Malmo (Sweden) isn't covered — that would need a
+  separate Swedish source.
 
 ## Local development
 
@@ -102,8 +104,9 @@ pytest
 - [x] Robust pipeline (cache fallback, dedupe, per-city + combined feeds)
 - [x] GitHub Actions: scheduled rebuild + test workflow
 - [x] Real, no-signup sources for Leuven and Brussels (public agenda scrapers)
-- [ ] Implement a real Copenhagen source
-- [ ] Category detection is keyword-based for Leuven (Brussels has real tags) — revisit if it's too noisy
+- [x] Real, no-signup source for Copenhagen + Odense highlights (Kultunaut)
+- [ ] Find/add a Swedish source for Malmo highlights
+- [ ] Category detection is keyword-based (Brussels has real tags) — revisit if it's too noisy
 - [ ] Nicer `docs/index.html` (search/filter, webcal:// buttons)
 
 ## License
