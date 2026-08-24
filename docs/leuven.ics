@@ -27,16 +27,26 @@ LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule -
 URL:https://www.brussels.be/gudula26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
+SUMMARY:🎫 Pavi'On programme
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
-  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
- -beursschouwburg
-LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
-URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
+UID:2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Music // Dance // Multidisciplinary // Events\n\nMore info: ht
+ tps://www.brussels.be/pavion-programme
+LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
+URL:https://www.brussels.be/pavion-programme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Public programme - La Bellone
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar
+CATEGORIES:event
+DESCRIPTION:Multidisciplinary // Lectures & debates\n\nMore info: https://
+ www.brussels.be/public-programme-la-bellone
+LOCATION:La Bellone\, Rue de Flandre 46 - 1000 Brussels
+URL:https://www.brussels.be/public-programme-la-bellone
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Training courses - 'Mission Locale pour l'Emploi'
@@ -51,26 +61,15 @@ LOCATION:Mission Locale pour l'Emploi de Bruxelles-Ville\, Boulevard d'Anv
 URL:https://www.brussels.be/training-courses-mission-locale-pour-lemploi
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Pavi'On programme
+SUMMARY:🎫 Guided tours Laeken Découverte
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar
+UID:cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar
 CATEGORIES:event
-DESCRIPTION:Music // Dance // Multidisciplinary // Events\n\nMore info: ht
- tps://www.brussels.be/pavion-programme
-LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
-URL:https://www.brussels.be/pavion-programme
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided visits by Arkadia
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
-CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
- ts-arkadia
-LOCATION:Various locations in Brussels
-URL:https://www.brussels.be/guided-visits-arkadia
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
+ s-laeken-decouverte
+LOCATION:Laeken
+URL:https://www.brussels.be/guided-tours-laeken-decouverte
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Underground treasure hunt at the Coudenberg
@@ -85,15 +84,27 @@ LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the
 URL:https://www.brussels.be/underground-treasure-hunt-coudenberg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Ancienne Belgique - AB - programme 2026
+SUMMARY:🎫 Guided visits by Korei Guided Tours
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:8b568cb979cbd9d9faf35165ee193b49858551b8@citycalendar
+UID:44791c6be94cfab73b8808dc3c023da7fa83e8e5@citycalendar
 CATEGORIES:event
-DESCRIPTION:Music // Events\n\nMore info: https://www.brussels.be/ancienne
- -belgique-ab-programme-2026
-LOCATION:Ancienne Belgique - AB\, Boulevard Anspach 110\, 1000 Brussels
-URL:https://www.brussels.be/ancienne-belgique-ab-programme-2026
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-korei-guided-tours
+LOCATION:Various locations in Brussels
+URL:https://www.brussels.be/guided-visits-korei-guided-tours
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
+  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
+ -beursschouwburg
+LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
+URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided visits by Brussels Chatterguides
@@ -107,6 +118,29 @@ LOCATION:Various places in Brussels
 URL:https://www.brussels.be/guided-visits-brussels-chatterguides
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
+CATEGORIES:event
+DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
+ russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
+ bruxelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided visits by Arkadia
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-arkadia
+LOCATION:Various locations in Brussels
+URL:https://www.brussels.be/guided-visits-arkadia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Workshops and trainings for traders - Entreprendre Bruxelles
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -116,28 +150,6 @@ DESCRIPTION:Multidisciplinary\n\nMore info: https://www.brussels.be/worksh
  ops-and-trainings-traders-entreprendre-bruxelles
 URL:https://www.brussels.be/workshops-and-trainings-traders-entreprendre-b
  ruxelles
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Public programme - La Bellone
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar
-CATEGORIES:event
-DESCRIPTION:Multidisciplinary // Lectures & debates\n\nMore info: https://
- www.brussels.be/public-programme-la-bellone
-LOCATION:La Bellone\, Rue de Flandre 46 - 1000 Brussels
-URL:https://www.brussels.be/public-programme-la-bellone
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided tours Laeken Découverte
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar
-CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
- s-laeken-decouverte
-LOCATION:Laeken
-URL:https://www.brussels.be/guided-tours-laeken-decouverte
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 La Madeleine - programme 2026
@@ -205,17 +217,6 @@ LOCATION:ING Arena\, Avenue de Miramar - 1020 Brussels (Laeken)
 URL:https://www.brussels.be/ing-arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ I see\, I see what you don't see
-DTSTART:20260121T120000Z
-DTEND:20260831T120000Z
-UID:a4089fa59e9bb4da53b471e9eba03a17bd527c3a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-w
- hat-you-dont-see
-LOCATION:Cité Modèle\, Allée du Rubis - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/i-see-i-see-what-you-dont-see
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Info sessions 'How to start and grow your business in Brussel
  s?'
 DTSTART:20260121T120000Z
@@ -227,6 +228,17 @@ DESCRIPTION:Participation\n\nMore info: https://www.brussels.be/info-sessi
 LOCATION:Dansaert Centre or online\, Rue d'Alost 7-11 - 1000 Brussels
 URL:https://www.brussels.be/info-sessions-how-start-and-grow-your-business
  -brussels
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ I see\, I see what you don't see
+DTSTART:20260121T120000Z
+DTEND:20260831T120000Z
+UID:a4089fa59e9bb4da53b471e9eba03a17bd527c3a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-w
+ hat-you-dont-see
+LOCATION:Cité Modèle\, Allée du Rubis - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/i-see-i-see-what-you-dont-see
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 YouthStart programme in Brussels
@@ -396,6 +408,16 @@ LOCATION:MAD Brussels\, Place du Nouveau Marché aux Grains 10 - 1000 Brus
 URL:https://www.brussels.be/whats-your-style
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🖼️ Simplicities
+DTSTART:20260612T120000Z
+DTEND:20270110T120000Z
+UID:aa3d75aa2dd3208c9fa9b6cdafd3810d95b02d4f@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/simplicities
+LOCATION:Fashion & Lace Museum\, Rue de la Violette 12 - 1000 Brussels
+URL:https://www.brussels.be/simplicities
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Zomer jardin
 DTSTART:20260612T120000Z
 DTEND:20260925T120000Z
@@ -406,16 +428,6 @@ DESCRIPTION:Multidisciplinary // Events\n\nMore info: https://www.brussels
 LOCATION:Community centre Nohva\, Place Peter Benoit 22 - 1120 Brussels (
  Neder-Over-Heembeek)
 URL:https://www.brussels.be/zomer-jardin
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Simplicities
-DTSTART:20260612T120000Z
-DTEND:20270110T120000Z
-UID:aa3d75aa2dd3208c9fa9b6cdafd3810d95b02d4f@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/simplicities
-LOCATION:Fashion & Lace Museum\, Rue de la Violette 12 - 1000 Brussels
-URL:https://www.brussels.be/simplicities
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ MARY4ALL - Mary of Hungary\, Princess and Patron of the Ar
@@ -452,6 +464,17 @@ LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
 URL:https://www.brussels.be/embroidered-epic-collective-textile-artwork
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Midis-Minimes Festival 2026
+DTSTART:20260701T120000Z
+DTEND:20260828T120000Z
+UID:29d0941f9051ca53512cd57b36a66248c735bcb7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/midis
+ -minimes-festival-2026
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/midis-minimes-festival-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Musicorum Festival
 DTSTART:20260701T120000Z
 DTEND:20260828T120000Z
@@ -462,17 +485,6 @@ DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/music
 LOCATION:Royal Museums of Fine Arts of Belgium\, Rue de la Régence 3 - 10
  00 Brussels
 URL:https://www.brussels.be/musicorum-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Midis-Minimes Festival 2026
-DTSTART:20260701T120000Z
-DTEND:20260828T120000Z
-UID:29d0941f9051ca53512cd57b36a66248c735bcb7@citycalendar
-CATEGORIES:event
-DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/midis
- -minimes-festival-2026
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/midis-minimes-festival-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Faust
@@ -1787,6 +1799,17 @@ DESCRIPTION:Leer de belangrijkste principes van het composteren: welk syst
  istregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposter
  en
 URL:https://www.leuven.be/miniworkshop-thuiscomposteren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie 'Kelderisolatie\, leidingisolatie en asbest'
+DTSTART:20261117T000000
+UID:c98ecc8945dfcd4fd9cc4d963ff8f066200bc7b5@citycalendar
+CATEGORIES:event
+DESCRIPTION:Leer hoe je je kelder en leidingen efficiënt isoleert en hoe 
+ je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessi
+ e-kelderisolatie-leidingisolatie-en-asbest
+URL:https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asb
+ est
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Infosessie 'Plug-in zonnepanelen en batterijen'

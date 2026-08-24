@@ -6,7 +6,7 @@ from citycalendar.ics_builder import build_feeds
 from citycalendar.models import Category, City, Event
 
 
-def test_build_feeds_writes_all_and_per_city_files(tmp_path):
+def test_build_feeds_writes_one_file_per_region_with_emoji_titles(tmp_path):
     events = [
         Event(
             title="Leuven flea market",
@@ -26,21 +26,14 @@ def test_build_feeds_writes_all_and_per_city_files(tmp_path):
 
     build_feeds(events, tmp_path)
 
-    all_ics = Calendar.from_ical((tmp_path / "all.ics").read_text(encoding="utf-8"))
-    assert len(all_ics.walk("VEVENT")) == 2
+    assert sorted(p.name for p in tmp_path.glob("*.ics")) == ["copenhagen.ics", "leuven.ics"]
 
     leuven_ics = Calendar.from_ical((tmp_path / "leuven.ics").read_text(encoding="utf-8"))
-    assert len(leuven_ics.walk("VEVENT")) == 1
+    leuven_events = leuven_ics.walk("VEVENT")
+    assert len(leuven_events) == 1
+    assert str(leuven_events[0]["summary"]) == "🧺 Leuven flea market"
 
     copenhagen_ics = Calendar.from_ical((tmp_path / "copenhagen.ics").read_text(encoding="utf-8"))
-    assert len(copenhagen_ics.walk("VEVENT")) == 1
-
-    flea_market_ics = Calendar.from_ical((tmp_path / "flea-market.ics").read_text(encoding="utf-8"))
-    flea_events = flea_market_ics.walk("VEVENT")
-    assert len(flea_events) == 1
-    assert str(flea_events[0]["summary"]) == "🧺 Leuven flea market"
-
-    museum_ics = Calendar.from_ical((tmp_path / "museum-free-day.ics").read_text(encoding="utf-8"))
-    museum_events = museum_ics.walk("VEVENT")
-    assert len(museum_events) == 1
-    assert str(museum_events[0]["summary"]) == "🏛️ Copenhagen museum free day"
+    copenhagen_events = copenhagen_ics.walk("VEVENT")
+    assert len(copenhagen_events) == 1
+    assert str(copenhagen_events[0]["summary"]) == "🏛️ Copenhagen museum free day"

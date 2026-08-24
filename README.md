@@ -25,28 +25,25 @@ flowchart LR
 
 ## Feeds
 
+Just two feeds, one per region. Categories aren't split into separate feeds —
+instead every event's title is prefixed with a category emoji, so you can tell
+flea markets/exhibitions/museum free days/general events apart at a glance
+within a single region feed.
+
 | File | Contents |
 | --- | --- |
-| `docs/all.ics` | Every event from every source |
 | `docs/copenhagen.ics` | Copenhagen region (Greater Copenhagen, notable Odense/Malmo events) |
 | `docs/leuven.ics` | Leuven region (Leuven, Brussels, nearby areas) |
-| `docs/flea-market.ics` | 🧺 Flea markets, across all regions |
-| `docs/exhibition.ics` | 🖼️ Exhibitions, across all regions |
-| `docs/museum-free-day.ics` | 🏛️ Museum free days, across all regions |
-| `docs/event.ics` | 🎫 General events, across all regions |
 
 Subscribe in Google Calendar: **Settings → Add calendar → From URL**, using the
-GitHub Pages URL of one of the files above. Mix and match — e.g. subscribe to both
-`leuven.ics` and `flea-market.ics` if you only care about Leuven-area markets plus
-every region's flea markets.
+GitHub Pages URL of one of the files above.
 
 ## Categories
 
-Flea market, exhibition, museum free day, and general event — set per source and
-tagged on each event's `CATEGORIES` field. Each event's title is also prefixed with
-a category emoji (🧺 🖼️ 🏛️ 🎫) so they're easy to spot at a glance even in the
-combined `all.ics`/region feeds, since most calendar clients don't expose per-event
-coloring from a subscribed ICS feed.
+Flea market (🧺), exhibition (🖼️), museum free day (🏛️), and general event (🎫) —
+set per source and tagged on each event's `CATEGORIES` field, and also prefixed
+onto the event title as an emoji, since most calendar clients don't expose
+per-event coloring or filtering from a subscribed ICS feed.
 
 ## Project layout
 

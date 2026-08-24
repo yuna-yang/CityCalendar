@@ -14,25 +14,16 @@ _EMOJI_BY_CATEGORY = {
     Category.MUSEUM_FREE_DAY: "🏛️",
     Category.EVENT: "🎫",
 }
-_CATEGORY_FEED_NAMES = {
-    Category.FLEA_MARKET: "flea-market",
-    Category.EXHIBITION: "exhibition",
-    Category.MUSEUM_FREE_DAY: "museum-free-day",
-    Category.EVENT: "event",
-}
 
 
 def build_feeds(events: list[Event], out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
-    _write_ics(events, out_dir / "all.ics", "City Calendar - All events")
 
     by_region: dict[str, list[Event]] = {}
-    by_category: dict[str, list[Event]] = {}
     for event in events:
         by_region.setdefault(event.city.value, []).append(event)
-        by_category.setdefault(_CATEGORY_FEED_NAMES[event.category], []).append(event)
 
-    for feed_name, feed_events in {**by_region, **by_category}.items():
+    for feed_name, feed_events in by_region.items():
         _write_ics(feed_events, out_dir / f"{feed_name}.ics", f"City Calendar - {feed_name}")
 
 

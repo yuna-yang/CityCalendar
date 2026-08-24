@@ -22,28 +22,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
-    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Training courses - 'Mission Locale pour l'Emploi'",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Mission Locale pour l'Emploi de Bruxelles-Ville, Boulevard d'Anvers 26 - 1000 Brussels",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
-    "url": "https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Pavi'On programme",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -52,61 +30,6 @@
     "location": "Pavi'On, Cinquantenaire Park - 1000 Brussels",
     "description": "Music // Dance // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/pavion-programme",
     "url": "https://www.brussels.be/pavion-programme",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Guided visits by Arkadia",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
-    "url": "https://www.brussels.be/guided-visits-arkadia",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Underground treasure hunt at the Coudenberg",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
-    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Ancienne Belgique - AB - programme 2026",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
-    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Guided visits by Brussels Chatterguides",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various places in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
-    "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
     "source": "brussels_agenda"
   },
   {
@@ -121,6 +44,17 @@
     "source": "brussels_agenda"
   },
   {
+    "title": "Training courses - 'Mission Locale pour l'Emploi'",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Mission Locale pour l'Emploi de Bruxelles-Ville, Boulevard d'Anvers 26 - 1000 Brussels",
+    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
+    "url": "https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
+    "source": "brussels_agenda"
+  },
+  {
     "title": "Guided tours Laeken D\u00e9couverte",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -132,14 +66,36 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
+    "title": "Underground treasure hunt at the Coudenberg",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
+    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
+    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Korei Guided Tours",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
+    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
+    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
+    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
     "source": "brussels_agenda"
   },
   {
@@ -151,6 +107,50 @@
     "location": "Various places in Brussels",
     "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
     "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Lectures and guided tours - Cercle d'Histoire de Bruxelles",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various places in Brussels",
+    "description": "Lectures & debates // Guided tours\n\nMore info: https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "url": "https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Arkadia",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
+    "url": "https://www.brussels.be/guided-visits-arkadia",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Brussels Chatterguides",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various places in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "",
+    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
+    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
     "source": "brussels_agenda"
   },
   {
@@ -220,17 +220,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "I see, I see what you don't see",
-    "start": "2026-01-21T12:00:00+00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": "2026-08-31T12:00:00+00:00",
-    "location": "Cit\u00e9 Mod\u00e8le, All\u00e9e du Rubis - 1020 Brussels (Laeken)",
-    "description": "Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-what-you-dont-see",
-    "url": "https://www.brussels.be/i-see-i-see-what-you-dont-see",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Info sessions 'How to start and grow your business in Brussels?'",
     "start": "2026-01-21T12:00:00+00:00",
     "city": "leuven",
@@ -239,6 +228,17 @@
     "location": "Dansaert Centre or online, Rue d'Alost 7-11 - 1000 Brussels",
     "description": "Participation\n\nMore info: https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
     "url": "https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "I see, I see what you don't see",
+    "start": "2026-01-21T12:00:00+00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": "2026-08-31T12:00:00+00:00",
+    "location": "Cit\u00e9 Mod\u00e8le, All\u00e9e du Rubis - 1020 Brussels (Laeken)",
+    "description": "Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-what-you-dont-see",
+    "url": "https://www.brussels.be/i-see-i-see-what-you-dont-see",
     "source": "brussels_agenda"
   },
   {
@@ -407,17 +407,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Zomer jardin",
-    "start": "2026-06-12T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-09-25T12:00:00+00:00",
-    "location": "Community centre\u00a0Nohva, Place Peter Benoit 22 - 1120 Brussels (Neder-Over-Heembeek)",
-    "description": "Multidisciplinary // Events\n\nMore info: https://www.brussels.be/zomer-jardin",
-    "url": "https://www.brussels.be/zomer-jardin",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Simplicities",
     "start": "2026-06-12T12:00:00+00:00",
     "city": "leuven",
@@ -426,6 +415,17 @@
     "location": "Fashion & Lace Museum, Rue de la Violette 12 - 1000 Brussels",
     "description": "Exhibition\n\nMore info: https://www.brussels.be/simplicities",
     "url": "https://www.brussels.be/simplicities",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Zomer jardin",
+    "start": "2026-06-12T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-09-25T12:00:00+00:00",
+    "location": "Community centre\u00a0Nohva, Place Peter Benoit 22 - 1120 Brussels (Neder-Over-Heembeek)",
+    "description": "Multidisciplinary // Events\n\nMore info: https://www.brussels.be/zomer-jardin",
+    "url": "https://www.brussels.be/zomer-jardin",
     "source": "brussels_agenda"
   },
   {
@@ -462,17 +462,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Musicorum Festival",
-    "start": "2026-07-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-08-28T12:00:00+00:00",
-    "location": "Royal Museums of Fine Arts of Belgium, Rue de la R\u00e9gence 3 - 1000 Brussels",
-    "description": "Music // Festivals\n\nMore info: https://www.brussels.be/musicorum-festival",
-    "url": "https://www.brussels.be/musicorum-festival",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Midis-Minimes Festival 2026",
     "start": "2026-07-01T12:00:00+00:00",
     "city": "leuven",
@@ -481,6 +470,17 @@
     "location": "Various places in Brussels",
     "description": "Music // Festivals\n\nMore info: https://www.brussels.be/midis-minimes-festival-2026",
     "url": "https://www.brussels.be/midis-minimes-festival-2026",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Musicorum Festival",
+    "start": "2026-07-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-08-28T12:00:00+00:00",
+    "location": "Royal Museums of Fine Arts of Belgium, Rue de la R\u00e9gence 3 - 1000 Brussels",
+    "description": "Music // Festivals\n\nMore info: https://www.brussels.be/musicorum-festival",
+    "url": "https://www.brussels.be/musicorum-festival",
     "source": "brussels_agenda"
   },
   {
