@@ -76,10 +76,20 @@ takes down the whole feed.
 
 - **Visit Leuven calendar** (`sources/leuven_calendar.py`) — real, working. Scrapes the
   public [visitleuven.be/en/calendar](https://www.visitleuven.be/en/calendar) page. No
-  registration or API key needed.
+  registration or API key needed. Also used (via its own "Shopping and markets" facet)
+  for a dedicated `leuven_flea_markets` feed.
 - **Brussels agenda** (`sources/brussels_agenda.py`) — real, working. Scrapes the public
   [brussels.be/agenda](https://www.brussels.be/agenda) page, which conveniently publishes
-  category tags per event. No registration or API key needed.
+  category tags per event. No registration or API key needed. Also used (via its own
+  "Flea market & rummage sales" category) for a dedicated `brussels_flea_markets` feed.
+- **Rommelmarktgids** (`sources/rommelmarktgids.py`) — real, working. Scrapes
+  [rommelmarktgids.be](https://www.rommelmarktgids.be/rommelmarkten/leuven/), a site
+  entirely dedicated to Leuven-area flea markets/brocante. No registration needed.
+- **Oplevelser i København** (`sources/oplevelser_kbh.py`) — real, working. Consumes the
+  native ICS export from [oplevelser-i-koebenhavn.dk](https://oplevelser-i-koebenhavn.dk/loppemarkeder-koebenhavn/)'s
+  dedicated flea-market listing (it runs "The Events Calendar" WordPress plugin, which
+  publishes a real `.ics` feed — no HTML scraping needed, just re-parsing their own
+  calendar data). No registration needed.
 - **UiTdatabank** (`sources/uitdatabank.py`) — optional, disabled by default. A richer,
   official alternative covering all of Flanders & Brussels via publiq's Search API, but
   requires registering a free integration at [platform.publiq.be](https://platform.publiq.be/)
@@ -88,7 +98,8 @@ takes down the whole feed.
 - **Kultunaut** (`sources/kultunaut_denmark.py`) — real, working. Scrapes
   [kultunaut.dk](https://www.kultunaut.dk/), Denmark's main public cultural events database.
   One instance covers Greater Copenhagen (`Area=Storkøbenhavn`), another pulls a small,
-  capped set of top-rated highlights from Odense. No registration or API key needed.
+  capped set of top-rated highlights from Odense, and a third filters to its own
+  "Loppemarked/Torvedag/Genbrug" (flea market) genre. No registration or API key needed.
   Note: Kultunaut is Denmark-only, so Malmo (Sweden) isn't covered — that would need a
   separate Swedish source.
 

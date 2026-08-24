@@ -509,6 +509,19 @@ LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
 URL:https://www.brussels.be/mind-serial-killer-experience
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 BROCANTERIE met ARTISANALE MAKERSMARKT - LEUVEN (NATIONALE FE
+ ESTDAG)
+DTSTART:20260721T070000
+UID:874d044f4d846b527c8be328e02eff3bac62a1ee@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Brocante\n\nMore info: https://www.rommelmarktgids.be/rommelma
+ rkt/200048/brocanterie-met-artisanale-makersmarkt-leuven-nationale-feestda
+ g-leuven/
+LOCATION:MARTELARENPLEIN 1\, 3000 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200048/brocanterie-met-arti
+ sanale-makersmarkt-leuven-nationale-feestdag-leuven/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Festival Ars in Cathedrali
 DTSTART:20260728T120000Z
 DTEND:20260901T120000Z
@@ -538,6 +551,17 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/festival-rock-werchte
  r
 URL:https://www.visitleuven.be/en/festival-rock-werchter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 BROCANTERIE met ARTISANALE MAKERSMARKT - LEUVEN
+DTSTART:20260802T070000
+UID:ebb9792c809e6180680a9ce9e5e450a8bc2341dc@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Brocante\n\nMore info: https://www.rommelmarktgids.be/rommelma
+ rkt/200194/brocanterie-met-artisanale-makersmarkt-leuven-leuven/
+LOCATION:MARTELARENPLEIN 1\, 3000 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200194/brocanterie-met-arti
+ sanale-makersmarkt-leuven-leuven/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 September Fair
@@ -948,6 +972,28 @@ LOCATION:Groot Begijnhof\, Schapenstraat\, Leuven
 URL:https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 BOETIEK SYMPATHIEK
+DTSTART:20260903T000000
+UID:2b0db917ad33080c2e2824a46e7d5123f81c5fc2@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/201111/boetiek-sympathiek-leuven/
+LOCATION:Locomotievenstraat z/n\, 3010 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/201111/boetiek-sympathiek-l
+ euven/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Sfeermarkt in de tuin van Populierenhof
+DTSTART:20260905T080000
+UID:3126e774b1d60acd6aa0a69db2441c8d9b87bb99@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/200594/sfeermarkt-in-de-tuin-van-populierenhof-leuven/
+LOCATION:Populierenlaan 10\, 3001 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200594/sfeermarkt-in-de-tui
+ n-van-populierenhof-leuven/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Neder-Over-Heembeek street and flea market
 DTSTART:20260905T120000Z
 UID:f7a542de8e3fdfda12600a1af40929624eed30bd@citycalendar
@@ -983,6 +1029,17 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/sunday-shopping
 LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/sunday-shopping
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 The Blue Market
+DTSTART:20260906T000000
+UID:cc0562ab0add8009c994738c6c05ef9875996bb4@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/201192/the-blue-market-leuven/
+LOCATION:Locomotievenstraat z/n\, 3010 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/201192/the-blue-market-leuv
+ en/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Meditation at Park Abbey
@@ -1034,6 +1091,19 @@ LOCATION:Avenue de Versailles\, Avenue de Versailles - 1120 Brussels (Nede
 URL:https://www.brussels.be/versailles-flea-market-and-neighbourhood-party
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 GROTE BROCANTERIE VAN DE JAARMARKT met ARTISANALE MAKERSMARKT
+  - LEUVEN
+DTSTART:20260907T063000
+UID:b98e200bbd111478a6bc4d2163f675283725e4e3@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Brocante\n\nMore info: https://www.rommelmarktgids.be/rommelma
+ rkt/200658/grote-brocanterie-van-de-jaarmarkt-met-artisanale-makersmarkt-l
+ euven-leuven/
+LOCATION:MARTELARENPLEIN 1\, 3000 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200658/grote-brocanterie-va
+ n-de-jaarmarkt-met-artisanale-makersmarkt-leuven-leuven/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Annual Fair with street fair\, cattle show and live performan
  ces
 DTSTART:20260907T080000
@@ -1052,6 +1122,28 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/brocanterie-makers-ma
  rket
 LOCATION:Martelarenplein\, Leuven
 URL:https://www.visitleuven.be/en/brocanterie-makers-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 REPAIR CAFE - Hal 5
+DTSTART:20260910T000000
+UID:30d5c7f015bb6eedbe429f3c692c24809d735779@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/201121/repair-cafe-hal-5-leuven/
+LOCATION:Locomotievenstraat z/n\, 3010 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/201121/repair-cafe-hal-5-le
+ uven/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Fully Booked Book Fair Leuven
+DTSTART:20260912T080000
+UID:8b6beedcd2c804fd869716dec07be68d1dcd6b1c@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/200693/fully-booked-book-fair-leuven-leuven/
+LOCATION:Diestesteenweg 104\, 3000 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200693/fully-booked-book-fa
+ ir-leuven-leuven/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Heritage Tour KU Leuven: Thermotechnical Institute
@@ -1077,6 +1169,17 @@ LOCATION:Rue Sainte-Élisabeth - Rue de Flodorp\, Rue Sainte-Élisabeth -
 URL:https://www.brussels.be/haren-flea-market
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 CAMPING FLAMINGO
+DTSTART:20260913T000000
+UID:88bc49425a3e66916ad76327b3d80b3786eca45b@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/201191/camping-flamingo-leuven/
+LOCATION:Locomotievenstraat z/n\, 3010 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/201191/camping-flamingo-leu
+ ven/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Makers and second-hand market: Camping Flamingo
 DTSTART:20260913T120000
 UID:9608ffed147244d40860eb80b285390d3c64b16b@citycalendar
@@ -1096,6 +1199,17 @@ DESCRIPTION:Music // Youth // Events // Flea market & rummage sales\n\nMor
  e info: https://www.brussels.be/square-ambiorix-party-and-flea-market
 LOCATION:Square Ambiorix\, Square Ambiorix - 1000 Brussels
 URL:https://www.brussels.be/square-ambiorix-party-and-flea-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 MAAKLEERFEST 2026
+DTSTART:20260920T080000
+UID:57cd3a71b0cfacae6ee3779f24a8796303895712@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/200815/maakleerfest-2026-leuven/
+LOCATION:Stapelhuisstraat 13\, 3000 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200815/maakleerfest-2026-le
+ uven/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 HAL 5 celebrates its 9th anniversary!
@@ -1163,6 +1277,17 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/leuven-bekoort
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 BROCANTERIE BRABANTHAL LEUVEN
+DTSTART:20261004T070000
+UID:50aaab786221f2fbcecae5db227d538be85f9471@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Brocante\n\nMore info: https://www.rommelmarktgids.be/rommelma
+ rkt/200951/brocanterie-brabanthal-leuven-leuven/
+LOCATION:Brabanthal 1\, 3001 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/200951/brocanterie-brabanth
+ al-leuven-leuven/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🖼️ Exhibition: Scultori Fiamminghi
 DTSTART:20261009T000000
 UID:c0a83e62be5511b0bdc5e8c3d8af612730e758f1@citycalendar
@@ -1211,6 +1336,17 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/leuven-night
 LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/leuven-night
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 WEGGEEF IN DE HAL
+DTSTART:20261128T130000
+UID:40c5b33579fc81648e8ca358cd9f6d84e286d46c@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
+ lmarkt/201102/weggeef-in-de-hal-leuven/
+LOCATION:Locomotievenstraat z/n\, 3010 Leuven
+URL:https://www.rommelmarktgids.be/rommelmarkt/201102/weggeef-in-de-hal-le
+ uven/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Heritage Walking Tour KU Leuven: Colleges and Laboratories\, 

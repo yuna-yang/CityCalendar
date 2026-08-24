@@ -34,6 +34,20 @@ sources:
       max_pages: 5
       category: "15" # brussels.be's own "Flea market & rummage sales" category
 
+  # Dedicated flea-market guide sites - entirely flea-market-focused, so every
+  # listing counts and no category detection is needed.
+  - id: leuven_fleamarket_guide
+    module: citycalendar.sources.rommelmarktgids
+    class: RommelmarktgidsSource
+    enabled: true
+    params: {}
+
+  - id: copenhagen_fleamarket_guide
+    module: citycalendar.sources.oplevelser_kbh
+    class: OplevelserKbhFleaMarketSource
+    enabled: true
+    params: {}
+
   # Optional, richer alternative for Leuven/Brussels: publiq's UiTdatabank Search
   # API. Needs a free client id (see README) - disabled by default since the
   # scrapers above already work with zero signup.
