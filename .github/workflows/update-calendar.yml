@@ -2,7 +2,7 @@ name: Update calendar feeds
 
 on:
   schedule:
-    - cron: "0 3 * * 1,4" # twice a week: Monday and Thursday at 03:00 UTC
+    - cron: "0 3 * * 1" # once a week: Monday at 03:00 UTC
   workflow_dispatch: {}
 
 permissions:
