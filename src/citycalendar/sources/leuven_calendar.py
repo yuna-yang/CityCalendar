@@ -31,16 +31,22 @@ _CATEGORY_KEYWORDS = {
 
 
 class VisitLeuvenSource(BaseSource):
-    def __init__(self, source_id: str, max_pages: int = 5) -> None:
+    def __init__(self, source_id: str, max_pages: int = 5, activity_type: str | None = None) -> None:
         super().__init__(source_id)
         self.max_pages = max_pages
+        # e.g. "166" = the site's own "Shopping and markets" facet - use this to
+        # guarantee flea-market coverage instead of relying on general pagination
+        self.activity_type = activity_type
 
     def fetch(self) -> list[Event]:
         events: list[Event] = []
         for page in range(self.max_pages):
+            params = {"page": page} if page else {}
+            if self.activity_type:
+                params["f[0]"] = f"activity_types:{self.activity_type}"
             response = requests.get(
                 BASE_URL,
-                params={"page": page} if page else {},
+                params=params,
                 headers=HEADERS,
                 timeout=20,
             )

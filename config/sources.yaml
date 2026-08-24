@@ -16,6 +16,24 @@ sources:
     params:
       max_pages: 5
 
+  # Dedicated flea-market feeds, using each site's own category filter, so flea
+  # markets aren't crowded out by more "popular" events in the general pagination.
+  - id: leuven_flea_markets
+    module: citycalendar.sources.leuven_calendar
+    class: VisitLeuvenSource
+    enabled: true
+    params:
+      max_pages: 5
+      activity_type: "166" # visitleuven.be's own "Shopping and markets" facet
+
+  - id: brussels_flea_markets
+    module: citycalendar.sources.brussels_agenda
+    class: BrusselsAgendaSource
+    enabled: true
+    params:
+      max_pages: 5
+      category: "15" # brussels.be's own "Flea market & rummage sales" category
+
   # Optional, richer alternative for Leuven/Brussels: publiq's UiTdatabank Search
   # API. Needs a free client id (see README) - disabled by default since the
   # scrapers above already work with zero signup.
@@ -40,6 +58,15 @@ sources:
     params:
       area: Storkøbenhavn
       max_pages: 3
+
+  - id: copenhagen_flea_markets
+    module: citycalendar.sources.kultunaut_denmark
+    class: KultunautSource
+    enabled: true
+    params:
+      area: Storkøbenhavn
+      max_pages: 3
+      genre: Loppemarked/Torvedag/Genbrug # kultunaut.dk's own flea-market genre
 
   # A small, capped set of top-rated highlights from Odense - not the whole city,
   # just the notable stuff, per the "Greater Copenhagen + notable Odense/Malmo"

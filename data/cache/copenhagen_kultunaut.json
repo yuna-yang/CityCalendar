@@ -11,6 +11,17 @@
     "source": "copenhagen_kultunaut"
   },
   {
+    "title": "Orglet og dets venner 1",
+    "start": "2026-09-03T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Sankt Johannes Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902318",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902318",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "title": "Koncert med Absalon String Quartet",
     "start": "2026-08-27T19:30:00",
     "city": "copenhagen",
@@ -22,17 +33,6 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Bill Evans Celebration: Lundgren/Jormin/Haffner",
-    "start": "2026-09-10T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Jazzhus Montmartre",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "title": "Septemberfestival: Mozart",
     "start": "2026-09-04T19:30:00",
     "city": "copenhagen",
@@ -41,6 +41,17 @@
     "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "title": "Bill Evans Celebration: Lundgren/Jormin/Haffner",
+    "start": "2026-09-10T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Jazzhus Montmartre",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -121,25 +132,25 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Sicilien - fra barok til belcanto",
-    "start": "2026-08-25T00:00:00",
+    "title": "G\u00e5rdcaf\u00e9",
+    "start": "2026-09-13T00:00:00",
     "city": "copenhagen",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
-    "location": "Metronomen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
+    "location": "Medicinsk Museion",
+    "description": "Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174808",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174808",
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Sicilien - fra barok til belcanto",
-    "start": "2026-08-25T00:00:00",
+    "title": "Copenhagen baroque festival",
+    "start": "2026-08-29T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Metronomen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
+    "location": "Trinitatis Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -154,14 +165,14 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Jazz p\u00e5 Pladsen",
-    "start": "2026-08-25T00:00:00",
+    "title": "Slowlooking: Ensomhedsslottet",
+    "start": "2026-08-31T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Ofelia Plads",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448",
+    "location": "Jagtslottet Eremitagen",
+    "description": "Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -176,17 +187,6 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Slowlooking: Ensomhedsslottet",
-    "start": "2026-08-31T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Jagtslottet Eremitagen",
-    "description": "Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "title": "Schack Gruppen spiller jazz p\u00e5 dansk",
     "start": "2026-08-30T00:00:00",
     "city": "copenhagen",
@@ -198,14 +198,25 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Soloudstilling v. CMK - Carl M\u00e5rten Karlholm\"Dyrefarver I CPH\"",
-    "start": "2026-08-30T00:00:00",
+    "title": "Sicilien - fra barok til belcanto",
+    "start": "2026-08-25T00:00:00",
     "city": "copenhagen",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
-    "location": "Gallery House of k3",
-    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091",
+    "location": "Metronomen",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "title": "Jazz p\u00e5 Pladsen",
+    "start": "2026-08-25T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Ofelia Plads",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -217,6 +228,17 @@
     "location": "KU.BE",
     "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20159214",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20159214",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "title": "Soloudstilling v. CMK - Carl M\u00e5rten Karlholm\"Dyrefarver I CPH\"",
+    "start": "2026-08-30T00:00:00",
+    "city": "copenhagen",
+    "category": "exhibition",
+    "end": null,
+    "location": "Gallery House of k3",
+    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -242,6 +264,17 @@
     "source": "copenhagen_kultunaut"
   },
   {
+    "title": "Koncert med Absalon String Quartet",
+    "start": "2026-08-29T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Lundehus Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "title": "Bachs cellosuiter med Alisa Weilerstein",
     "start": "2026-08-24T19:30:00",
     "city": "copenhagen",
@@ -261,6 +294,17 @@
     "location": "Bethesda",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20035117",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20035117",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "title": "Synergi med Rasmus S\u00f8rensen og Jakob S\u00f8rensen",
+    "start": "2026-08-28T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Kvarterhuset Amagerbro",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -286,28 +330,6 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Synergi med Rasmus S\u00f8rensen og Jakob S\u00f8rensen",
-    "start": "2026-08-28T19:30:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Kvarterhuset Amagerbro",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "title": "Koncert med Absalon String Quartet",
-    "start": "2026-08-29T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Lundehus Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "title": "CirkusS\u00f8ndag",
     "start": "2026-09-06T00:00:00",
     "city": "copenhagen",
@@ -316,17 +338,6 @@
     "location": "Cirkusmuseet i Hvidovre",
     "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719674",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719674",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "title": "Rundvisning i Kongens Have",
-    "start": "2026-08-31T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Pavillon",
-    "description": "Ekskursion\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -341,14 +352,14 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "title": "Copenhagen baroque festival",
-    "start": "2026-08-29T00:00:00",
+    "title": "Rundvisning i Kongens Have",
+    "start": "2026-08-31T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Trinitatis Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675",
+    "location": "Pavillon",
+    "description": "Ekskursion\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -382,17 +393,6 @@
     "location": "Vigerslev Kirke",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19999440",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19999440",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "title": "Venner for livet - dank-tysk barokmusik",
-    "start": "2026-08-28T18:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Sankt Petri Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19925854",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19925854",
     "source": "copenhagen_kultunaut"
   }
 ]

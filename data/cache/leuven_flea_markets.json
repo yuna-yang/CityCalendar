@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Market in Kessel-Lo",
+    "start": "2026-08-26T14:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Becker-Remyplein, 3010 Leuven (Kessel-Lo)",
+    "description": "More info: https://www.visitleuven.be/en/market-wednesday",
+    "url": "https://www.visitleuven.be/en/market-wednesday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Market in city centre",
+    "start": "2026-08-27T13:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Brusselsestraat, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-thursday",
+    "url": "https://www.visitleuven.be/en/market-thursday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Market in city centre of Leuven",
+    "start": "2026-08-29T09:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-saturday",
+    "url": "https://www.visitleuven.be/en/market-saturday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Market in Heverlee",
+    "start": "2026-08-30T08:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Market in Wijgmaal",
+    "start": "2026-08-24T15:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
+    "description": "More info: https://www.visitleuven.be/en/monday-market",
+    "url": "https://www.visitleuven.be/en/monday-market",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Buskers Boulevard",
+    "start": "2026-09-05T14:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Leuvense shopping streets",
+    "description": "More info: https://www.visitleuven.be/en/buskers",
+    "url": "https://www.visitleuven.be/en/buskers",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "The Blue Market",
+    "start": "2026-09-06T11:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Hal 5, Diestsesteenweg 104, 3010 Leuven (Kessel-Lo)",
+    "description": "More info: https://www.visitleuven.be/en/blue-market",
+    "url": "https://www.visitleuven.be/en/blue-market",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Shopping on Sundays",
+    "start": "2026-09-06T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Leuvense shopping streets",
+    "description": "More info: https://www.visitleuven.be/en/sunday-shopping",
+    "url": "https://www.visitleuven.be/en/sunday-shopping",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Brocanterie with makers market",
+    "start": "2026-09-07T09:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Martelarenplein, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/brocanterie-makers-market",
+    "url": "https://www.visitleuven.be/en/brocanterie-makers-market",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Makers and second-hand market: Camping Flamingo",
+    "start": "2026-09-13T12:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Hal 5, Diestsesteenweg 104, 3010 Leuven (Kessel-Lo)",
+    "description": "More info: https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
+    "url": "https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Leuven by Night",
+    "start": "2026-11-27T18:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Leuvense shopping streets",
+    "description": "More info: https://www.visitleuven.be/en/leuven-night",
+    "url": "https://www.visitleuven.be/en/leuven-night",
+    "source": "leuven_flea_markets"
+  }
+]

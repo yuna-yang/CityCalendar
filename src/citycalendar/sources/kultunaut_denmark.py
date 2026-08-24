@@ -42,12 +42,20 @@ _CATEGORY_KEYWORDS = {
 
 class KultunautSource(BaseSource):
     def __init__(
-        self, source_id: str, area: str, max_pages: int = 3, max_events: int | None = None
+        self,
+        source_id: str,
+        area: str,
+        max_pages: int = 3,
+        max_events: int | None = None,
+        genre: str | None = None,
     ) -> None:
         super().__init__(source_id)
         self.area = area
         self.max_pages = max_pages
         self.max_events = max_events
+        # e.g. "Loppemarked/Torvedag/Genbrug" = the site's own flea-market genre -
+        # use this to guarantee coverage instead of relying on Order=Rating pagination
+        self.genre = genre
 
     def fetch(self) -> list[Event]:
         events: list[Event] = []
@@ -55,6 +63,8 @@ class KultunautSource(BaseSource):
         for page in range(self.max_pages):
             url = LIST_URL if page == 0 else MORE_URL
             params = {"Area": self.area, "Order": "Rating"}
+            if self.genre:
+                params["Genre"] = self.genre
             if page:
                 params["startnr"] = offset
             response = requests.get(url, params=params, headers=HEADERS, timeout=20)

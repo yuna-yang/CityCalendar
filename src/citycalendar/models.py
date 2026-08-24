@@ -35,6 +35,7 @@ class Event:
 
     @property
     def uid(self) -> str:
-        # stable id so re-scraping the same event never creates a duplicate
-        raw = f"{self.source}|{self.title}|{self.start.isoformat()}"
+        # keyed on city+title+start (not source), so the same real event found by two
+        # differently-filtered source configs of the same site still dedupes correctly
+        raw = f"{self.city}|{self.title}|{self.start.isoformat()}"
         return f"{hashlib.sha1(raw.encode('utf-8')).hexdigest()}@citycalendar"
