@@ -82,7 +82,7 @@ def _localized(value, fallback: str) -> str:
 
 
 def _parse_datetime(value: str) -> datetime:
-    return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    return datetime.fromisoformat(value)
 
 
 def _parse_optional(value: str | None) -> datetime | None:

@@ -107,7 +107,7 @@ class BrusselsAgendaSource(BaseSource):
         if not value:
             return None
         try:
-            return datetime.fromisoformat(value.replace("Z", "+00:00"))
+            return datetime.fromisoformat(value)
         except ValueError:
             return None
 
@@ -116,7 +116,7 @@ class BrusselsAgendaSource(BaseSource):
         return cat_el.get_text(" ", strip=True) if cat_el else ""
 
     def _guess_category(self, title: str, genre: str) -> Category:
-        haystack = " ".join([title, genre]).lower()
+        haystack = f"{title} {genre}".lower()
         for category, keywords in _CATEGORY_KEYWORDS.items():
             if any(keyword in haystack for keyword in keywords):
                 return category

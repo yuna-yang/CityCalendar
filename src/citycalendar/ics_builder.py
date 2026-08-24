@@ -6,7 +6,7 @@ from pathlib import Path
 from icalendar import Calendar
 from icalendar import Event as ICalEvent
 
-from citycalendar.models import Category, City, Event
+from citycalendar.models import Category, Event
 
 _EMOJI_BY_CATEGORY = {
     Category.FLEA_MARKET: "🧺",

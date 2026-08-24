@@ -61,16 +61,6 @@ LOCATION:Sewer Museum\, Porte d'Anderlecht - 1000 Brussels
 URL:https://www.brussels.be/back-senne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Supply Chain
-DTSTART:20260214T120000Z
-DTEND:20270203T120000Z
-UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
-LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/supply-chain
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🖼️ Nimbus
 DTSTART:20260214T120000Z
 DTEND:20270307T120000Z
@@ -79,6 +69,16 @@ CATEGORIES:exhibition
 DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/nimbus
 LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
 URL:https://www.brussels.be/nimbus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Supply Chain
+DTSTART:20260214T120000Z
+DTEND:20270203T120000Z
+UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
+LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/supply-chain
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ New! Nouveau ! Nieuw! Bis

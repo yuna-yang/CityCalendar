@@ -27,15 +27,27 @@ LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule -
 URL:https://www.brussels.be/gudula26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Guided tours Laeken Découverte
+SUMMARY:🎫 Guided visits by Korei Guided Tours
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar
+UID:44791c6be94cfab73b8808dc3c023da7fa83e8e5@citycalendar
 CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
- s-laeken-decouverte
-LOCATION:Laeken
-URL:https://www.brussels.be/guided-tours-laeken-decouverte
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-korei-guided-tours
+LOCATION:Various locations in Brussels
+URL:https://www.brussels.be/guided-visits-korei-guided-tours
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Training courses - 'Mission Locale pour l'Emploi'
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:3e9cdc97e7430bce9bda9af8998f7ec18a6425f1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Multidisciplinary\n\nMore info: https://www.brussels.be/traini
+ ng-courses-mission-locale-pour-lemploi
+LOCATION:Mission Locale pour l'Emploi de Bruxelles-Ville\, Boulevard d'Anv
+ ers 26 - 1000 Brussels
+URL:https://www.brussels.be/training-courses-mission-locale-pour-lemploi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Underground treasure hunt at the Coudenberg
@@ -50,18 +62,6 @@ LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the
 URL:https://www.brussels.be/underground-treasure-hunt-coudenberg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
-  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
- -beursschouwburg
-LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
-URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Guided visits by Arkadia
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -73,16 +73,16 @@ LOCATION:Various locations in Brussels
 URL:https://www.brussels.be/guided-visits-arkadia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
+SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
-CATEGORIES:event
-DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
- russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
- bruxelles
+UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
+  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
+ -beursschouwburg
+LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
+URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Pavi'On programme
@@ -96,6 +96,17 @@ LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
 URL:https://www.brussels.be/pavion-programme
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Guided visits by Brussels Chatterguides
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:33e2dd5faf55b011306778223657b82a36761754@citycalendar
+CATEGORIES:event
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-brussels-chatterguides
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/guided-visits-brussels-chatterguides
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Workshops and trainings for traders - Entreprendre Bruxelles
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -107,16 +118,27 @@ URL:https://www.brussels.be/workshops-and-trainings-traders-entreprendre-b
  ruxelles
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Training courses - 'Mission Locale pour l'Emploi'
+SUMMARY:🎫 Guided tours Laeken Découverte
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:3e9cdc97e7430bce9bda9af8998f7ec18a6425f1@citycalendar
+UID:cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar
 CATEGORIES:event
-DESCRIPTION:Multidisciplinary\n\nMore info: https://www.brussels.be/traini
- ng-courses-mission-locale-pour-lemploi
-LOCATION:Mission Locale pour l'Emploi de Bruxelles-Ville\, Boulevard d'Anv
- ers 26 - 1000 Brussels
-URL:https://www.brussels.be/training-courses-mission-locale-pour-lemploi
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
+ s-laeken-decouverte
+LOCATION:Laeken
+URL:https://www.brussels.be/guided-tours-laeken-decouverte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
+CATEGORIES:event
+DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
+ russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
+ bruxelles
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 La Madeleine - programme 2026
@@ -241,16 +263,6 @@ LOCATION:Sewer Museum\, Porte d'Anderlecht - 1000 Brussels
 URL:https://www.brussels.be/back-senne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Supply Chain
-DTSTART:20260214T120000Z
-DTEND:20270203T120000Z
-UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
-LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/supply-chain
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🖼️ Nimbus
 DTSTART:20260214T120000Z
 DTEND:20270307T120000Z
@@ -259,6 +271,16 @@ CATEGORIES:exhibition
 DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/nimbus
 LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
 URL:https://www.brussels.be/nimbus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Supply Chain
+DTSTART:20260214T120000Z
+DTEND:20270203T120000Z
+UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
+LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/supply-chain
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Visit of the King Baudouin Stadium
@@ -431,17 +453,6 @@ LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
 URL:https://www.brussels.be/embroidered-epic-collective-textile-artwork
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Midis-Minimes Festival 2026
-DTSTART:20260701T120000Z
-DTEND:20260828T120000Z
-UID:29d0941f9051ca53512cd57b36a66248c735bcb7@citycalendar
-CATEGORIES:event
-DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/midis
- -minimes-festival-2026
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/midis-minimes-festival-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Musicorum Festival
 DTSTART:20260701T120000Z
 DTEND:20260828T120000Z
@@ -452,6 +463,17 @@ DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/music
 LOCATION:Royal Museums of Fine Arts of Belgium\, Rue de la Régence 3 - 10
  00 Brussels
 URL:https://www.brussels.be/musicorum-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Midis-Minimes Festival 2026
+DTSTART:20260701T120000Z
+DTEND:20260828T120000Z
+UID:29d0941f9051ca53512cd57b36a66248c735bcb7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Music // Festivals\n\nMore info: https://www.brussels.be/midis
+ -minimes-festival-2026
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/midis-minimes-festival-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Faust
@@ -1449,8 +1471,8 @@ DESCRIPTION:Kom og vær med når Amagers hyggeligste og populære loppemar
  glade kræmmere\, der står klar til at gøre en god handel\, med bl.a. An
  tik/Retro\, nips\, indretning til hjemmet\, tøj smykker og meget\, meget 
  mere.\nVi står står på pladsen mellem busholdepladsen og legepladsen.\n
- Parkering findes i de omkringliggende gader.\nBusser lige til pladsen: 5C
- \, 250S\, 18\, 77 78\nVelmødt til en hyggelig dag.\nAmagerlopperne
+ Parkering findes i de omkringliggende gader.\nBusser lige til pladsen: 5C\
+ , 250S\, 18\, 77 78\nVelmødt til en hyggelig dag.\nAmagerlopperne
 LOCATION:Sundbyvester Plads\, 2300 København S\, Danmark\, Sundbyvester P
  lads\, 2300 København S\, Danmark
 URL:https://oplevelser-i-koebenhavn.dk/begivenhed/amagerlopperne-s-loppema
@@ -1970,29 +1992,29 @@ DESCRIPTION:Join os til Danmarks største genbrugstøjmarked af en loppefe
  T DIT TØJ TIL NYTIndlevér dit tøj på markedet (maks. 5 stykker tøj pe
  r kunde) og få 50% på alt nyt\, brugt tøj i Veras:1. Aflevér dit tøj 
  (maks. 5 styk) til os i Veras stand2. Få straks rabatpoint udbetalt\, ca.
-  50% af vores salgspris3. Rabatpointene gir’ dig op til 50% på alt nyt
- \, brugt tøj fra VerasVi tager imod alt dametøj\, som er rentvasket og u
- den huller\, pletter og slitage. Vi glæder os til at se dig og dit kluns
- \, så vi sammen cirkulerer alt brugt tøj og bekæmper tøjspild \n OM 
- VERAS I Veras er det nemt at forny din garderobe bæredygtigt og skille d
- ig af med dit brugte tøj uden at skabe tøjspild. Veras er skabt ud fra e
- n cirkulær forretningsmodel med flere platforme\, hvor alt tøj finder si
- n plads og dermed får nyt liv. Hos Veras kan du bytte\, shoppe og sælge 
- brugt tøj – og dét\, der er hullet eller slidt\, reparerer og upcycler
-  vi for dig.\nAlt tøj i Veras kommer fra lokale danske garderober. Vi ind
- køber ikke noget tøj – og intet tøj går til spilde. Vi hacker den et
- ablerede tøjindustri og gør et lineært systemet cirkulært. Sådan når
-  vi vores vision om at bekæmpe tøjspild og give alt tøj nyt liv. Det me
- st bæredygtige er at cirkulere tøjet – præcis som det er.Besøg vores
-  brugte univers  verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 1
- 0-15 is transformed into your favorite secondhand market – with clothes 
- and accessories for both women and men. Whether you’re into high street 
- scoops\, exclusive luxury\, or hidden vintage treasures\, Veras Market is 
- for you! With more than 80 stalls and of course the famous Veras vibe this
-  is the perfect place to spend your Sunday. There is always free entrance 
- to the market.Remember to check out Veras shop where you can get item for 
- 40\,- and 4 items for 100\,-. Here you can also hand in your own clothes\,
-  from which you receive points to use in Veras stall and Veras shop.We can
+  50% af vores salgspris3. Rabatpointene gir’ dig op til 50% på alt nyt\
+ , brugt tøj fra VerasVi tager imod alt dametøj\, som er rentvasket og ud
+ en huller\, pletter og slitage. Vi glæder os til at se dig og dit kluns\,
+  så vi sammen cirkulerer alt brugt tøj og bekæmper tøjspild \n OM VE
+ RAS I Veras er det nemt at forny din garderobe bæredygtigt og skille dig
+  af med dit brugte tøj uden at skabe tøjspild. Veras er skabt ud fra en 
+ cirkulær forretningsmodel med flere platforme\, hvor alt tøj finder sin 
+ plads og dermed får nyt liv. Hos Veras kan du bytte\, shoppe og sælge br
+ ugt tøj – og dét\, der er hullet eller slidt\, reparerer og upcycler v
+ i for dig.\nAlt tøj i Veras kommer fra lokale danske garderober. Vi indk
+ øber ikke noget tøj – og intet tøj går til spilde. Vi hacker den eta
+ blerede tøjindustri og gør et lineært systemet cirkulært. Sådan når 
+ vi vores vision om at bekæmpe tøjspild og give alt tøj nyt liv. Det mes
+ t bæredygtige er at cirkulere tøjet – præcis som det er.Besøg vores 
+ brugte univers  verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 10
+ -15 is transformed into your favorite secondhand market – with clothes a
+ nd accessories for both women and men. Whether you’re into high street s
+ coops\, exclusive luxury\, or hidden vintage treasures\, Veras Market is f
+ or you! With more than 80 stalls and of course the famous Veras vibe this 
+ is the perfect place to spend your Sunday. There is always free entrance t
+ o the market.Remember to check out Veras shop where you can get item for 4
+ 0\,- and 4 items for 100\,-. Here you can also hand in your own clothes\, 
+ from which you receive points to use in Veras stall and Veras shop.We can
  ’t wait to get our secondhand Sunday groove on with all of you!￼BECOME
   A STALLHOLDER￼Book a stall on one of Copenhagens most popular secondhan
  d clothing markets. You can sell used items within the categories of cloth
