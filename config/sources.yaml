@@ -1,0 +1,22 @@
+# Registry of event sources. Disabled sources are skipped by the pipeline.
+sources:
+  - id: uitdatabank_leuven
+    module: citycalendar.sources.uitdatabank
+    class: UitdatabankSource
+    enabled: true
+    params:
+      city: Leuven
+
+  - id: uitdatabank_brussels
+    module: citycalendar.sources.uitdatabank
+    class: UitdatabankSource
+    enabled: true
+    params:
+      city: Brussel
+
+  - id: copenhagen_template
+    module: citycalendar.sources.copenhagen_template
+    class: CopenhagenTemplateSource
+    enabled: false
+    params:
+      city: Copenhagen

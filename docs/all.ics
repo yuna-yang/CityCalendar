@@ -1,0 +1,6 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CityCalendar//citycalendar//EN
+X-WR-CALNAME:City Calendar - All events
+X-WR-TIMEZONE:Europe/Brussels
+END:VCALENDAR
