@@ -118,29 +118,6 @@ pytest
 - No secrets are required for the default sources. If you later enable UiTdatabank,
   also add `UITDATABANK_CLIENT_ID` as a repository secret.
 
-## Backlog (grooming notes)
-
-- [x] Core model + extensible source interface
-- [x] Robust pipeline (cache fallback, dedupe, per-city + combined feeds)
-- [x] GitHub Actions: scheduled rebuild + test workflow
-- [x] Real, no-signup sources for Leuven and Brussels (public agenda scrapers)
-- [x] Real, no-signup source for Copenhagen + Odense highlights (Kultunaut)
-- [x] Dedicated flea-market sources (rommelmarktgids.be, oplevelser-i-koebenhavn.dk native ICS,
-  plus category-filtered instances of the general scrapers)
-- [x] City of Leuven's own municipal agenda (leuven.be, distinct from tourism site)
-- [ ] Find/add a Swedish source for Malmo highlights
-- [ ] KU Leuven events (kuleuven.be/kuleuven/agenda) — found it, but the listing loads via
-  JS into an empty `#agenda-feed` div, so plain scraping doesn't work; needs either the
-  underlying AJAX endpoint or a headless browser
-- [ ] International House Leuven (internationalhouseleuven.be/activities) — same Drupal/theme
-  family as leuven.be and visitleuven.be, likely scrapable with a similar approach, just
-  not yet verified/implemented
-- [ ] Eventbrite/Meetup — checked, not worth pursuing: Eventbrite blocks plain requests (405),
-  Meetup is a heavy client-rendered SPA; both also gate their real APIs behind OAuth app
-  registration, which doesn't fit the "no signup" goal of this project
-- [ ] Category detection is keyword-based (Brussels has real tags) — revisit if it's too noisy
-- [ ] Nicer `docs/index.html` (search/filter, webcal:// buttons)
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
