@@ -6,6 +6,7 @@ X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:Ateliers Brussels
 DTSTART:20230505T120000Z
+DTEND:20261231T120000Z
 UID:32e466656c92acc3f641b21c999d19ba2c593e34@citycalendar
 CATEGORIES:event
 LOCATION:Various locations in Brussels
@@ -14,6 +15,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gudula26
 DTSTART:20251211T120000Z
+DTEND:20261231T120000Z
 UID:3e02299801c36af8a06201da4c525b7ed63caaa7@citycalendar
 CATEGORIES:exhibition
 LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule - 
@@ -23,6 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guided tours Laeken Découverte
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:bff7b9e49aff18eb7d79704456d25dd12f95f80d@citycalendar
 CATEGORIES:event
 LOCATION:Laeken
@@ -31,6 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Underground treasure hunt at the Coudenberg
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:3044ba6cf498458b474be3e84d3df66d45a3c896@citycalendar
 CATEGORIES:event
 LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
@@ -40,6 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Our House\, in the Middle of Our Street (Beursschouwburg)
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:8a8de3c9d88d20c3365f93af41ff020afd7e636d@citycalendar
 CATEGORIES:exhibition
 LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
@@ -48,6 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guided visits by Arkadia
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:e409c02f46613561322afdcb23169c6dc908a01e@citycalendar
 CATEGORIES:event
 LOCATION:Various locations in Brussels
@@ -56,6 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lectures and guided tours - Cercle d'Histoire de Bruxelles
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:410e7ffbaa1d4478c6e19f0ddc27093f6c28b4aa@citycalendar
 CATEGORIES:event
 LOCATION:Various places in Brussels
@@ -65,6 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pavi'On programme
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:5c1719f762b4b80df4d5dee8c78c1714c124162b@citycalendar
 CATEGORIES:event
 LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
@@ -73,6 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Workshops and trainings for traders - Entreprendre Bruxelles
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:1dd868c81db35e10db8e509670af012dbb83f1e7@citycalendar
 CATEGORIES:event
 URL:https://www.brussels.be/workshops-and-trainings-traders-entreprendre-b
@@ -81,6 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Training courses - 'Mission Locale pour l'Emploi'
 DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
 UID:3e4b4e78ae294a268b1928ef77ef906720532d1e@citycalendar
 CATEGORIES:event
 LOCATION:Mission Locale pour l'Emploi de Bruxelles-Ville\, Boulevard d'Anv
@@ -90,6 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Madeleine - programme 2026
 DTSTART:20260102T120000Z
+DTEND:20261226T120000Z
 UID:f4d34f54ec0fcd701b600d3d507af88d8a4ea3ef@citycalendar
 CATEGORIES:event
 LOCATION:La Madeleine\, Rue Duquesnoy 14 - 1000 Brussels
@@ -98,6 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cityfab1 trainings
 DTSTART:20260106T120000Z
+DTEND:20260903T120000Z
 UID:e1685be54a8971229532d82581866d6e2fdb6fed@citycalendar
 CATEGORIES:event
 LOCATION:Cityfab1\, Rue Dieudonné Lefèvre 37 - 1020 Brussels (Laeken)
@@ -106,6 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cirque Royal - programme 2026
 DTSTART:20260107T120000Z
+DTEND:20261220T120000Z
 UID:daa820fb30f5525086bcefc3dc38948e5f0d995f@citycalendar
 CATEGORIES:event
 LOCATION:Cirque Royal\, Rue de l'Enseignement 81 - 1000 Brussels
@@ -114,6 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Organ Meditation
 DTSTART:20260111T120000Z
+DTEND:20261220T120000Z
 UID:9affdb5c9836a2c74522323edb3bb27a653cacbf@citycalendar
 CATEGORIES:event
 LOCATION:Church of the Dominicans\, Avenue de la Renaissance 40 - 1000 Bru
@@ -123,6 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mondays of the Organ
 DTSTART:20260112T120000Z
+DTEND:20261221T120000Z
 UID:fcb632324330e0f021379d3ec20079d97987552b@citycalendar
 CATEGORIES:event
 LOCATION:Eglise Notre-Dame du Finistère\, Rue Neuve - 1000 Brussels
@@ -131,6 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ING Arena - programme 2026
 DTSTART:20260117T120000Z
+DTEND:20261231T120000Z
 UID:8fc8b50cced2b0814b5406034aaf4358128750e6@citycalendar
 CATEGORIES:event
 LOCATION:ING Arena\, Avenue de Miramar - 1020 Brussels (Laeken)
@@ -139,6 +155,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Info sessions 'How to start and grow your business in Brussels?'
 DTSTART:20260121T120000Z
+DTEND:20261216T120000Z
 UID:8ebe6750aa41266bb0adb0cfccaf62a200c79bc9@citycalendar
 CATEGORIES:event
 LOCATION:Dansaert Centre or online\, Rue d'Alost 7-11 - 1000 Brussels
@@ -148,6 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I see\, I see what you don't see
 DTSTART:20260121T120000Z
+DTEND:20260831T120000Z
 UID:b148891622abf25bd87484bea9f3b6b7ded01138@citycalendar
 CATEGORIES:exhibition
 LOCATION:Cité Modèle\, Allée du Rubis - 1020 Brussels (Laeken)
@@ -156,6 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YouthStart programme in Brussels
 DTSTART:20260128T120000Z
+DTEND:20261218T120000Z
 UID:29b51afbae1490e3e55a6b6a3c121c9a86a9d146@citycalendar
 CATEGORIES:event
 LOCATION:Maison de la Poste (Tour & Taxis)\, Rue Picard 7 - 1000 Brussels
@@ -164,6 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midday at the Museum
 DTSTART:20260203T120000Z
+DTEND:20261208T120000Z
 UID:dae935d3a4df529b258461919f1d58a7760efe06@citycalendar
 CATEGORIES:exhibition
 LOCATION:Various museums in Brussels
@@ -172,6 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back on Senne
 DTSTART:20260207T120000Z
+DTEND:20270103T120000Z
 UID:937be007ae354bf8cb8e5092a00229d6bad3d012@citycalendar
 CATEGORIES:exhibition
 LOCATION:Sewer Museum\, Porte d'Anderlecht - 1000 Brussels
@@ -180,6 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supply Chain
 DTSTART:20260214T120000Z
+DTEND:20270203T120000Z
 UID:eb2d25ad2873116b74d6e2a0d5c25b3503714d34@citycalendar
 CATEGORIES:exhibition
 LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
@@ -188,6 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nimbus
 DTSTART:20260214T120000Z
+DTEND:20270307T120000Z
 UID:35e8bce62842c0b7ffac99e95487af1e53948258@citycalendar
 CATEGORIES:exhibition
 LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
@@ -196,6 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Visit of the King Baudouin Stadium
 DTSTART:20260221T120000Z
+DTEND:20261226T120000Z
 UID:21a864f1c4932b48c849797e9cd904976e34db52@citycalendar
 CATEGORIES:event
 LOCATION:King Baudouin Stadium\, Avenue de Marathon - 1020 Brussels (Laeke
@@ -205,6 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bike Experience
 DTSTART:20260305T120000Z
+DTEND:20261105T120000Z
 UID:934af6e5d543a377898cc82a8bbd71f645608313@citycalendar
 CATEGORIES:event
 URL:https://www.brussels.be/bike-experience
@@ -212,6 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kidical Mass 2026
 DTSTART:20260307T120000Z
+DTEND:20261115T120000Z
 UID:6d3742637de04c6bd1973890f41f732ea745fd6a@citycalendar
 CATEGORIES:event
 LOCATION:Various places in Brussels
@@ -220,6 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New! Nouveau ! Nieuw! Bis
 DTSTART:20260310T120000Z
+DTEND:20261004T120000Z
 UID:fe82a15dda65f10ab88fdc9b704ae12cbb384711@citycalendar
 CATEGORIES:exhibition
 LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
@@ -228,6 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Designing Childhood. A History of Design for Kids
 DTSTART:20260404T120000Z
+DTEND:20260920T120000Z
 UID:1e8a36def12b34e9a423ea617295e4d891ac92ff@citycalendar
 CATEGORIES:exhibition
 LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
@@ -237,6 +265,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Museum of Museums
 DTSTART:20260416T120000Z
+DTEND:20261101T120000Z
 UID:ec24d613ce376f0da07db6cf0c65f4b5bb92aedd@citycalendar
 CATEGORIES:exhibition
 LOCATION:Art & Marges Museum\, Rue Haute 312-314 - 1000 Brussels
@@ -245,6 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Spell
 DTSTART:20260418T120000Z
+DTEND:20261101T120000Z
 UID:8d6586ec5432a28bca09f324e6551cc9d866c64a@citycalendar
 CATEGORIES:event
 LOCATION:Val du Bois des Béguines\, Trassersweg 420 - 1120 Brussels (Nede
@@ -254,6 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Val Saint Lambert & Design (1958-2000)
 DTSTART:20260424T120000Z
+DTEND:20261025T120000Z
 UID:224ad607b6045eea39504c67d4ced6a19f45adc5@citycalendar
 CATEGORIES:exhibition
 LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
@@ -263,6 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tutankhamun: The Immersive Exhibition
 DTSTART:20260523T120000Z
+DTEND:20261011T120000Z
 UID:475365a16b6b62a2ae6f364b68a0866e43fbc4a7@citycalendar
 CATEGORIES:exhibition
 LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
@@ -271,6 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What's Your Style?
 DTSTART:20260529T120000Z
+DTEND:20260905T120000Z
 UID:3172e71c23aac94f03592027d0f6b47044be5875@citycalendar
 CATEGORIES:exhibition
 LOCATION:MAD Brussels\, Place du Nouveau Marché aux Grains 10 - 1000 Brus
@@ -280,6 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zomer jardin
 DTSTART:20260612T120000Z
+DTEND:20260925T120000Z
 UID:616e7429ae01844664f8b7e803a9ec1ddf52f11d@citycalendar
 CATEGORIES:event
 LOCATION:Community centre Nohva\, Place Peter Benoit 22 - 1120 Brussels (
@@ -289,6 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simplicities
 DTSTART:20260612T120000Z
+DTEND:20270110T120000Z
 UID:4793f213ac4f9f3c668b0a500c5c0bdd8008c2e7@citycalendar
 CATEGORIES:exhibition
 LOCATION:Fashion & Lace Museum\, Rue de la Violette 12 - 1000 Brussels
@@ -297,6 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MARY4ALL - Mary of Hungary\, Princess and Patron of the Arts
 DTSTART:20260616T120000Z
+DTEND:20260920T120000Z
 UID:ad63fc62266a4c0d356cd598bb200b5a014ed3f2@citycalendar
 CATEGORIES:exhibition
 LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
@@ -306,6 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barak' à Fiets
 DTSTART:20260620T120000Z
+DTEND:20260829T120000Z
 UID:9250813edf80bf6b1d01dc74eadb2c83cc98b0b4@citycalendar
 CATEGORIES:event
 LOCATION:Tour & Taxis Park and surrounding quarters
@@ -314,6 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Embroidered epic: collective textile artwork
 DTSTART:20260627T120000Z
+DTEND:20270103T120000Z
 UID:8e8c1fb060239f2521e0f7a2bbb66030dcc980ad@citycalendar
 CATEGORIES:exhibition
 LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
@@ -322,6 +360,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midis-Minimes Festival 2026
 DTSTART:20260701T120000Z
+DTEND:20260828T120000Z
 UID:84cf7ea7cb70d3fcb0c62897afabfa0abee1fee6@citycalendar
 CATEGORIES:event
 LOCATION:Various places in Brussels
@@ -330,6 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Musicorum Festival
 DTSTART:20260701T120000Z
+DTEND:20260828T120000Z
 UID:15df4f68af2610a5302894807e8028e2b7433777@citycalendar
 CATEGORIES:event
 LOCATION:Royal Museums of Fine Arts of Belgium\, Rue de la Régence 3 - 10
@@ -339,6 +379,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faust
 DTSTART:20260702T120000Z
+DTEND:20260829T120000Z
 UID:214046be05fdf02aec75f65645184c35d777748b@citycalendar
 CATEGORIES:event
 LOCATION:Toone Theatre\, Rue du Marché-aux-Herbes 66 - 1000 Brussels
@@ -347,6 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Detours Festival
 DTSTART:20260715T120000Z
+DTEND:20261024T120000Z
 UID:d2ad9a584b64ee72bc2cbafa7ce04d3f8c9cf33d@citycalendar
 CATEGORIES:event
 LOCATION:Various places in Brussels (including the Mont des Arts)
@@ -355,6 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harry Potter™: The Exhibition
 DTSTART:20260716T120000Z
+DTEND:20261108T120000Z
 UID:2558b6b05325deaec4cc26cddc844a9fc0cbd59b@citycalendar
 CATEGORIES:exhibition
 LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
@@ -363,6 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mind of a Serial Killer: The Experience
 DTSTART:20260718T120000Z
+DTEND:20260930T120000Z
 UID:aa945703ad681e42f955d3ec519e58d99fd9fa4f@citycalendar
 CATEGORIES:exhibition
 LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
@@ -371,6 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival Ars in Cathedrali
 DTSTART:20260728T120000Z
+DTEND:20260901T120000Z
 UID:79c18f2578e66c30e7d24cd5eca5d3fe3dd4f62a@citycalendar
 CATEGORIES:event
 LOCATION:Saints-Michel-et-Gudule Cathedral\, Parvis Sainte-Gudule - 1000 B
@@ -419,6 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial Expo - From Ivo to Mondo
 DTSTART:20260808T120000Z
+DTEND:20260906T120000Z
 UID:694b24f64922f27282fa18b98923c7464be36aa9@citycalendar
 CATEGORIES:exhibition
 LOCATION:Lottery Shop\, Place De Brouckère\, 1000 Brussels

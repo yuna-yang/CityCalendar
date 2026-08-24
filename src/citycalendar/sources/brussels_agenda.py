@@ -57,7 +57,7 @@ class BrusselsAgendaSource(BaseSource):
             return None
         title = title_el.get_text(strip=True)
 
-        start = self._parse_start(row)
+        start, end = self._parse_period(row)
         if start is None:
             logger.warning("%s: could not parse a date for %r, skipping", self.source_id, title)
             return None
@@ -73,6 +73,7 @@ class BrusselsAgendaSource(BaseSource):
         return Event(
             title=title,
             start=start,
+            end=end,
             city=City.LEUVEN,
             category=self._guess_category(title, row),
             location=location,
@@ -80,12 +81,23 @@ class BrusselsAgendaSource(BaseSource):
             source=self.source_id,
         )
 
-    def _parse_start(self, row) -> datetime | None:
-        time_el = row.select_one(".agenda-period time[datetime]")
-        if not time_el or not time_el.get("datetime"):
+    def _parse_period(self, row) -> tuple[datetime | None, datetime | None]:
+        # multi-day/ongoing entries (e.g. long-running exhibitions) list two <time>
+        # tags (start, end); without the end, they'd only ever show on their start
+        # day - which is often long past for something still running today.
+        time_els = row.select(".agenda-period time[datetime]")
+        if not time_els:
+            return None, None
+        start = self._parse_datetime(time_els[0])
+        end = self._parse_datetime(time_els[-1]) if len(time_els) > 1 else None
+        return start, end
+
+    def _parse_datetime(self, time_el) -> datetime | None:
+        value = time_el.get("datetime")
+        if not value:
             return None
         try:
-            return datetime.fromisoformat(time_el["datetime"].replace("Z", "+00:00"))
+            return datetime.fromisoformat(value.replace("Z", "+00:00"))
         except ValueError:
             return None
 
