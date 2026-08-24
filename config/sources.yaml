@@ -16,6 +16,15 @@ sources:
     params:
       max_pages: 5
 
+  # City of Leuven's own municipal agenda - distinct from visitleuven.be (tourism),
+  # covers municipal/community events (info sessions, workshops, sports, etc.).
+  - id: leuven_be_agenda
+    module: citycalendar.sources.leuven_be_agenda
+    class: LeuvenBeAgendaSource
+    enabled: true
+    params:
+      max_pages: 3
+
   # Dedicated flea-market feeds, using each site's own category filter, so flea
   # markets aren't crowded out by more "popular" events in the general pagination.
   - id: leuven_flea_markets

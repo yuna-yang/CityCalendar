@@ -1140,6 +1140,15 @@ LOCATION:Avenue de Versailles\, Avenue de Versailles - 1120 Brussels (Nede
 URL:https://www.brussels.be/versailles-flea-market-and-neighbourhood-party
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 Jaarmarkt Leuven
+DTSTART:20260907T000000
+UID:7e05c68e1579b58c7f55162251ed93cb52285747@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Geniet van een braderie\, veeprijskamp en optredens ... in het
+  centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt
+URL:https://www.leuven.be/jaarmarkt
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 GROTE BROCANTERIE VAN DE JAARMARKT met ARTISANALE MAKERSMARKT
   - LEUVEN
 DTSTART:20260907T063000
@@ -1257,6 +1266,15 @@ DESCRIPTION:Rommelmarkt\n\nMore info: https://www.rommelmarktgids.be/romme
 LOCATION:Stapelhuisstraat 13\, 3000 Leuven
 URL:https://www.rommelmarktgids.be/rommelmarkt/200815/maakleerfest-2026-le
  uven/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Leuven Kermis
+DTSTART:20260923T000000
+UID:a368db876d971ed76903fc46ca37681dd98206e4@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Eendjes vissen\, op de draaimolen of naar het schietkraam?\n\n
+ More info: https://www.leuven.be/leuvenkermis
+URL:https://www.leuven.be/leuvenkermis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 BROCANTERIE BRABANTHAL LEUVEN

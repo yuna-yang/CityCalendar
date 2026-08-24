@@ -762,6 +762,15 @@ LOCATION:STUK\, Naamsestraat 96\, Leuven
 URL:https://www.visitleuven.be/en/festival-plateau26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Initiaties voetbal (6 tot 12 jaar)
+DTSTART:20260825T000000
+UID:defa8cf9444c686c62f5645a5071ec1847c8c62e@citycalendar
+CATEGORIES:event
+DESCRIPTION:In juli en augustus krijg je gratis initiaties voetbal bij jou
+  in de buurt.\n\nMore info: https://www.leuven.be/voetbalinitiaties
+URL:https://www.leuven.be/voetbalinitiaties
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Sicilien - fra barok til belcanto
 DTSTART:20260825T000000
 UID:844ce05bb7a5d0ce03fc29d4a8b00ed58e4c8f2e@citycalendar
@@ -830,6 +839,26 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/summer-stelplaats-ste
  lplaza
 LOCATION:Stelplaats\,  Diestsepoort 15\, Leuven
 URL:https://www.visitleuven.be/en/summer-stelplaats-stelplaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Roller- en bikeparade
+DTSTART:20260826T000000
+UID:d35b2d4dbb1b5028d8691125074e5108d0d29bd5@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rijd mee door de Leuvense straten op rollerblades of op een sk
+ ateboard. Alles wat rolt\, is welkom!\n\nMore info: https://www.leuven.be/
+ rollerparade
+URL:https://www.leuven.be/rollerparade
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Zomerpodium op de Olevodroomexternal link
+DTSTART:20260826T000000
+UID:d1fac7b0eeaff71578d4c90191ca366310c2e487@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ontdek elke woensdagavond in de zomervakantie 2 verrassende ac
+ ts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be
+ /zomerpodium-op-de-olevodroom
+URL:https://www.leuven.be/zomerpodium-op-de-olevodroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Tivoli Jazzpris 2026
@@ -981,6 +1010,16 @@ URL:https://www.visitleuven.be/en/afternoons-filled-classical-music-summer
  -saint-peter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Zomer van Sint-Pieter 2026external link
+DTSTART:20260828T000000
+UID:7aa32d9c1183ef9ce223aba2b20ff72aad149a9a@citycalendar
+CATEGORIES:event
+DESCRIPTION:In het historische hart van de stad geniet je van klassieke me
+ esterwerken\, verrassende composities en vele topuitvoerders.\n\nMore info
+ : https://www.leuven.be/zomer-van-sint-pieter-2026
+URL:https://www.leuven.be/zomer-van-sint-pieter-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Shefunk
 DTSTART:20260828T000000
 UID:27684f1c53a1932fb4975fe936fdc979913121f1@citycalendar
@@ -1108,6 +1147,16 @@ DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
  nynaut?ArrNr=20013492
 LOCATION:Kvarterhuset Amagerbro
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Leuven Skatefest
+DTSTART:20260829T000000
+UID:198772b6c4b4a316650850ef12fe7f9011b6ee8e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Geniet van straffe skatecontests\, optredens en een heerlijke 
+ vibe. Dit jaar is het thema 'Flowerpower'.\n\nMore info: https://www.leuve
+ n.be/skatefest
+URL:https://www.leuven.be/skatefest
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Stenbroen Festival
@@ -1788,6 +1837,16 @@ LOCATION:Amalienborgmuseet
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218332
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Pop-upzwemmen in de Vaart
+DTSTART:20260830T000000
+UID:7a295ed153b4a2c108251b73a2cf409d11b4814c@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tijdens de laatste 2 weekends van augustus kan je gratis zwemm
+ en in de Vaart. Je zwemt in een afgebakende zone in open water.\n\nMore in
+ fo: https://www.leuven.be/zwemmen
+URL:https://www.leuven.be/zwemmen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Sommerkoncert: Novo Quartet - Sene kvartetter af Haydn og Bee
  thoven
 DTSTART:20260830T000000
@@ -2120,6 +2179,16 @@ LOCATION:De Smederij
 URL:https://www.visitleuven.be/en/guided-tour-adept-brewery
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Zomer in de Bib Leuvenexternal link
+DTSTART:20260831T000000
+UID:8770eb849e9d7611c2749d066160a06eb06d2271@citycalendar
+CATEGORIES:event
+DESCRIPTION:Doe gratis mee met leuke zomeractiviteiten voor kinderen in de
+  Bib Leuven Tweebronnen\, Heverlee\, Kessel-Lo en Wilsele.\n\nMore info: h
+ ttps://www.leuven.be/zomerindebib
+URL:https://www.leuven.be/zomerindebib
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Slowlooking: Ensomhedsslottet
 DTSTART:20260831T000000
 UID:1b8521c378e1647649019173d4ad8914904ba30d@citycalendar
@@ -2148,6 +2217,25 @@ DESCRIPTION:Ekskursion\n\nMore info: https://www.kultunaut.dk/perl/arrmore
  /type-nynaut?ArrNr=19560027
 LOCATION:Den Gamle Kro
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infopunt vrijwilligerswerk
+DTSTART:20260901T000000
+UID:67f537328e6fb7c0c9d5cdb09d6673c1f763b6e4@citycalendar
+CATEGORIES:event
+DESCRIPTION:Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg
+  antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.l
+ euven.be/infopunt-vrijwilliger
+URL:https://www.leuven.be/infopunt-vrijwilliger
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Urban Jam Session
+DTSTART:20260902T000000
+UID:29e0b18a84e83c6ead344158811eaad4c6ab03c8@citycalendar
+CATEGORIES:event
+DESCRIPTION:Probeer samen met anderen 4 urban sports uit: skate\, BMX\, pa
+ rkour en wheelie.\n\nMore info: https://www.leuven.be/urban-jam-session
+URL:https://www.leuven.be/urban-jam-session
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Free carillon concerts in Great Beguinage
@@ -2181,6 +2269,24 @@ LOCATION:Sankt Johannes Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902318
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Tofsportdag voor 55-plussers
+DTSTART:20260904T000000
+UID:a1cd129922ed36de0e205d8468832a6e0ca4ca27@citycalendar
+CATEGORIES:event
+DESCRIPTION:Maak kennis met verschillende sporten zoals yoga\, dansen\, wa
+ ndelvoetbal ...\n\nMore info: https://www.leuven.be/tofsportdag
+URL:https://www.leuven.be/tofsportdag
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Herdenking van de bevrijding en verwoesting van Leuven
+DTSTART:20260904T000000
+UID:b6e1b3107c702b0266af1076f7c81965485f345b@citycalendar
+CATEGORIES:event
+DESCRIPTION:We herdenken de verwoesting in 1914 en de bevrijding van Leuve
+ n in 1944.\n\nMore info: https://www.leuven.be/verwoesting-bevrijding
+URL:https://www.leuven.be/verwoesting-bevrijding
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Septemberfestival: Mozart
 DTSTART:20260904T193000
 UID:a1b095db2a922f3d2c8b21aff0e9ef523797cf1b@citycalendar
@@ -2189,6 +2295,36 @@ DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
  ype-nynaut?ArrNr=19316817
 LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Wandeltocht Hagelandse 101
+DTSTART:20260905T000000
+UID:cd282dace2c33f9ef22252d706bc93ea20053814@citycalendar
+CATEGORIES:event
+DESCRIPTION:Met De Hagelandse 101 wandel je langs de mooiste plekken van h
+ et Hageland. Je kan kiezen uit 3 afstanden: 55\, 101 of 107 km.\n\nMore in
+ fo: https://www.leuven.be/hagelandse-101
+URL:https://www.leuven.be/hagelandse-101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Buskers Boulevardexternal link
+DTSTART:20260905T000000
+UID:75c8885387efcd4545abd869f9fbe3bf74322107@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tijdens deze shoppingzaterdag verandert het Leuvense stadscent
+ rum in een sfeervol openluchtpodium.\n\nMore info: https://www.leuven.be/b
+ uskers-boulevard
+URL:https://www.leuven.be/buskers-boulevard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Leuven Night Run (volzet)
+DTSTART:20260905T000000
+UID:f3010c1defba4ec381fa5581fd6f103d62baa7c9@citycalendar
+CATEGORIES:event
+DESCRIPTION:Loop bij kaarslicht door gezellige straten\, parken\, gebouwen
+  en andere plekken in Leuven.\n\nMore info: https://www.leuven.be/night-ru
+ n
+URL:https://www.leuven.be/night-run
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Septemberfestival: Mozart
@@ -2349,6 +2485,25 @@ LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/sunday-shopping
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Koopzondagexternal link
+DTSTART:20260906T000000
+UID:ca4ae617ad7b6f0e365eeeb230dda23abf0ddf67@citycalendar
+CATEGORIES:event
+DESCRIPTION:Shoppen op zondag? Natuurlijk! Op een koopzondag zijn de meest
+ e winkels open in de namiddag.\n\nMore info: https://www.leuven.be/koopzon
+ dag
+URL:https://www.leuven.be/koopzondag
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Wagenspel
+DTSTART:20260906T000000
+UID:ef8e9c5a9ae678cf5287b30c5bd3f8be80be6e02@citycalendar
+CATEGORIES:event
+DESCRIPTION:Moderne troubadours brengen theater en live accordeonmuziek.\n
+ \nMore info: https://www.leuven.be/wagenspel
+URL:https://www.leuven.be/wagenspel
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 The Blue Market
 DTSTART:20260906T000000
 UID:cc0562ab0add8009c994738c6c05ef9875996bb4@citycalendar
@@ -2439,6 +2594,15 @@ LOCATION:Avenue de Versailles\, Avenue de Versailles - 1120 Brussels (Nede
 URL:https://www.brussels.be/versailles-flea-market-and-neighbourhood-party
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 Jaarmarkt Leuven
+DTSTART:20260907T000000
+UID:7e05c68e1579b58c7f55162251ed93cb52285747@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Geniet van een braderie\, veeprijskamp en optredens ... in het
+  centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt
+URL:https://www.leuven.be/jaarmarkt
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 GROTE BROCANTERIE VAN DE JAARMARKT met ARTISANALE MAKERSMARKT
   - LEUVEN
 DTSTART:20260907T063000
@@ -2472,6 +2636,15 @@ LOCATION:Martelarenplein\, Leuven
 URL:https://www.visitleuven.be/en/brocanterie-makers-market
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Documentaire: Team Rudy
+DTSTART:20260908T000000
+UID:3e351d5a438c46f2bda7ccdda795807f03cb1b44@citycalendar
+CATEGORIES:event
+DESCRIPTION:Een pakkende documentaire over mantelzorg\, vriendschap en ver
+ bondenheid.\n\nMore info: https://www.leuven.be/team-rudy
+URL:https://www.leuven.be/team-rudy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 International Triennale for Kids
 DTSTART:20260908T150000
 UID:ab3b42f047975fdeea02cc32a0e57222948d0258@citycalendar
@@ -2480,6 +2653,17 @@ DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
  type-nynaut?ArrNr=20208852
 LOCATION:Fyns Grafiske Værksted
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Straatmakers skate sessies op het Martelarenplein
+DTSTART:20260909T000000
+UID:a6b55bdc26e114c8e973441a58952601471177e0@citycalendar
+CATEGORIES:event
+DESCRIPTION:Kom skaten op het Martelarenplein. Je krijgt gratis materiaal 
+ en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessie
+ s-op-het-martelarenplein
+URL:https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplei
+ n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 REPAIR CAFE - Hal 5
@@ -2501,6 +2685,26 @@ DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
  nynaut?ArrNr=19788521
 LOCATION:Jazzhus Montmartre
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Demonstratie thuiscomposteren
+DTSTART:20260912T000000
+UID:33e4aeac5f503295dc41f7272953a44191adfa19@citycalendar
+CATEGORIES:event
+DESCRIPTION:De compostmeesters tonen je hoe je thuis kan composteren en ge
+ ven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonst
+ ratie-thuiscomposteren
+URL:https://www.leuven.be/demonstratie-thuiscomposteren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Sportinitiatie: anders gezien
+DTSTART:20260912T000000
+UID:892f521816a6cac3b4ef15c713ece641e805c155@citycalendar
+CATEGORIES:event
+DESCRIPTION:Sportdag voor mensen met een visuele beperking. Ook mensen zon
+ der visuele beperking zijn welkom.\n\nMore info: https://www.leuven.be/spo
+ rtinitiatie-anders-gezien
+URL:https://www.leuven.be/sportinitiatie-anders-gezien
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Fully Booked Book Fair Leuven
@@ -2535,6 +2739,16 @@ DESCRIPTION:Flea market & rummage sales\n\nMore info: https://www.brussels
 LOCATION:Rue Sainte-Élisabeth - Rue de Flodorp\, Rue Sainte-Élisabeth - 
  Rue de Flodorp - 1130 Brussels (Haren)
 URL:https://www.brussels.be/haren-flea-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Open Monumentendag
+DTSTART:20260913T000000
+UID:371dbd9e391a0ddbc51a488c49a3d91730627ffd@citycalendar
+CATEGORIES:event
+DESCRIPTION:Met het thema ‘In goede handen’ zet Open Monumentendag de 
+ mensen die zorg dragen voor onze monumenten en historische plekken in de k
+ ijker.\n\nMore info: https://www.leuven.be/omd
+URL:https://www.leuven.be/omd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 CAMPING FLAMINGO
@@ -2679,6 +2893,25 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/agenda/festival2021
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Vredesconcert
+DTSTART:20260921T000000
+UID:646f99c54ffa08fab3b2a86dd468b3d7c14d5273@citycalendar
+CATEGORIES:event
+DESCRIPTION:Een vredesconcert op de beiaard van de Universiteitsbibliothee
+ k op de Internationale Dag van de Vrede.\n\nMore info: https://www.leuven.
+ be/vredesconcert-op-beiaard
+URL:https://www.leuven.be/vredesconcert-op-beiaard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Hart voor Vrouwen: vrouwen en hartgezondheid
+DTSTART:20260922T000000
+UID:8cf6f95d3202237a935b86ec8de4caa11b604b2f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Een boeiende avond over de gezondheid van het hart van vrouwen
+ .\n\nMore info: https://www.leuven.be/hart-voor-vrouwen
+URL:https://www.leuven.be/hart-voor-vrouwen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Beer tour: Leuven on tap
 DTSTART:20260922T140000
 UID:b3837af0fbbbce030f47a8d72128e354e8c08ebd@citycalendar
@@ -2686,6 +2919,25 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/agenda/leuven-on-tap
 LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
 URL:https://www.visitleuven.be/en/agenda/leuven-on-tap
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Leuven Kermis
+DTSTART:20260923T000000
+UID:a368db876d971ed76903fc46ca37681dd98206e4@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Eendjes vissen\, op de draaimolen of naar het schietkraam?\n\n
+ More info: https://www.leuven.be/leuvenkermis
+URL:https://www.leuven.be/leuvenkermis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Studentenwelkom 2026: Guess who's backexternal link
+DTSTART:20260924T000000
+UID:5c7358c7a85d544e70f6f1f3f89df63ca650dbb7@citycalendar
+CATEGORIES:event
+DESCRIPTION:In september zijn de studenten terug in de stad. En dat vieren
+  we met een groots Studentenwelkom.\n\nMore info: https://www.leuven.be/st
+ udentenwelkom
+URL:https://www.leuven.be/studentenwelkom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Student Welcome 2026
@@ -2697,6 +2949,35 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/student-welcome-2025-
 LOCATION:Leuven • Various locations
 URL:https://www.visitleuven.be/en/student-welcome-2025-student-parade-part
  ies-city
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Vrijwilligerswerkbeurs
+DTSTART:20260926T000000
+UID:0206304a8c2a94e6f7a9f69aeb86473d3697a05f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Maak kennis met Leuvense organisaties die op zoek zijn naar ni
+ euwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkb
+ eurs
+URL:https://www.leuven.be/vrijwilligerswerkbeurs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Powerchair hockey
+DTSTART:20260926T000000
+UID:858888378c649c186f229778344ae163a80e4ba6@citycalendar
+CATEGORIES:event
+DESCRIPTION:Heb je een fysieke beperking en ben je op zoek naar een spanne
+ nde en uitdagende sport om te beoefenen in je elektrische rolstoel?\n\nMor
+ e info: https://www.leuven.be/powerchair
+URL:https://www.leuven.be/powerchair
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Leuven Prideexternal link
+DTSTART:20260926T000000
+UID:baac302fcf539c48b953c1f912062e27d33652ac@citycalendar
+CATEGORIES:event
+DESCRIPTION:Wandel mee in de feestelijke optocht door de stad tijdens de L
+ euven Pride.\n\nMore info: https://www.leuven.be/leuvenpride
+URL:https://www.leuven.be/leuvenpride
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Pride
@@ -2718,6 +2999,16 @@ LOCATION:Museum PARCUM\, Abdij van Park 7\, 3001 Leuven (Heverlee)
 URL:https://www.visitleuven.be/en/guided-walk-tour-heart-abbey
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Leuven beKOORtexternal link
+DTSTART:20260927T000000
+UID:a894fa77e7939458ef5ab48c8a036adcdc2a07e8@citycalendar
+CATEGORIES:event
+DESCRIPTION:50 koren brengen 100 gratis concerten op 24 podia in de stad. 
+ Zing\, luister\, kijk en beleef!\n\nMore info: https://www.leuven.be/leuve
+ n-bekoort
+URL:https://www.leuven.be/leuven-bekoort
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Leuven beKOORt
 DTSTART:20260927T133000
 UID:0ae103a073c8ea51156c59bf69887137d4f88c2e@citycalendar
@@ -2725,6 +3016,26 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/leuven-bekoort
 LOCATION:Various locations
 URL:https://www.visitleuven.be/en/leuven-bekoort
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Groepstraject voor senioren 'Beweeg veilig\, voorkom vallen'
+DTSTART:20261003T000000
+UID:0923d14b02be4ec560377137a9f11daee20203ea@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tijdens 5 groepssessies leer je hoe je veilig kan bewegen. Je 
+ krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/le
+ ssen-valpreventie
+URL:https://www.leuven.be/lessen-valpreventie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Weekend van de Klantexternal link
+DTSTART:20261004T000000
+UID:d3c17dd3ff145e385c2bb64d008f71f002bae565@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tijdens dit weekend maakt Leuven er een geweldig shopping- en 
+ verwenweekend van.\n\nMore info: https://www.leuven.be/weekend-van-de-klan
+ t
+URL:https://www.leuven.be/weekend-van-de-klant
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Bjarke Falgren Kvartet
@@ -2748,6 +3059,35 @@ URL:https://www.rommelmarktgids.be/rommelmarkt/200951/brocanterie-brabanth
  al-leuven-leuven/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Soul Repair Café: vertel je verliesverhaal
+DTSTART:20261005T000000
+UID:493bb9a262e40d22449294b5c990e719a7afeeac@citycalendar
+CATEGORIES:event
+DESCRIPTION:Artiesten zetten je verhaal om in een tekening\, lied\, brief 
+ of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: 
+ https://www.leuven.be/soul-repair-cafe
+URL:https://www.leuven.be/soul-repair-cafe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie 'Huis te koop: een koopje of een valkuil?'
+DTSTART:20261006T000000
+UID:30e6a2af7ff08d726faf3007519aea3b8bea3b20@citycalendar
+CATEGORIES:event
+DESCRIPTION:Een woning kopen is een grote stap met praktische en financië
+ le gevolgen. Deze infoavond is jouw gids naar een verstandige aankoop.\n\n
+ More info: https://www.leuven.be/infosessie-kopen
+URL:https://www.leuven.be/infosessie-kopen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Meet your street: ontmoet studenten in je buurt
+DTSTART:20261008T000000
+UID:cf514bf9046868228634fe070fe922fa14557837@citycalendar
+CATEGORIES:event
+DESCRIPTION:Nodig je buren en de studenten in je straat uit voor een gezel
+ lige kennismaking.\n\nMore info: https://www.leuven.be/meetyourstreet
+URL:https://www.leuven.be/meetyourstreet
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🖼️ Exhibition: Scultori Fiamminghi
 DTSTART:20261009T000000
 UID:c0a83e62be5511b0bdc5e8c3d8af612730e758f1@citycalendar
@@ -2758,6 +3098,56 @@ LOCATION:M Leuven\, Leopold Vanderkelenstraat 28\, Leuven
 URL:https://www.visitleuven.be/en/exhibition-scultori-fiamminghi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Wandeling 'Een tuin voor de toekomst'
+DTSTART:20261010T000000
+UID:69a499b0258f765b7a13b4f4413890a45b249ff5@citycalendar
+CATEGORIES:event
+DESCRIPTION:Onderweg ontdek je ideeën en voorbeelden voor een duurzame en
+  klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een
+ -tuin-voor-de-toekomst
+URL:https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Samen veerkrachtigexternal link
+DTSTART:20261010T000000
+UID:79dae8beec1d20ce5a4b9a751a4129fadfea0fca@citycalendar
+CATEGORIES:event
+DESCRIPTION:Doe 10 dagen lang mee met workshops\, wandelingen en andere ac
+ tiviteiten om je veerkracht te versterken.\n\nMore info: https://www.leuve
+ n.be/samen-veerkrachtig
+URL:https://www.leuven.be/samen-veerkrachtig
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Boekenverkoop in de bibexternal link
+DTSTART:20261010T000000
+UID:df48d3f56164eb3ff1b9dc6bddae6e5375de6509@citycalendar
+CATEGORIES:event
+DESCRIPTION:Koop boeken voor € 1 of € 2 per stuk in de Bib Leuven Kess
+ el-Lo\, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenver
+ koop
+URL:https://www.leuven.be/boekenverkoop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie ‘Regenwater! Wat nu?'
+DTSTART:20261012T000000
+UID:33c226a4ee3bd8c28155506fff2913dbc13e410a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ontdek alles over hemelwaterinstallaties en groendaken. Wat he
+ b je nodig? Hoe bespaar je water? En waarvoor kan je regenwater gebruiken?
+ \n\nMore info: https://www.leuven.be/infosessie-regenwater-wat-nu
+URL:https://www.leuven.be/infosessie-regenwater-wat-nu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Workshop 'Thuiscomposteren'
+DTSTART:20261017T000000
+UID:96386470f3b2cdafd9b463abb8ec63d562f6f322@citycalendar
+CATEGORIES:event
+DESCRIPTION:Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met 
+ compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thui
+ scomposteren
+URL:https://www.leuven.be/workshop-thuiscomposteren
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Frederiksberg Loppetorv
 DTSTART:20261017T000000
 UID:ddfcae45c30b0f955346e1ec973fd4f04b33b7f3@citycalendar
@@ -2766,6 +3156,16 @@ DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
  ut.dk/perl/arrmore/type-nynaut?ArrNr=19711570
 LOCATION:Frederiksberg Rådhusplads
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie ‘Starten met renoveren. Hoe begin ik?’
+DTSTART:20261020T000000
+UID:9a50b1a1d19ab071b07dd65b29d65a60f68fd14a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ben je van plan om te renoveren\, maar weet je niet hoe te beg
+ innen? We helpen je op weg.\n\nMore info: https://www.leuven.be/infosessie
+ -starten-met-renoveren-hoe-begin-ik
+URL:https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Uffe Steen Trio & Vestbo Trio
@@ -2798,6 +3198,46 @@ LOCATION:Hollands College • Pater Damiaanplein 9
 URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Reveil: troostvoorstelling op de begraafplaats
+DTSTART:20261101T000000
+UID:a0f8075bd208c9d5b7358b55df95bd8518915b84@citycalendar
+CATEGORIES:event
+DESCRIPTION:We herdenken overledenen met ingetogen troostconcerten en -voo
+ rstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil
+URL:https://www.leuven.be/reveil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Workshop 'Composteren in een wormenbak'
+DTSTART:20261107T000000
+UID:925bff10ca806fffb8f1dc1eafd003aeba0f3e71@citycalendar
+CATEGORIES:event
+DESCRIPTION:In deze workshop leer je hoe je kan composteren in een wormenb
+ ak en hoe je die verzorgt.\n\nMore info: https://www.leuven.be/wormenbak
+URL:https://www.leuven.be/wormenbak
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Miniworkshop thuiscomposteren
+DTSTART:20261107T000000
+UID:3dfe28fd20b6492a5f77a712fb3ccd652dddfa3b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Leer de belangrijkste principes van het composteren: welk syst
+ eem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vu
+ istregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposter
+ en
+URL:https://www.leuven.be/miniworkshop-thuiscomposteren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie 'Plug-in zonnepanelen en batterijen'
+DTSTART:20261117T000000
+UID:358cc42e72878bde9f5ce74c6e61fdffdba9788e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen wer
+ ken\, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bi
+ j aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-
+ zonnepanelen-en-batterijen
+URL:https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Brussels Design Market
 DTSTART:20261121T120000Z
 DTEND:20261122T120000Z
@@ -2807,6 +3247,26 @@ DESCRIPTION:Fairs & shows // Flea market & rummage sales\n\nMore info: htt
  ps://www.brussels.be/brussels-design-market
 LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
 URL:https://www.brussels.be/brussels-design-market
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Infosessie 'Slim omgaan met je digitale meter'
+DTSTART:20261124T000000
+UID:d5cead8b15a3479630d2aad4bece2910bf731c9d@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ontdek hoe je digitale meter werkt en hoe je die informatie ge
+ bruikt om slimmer met energie om te gaan.\n\nMore info: https://www.leuven
+ .be/infosessie-digitale-meter
+URL:https://www.leuven.be/infosessie-digitale-meter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Avondshopping Leuven by Nightexternal link
+DTSTART:20261127T000000
+UID:d56781d66e853b8c56a60b806932a890e941f289@citycalendar
+CATEGORIES:event
+DESCRIPTION:Kom de eindejaarsperiode in Leuven feestelijk inzetten tijdens
+  deze gezellige nocturne.\n\nMore info: https://www.leuven.be/avondshoppin
+ g-leuven-night
+URL:https://www.leuven.be/avondshopping-leuven-night
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven by Night
@@ -2850,6 +3310,16 @@ LOCATION:Leuven • Various locations
 URL:https://www.visitleuven.be/en/winter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Infosessies ‘Bouwfit renovatie’
+DTSTART:20261212T000000
+UID:86f5d50827eb979bb75052252b1527efefddb696@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tweedaagse cursus waarin je alles te weten komt over duurzaam 
+ en energiezuinig bouwen of verbouwen.\n\nMore info: https://www.leuven.be/
+ infosessies-bouwfit-renovatie
+URL:https://www.leuven.be/infosessies-bouwfit-renovatie
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Særudstilling 2026 - UNG I 80'ERNE
 DTSTART:20261212T000000
 UID:bed2be685d72b8f1eed331bb84394879257f211b@citycalendar
@@ -2858,6 +3328,15 @@ DESCRIPTION:Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
  type-nynaut?ArrNr=19401317
 LOCATION:Tidens Samling
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Eindejaarsshoppen en koopzondagenexternal link
+DTSTART:20261220T000000
+UID:2cd1f9e30c5f13a7b1aaab1d6b90f28548cd042d@citycalendar
+CATEGORIES:event
+DESCRIPTION:Inspiratie voor het eindejaar\, die vind je in Leuven.\n\nMore
+  info: https://www.leuven.be/eindejaarsshoppen
+URL:https://www.leuven.be/eindejaarsshoppen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ Exhibition: Discover Flemish Masters in Situ
