@@ -14,6 +14,7 @@ from icalendar import Calendar as ICalCalendar
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import HEADERS
 
 logger = logging.getLogger(__name__)
 
@@ -21,7 +22,6 @@ FEED_URL = (
     "https://oplevelser-i-koebenhavn.dk/"
     "?post_type=tribe_events&ical=1&eventDisplay=list&tribe_events_cat=loppemarked"
 )
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CityCalendarBot/1.0)"}
 
 
 class OplevelserKbhFleaMarketSource(BaseSource):

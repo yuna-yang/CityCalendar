@@ -14,6 +14,7 @@ import requests
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import guess_category
 
 SEARCH_URL = "https://search.uitdatabank.be/events/"
 
@@ -68,11 +69,8 @@ class UitdatabankSource(BaseSource):
     def _guess_category(self, item: dict) -> Category:
         haystack = " ".join(
             [_localized(item.get("name"), ""), _localized(item.get("description"), "")]
-        ).lower()
-        for category, keywords in _CATEGORY_KEYWORDS.items():
-            if any(keyword in haystack for keyword in keywords):
-                return category
-        return Category.EVENT
+        )
+        return guess_category(haystack, _CATEGORY_KEYWORDS)
 
 
 def _localized(value, fallback: str) -> str:

@@ -14,11 +14,11 @@ from dateutil import parser as dateutil_parser
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import HEADERS, build_description, guess_category
 
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.visitleuven.be/en/calendar"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CityCalendarBot/1.0)"}
 
 _WEEKDAY_PREFIX = re.compile(
     r"^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+", re.IGNORECASE
@@ -85,7 +85,7 @@ class VisitLeuvenSource(BaseSource):
             city=City.LEUVEN,
             category=self._guess_category(title),
             location=location,
-            description=f"More info: {url}" if url else "",
+            description=build_description(url=url),
             url=url,
             source=self.source_id,
         )
@@ -110,8 +110,4 @@ class VisitLeuvenSource(BaseSource):
             return None
 
     def _guess_category(self, title: str) -> Category:
-        haystack = title.lower()
-        for category, keywords in _CATEGORY_KEYWORDS.items():
-            if any(keyword in haystack for keyword in keywords):
-                return category
-        return Category.EVENT
+        return guess_category(title, _CATEGORY_KEYWORDS)

@@ -15,11 +15,11 @@ from bs4 import BeautifulSoup
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import HEADERS, build_description
 
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.rommelmarktgids.be/rommelmarkten/leuven/"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CityCalendarBot/1.0)"}
 
 _NL_MONTHS = {
     "jan": 1, "feb": 2, "mrt": 3, "apr": 4, "mei": 5, "jun": 6,
@@ -75,7 +75,7 @@ class RommelmarktgidsSource(BaseSource):
             city=City.LEUVEN,
             category=Category.FLEA_MARKET,
             location=location,
-            description="\n\n".join(part for part in (tag, f"More info: {url}" if url else "") if part),
+            description=build_description(tag, url=url),
             url=url,
             source=self.source_id,
         )

@@ -17,12 +17,12 @@ from bs4 import BeautifulSoup
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import HEADERS, build_description, guess_category
 
 logger = logging.getLogger(__name__)
 
 LIST_URL = "https://www.kultunaut.dk/perl/arrlist/type-nynaut"
 MORE_URL = "https://www.kultunaut.dk/perl/arrlist2/type-nynaut"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CityCalendarBot/1.0)"}
 
 _DA_MONTHS = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "maj": 5, "jun": 6,
@@ -110,7 +110,7 @@ class KultunautSource(BaseSource):
             city=City.COPENHAGEN,
             category=self._guess_category(genre),
             location=location,
-            description="\n\n".join(part for part in (genre, f"More info: {url}" if url else "") if part),
+            description=build_description(genre, url=url),
             url=url,
             source=self.source_id,
         )
@@ -129,8 +129,4 @@ class KultunautSource(BaseSource):
             return None
 
     def _guess_category(self, genre: str) -> Category:
-        haystack = genre.lower()
-        for category, keywords in _CATEGORY_KEYWORDS.items():
-            if any(keyword in haystack for keyword in keywords):
-                return category
-        return Category.EVENT
+        return guess_category(genre, _CATEGORY_KEYWORDS)

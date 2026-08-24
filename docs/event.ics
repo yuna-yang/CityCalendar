@@ -15,17 +15,6 @@ LOCATION:Various locations in Brussels
 URL:https://www.brussels.be/ateliers-brussels
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Guided visits by Korei Guided Tours
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:44791c6be94cfab73b8808dc3c023da7fa83e8e5@citycalendar
-CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
- ts-korei-guided-tours
-LOCATION:Various locations in Brussels
-URL:https://www.brussels.be/guided-visits-korei-guided-tours
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Training courses - 'Mission Locale pour l'Emploi'
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -36,6 +25,28 @@ DESCRIPTION:Multidisciplinary\n\nMore info: https://www.brussels.be/traini
 LOCATION:Mission Locale pour l'Emploi de Bruxelles-Ville\, Boulevard d'Anv
  ers 26 - 1000 Brussels
 URL:https://www.brussels.be/training-courses-mission-locale-pour-lemploi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Pavi'On programme
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Music // Dance // Multidisciplinary // Events\n\nMore info: ht
+ tps://www.brussels.be/pavion-programme
+LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
+URL:https://www.brussels.be/pavion-programme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided visits by Arkadia
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-arkadia
+LOCATION:Various locations in Brussels
+URL:https://www.brussels.be/guided-visits-arkadia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Underground treasure hunt at the Coudenberg
@@ -50,26 +61,15 @@ LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the
 URL:https://www.brussels.be/underground-treasure-hunt-coudenberg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Guided visits by Arkadia
+SUMMARY:🎫 Ancienne Belgique - AB - programme 2026
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
+UID:8b568cb979cbd9d9faf35165ee193b49858551b8@citycalendar
 CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
- ts-arkadia
-LOCATION:Various locations in Brussels
-URL:https://www.brussels.be/guided-visits-arkadia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Pavi'On programme
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar
-CATEGORIES:event
-DESCRIPTION:Music // Dance // Multidisciplinary // Events\n\nMore info: ht
- tps://www.brussels.be/pavion-programme
-LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
-URL:https://www.brussels.be/pavion-programme
+DESCRIPTION:Music // Events\n\nMore info: https://www.brussels.be/ancienne
+ -belgique-ab-programme-2026
+LOCATION:Ancienne Belgique - AB\, Boulevard Anspach 110\, 1000 Brussels
+URL:https://www.brussels.be/ancienne-belgique-ab-programme-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided visits by Brussels Chatterguides
@@ -94,6 +94,17 @@ URL:https://www.brussels.be/workshops-and-trainings-traders-entreprendre-b
  ruxelles
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Public programme - La Bellone
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar
+CATEGORIES:event
+DESCRIPTION:Multidisciplinary // Lectures & debates\n\nMore info: https://
+ www.brussels.be/public-programme-la-bellone
+LOCATION:La Bellone\, Rue de Flandre 46 - 1000 Brussels
+URL:https://www.brussels.be/public-programme-la-bellone
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Guided tours Laeken Découverte
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -103,18 +114,6 @@ DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
  s-laeken-decouverte
 LOCATION:Laeken
 URL:https://www.brussels.be/guided-tours-laeken-decouverte
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
-CATEGORIES:event
-DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
- russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
- bruxelles
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 La Madeleine - programme 2026
@@ -432,16 +431,6 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/agenda/passion
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Guided walk: ILUVLeuven Walk
-DTSTART:20260824T143000
-UID:bf753e19a492cc47e7e96c8bfa04590ca5f6eb31@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/guided-walk-iluvleuve
- n-walk
-LOCATION:Visit Leuven\, Jozef Vounckplein 2\, Leuven
-URL:https://www.visitleuven.be/en/guided-walk-iluvleuven-walk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Bachs cellosuiter med Alisa Weilerstein
 DTSTART:20260824T193000
 UID:ab8960848e49e99c21682abcad44505b8b2fe10b@citycalendar
@@ -508,6 +497,16 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/bike-tour-lovely-leuv
  en-bike-tour
 LOCATION:Parijsstraat 14\, Leuven
 URL:https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided walk: ILUVLeuven Walk
+DTSTART:20260825T140000
+UID:27745c52e70c4155f5814c015d6417541288626c@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/guided-walk-iluvleuve
+ n-walk
+LOCATION:Visit Leuven\, Jozef Vounckplein 2\, Leuven
+URL:https://www.visitleuven.be/en/guided-walk-iluvleuven-walk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Tower visit and live carillon concert University Library

@@ -24,15 +24,15 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "44791c6be94cfab73b8808dc3c023da7fa83e8e5@citycalendar",
-    "title": "Guided visits by Korei Guided Tours",
+    "uid": "0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar",
+    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
-    "category": "event",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
-    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
+    "category": "exhibition",
+    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
+    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
+    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
     "source": "brussels_agenda"
   },
   {
@@ -48,15 +48,15 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "8d4bfe49642574f4babfe9e2b75aa166c30a49fd@citycalendar",
-    "title": "Underground treasure hunt at the Coudenberg",
+    "uid": "2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar",
+    "title": "Pavi'On programme",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
-    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "location": "Pavi'On, Cinquantenaire Park - 1000 Brussels",
+    "description": "Music // Dance // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/pavion-programme",
+    "url": "https://www.brussels.be/pavion-programme",
     "source": "brussels_agenda"
   },
   {
@@ -72,27 +72,27 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar",
-    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
-    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar",
-    "title": "Pavi'On programme",
+    "uid": "8d4bfe49642574f4babfe9e2b75aa166c30a49fd@citycalendar",
+    "title": "Underground treasure hunt at the Coudenberg",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "location": "Pavi'On, Cinquantenaire Park - 1000 Brussels",
-    "description": "Music // Dance // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/pavion-programme",
-    "url": "https://www.brussels.be/pavion-programme",
+    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
+    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "8b568cb979cbd9d9faf35165ee193b49858551b8@citycalendar",
+    "title": "Ancienne Belgique - AB - programme 2026",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
+    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
+    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
     "source": "brussels_agenda"
   },
   {
@@ -120,6 +120,18 @@
     "source": "brussels_agenda"
   },
   {
+    "uid": "98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar",
+    "title": "Public programme - La Bellone",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "La Bellone, Rue de Flandre 46 - 1000 Brussels",
+    "description": "Multidisciplinary // Lectures & debates\n\nMore info: https://www.brussels.be/public-programme-la-bellone",
+    "url": "https://www.brussels.be/public-programme-la-bellone",
+    "source": "brussels_agenda"
+  },
+  {
     "uid": "cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar",
     "title": "Guided tours Laeken D\u00e9couverte",
     "start": "2026-01-01T12:00:00+00:00",
@@ -129,18 +141,6 @@
     "location": "Laeken",
     "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-tours-laeken-decouverte",
     "url": "https://www.brussels.be/guided-tours-laeken-decouverte",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar",
-    "title": "Lectures and guided tours - Cercle d'Histoire de Bruxelles",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "Various places in Brussels",
-    "description": "Lectures & debates // Guided tours\n\nMore info: https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
-    "url": "https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
     "source": "brussels_agenda"
   },
   {
@@ -216,18 +216,6 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "1e330c12845b8da988f96b588ad60198663b2233@citycalendar",
-    "title": "Info sessions 'How to start and grow your business in Brussels?'",
-    "start": "2026-01-21T12:00:00+00:00",
-    "end": "2026-12-16T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "Dansaert Centre or online, Rue d'Alost 7-11 - 1000 Brussels",
-    "description": "Participation\n\nMore info: https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
-    "url": "https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
-    "source": "brussels_agenda"
-  },
-  {
     "uid": "a4089fa59e9bb4da53b471e9eba03a17bd527c3a@citycalendar",
     "title": "I see, I see what you don't see",
     "start": "2026-01-21T12:00:00+00:00",
@@ -237,6 +225,18 @@
     "location": "Cit\u00e9 Mod\u00e8le, All\u00e9e du Rubis - 1020 Brussels (Laeken)",
     "description": "Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-what-you-dont-see",
     "url": "https://www.brussels.be/i-see-i-see-what-you-dont-see",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "1e330c12845b8da988f96b588ad60198663b2233@citycalendar",
+    "title": "Info sessions 'How to start and grow your business in Brussels?'",
+    "start": "2026-01-21T12:00:00+00:00",
+    "end": "2026-12-16T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Dansaert Centre or online, Rue d'Alost 7-11 - 1000 Brussels",
+    "description": "Participation\n\nMore info: https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
+    "url": "https://www.brussels.be/info-sessions-how-start-and-grow-your-business-brussels",
     "source": "brussels_agenda"
   },
   {
@@ -768,18 +768,6 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "bf753e19a492cc47e7e96c8bfa04590ca5f6eb31@citycalendar",
-    "title": "Guided walk: ILUVLeuven Walk",
-    "start": "2026-08-24T14:30:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
-    "url": "https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
-    "source": "leuven_calendar"
-  },
-  {
     "uid": "20a0db35f6fe0e9148b1a2c790c339fc52d7bf11@citycalendar",
     "title": "Market in Wijgmaal",
     "start": "2026-08-24T15:00:00",
@@ -885,6 +873,18 @@
     "location": "Parijsstraat 14, Leuven",
     "description": "More info: https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
     "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "27745c52e70c4155f5814c015d6417541288626c@citycalendar",
+    "title": "Guided walk: ILUVLeuven Walk",
+    "start": "2026-08-25T14:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
+    "url": "https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
     "source": "leuven_calendar"
   },
   {

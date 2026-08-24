@@ -13,11 +13,11 @@ from bs4 import BeautifulSoup
 
 from citycalendar.models import Category, City, Event
 from citycalendar.sources.base import BaseSource
+from citycalendar.sources.common import HEADERS, build_description, guess_category
 
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.brussels.be/agenda"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CityCalendarBot/1.0)"}
 
 _CATEGORY_KEYWORDS = {
     Category.FLEA_MARKET: ("market", "brocante", "flea"),
@@ -86,7 +86,7 @@ class BrusselsAgendaSource(BaseSource):
             city=City.LEUVEN,
             category=self._guess_category(title, genre),
             location=location,
-            description=_build_description(genre, url),
+            description=build_description(genre, url=url),
             url=url,
             source=self.source_id,
         )
@@ -116,13 +116,4 @@ class BrusselsAgendaSource(BaseSource):
         return cat_el.get_text(" ", strip=True) if cat_el else ""
 
     def _guess_category(self, title: str, genre: str) -> Category:
-        haystack = f"{title} {genre}".lower()
-        for category, keywords in _CATEGORY_KEYWORDS.items():
-            if any(keyword in haystack for keyword in keywords):
-                return category
-        return Category.EVENT
-
-
-def _build_description(genre: str, url: str) -> str:
-    parts = [part for part in (genre, f"More info: {url}" if url else "") if part]
-    return "\n\n".join(parts)
+        return guess_category(f"{title} {genre}", _CATEGORY_KEYWORDS)
