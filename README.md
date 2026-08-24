@@ -65,8 +65,11 @@ takes down the whole feed.
 ## Current sources
 
 - **UiTdatabank** (`sources/uitdatabank.py`) — real, working. Covers Leuven and
-  Brussels via publiq's public Search API. Needs a free API key from
-  [publiq](https://docs.publiq.be/) set as the `UITDATABANK_API_KEY` secret/env var.
+  Brussels via publiq's public Search API. Needs a free **client id**: register
+  an integration for "UiTdatabank Search API" at
+  [platform.publiq.be](https://platform.publiq.be/) (free, instant test credentials),
+  then set it as the `UITDATABANK_CLIENT_ID` secret/env var. No client secret or
+  token is needed — the Search API only requires client identification.
 - **Copenhagen** (`sources/copenhagen_template.py`) — template only, disabled by
   default. Good starting points: municipal open data
   ([opendata.dk](https://www.opendata.dk/)) or individual museum/venue sites.
@@ -82,7 +85,7 @@ pytest
 ## One-time repo setup (once pushed to GitHub)
 
 - Enable GitHub Pages, serving from the `docs/` folder on `main`.
-- Add `UITDATABANK_API_KEY` as a repository secret (used by the scheduled workflow).
+- Add `UITDATABANK_CLIENT_ID` as a repository secret (used by the scheduled workflow).
 
 ## Backlog (grooming notes)
 

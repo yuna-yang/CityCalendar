@@ -23,7 +23,7 @@ jobs:
 
       - name: Build calendar feeds
         env:
-          UITDATABANK_API_KEY: ${{ secrets.UITDATABANK_API_KEY }}
+          UITDATABANK_CLIENT_ID: ${{ secrets.UITDATABANK_CLIENT_ID }}
         run: python -m citycalendar.cli
 
       - name: Commit updated feeds

@@ -1,9 +1,9 @@
 """Source backed by publiq's UiTdatabank Search API (Flanders & Brussels).
 
 Docs: https://docs.publiq.be/docs/uitdatabank/search-api/introduction
-Requires a free API key from publiq, set via the UITDATABANK_API_KEY env var.
-Verify the request shape against the current docs if it stops working -
-this API has evolved over time and this client targets its common v3 pattern.
+Auth: "client identification" - just a client id, no secret/token needed.
+Register a free integration at https://platform.publiq.be/ to get one, then
+set it via the UITDATABANK_CLIENT_ID env var.
 """
 from __future__ import annotations
 
@@ -31,13 +31,13 @@ class UitdatabankSource(BaseSource):
         self.categories = categories or [Category.EVENT.value]
 
     def fetch(self) -> list[Event]:
-        api_key = os.environ.get("UITDATABANK_API_KEY")
-        if not api_key:
-            raise RuntimeError("UITDATABANK_API_KEY environment variable is not set")
+        client_id = os.environ.get("UITDATABANK_CLIENT_ID")
+        if not client_id:
+            raise RuntimeError("UITDATABANK_CLIENT_ID environment variable is not set")
 
         response = requests.get(
             SEARCH_URL,
-            headers={"X-Api-Key": api_key},
+            headers={"X-Client-Id": client_id},
             params={"q": f"city:{self.city}", "start": 0, "limit": 100},
             timeout=20,
         )
