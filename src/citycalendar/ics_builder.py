@@ -44,4 +44,6 @@ def _write_ics(events: list[Event], path: Path, calendar_name: str) -> None:
         vevent.add("categories", [event.category.value])
         calendar.add_component(vevent)
 
-    path.write_text(calendar.to_ical().decode("utf-8"), encoding="utf-8")
+    # write raw bytes: to_ical() already uses CRLF line endings: text-mode writing
+    # on Windows would double them to \r\r\n and corrupt every line for parsers
+    path.write_bytes(calendar.to_ical())
