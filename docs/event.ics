@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//CityCalendar//citycalendar//EN
-X-WR-CALNAME:City Calendar - leuven
+X-WR-CALNAME:City Calendar - event
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:🎫 Ateliers Brussels
@@ -13,18 +13,6 @@ DESCRIPTION:Multidisciplinary // Events\n\nMore info: https://www.brussels
  .be/ateliers-brussels
 LOCATION:Various locations in Brussels
 URL:https://www.brussels.be/ateliers-brussels
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Gudula26
-DTSTART:20251211T120000Z
-DTEND:20261231T120000Z
-UID:78d7e3a9f4daa53aa38fde070cba0ec78282ce8f@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
-  // Events\n\nMore info: https://www.brussels.be/gudula26
-LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule - 
- 1000 Brussels
-URL:https://www.brussels.be/gudula26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided tours Laeken Découverte
@@ -48,18 +36,6 @@ DESCRIPTION:Youth\n\nMore info: https://www.brussels.be/underground-treasu
 LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
  BELvue Museum)
 URL:https://www.brussels.be/underground-treasure-hunt-coudenberg
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
-  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
- -beursschouwburg
-LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
-URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided visits by Arkadia
@@ -197,17 +173,6 @@ URL:https://www.brussels.be/info-sessions-how-start-and-grow-your-business
  -brussels
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ I see\, I see what you don't see
-DTSTART:20260121T120000Z
-DTEND:20260831T120000Z
-UID:a4089fa59e9bb4da53b471e9eba03a17bd527c3a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-w
- hat-you-dont-see
-LOCATION:Cité Modèle\, Allée du Rubis - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/i-see-i-see-what-you-dont-see
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 YouthStart programme in Brussels
 DTSTART:20260128T120000Z
 DTEND:20261218T120000Z
@@ -217,48 +182,6 @@ DESCRIPTION:More info: https://www.brussels.be/youthstart-programme-brusse
  ls
 LOCATION:Maison de la Poste (Tour & Taxis)\, Rue Picard 7 - 1000 Brussels
 URL:https://www.brussels.be/youthstart-programme-brussels
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Midday at the Museum
-DTSTART:20260203T120000Z
-DTEND:20261208T120000Z
-UID:757aab46d5832a615376faf3ac83f0f65858bcba@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Guided tours\n\nMore info: https://www.brussels.
- be/midday-museum
-LOCATION:Various museums in Brussels
-URL:https://www.brussels.be/midday-museum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Back on Senne
-DTSTART:20260207T120000Z
-DTEND:20270103T120000Z
-UID:fa85ea03fdda2e318e54e4dbc31e250d75ed3ed2@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Multidisciplinary // Guided tours\n\nMore info: 
- https://www.brussels.be/back-senne
-LOCATION:Sewer Museum\, Porte d'Anderlecht - 1000 Brussels
-URL:https://www.brussels.be/back-senne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Supply Chain
-DTSTART:20260214T120000Z
-DTEND:20270203T120000Z
-UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
-LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/supply-chain
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Nimbus
-DTSTART:20260214T120000Z
-DTEND:20270307T120000Z
-UID:381c5028438c65afa1b1c145992074e0996abfd2@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/nimbus
-LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/nimbus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Visit of the King Baudouin Stadium
@@ -294,40 +217,6 @@ LOCATION:Various places in Brussels
 URL:https://www.brussels.be/kidical-mass-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ New! Nouveau ! Nieuw! Bis
-DTSTART:20260310T120000Z
-DTEND:20261004T120000Z
-UID:a873ff2a8aad00bdd29861c1941460a06af88c76@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/new-nouveau-n
- ieuw-bis
-LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
-URL:https://www.brussels.be/new-nouveau-nieuw-bis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Designing Childhood. A History of Design for Kids
-DTSTART:20260404T120000Z
-DTEND:20260920T120000Z
-UID:0c6ff5f83ea837d2c9ea039c8d09e222779676d4@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/designing-chi
- ldhood-history-design-kids
-LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
- n)
-URL:https://www.brussels.be/designing-childhood-history-design-kids
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Museum of Museums
-DTSTART:20260416T120000Z
-DTEND:20261101T120000Z
-UID:f4427b8e65b84c35a166a2dc064fb052c11179d7@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/museum-museum
- s
-LOCATION:Art & Marges Museum\, Rue Haute 312-314 - 1000 Brussels
-URL:https://www.brussels.be/museum-museums
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 The Spell
 DTSTART:20260418T120000Z
 DTEND:20261101T120000Z
@@ -338,41 +227,6 @@ DESCRIPTION:Youth // Multidisciplinary // Events\n\nMore info: https://www
 LOCATION:Val du Bois des Béguines\, Trassersweg 420 - 1120 Brussels (Nede
  r-Over-Heembeek)
 URL:https://www.brussels.be/spell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Val Saint Lambert & Design (1958-2000)
-DTSTART:20260424T120000Z
-DTEND:20261025T120000Z
-UID:4123fa36cd4290bd54e00b7cfb7a01bee19dfcb8@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/val-saint-lam
- bert-design-1958-2000
-LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
- n)
-URL:https://www.brussels.be/val-saint-lambert-design-1958-2000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Tutankhamun: The Immersive Exhibition
-DTSTART:20260523T120000Z
-DTEND:20261011T120000Z
-UID:964d5e77c7546a1785f791e2548e54795190214a@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/tut
- ankhamun-immersive-exhibition
-LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/tutankhamun-immersive-exhibition
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ What's Your Style?
-DTSTART:20260529T120000Z
-DTEND:20260905T120000Z
-UID:ff35ea22fa156fa9b7ec916d09987bace6a83024@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/whats-your-st
- yle
-LOCATION:MAD Brussels\, Place du Nouveau Marché aux Grains 10 - 1000 Brus
- sels
-URL:https://www.brussels.be/whats-your-style
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Zomer jardin
@@ -387,29 +241,6 @@ LOCATION:Community centre Nohva\, Place Peter Benoit 22 - 1120 Brussels (
 URL:https://www.brussels.be/zomer-jardin
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Simplicities
-DTSTART:20260612T120000Z
-DTEND:20270110T120000Z
-UID:aa3d75aa2dd3208c9fa9b6cdafd3810d95b02d4f@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/simplicities
-LOCATION:Fashion & Lace Museum\, Rue de la Violette 12 - 1000 Brussels
-URL:https://www.brussels.be/simplicities
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ MARY4ALL - Mary of Hungary\, Princess and Patron of the Ar
- ts
-DTSTART:20260616T120000Z
-DTEND:20260920T120000Z
-UID:b5a957306189dc94b13830e7974af33ec41260b3@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/mary4all-mary
- -hungary-princess-and-patron-arts
-LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
- BELvue Museum)
-URL:https://www.brussels.be/mary4all-mary-hungary-princess-and-patron-arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Barak' à Fiets
 DTSTART:20260620T120000Z
 DTEND:20260829T120000Z
@@ -418,17 +249,6 @@ CATEGORIES:event
 DESCRIPTION:Events\n\nMore info: https://www.brussels.be/barak-fiets
 LOCATION:Tour & Taxis Park and surrounding quarters
 URL:https://www.brussels.be/barak-fiets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Embroidered epic: collective textile artwork
-DTSTART:20260627T120000Z
-DTEND:20270103T120000Z
-UID:b480124c5588160552aeea9d0d9fbd355232a35f@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/embroidered-e
- pic-collective-textile-artwork
-LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
-URL:https://www.brussels.be/embroidered-epic-collective-textile-artwork
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Midis-Minimes Festival 2026
@@ -465,17 +285,6 @@ LOCATION:Toone Theatre\, Rue du Marché-aux-Herbes 66 - 1000 Brussels
 URL:https://www.brussels.be/faust
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Brussels Vintage Market
-DTSTART:20260705T120000Z
-DTEND:20261206T120000Z
-UID:84a95e847552a5dde1b5411c6cadc7a6ba083c21@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Events // Flea market & rummage sales\n\nMore info: https://ww
- w.brussels.be/brussels-vintage-market
-LOCATION:Halles Saint-Géry\, Place Saint-Géry 1 - 1000 Brussels
-URL:https://www.brussels.be/brussels-vintage-market
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Detours Festival
 DTSTART:20260715T120000Z
 DTEND:20261024T120000Z
@@ -485,28 +294,6 @@ DESCRIPTION:Music // Dance // Multidisciplinary // Festivals\n\nMore info:
   https://www.brussels.be/detours-festival
 LOCATION:Various places in Brussels (including the Mont des Arts)
 URL:https://www.brussels.be/detours-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Harry Potter™: The Exhibition
-DTSTART:20260716T120000Z
-DTEND:20261108T120000Z
-UID:dfae8949619ae58cc7b2990586717b7499e95666@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/har
- ry-pottertm-exhibition
-LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
-URL:https://www.brussels.be/harry-pottertm-exhibition
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Mind of a Serial Killer: The Experience
-DTSTART:20260718T120000Z
-DTEND:20260930T120000Z
-UID:6cf21b719ba8693167930d6a3783d24f03cb74fc@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/min
- d-serial-killer-experience
-LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
-URL:https://www.brussels.be/mind-serial-killer-experience
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Festival Ars in Cathedrali
@@ -568,17 +355,6 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/agenda/rode-hond
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Memorial Expo - From Ivo to Mondo
-DTSTART:20260808T120000Z
-DTEND:20260906T120000Z
-UID:fc627b3df6ee18a327563ccbbad1bf7e3d0ff696@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition // Sports\n\nMore info: https://www.brussels.be/mem
- orial-expo-ivo-mondo
-LOCATION:Lottery Shop\, Place De Brouckère\, 1000 Brussels
-URL:https://www.brussels.be/memorial-expo-ivo-mondo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Leuven Jazz
 DTSTART:20260811T000000
 UID:d89ac3aeff19a113a0ff477e2010cc2e82fe04c0@citycalendar
@@ -586,16 +362,6 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/leuven-jazz
 LOCATION:Various locations
 URL:https://www.visitleuven.be/en/leuven-jazz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏛️ Opening Vesalius Museum
-DTSTART:20260812T000000
-UID:35d73615dd7de51b48aaa33e3a5f82e10d92e693@citycalendar
-CATEGORIES:museum_free_day
-DESCRIPTION:More info: https://www.visitleuven.be/en/opening-vesalius-muse
- um
-LOCATION:Vesalius Museum\, Brusselsestraat\, Leuven
-URL:https://www.visitleuven.be/en/opening-vesalius-museum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 STUK START 2026
@@ -654,24 +420,24 @@ LOCATION:Visit Leuven\, Jozef Vounckplein 2\, Leuven
 URL:https://www.visitleuven.be/en/guided-walk-iluvleuven-walk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in Wijgmaal
-DTSTART:20260824T150000
-UID:20a0db35f6fe0e9148b1a2c790c339fc52d7bf11@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/monday-market
-LOCATION:Parking Sportcomplex Ymeria • Pastoor Bellonstraat 29\, 3012 Wi
- jgmaal
-URL:https://www.visitleuven.be/en/monday-market
+SUMMARY:🎫 Bachs cellosuiter med Alisa Weilerstein
+DTSTART:20260824T193000
+UID:ab8960848e49e99c21682abcad44505b8b2fe10b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19679453
+LOCATION:Tivoli - Glassalen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19679453
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Exhibition: Valérie Mannaerts
-DTSTART:20260825T000000
-UID:8bac91365f94e7dc5089bb7ac9b690da273f26da@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-valerie-ma
- nnaerts
-LOCATION:M Leuven\, Leopold Vanderkelenstraat 28\, Leuven
-URL:https://www.visitleuven.be/en/exhibition-valerie-mannaerts
+SUMMARY:🎫 Kenio: The Support Show
+DTSTART:20260824T194000
+UID:966d980480c7ab61ec413380eeb93d22f30cbbea@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20153241
+LOCATION:Studenterhus Odense
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20153241
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Festival: PLATEAU26
@@ -681,6 +447,26 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/festival-plateau26
 LOCATION:STUK\, Naamsestraat 96\, Leuven
 URL:https://www.visitleuven.be/en/festival-plateau26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Sicilien - fra barok til belcanto
+DTSTART:20260825T000000
+UID:844ce05bb7a5d0ce03fc29d4a8b00ed58e4c8f2e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20131253
+LOCATION:Metronomen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Jazz på Pladsen
+DTSTART:20260825T000000
+UID:ee27b36806c401cc1f79850e80b14f27addd81d4@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20025448
+LOCATION:Ofelia Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Bike Tour: Lovely Leuven Bike Tour
@@ -704,6 +490,16 @@ URL:https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-un
  iversity-library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 En sommeraften med DR Vokalensemblet
+DTSTART:20260825T193000
+UID:5ceaf496f8888d6062d0f830db83439f48948553@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19774318
+LOCATION:Trinitatis Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19774318
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Summer Yoga at Hal 5
 DTSTART:20260825T204500
 UID:decc7481a296c89ee296d29d62d244e000edd70f@citycalendar
@@ -723,6 +519,26 @@ LOCATION:Stelplaats\,  Diestsepoort 15\, Leuven
 URL:https://www.visitleuven.be/en/summer-stelplaats-stelplaza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Tivoli Jazzpris 2026
+DTSTART:20260826T000000
+UID:b001783e55e163787de12e2ef7d6872c3a947676@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19721968
+LOCATION:Tivoli - Glassalen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19721968
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Oplev et af byens bedste livebands: Kresten Osgood Kvintet
+DTSTART:20260826T000000
+UID:5f910db1e400ff08295dc2c1280278751af56564@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20159214
+LOCATION:KU.BE
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20159214
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Roller and Bike Parade
 DTSTART:20260826T113000
 UID:b68511aee69926be223e3896c19be307ca2f4305@citycalendar
@@ -731,15 +547,6 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/roller-and-bike-parad
  e
 LOCATION:Various locations
 URL:https://www.visitleuven.be/en/roller-and-bike-parade
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in Kessel-Lo
-DTSTART:20260826T140000
-UID:560bdb3718c3d02d8373ebc25be6d7fd97b115fa@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-wednesday
-LOCATION:Becker-Remyplein\, 3010 Leuven (Kessel-Lo)
-URL:https://www.visitleuven.be/en/market-wednesday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Free carillon concerts in Park Abbey
@@ -773,6 +580,16 @@ LOCATION:Olevodroom\, Brusselsestraat 63/69\, Leuven
 URL:https://www.visitleuven.be/en/dance-and-performance-summer-olevodroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Koncert: bach xiii
+DTSTART:20260826T193000
+UID:da75bca6f67b3d354bad642acb0e3f8e4feb810c@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19999440
+LOCATION:Vigerslev Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19999440
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Open Dance Floor
 DTSTART:20260826T200000
 UID:70f63a719ab279d17086997629e1eecd4e550efd@citycalendar
@@ -782,13 +599,14 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/open-dance-floor
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre
-DTSTART:20260827T130000
-UID:7d175534d726c494646b2f20c1af919c968c5d62@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-thursday
-LOCATION:Brusselsestraat\, Leuven
-URL:https://www.visitleuven.be/en/market-thursday
+SUMMARY:🎫 Sjostakovitj - en sovjetkunstner
+DTSTART:20260827T000000
+UID:21597c33ca4090765cc738f76f1c46efc4db805e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19854930
+LOCATION:Musikbiblioteket Odense
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19854930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Bells: carillon of University library
@@ -799,6 +617,16 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/leuven-bells-carillon
  -university-library
 LOCATION:Sint-Geertruiabdij\, Halfmaartstraat\, Leuven
 URL:https://www.visitleuven.be/en/leuven-bells-carillon-university-library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Koncert med Absalon String Quartet
+DTSTART:20260827T193000
+UID:6fa7c489d008321b76054307368f9a27d6ffb4ac@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19941952
+LOCATION:Sct. Thomas kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19941952
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided tour: Brewery Stella Artois
@@ -822,13 +650,45 @@ URL:https://www.visitleuven.be/en/afternoons-filled-classical-music-summer
  -saint-peter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre of Leuven
-DTSTART:20260828T070000
-UID:f48a5c1ad92c33e3c738779250a4e411b5e7b460@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-friday
-LOCATION:Ladeuzeplein en Hooverplein\, Leuven
-URL:https://www.visitleuven.be/en/market-friday
+SUMMARY:🎫 Shefunk
+DTSTART:20260828T000000
+UID:27684f1c53a1932fb4975fe936fdc979913121f1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arr
+ more/type-nynaut?ArrNr=19866409
+LOCATION:Rust
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19866409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Philippe Bernold & Træblæserne fra Den Kongelige Livgardes 
+ Musikkorps
+DTSTART:20260828T000000
+UID:879eb4a11609a6c2b8dbcb676e801c0157f49c43@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20116786
+LOCATION:Christians Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20116786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Copenhagen baroque festival
+DTSTART:20260828T000000
+UID:bfb18280b740b76beb7e5fef72bda26259d38b46@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19937271
+LOCATION:Trinitatis Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937271
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Sommerkoncert med Musica Ficta
+DTSTART:20260828T000000
+UID:4e9456c7005f68481b837b680eb1c122b9028b29@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20105600
+LOCATION:Ansgars Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105600
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Free carillon concerts on Grote Markt
@@ -862,6 +722,16 @@ LOCATION:City centre of Leuven
 URL:https://www.visitleuven.be/en/beer-tastin-tour-leuven
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 The Staircase - A Travel in Time
+DTSTART:20260828T163000
+UID:2b0962dbdf214d059da3c28f23d0cf2c148a7f57@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20047923
+LOCATION:Trinitatis Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20047923
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Summer pop-up Bar Belvue
 DTSTART:20260828T180000
 UID:a7f33d4c607cc0be06c4406ff39f86f39e9a2a96@citycalendar
@@ -871,13 +741,54 @@ LOCATION:Martelarenplein\, Leuven
 URL:https://www.visitleuven.be/en/summer-pop-bar-belvue
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre of Leuven
-DTSTART:20260829T090000
-UID:e033fa0882d62284400c16a5c29f747d0de92e50@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-saturday
-LOCATION:City centre of Leuven
-URL:https://www.visitleuven.be/en/market-saturday
+SUMMARY:🎫 Synergi med Rasmus Sørensen og Jakob Sørensen
+DTSTART:20260828T193000
+UID:2a0cbb3038e36030569059ee42a8b1ecc4046d92@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20013492
+LOCATION:Kvarterhuset Amagerbro
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Stenbroen Festival
+DTSTART:20260829T000000
+UID:a210a128620b138804e47f8f119963c43996835a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20075536
+LOCATION:Nørrebro Street Food
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20075536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Copenhagen baroque festival
+DTSTART:20260829T000000
+UID:85b3d3abc43aa3da40582a792f9e91cb85474dbf@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19937675
+LOCATION:Trinitatis Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Koncert med Absalon String Quartet
+DTSTART:20260829T000000
+UID:c79d12a2ccf3986e06c0a56cf5488ea52d6b2357@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19694383
+LOCATION:Lundehus Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Anders matthesen
+DTSTART:20260829T000000
+UID:e23f4063a93aa19377a1eaf9ac2be5ae084e72e6@citycalendar
+CATEGORIES:event
+DESCRIPTION:Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrm
+ ore/type-nynaut?ArrNr=19771767
+LOCATION:Arken Museum for Samtidskunst
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771767
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Yoga at Park Abbey
@@ -919,13 +830,55 @@ LOCATION:Brouwerij de Coureur • Borstelsstraat 20/1\, 3010 Leuven
 URL:https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in Heverlee
-DTSTART:20260830T080000
-UID:2838f308f14beb178f17523279fb3ed9e6cb294b@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-sunday
-LOCATION:Lodewijk Engelbertus Van Arenbergplein\, 3001 Leuven (Heverlee)
-URL:https://www.visitleuven.be/en/market-sunday
+SUMMARY:🎫 Rejer & Vin ad libitum
+DTSTART:20260829T153000
+UID:f550aa1d63a75b51465083ca1054d237d819256f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Gastronomi\n\nMore info: https://www.kultunaut.dk/perl/arrmore
+ /type-nynaut?ArrNr=19707059
+LOCATION:Restaurant Nordatlanten
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19707059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Musikkammeret: Carl Nielsen og Rued Langgaard
+DTSTART:20260829T164500
+UID:5864d60d918b7bc90d30c37c4cf95017610c8b57@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20218332
+LOCATION:Amalienborgmuseet
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Sommerkoncert: Novo Quartet - Sene kvartetter af Haydn og Bee
+ thoven
+DTSTART:20260830T000000
+UID:8a9148a85ec2379f591a46aa9501a6dd4090cf08@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19935417
+LOCATION:Glyptoteket
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19935417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Kræmmer for en dag
+DTSTART:20260830T000000
+UID:0972ea5f8e5d1ac7f98019b46149dc433f072ca0@citycalendar
+CATEGORIES:event
+DESCRIPTION:Byfest/Festival\n\nMore info: https://www.kultunaut.dk/perl/ar
+ rmore/type-nynaut?ArrNr=20008448
+LOCATION:Bredekærgård
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20008448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Schack Gruppen spiller jazz på dansk
+DTSTART:20260830T000000
+UID:27de138d9ee33e4c945201d19c35fb33efc4f97e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20000160
+LOCATION:Kildevældskirken
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20000160
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided tour: Adept Brewery
@@ -938,6 +891,36 @@ LOCATION:De Smederij
 URL:https://www.visitleuven.be/en/guided-tour-adept-brewery
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Slowlooking: Ensomhedsslottet
+DTSTART:20260831T000000
+UID:1b8521c378e1647649019173d4ad8914904ba30d@citycalendar
+CATEGORIES:event
+DESCRIPTION:Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=19741644
+LOCATION:Jagtslottet Eremitagen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Rundvisning i Kongens Have
+DTSTART:20260831T000000
+UID:db33e049054ac889199c4145293d02e15d0c8257@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ekskursion\n\nMore info: https://www.kultunaut.dk/perl/arrmore
+ /type-nynaut?ArrNr=19896413
+LOCATION:Pavillon
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19896413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Vægteren går sin aftentur
+DTSTART:20260831T000000
+UID:6e3d9629b2c55bc34d928c35695b22a5fe95a05f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Ekskursion\n\nMore info: https://www.kultunaut.dk/perl/arrmore
+ /type-nynaut?ArrNr=19560027
+LOCATION:Den Gamle Kro
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Free carillon concerts in Great Beguinage
 DTSTART:20260902T190000
 UID:9c2562b7da7d6dae26b755c5511c22ae9dcd5dd9@citycalendar
@@ -948,14 +931,44 @@ LOCATION:Groot Begijnhof\, Schapenstraat\, Leuven
 URL:https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Neder-Over-Heembeek street and flea market
-DTSTART:20260905T120000Z
-UID:f7a542de8e3fdfda12600a1af40929624eed30bd@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Events // Flea market & rummage sales\n\nMore info: https://ww
- w.brussels.be/neder-over-heembeek-street-and-flea-market
-LOCATION:Neder-Over-Heembeek\, Place Peter Benoit - 1120 Brussels (NOH)
-URL:https://www.brussels.be/neder-over-heembeek-street-and-flea-market
+SUMMARY:🎫 Orglet og dets venner 1
+DTSTART:20260903T193000
+UID:20b9384af6f9e64ff96ae828b2c6e9a79a6efbdb@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19902318
+LOCATION:Sankt Johannes Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Septemberfestival: Mozart
+DTSTART:20260904T193000
+UID:a1b095db2a922f3d2c8b21aff0e9ef523797cf1b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19316817
+LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Septemberfestival: Mozart
+DTSTART:20260905T000000
+UID:0856d7e04579a26be0374198890b87ae02d1176f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19316933
+LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316933
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Sommerdage i Byhaven: Peter Sommer og Min Veninde Signe
+DTSTART:20260905T000000
+UID:e130a06cb50d0ea9f13590b74eb4e3f0d72206e8@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20131079
+LOCATION:Ishøj Byhave
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131079
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Buskers Boulevard
@@ -965,6 +978,16 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/buskers
 LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/buskers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Jubilæumskoncert med Musikkoret København
+DTSTART:20260905T160000
+UID:e897f2d30fad3e7f401cf862cdc60712dabd77c6@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20035117
+LOCATION:Bethesda
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20035117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Night Run
@@ -983,6 +1006,16 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/sunday-shopping
 LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/sunday-shopping
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 CirkusSøndag
+DTSTART:20260906T000000
+UID:162bad7fa432191b2d2d5b93b4c3833ae4ecdc89@citycalendar
+CATEGORIES:event
+DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=19719674
+LOCATION:Cirkusmuseet i Hvidovre
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719674
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Meditation at Park Abbey
@@ -1004,36 +1037,6 @@ LOCATION:Arenbergkasteel • Kasteelpark Arenberg 1\, 3001 Leuven
 URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 The Blue Market
-DTSTART:20260906T110000
-UID:94347cd633f9a8ad8a1f4a8bf02ecfd5556ce574@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/blue-market
-LOCATION:Hal 5\, Diestsesteenweg 104\, 3010 Leuven (Kessel-Lo)
-URL:https://www.visitleuven.be/en/blue-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Flea market Boulevard de Dixmude
-DTSTART:20260906T120000Z
-UID:398ec866f035d11f4b5a5eace90cf6b016a72dd4@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Flea market & rummage sales\n\nMore info: https://www.brussels
- .be/flea-market-boulevard-de-dixmude
-LOCATION:Boulevard de Dixmude\, Boulevard de Dixmude - 1000 Brussels
-URL:https://www.brussels.be/flea-market-boulevard-de-dixmude
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Versailles flea market and neighbourhood party
-DTSTART:20260906T120000Z
-UID:567ee67064700089caebd07dd8d7bae6dc713c63@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Events // Flea market & rummage sales\n\nMore info: https://ww
- w.brussels.be/versailles-flea-market-and-neighbourhood-party
-LOCATION:Avenue de Versailles\, Avenue de Versailles - 1120 Brussels (Nede
- r-Over-Heembeek)
-URL:https://www.brussels.be/versailles-flea-market-and-neighbourhood-party
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Annual Fair with street fair\, cattle show and live performan
  ces
 DTSTART:20260907T080000
@@ -1044,14 +1047,24 @@ LOCATION:City centre of Leuven
 URL:https://www.visitleuven.be/en/annual-market
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Brocanterie with makers market
-DTSTART:20260907T090000
-UID:efef141b128ae1c5e19dc32535df32ce1b1046be@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/brocanterie-makers-ma
- rket
-LOCATION:Martelarenplein\, Leuven
-URL:https://www.visitleuven.be/en/brocanterie-makers-market
+SUMMARY:🎫 International Triennale for Kids
+DTSTART:20260908T150000
+UID:ab3b42f047975fdeea02cc32a0e57222948d0258@citycalendar
+CATEGORIES:event
+DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=20208852
+LOCATION:Fyns Grafiske Værksted
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Bill Evans Celebration: Lundgren/Jormin/Haffner
+DTSTART:20260910T000000
+UID:44844aaba0397808ee1e7aa585ca1818a8438eb6@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19788521
+LOCATION:Jazzhus Montmartre
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Heritage Tour KU Leuven: Thermotechnical Institute
@@ -1066,36 +1079,35 @@ URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-thermotechnical-
  institute
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Haren flea market
-DTSTART:20260912T120000Z
-UID:48588e98b171460ce98ff594c73a836d52473d7e@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Flea market & rummage sales\n\nMore info: https://www.brussels
- .be/haren-flea-market
-LOCATION:Rue Sainte-Élisabeth - Rue de Flodorp\, Rue Sainte-Élisabeth - 
- Rue de Flodorp - 1130 Brussels (Haren)
-URL:https://www.brussels.be/haren-flea-market
+SUMMARY:🎫 SPOKEN | De Udødelige Poeters Klub om den grønlandske litte
+ ratur
+DTSTART:20260913T000000
+UID:5f13603b6c9bda074a88fb8200183a8ff02b1a4f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Andet\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20186568
+LOCATION:Nordatlantisk Hus
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Makers and second-hand market: Camping Flamingo
-DTSTART:20260913T120000
-UID:9608ffed147244d40860eb80b285390d3c64b16b@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/makers-and-second-han
- d-market-camping-flamingo
-LOCATION:Hal 5\, Diestsesteenweg 104\, 3010 Leuven (Kessel-Lo)
-URL:https://www.visitleuven.be/en/makers-and-second-hand-market-camping-fl
- amingo
+SUMMARY:🎫 Vandreture for alle
+DTSTART:20260917T000000
+UID:495ee2a89fbe6d141c319e41e01611009326ddb7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Vandretur/Stavgang\n\nMore info: https://www.kultunaut.dk/perl
+ /arrmore/type-nynaut?ArrNr=20166685
+LOCATION:Vandreture Hovedstadsområdet
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20166685
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Square Ambiorix party and flea market
-DTSTART:20260913T120000Z
-UID:44f77ffa0589d39c1647ea45a46c1ceae8cb0035@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Music // Youth // Events // Flea market & rummage sales\n\nMor
- e info: https://www.brussels.be/square-ambiorix-party-and-flea-market
-LOCATION:Square Ambiorix\, Square Ambiorix - 1000 Brussels
-URL:https://www.brussels.be/square-ambiorix-party-and-flea-market
+SUMMARY:🎫 Creedence Experience
+DTSTART:20260919T000000
+UID:24d29e098abc64e16424eba469312125c8e55f3a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19356626
+LOCATION:Kulturium Musikteater
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19356626
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 HAL 5 celebrates its 9th anniversary!
@@ -1163,14 +1175,24 @@ LOCATION:Various locations
 URL:https://www.visitleuven.be/en/leuven-bekoort
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Exhibition: Scultori Fiamminghi
-DTSTART:20261009T000000
-UID:c0a83e62be5511b0bdc5e8c3d8af612730e758f1@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-scultori-f
- iamminghi
-LOCATION:M Leuven\, Leopold Vanderkelenstraat 28\, Leuven
-URL:https://www.visitleuven.be/en/exhibition-scultori-fiamminghi
+SUMMARY:🎫 Bjarke Falgren Kvartet
+DTSTART:20261004T000000
+UID:5dae18c0b139205fa91d0d93c6b35c9610f673f8@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19771651
+LOCATION:Kulturium Musikteater
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Uffe Steen Trio & Vestbo Trio
+DTSTART:20261022T000000
+UID:42d5edaf8ecbf4a98175b1438d63a9887a354b2e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19454183
+LOCATION:Dexter
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19454183
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Threading Landscapes: Art at Park Abbey
@@ -1191,17 +1213,6 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/heritage-tour-ku-leuv
  en-holland-college
 LOCATION:Hollands College • Pater Damiaanplein 9
 URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Brussels Design Market
-DTSTART:20261121T120000Z
-DTEND:20261122T120000Z
-UID:7c73ef994079dd75e71c2af607219559010bcab5@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Fairs & shows // Flea market & rummage sales\n\nMore info: htt
- ps://www.brussels.be/brussels-design-market
-LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
-URL:https://www.brussels.be/brussels-design-market
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven by Night
@@ -1234,24 +1245,14 @@ LOCATION:Leuven • Various locations
 URL:https://www.visitleuven.be/en/winter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Exhibition: Discover Flemish Masters in Situ
-DTSTART:20261231T000000
-UID:d62d55e31da119a72a7d2e971d543be53a1c856c@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-discover-f
- lemish-masters-situ
-LOCATION:Various locations
-URL:https://www.visitleuven.be/en/exhibition-discover-flemish-masters-situ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Exhibition: Experience Bouts
-DTSTART:20270101T000000
-UID:faf257bc9818e8695e1c44fd1593a0df5ddc6a07@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-experience
- -bouts
-LOCATION:Sint-Pieterskerk\, Grote Markt 1\, Leuven
-URL:https://www.visitleuven.be/en/exhibition-experience-bouts
+SUMMARY:🎫 Særudstilling 2026 - UNG I 80'ERNE
+DTSTART:20261212T000000
+UID:bed2be685d72b8f1eed331bb84394879257f211b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=19401317
+LOCATION:Tidens Samling
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Circus festival: CIRKL

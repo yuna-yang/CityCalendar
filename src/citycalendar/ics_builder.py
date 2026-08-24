@@ -6,18 +6,33 @@ from pathlib import Path
 from icalendar import Calendar
 from icalendar import Event as ICalEvent
 
-from citycalendar.models import City, Event
+from citycalendar.models import Category, City, Event
+
+_EMOJI_BY_CATEGORY = {
+    Category.FLEA_MARKET: "🧺",
+    Category.EXHIBITION: "🖼️",
+    Category.MUSEUM_FREE_DAY: "🏛️",
+    Category.EVENT: "🎫",
+}
+_CATEGORY_FEED_NAMES = {
+    Category.FLEA_MARKET: "flea-market",
+    Category.EXHIBITION: "exhibition",
+    Category.MUSEUM_FREE_DAY: "museum-free-day",
+    Category.EVENT: "event",
+}
 
 
 def build_feeds(events: list[Event], out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     _write_ics(events, out_dir / "all.ics", "City Calendar - All events")
 
-    by_feed: dict[str, list[Event]] = {}
+    by_region: dict[str, list[Event]] = {}
+    by_category: dict[str, list[Event]] = {}
     for event in events:
-        by_feed.setdefault(event.city.value, []).append(event)
+        by_region.setdefault(event.city.value, []).append(event)
+        by_category.setdefault(_CATEGORY_FEED_NAMES[event.category], []).append(event)
 
-    for feed_name, feed_events in by_feed.items():
+    for feed_name, feed_events in {**by_region, **by_category}.items():
         _write_ics(feed_events, out_dir / f"{feed_name}.ics", f"City Calendar - {feed_name}")
 
 
@@ -31,7 +46,8 @@ def _write_ics(events: list[Event], path: Path, calendar_name: str) -> None:
     for event in events:
         vevent = ICalEvent()
         vevent.add("uid", event.uid)
-        vevent.add("summary", event.title)
+        emoji = _EMOJI_BY_CATEGORY.get(event.category, "")
+        vevent.add("summary", f"{emoji} {event.title}".strip())
         vevent.add("dtstart", event.start)
         if event.end:
             vevent.add("dtend", event.end)
@@ -47,3 +63,4 @@ def _write_ics(events: list[Event], path: Path, calendar_name: str) -> None:
     # write raw bytes: to_ical() already uses CRLF line endings: text-mode writing
     # on Windows would double them to \r\r\n and corrupt every line for parsers
     path.write_bytes(calendar.to_ical())
+

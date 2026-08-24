@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CityCalendar//citycalendar//EN
+X-WR-CALNAME:City Calendar - exhibition
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:🖼️ Gudula26
+DTSTART:20251211T120000Z
+DTEND:20261231T120000Z
+UID:78d7e3a9f4daa53aa38fde070cba0ec78282ce8f@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
+  // Events\n\nMore info: https://www.brussels.be/gudula26
+LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule - 
+ 1000 Brussels
+URL:https://www.brussels.be/gudula26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
+  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
+ -beursschouwburg
+LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
+URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ I see\, I see what you don't see
+DTSTART:20260121T120000Z
+DTEND:20260831T120000Z
+UID:a4089fa59e9bb4da53b471e9eba03a17bd527c3a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/i-see-i-see-w
+ hat-you-dont-see
+LOCATION:Cité Modèle\, Allée du Rubis - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/i-see-i-see-what-you-dont-see
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Midday at the Museum
+DTSTART:20260203T120000Z
+DTEND:20261208T120000Z
+UID:757aab46d5832a615376faf3ac83f0f65858bcba@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Guided tours\n\nMore info: https://www.brussels.
+ be/midday-museum
+LOCATION:Various museums in Brussels
+URL:https://www.brussels.be/midday-museum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Back on Senne
+DTSTART:20260207T120000Z
+DTEND:20270103T120000Z
+UID:fa85ea03fdda2e318e54e4dbc31e250d75ed3ed2@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Multidisciplinary // Guided tours\n\nMore info: 
+ https://www.brussels.be/back-senne
+LOCATION:Sewer Museum\, Porte d'Anderlecht - 1000 Brussels
+URL:https://www.brussels.be/back-senne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Supply Chain
+DTSTART:20260214T120000Z
+DTEND:20270203T120000Z
+UID:107a9f9b2b8154e960c7c312dd5e6582f3b27c2a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/supply-chain
+LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/supply-chain
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Nimbus
+DTSTART:20260214T120000Z
+DTEND:20270307T120000Z
+UID:381c5028438c65afa1b1c145992074e0996abfd2@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/nimbus
+LOCATION:Atomium\, Place de l'Atomium 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/nimbus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ New! Nouveau ! Nieuw! Bis
+DTSTART:20260310T120000Z
+DTEND:20261004T120000Z
+UID:a873ff2a8aad00bdd29861c1941460a06af88c76@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/new-nouveau-n
+ ieuw-bis
+LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
+URL:https://www.brussels.be/new-nouveau-nieuw-bis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Designing Childhood. A History of Design for Kids
+DTSTART:20260404T120000Z
+DTEND:20260920T120000Z
+UID:0c6ff5f83ea837d2c9ea039c8d09e222779676d4@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/designing-chi
+ ldhood-history-design-kids
+LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
+ n)
+URL:https://www.brussels.be/designing-childhood-history-design-kids
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Museum of Museums
+DTSTART:20260416T120000Z
+DTEND:20261101T120000Z
+UID:f4427b8e65b84c35a166a2dc064fb052c11179d7@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/museum-museum
+ s
+LOCATION:Art & Marges Museum\, Rue Haute 312-314 - 1000 Brussels
+URL:https://www.brussels.be/museum-museums
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Val Saint Lambert & Design (1958-2000)
+DTSTART:20260424T120000Z
+DTEND:20261025T120000Z
+UID:4123fa36cd4290bd54e00b7cfb7a01bee19dfcb8@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/val-saint-lam
+ bert-design-1958-2000
+LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
+ n)
+URL:https://www.brussels.be/val-saint-lambert-design-1958-2000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Tutankhamun: The Immersive Exhibition
+DTSTART:20260523T120000Z
+DTEND:20261011T120000Z
+UID:964d5e77c7546a1785f791e2548e54795190214a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/tut
+ ankhamun-immersive-exhibition
+LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/tutankhamun-immersive-exhibition
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ What's Your Style?
+DTSTART:20260529T120000Z
+DTEND:20260905T120000Z
+UID:ff35ea22fa156fa9b7ec916d09987bace6a83024@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/whats-your-st
+ yle
+LOCATION:MAD Brussels\, Place du Nouveau Marché aux Grains 10 - 1000 Brus
+ sels
+URL:https://www.brussels.be/whats-your-style
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Simplicities
+DTSTART:20260612T120000Z
+DTEND:20270110T120000Z
+UID:aa3d75aa2dd3208c9fa9b6cdafd3810d95b02d4f@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/simplicities
+LOCATION:Fashion & Lace Museum\, Rue de la Violette 12 - 1000 Brussels
+URL:https://www.brussels.be/simplicities
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ MARY4ALL - Mary of Hungary\, Princess and Patron of the Ar
+ ts
+DTSTART:20260616T120000Z
+DTEND:20260920T120000Z
+UID:b5a957306189dc94b13830e7974af33ec41260b3@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/mary4all-mary
+ -hungary-princess-and-patron-arts
+LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
+ BELvue Museum)
+URL:https://www.brussels.be/mary4all-mary-hungary-princess-and-patron-arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Embroidered epic: collective textile artwork
+DTSTART:20260627T120000Z
+DTEND:20270103T120000Z
+UID:b480124c5588160552aeea9d0d9fbd355232a35f@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/embroidered-e
+ pic-collective-textile-artwork
+LOCATION:Museum of the City of Brussels\, Grand-Place - 1000 Brussels
+URL:https://www.brussels.be/embroidered-epic-collective-textile-artwork
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Harry Potter™: The Exhibition
+DTSTART:20260716T120000Z
+DTEND:20261108T120000Z
+UID:dfae8949619ae58cc7b2990586717b7499e95666@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/har
+ ry-pottertm-exhibition
+LOCATION:Brussels Expo\, Place de la Belgique 1 - 1020 Brussels (Laeken)
+URL:https://www.brussels.be/harry-pottertm-exhibition
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Mind of a Serial Killer: The Experience
+DTSTART:20260718T120000Z
+DTEND:20260930T120000Z
+UID:6cf21b719ba8693167930d6a3783d24f03cb74fc@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Events\n\nMore info: https://www.brussels.be/min
+ d-serial-killer-experience
+LOCATION:Tour & Taxis\, Avenue du Port 86c - 1000 Brussels
+URL:https://www.brussels.be/mind-serial-killer-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Memorial Expo - From Ivo to Mondo
+DTSTART:20260808T120000Z
+DTEND:20260906T120000Z
+UID:fc627b3df6ee18a327563ccbbad1bf7e3d0ff696@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Sports\n\nMore info: https://www.brussels.be/mem
+ orial-expo-ivo-mondo
+LOCATION:Lottery Shop\, Place De Brouckère\, 1000 Brussels
+URL:https://www.brussels.be/memorial-expo-ivo-mondo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Exhibition: Valérie Mannaerts
+DTSTART:20260825T000000
+UID:8bac91365f94e7dc5089bb7ac9b690da273f26da@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-valerie-ma
+ nnaerts
+LOCATION:M Leuven\, Leopold Vanderkelenstraat 28\, Leuven
+URL:https://www.visitleuven.be/en/exhibition-valerie-mannaerts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Soloudstilling v. CMK - Carl Mårten Karlholm"Dyrefarver I
+  CPH"
+DTSTART:20260830T000000
+UID:cea17abba941aec32b48bd863c2036b4a5db4cb6@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmor
+ e/type-nynaut?ArrNr=20203091
+LOCATION:Gallery House of k3
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Gårdcafé
+DTSTART:20260913T000000
+UID:9d113313e7c00f659860bcb687e5727499ca1e47@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore
+ /type-nynaut?ArrNr=20174808
+LOCATION:Medicinsk Museion
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Sommerudstilling: Kvinder på kanten
+DTSTART:20260917T000000
+UID:754adda1ba960fbd7cdff5346d6bddd5e9e2c17a@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore
+ /type-nynaut?ArrNr=19976550
+LOCATION:Lokalhistorisk Bibliotek
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Exhibition: Scultori Fiamminghi
+DTSTART:20261009T000000
+UID:c0a83e62be5511b0bdc5e8c3d8af612730e758f1@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-scultori-f
+ iamminghi
+LOCATION:M Leuven\, Leopold Vanderkelenstraat 28\, Leuven
+URL:https://www.visitleuven.be/en/exhibition-scultori-fiamminghi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Exhibition: Discover Flemish Masters in Situ
+DTSTART:20261231T000000
+UID:d62d55e31da119a72a7d2e971d543be53a1c856c@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-discover-f
+ lemish-masters-situ
+LOCATION:Various locations
+URL:https://www.visitleuven.be/en/exhibition-discover-flemish-masters-situ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Exhibition: Experience Bouts
+DTSTART:20270101T000000
+UID:faf257bc9818e8695e1c44fd1593a0df5ddc6a07@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:More info: https://www.visitleuven.be/en/exhibition-experience
+ -bouts
+LOCATION:Sint-Pieterskerk\, Grote Markt 1\, Leuven
+URL:https://www.visitleuven.be/en/exhibition-experience-bouts
+END:VEVENT
+END:VCALENDAR

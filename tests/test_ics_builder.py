@@ -34,3 +34,13 @@ def test_build_feeds_writes_all_and_per_city_files(tmp_path):
 
     copenhagen_ics = Calendar.from_ical((tmp_path / "copenhagen.ics").read_text(encoding="utf-8"))
     assert len(copenhagen_ics.walk("VEVENT")) == 1
+
+    flea_market_ics = Calendar.from_ical((tmp_path / "flea-market.ics").read_text(encoding="utf-8"))
+    flea_events = flea_market_ics.walk("VEVENT")
+    assert len(flea_events) == 1
+    assert str(flea_events[0]["summary"]) == "🧺 Leuven flea market"
+
+    museum_ics = Calendar.from_ical((tmp_path / "museum-free-day.ics").read_text(encoding="utf-8"))
+    museum_events = museum_ics.walk("VEVENT")
+    assert len(museum_events) == 1
+    assert str(museum_events[0]["summary"]) == "🏛️ Copenhagen museum free day"
