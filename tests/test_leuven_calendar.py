@@ -45,3 +45,4 @@ def test_parse_card_extracts_title_start_location_and_category():
     assert event.start.hour == 15
     assert event.location == "Parking Sportcomplex Ymeria, Wijgmaal"
     assert event.url == "https://www.visitleuven.be/en/monday-market"
+    assert "https://www.visitleuven.be/en/monday-market" in event.description

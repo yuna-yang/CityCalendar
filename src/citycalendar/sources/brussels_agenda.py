@@ -70,14 +70,18 @@ class BrusselsAgendaSource(BaseSource):
             if part and part.get_text(strip=True)
         )
 
+        genre = self._genre_text(row)
+        url = title_el.get("href", "")
+
         return Event(
             title=title,
             start=start,
             end=end,
             city=City.LEUVEN,
-            category=self._guess_category(title, row),
+            category=self._guess_category(title, genre),
             location=location,
-            url=title_el.get("href", ""),
+            description=_build_description(genre, url),
+            url=url,
             source=self.source_id,
         )
 
@@ -101,10 +105,18 @@ class BrusselsAgendaSource(BaseSource):
         except ValueError:
             return None
 
-    def _guess_category(self, title: str, row) -> Category:
+    def _genre_text(self, row) -> str:
         cat_el = row.select_one(".agenda-cat")
-        haystack = " ".join([title, cat_el.get_text(" ", strip=True) if cat_el else ""]).lower()
+        return cat_el.get_text(" ", strip=True) if cat_el else ""
+
+    def _guess_category(self, title: str, genre: str) -> Category:
+        haystack = " ".join([title, genre]).lower()
         for category, keywords in _CATEGORY_KEYWORDS.items():
             if any(keyword in haystack for keyword in keywords):
                 return category
         return Category.EVENT
+
+
+def _build_description(genre: str, url: str) -> str:
+    parts = [part for part in (genre, f"More info: {url}" if url else "") if part]
+    return "\n\n".join(parts)

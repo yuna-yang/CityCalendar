@@ -79,6 +79,7 @@ class VisitLeuvenSource(BaseSource):
             city=City.LEUVEN,
             category=self._guess_category(title),
             location=location,
+            description=f"More info: {url}" if url else "",
             url=url,
             source=self.source_id,
         )

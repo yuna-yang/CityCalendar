@@ -48,3 +48,5 @@ def test_parse_row_extracts_title_start_location_and_category():
     assert event.end.day == 31
     assert event.location == "Cathedral of St. Michael and St. Gudula, Parvis Sainte-Gudule - 1000 Brussels"
     assert event.url == "https://www.brussels.be/gudula26"
+    assert "Exhibition" in event.description
+    assert "https://www.brussels.be/gudula26" in event.description

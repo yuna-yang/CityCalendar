@@ -92,6 +92,7 @@ class KultunautSource(BaseSource):
 
         genre_el = product.select_one(".arr-genre .genre_cat")
         genre = genre_el.get_text(strip=True) if genre_el else ""
+        url = link_el.get("href", "")
 
         return Event(
             title=title,
@@ -99,7 +100,8 @@ class KultunautSource(BaseSource):
             city=City.COPENHAGEN,
             category=self._guess_category(genre),
             location=location,
-            url=link_el.get("href", ""),
+            description="\n\n".join(part for part in (genre, f"More info: {url}" if url else "") if part),
+            url=url,
             source=self.source_id,
         )
 

@@ -40,3 +40,5 @@ def test_parse_product_extracts_title_start_location_and_category():
     assert event.start.hour == 10
     assert event.location == "Islands Brygge"
     assert event.url == "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19717424"
+    assert "Loppemarked" in event.description
+    assert "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19717424" in event.description
