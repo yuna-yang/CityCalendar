@@ -71,38 +71,20 @@ takes down the whole feed.
 
 ## Current sources
 
-- **Visit Leuven calendar** (`sources/leuven_calendar.py`) — real, working. Scrapes the
-  public [visitleuven.be/en/calendar](https://www.visitleuven.be/en/calendar) page. No
-  registration or API key needed. Also used (via its own "Shopping and markets" facet)
-  for a dedicated `leuven_flea_markets` feed.
-- **City of Leuven agenda** (`sources/leuven_be_agenda.py`) — real, working. Scrapes
-  [leuven.be/agenda](https://www.leuven.be/agenda), the city government's own listing —
-  distinct from the tourism site, covering municipal/community events (info sessions,
-  workshops, sports, book sales, etc.). No registration needed.
-- **Brussels agenda** (`sources/brussels_agenda.py`) — real, working. Scrapes the public
-  [brussels.be/agenda](https://www.brussels.be/agenda) page, which conveniently publishes
-  category tags per event. No registration or API key needed. Also used (via its own
-  "Flea market & rummage sales" category) for a dedicated `brussels_flea_markets` feed.
-- **Rommelmarktgids** (`sources/rommelmarktgids.py`) — real, working. Scrapes
-  [rommelmarktgids.be](https://www.rommelmarktgids.be/rommelmarkten/leuven/), a site
-  entirely dedicated to Leuven-area flea markets/brocante. No registration needed.
-- **Oplevelser i København** (`sources/oplevelser_kbh.py`) — real, working. Consumes the
-  native ICS export from [oplevelser-i-koebenhavn.dk](https://oplevelser-i-koebenhavn.dk/loppemarkeder-koebenhavn/)'s
-  dedicated flea-market listing (it runs "The Events Calendar" WordPress plugin, which
-  publishes a real `.ics` feed — no HTML scraping needed, just re-parsing their own
-  calendar data). No registration needed.
-- **UiTdatabank** (`sources/uitdatabank.py`) — optional, disabled by default. A richer,
-  official alternative covering all of Flanders & Brussels via publiq's Search API, but
-  requires registering a free integration at [platform.publiq.be](https://platform.publiq.be/)
-  (pick "UiTdatabank Search API") and setting the client id as `UITDATABANK_CLIENT_ID`.
-  Enable it in `config/sources.yaml` if you want broader coverage later.
-- **Kultunaut** (`sources/kultunaut_denmark.py`) — real, working. Scrapes
-  [kultunaut.dk](https://www.kultunaut.dk/), Denmark's main public cultural events database.
-  One instance covers Greater Copenhagen (`Area=Storkøbenhavn`), another pulls a small,
-  capped set of top-rated highlights from Odense, and a third filters to its own
-  "Loppemarked/Torvedag/Genbrug" (flea market) genre. No registration or API key needed.
-  Note: Kultunaut is Denmark-only, so Malmo (Sweden) isn't covered — that would need a
-  separate Swedish source.
+**Leuven region** (Leuven, Brussels, nearby Belgium):
+
+- **Visit Leuven calendar** (`sources/leuven_calendar.py`) — [visitleuven.be/en/calendar](https://www.visitleuven.be/en/calendar)
+- **City of Leuven agenda** (`sources/leuven_be_agenda.py`) — [leuven.be/agenda](https://www.leuven.be/agenda)
+- **Brussels agenda** (`sources/brussels_agenda.py`) — [brussels.be/agenda](https://www.brussels.be/agenda)
+- **Rommelmarktgids** (`sources/rommelmarktgids.py`) — [rommelmarktgids.be](https://www.rommelmarktgids.be/rommelmarkten/leuven/) (dedicated flea-market guide)
+- **UiTdatabank** (`sources/uitdatabank.py`) — publiq's Search API; optional, disabled by default (needs a free [platform.publiq.be](https://platform.publiq.be/) client id)
+
+**Copenhagen region** (Greater Copenhagen, Odense, notable events; Malmo not covered yet):
+
+- **Kultunaut** (`sources/kultunaut_denmark.py`) — [kultunaut.dk](https://www.kultunaut.dk/), Denmark's main cultural events database (Copenhagen, Odense highlights, and a flea-market genre filter)
+- **Oplevelser i København** (`sources/oplevelser_kbh.py`) — native ICS feed from [oplevelser-i-koebenhavn.dk](https://oplevelser-i-koebenhavn.dk/loppemarkeder-koebenhavn/)'s flea-market listing
+
+All of these are free and need no registration except UiTdatabank (optional).
 
 ## Local development
 
