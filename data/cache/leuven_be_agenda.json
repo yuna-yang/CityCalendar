@@ -1,68 +1,13 @@
 [
   {
-    "title": "Roller- en bikeparade",
-    "start": "2026-08-26T00:00:00",
+    "title": "Jaarmarkt Leuven",
+    "start": "2026-09-07T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "Rijd mee door de Leuvense straten op rollerblades of op een skateboard. Alles wat rolt, is welkom!\n\nMore info: https://www.leuven.be/rollerparade",
-    "url": "https://www.leuven.be/rollerparade",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Initiaties voetbal (6 tot 12 jaar)",
-    "start": "2026-08-25T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "In juli en augustus krijg je gratis initiaties voetbal bij jou in de buurt.\n\nMore info: https://www.leuven.be/voetbalinitiaties",
-    "url": "https://www.leuven.be/voetbalinitiaties",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomerpodium op de Olevodroomexternal link",
-    "start": "2026-08-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomer van Sint-Pieter 2026external link",
-    "start": "2026-08-28T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "In het historische hart van de stad geniet je van klassieke meesterwerken, verrassende composities en vele topuitvoerders.\n\nMore info: https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "url": "https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Pop-upzwemmen in de Vaart",
-    "start": "2026-08-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens de laatste 2 weekends van augustus kan je gratis zwemmen in de Vaart. Je zwemt in een afgebakende zone in open water.\n\nMore info: https://www.leuven.be/zwemmen",
-    "url": "https://www.leuven.be/zwemmen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Skatefest",
-    "start": "2026-08-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Geniet van straffe skatecontests, optredens en een heerlijke vibe. Dit jaar is het thema 'Flowerpower'.\n\nMore info: https://www.leuven.be/skatefest",
-    "url": "https://www.leuven.be/skatefest",
+    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
+    "url": "https://www.leuven.be/jaarmarkt",
     "source": "leuven_be_agenda"
   },
   {
@@ -74,6 +19,17 @@
     "location": "",
     "description": "Doe gratis mee met leuke zomeractiviteiten voor kinderen in de Bib Leuven Tweebronnen, Heverlee, Kessel-Lo en Wilsele.\n\nMore info: https://www.leuven.be/zomerindebib",
     "url": "https://www.leuven.be/zomerindebib",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Beweegt",
+    "start": "2026-09-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
+    "url": "https://www.leuven.be/beweegt",
     "source": "leuven_be_agenda"
   },
   {
@@ -99,6 +55,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Zomerpodium op de Olevodroomexternal link",
+    "start": "2026-09-02T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Tofsportdag voor 55-plussers",
     "start": "2026-09-04T00:00:00",
     "city": "leuven",
@@ -118,6 +85,17 @@
     "location": "",
     "description": "Met De Hagelandse 101 wandel je langs de mooiste plekken van het Hageland. Je kan kiezen uit 3 afstanden: 55, 101 of 107 km.\n\nMore info: https://www.leuven.be/hagelandse-101",
     "url": "https://www.leuven.be/hagelandse-101",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Unexposed",
+    "start": "2026-09-27T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "De laureaten van de 14de PhotoTWENS-editie presenteren hun fotoreeksen.\n\nMore info: https://www.leuven.be/unexposed",
+    "url": "https://www.leuven.be/unexposed",
     "source": "leuven_be_agenda"
   },
   {
@@ -151,6 +129,17 @@
     "location": "",
     "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
     "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Opendeurdagen in de Kruidtuin",
+    "start": "2026-09-13T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bewonder bijzondere dieren, laat je inspireren door kleine onderwaterwerelden of praat met enthousiaste tuinliefhebbers.\n\nMore info: https://www.leuven.be/opendeurdag-kruidtuin",
+    "url": "https://www.leuven.be/opendeurdag-kruidtuin",
     "source": "leuven_be_agenda"
   },
   {
@@ -198,17 +187,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Jaarmarkt Leuven",
-    "start": "2026-09-07T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
-    "url": "https://www.leuven.be/jaarmarkt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Documentaire: Team Rudy",
     "start": "2026-09-08T00:00:00",
     "city": "leuven",
@@ -231,25 +209,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Amateurama 2.0: Fotografie",
+    "start": "2026-09-19T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
+    "url": "https://www.leuven.be/amateurama",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst'",
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -264,6 +242,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Demonstratie thuiscomposteren",
+    "start": "2026-09-12T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Open Monumentendag",
     "start": "2026-09-13T00:00:00",
     "city": "leuven",
@@ -272,6 +261,17 @@
     "location": "",
     "description": "Met het thema \u2018In goede handen\u2019 zet Open Monumentendag de mensen die zorg dragen voor onze monumenten en historische plekken in de kijker.\n\nMore info: https://www.leuven.be/omd",
     "url": "https://www.leuven.be/omd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -297,7 +297,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Studentenwelkom 2026: Guess who's backexternal link",
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Studentenwelkom 2026external link",
     "start": "2026-09-24T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -305,17 +316,6 @@
     "location": "",
     "description": "In september zijn de studenten terug in de stad. En dat vieren we met een groots Studentenwelkom.\n\nMore info: https://www.leuven.be/studentenwelkom",
     "url": "https://www.leuven.be/studentenwelkom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Vrijwilligerswerkbeurs",
-    "start": "2026-09-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
-    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -327,6 +327,17 @@
     "location": "",
     "description": "Heb je een fysieke beperking en ben je op zoek naar een spannende en uitdagende sport om te beoefenen in je elektrische rolstoel?\n\nMore info: https://www.leuven.be/powerchair",
     "url": "https://www.leuven.be/powerchair",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Vrijwilligerswerkbeurs",
+    "start": "2026-09-26T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
+    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -349,6 +360,17 @@
     "location": "",
     "description": "50 koren brengen 100 gratis concerten op 24 podia in de stad. Zing, luister, kijk en beleef!\n\nMore info: https://www.leuven.be/leuven-bekoort",
     "url": "https://www.leuven.be/leuven-bekoort",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Online infosessie 'Koken met restjes'",
+    "start": "2026-09-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
+    "url": "https://www.leuven.be/koken-met-restjes",
     "source": "leuven_be_agenda"
   },
   {
@@ -382,6 +404,17 @@
     "location": "",
     "description": "Tijdens 5 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
     "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Werelddierendag in park De Bruul",
+    "start": "2026-10-04T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag-park-de-bruul",
+    "url": "https://www.leuven.be/werelddierendag-park-de-bruul",
     "source": "leuven_be_agenda"
   },
   {
@@ -440,6 +473,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo 'Kennis en Kwesties', over het begin van 600 jaar universiteit in de stad.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -459,6 +503,17 @@
     "location": "",
     "description": "Ben je van plan om te renoveren, maar weet je niet hoe te beginnen? We helpen je op weg.\n\nMore info: https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
     "url": "https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Doe-het-zelf dakisolatie'",
+    "start": "2026-10-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je dak correct kan isoleren en energie kan besparen.\n\nMore info: https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
+    "url": "https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
     "source": "leuven_be_agenda"
   },
   {
@@ -550,69 +605,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Roller- en bikeparade",
-    "start": "2026-08-26T00:00:00",
+    "title": "Eindejaarscorrida",
+    "start": "2026-12-27T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rijd mee door de Leuvense straten op rollerblades of op een skateboard. Alles wat rolt, is welkom!\n\nMore info: https://www.leuven.be/rollerparade",
-    "url": "https://www.leuven.be/rollerparade",
+    "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
+    "url": "https://www.leuven.be/corrida",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Initiaties voetbal (6 tot 12 jaar)",
-    "start": "2026-08-25T00:00:00",
+    "title": "Jaarmarkt Leuven",
+    "start": "2026-09-07T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "In juli en augustus krijg je gratis initiaties voetbal bij jou in de buurt.\n\nMore info: https://www.leuven.be/voetbalinitiaties",
-    "url": "https://www.leuven.be/voetbalinitiaties",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomerpodium op de Olevodroomexternal link",
-    "start": "2026-08-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomer van Sint-Pieter 2026external link",
-    "start": "2026-08-28T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "In het historische hart van de stad geniet je van klassieke meesterwerken, verrassende composities en vele topuitvoerders.\n\nMore info: https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "url": "https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Pop-upzwemmen in de Vaart",
-    "start": "2026-08-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens de laatste 2 weekends van augustus kan je gratis zwemmen in de Vaart. Je zwemt in een afgebakende zone in open water.\n\nMore info: https://www.leuven.be/zwemmen",
-    "url": "https://www.leuven.be/zwemmen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Skatefest",
-    "start": "2026-08-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Geniet van straffe skatecontests, optredens en een heerlijke vibe. Dit jaar is het thema 'Flowerpower'.\n\nMore info: https://www.leuven.be/skatefest",
-    "url": "https://www.leuven.be/skatefest",
+    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
+    "url": "https://www.leuven.be/jaarmarkt",
     "source": "leuven_be_agenda"
   },
   {
@@ -624,6 +635,17 @@
     "location": "",
     "description": "Doe gratis mee met leuke zomeractiviteiten voor kinderen in de Bib Leuven Tweebronnen, Heverlee, Kessel-Lo en Wilsele.\n\nMore info: https://www.leuven.be/zomerindebib",
     "url": "https://www.leuven.be/zomerindebib",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Beweegt",
+    "start": "2026-09-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
+    "url": "https://www.leuven.be/beweegt",
     "source": "leuven_be_agenda"
   },
   {
@@ -649,6 +671,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Zomerpodium op de Olevodroomexternal link",
+    "start": "2026-09-02T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Tofsportdag voor 55-plussers",
     "start": "2026-09-04T00:00:00",
     "city": "leuven",
@@ -668,6 +701,17 @@
     "location": "",
     "description": "Met De Hagelandse 101 wandel je langs de mooiste plekken van het Hageland. Je kan kiezen uit 3 afstanden: 55, 101 of 107 km.\n\nMore info: https://www.leuven.be/hagelandse-101",
     "url": "https://www.leuven.be/hagelandse-101",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Unexposed",
+    "start": "2026-09-27T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "De laureaten van de 14de PhotoTWENS-editie presenteren hun fotoreeksen.\n\nMore info: https://www.leuven.be/unexposed",
+    "url": "https://www.leuven.be/unexposed",
     "source": "leuven_be_agenda"
   },
   {
@@ -701,6 +745,17 @@
     "location": "",
     "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
     "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Opendeurdagen in de Kruidtuin",
+    "start": "2026-09-13T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bewonder bijzondere dieren, laat je inspireren door kleine onderwaterwerelden of praat met enthousiaste tuinliefhebbers.\n\nMore info: https://www.leuven.be/opendeurdag-kruidtuin",
+    "url": "https://www.leuven.be/opendeurdag-kruidtuin",
     "source": "leuven_be_agenda"
   },
   {
@@ -748,17 +803,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Jaarmarkt Leuven",
-    "start": "2026-09-07T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
-    "url": "https://www.leuven.be/jaarmarkt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Documentaire: Team Rudy",
     "start": "2026-09-08T00:00:00",
     "city": "leuven",
@@ -781,25 +825,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Amateurama 2.0: Fotografie",
+    "start": "2026-09-19T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
+    "url": "https://www.leuven.be/amateurama",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst'",
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -814,6 +858,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Demonstratie thuiscomposteren",
+    "start": "2026-09-12T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Open Monumentendag",
     "start": "2026-09-13T00:00:00",
     "city": "leuven",
@@ -822,6 +877,17 @@
     "location": "",
     "description": "Met het thema \u2018In goede handen\u2019 zet Open Monumentendag de mensen die zorg dragen voor onze monumenten en historische plekken in de kijker.\n\nMore info: https://www.leuven.be/omd",
     "url": "https://www.leuven.be/omd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -847,7 +913,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Studentenwelkom 2026: Guess who's backexternal link",
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Studentenwelkom 2026external link",
     "start": "2026-09-24T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -855,17 +932,6 @@
     "location": "",
     "description": "In september zijn de studenten terug in de stad. En dat vieren we met een groots Studentenwelkom.\n\nMore info: https://www.leuven.be/studentenwelkom",
     "url": "https://www.leuven.be/studentenwelkom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Vrijwilligerswerkbeurs",
-    "start": "2026-09-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
-    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -877,6 +943,17 @@
     "location": "",
     "description": "Heb je een fysieke beperking en ben je op zoek naar een spannende en uitdagende sport om te beoefenen in je elektrische rolstoel?\n\nMore info: https://www.leuven.be/powerchair",
     "url": "https://www.leuven.be/powerchair",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Vrijwilligerswerkbeurs",
+    "start": "2026-09-26T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
+    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -899,6 +976,17 @@
     "location": "",
     "description": "50 koren brengen 100 gratis concerten op 24 podia in de stad. Zing, luister, kijk en beleef!\n\nMore info: https://www.leuven.be/leuven-bekoort",
     "url": "https://www.leuven.be/leuven-bekoort",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Online infosessie 'Koken met restjes'",
+    "start": "2026-09-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
+    "url": "https://www.leuven.be/koken-met-restjes",
     "source": "leuven_be_agenda"
   },
   {
@@ -932,6 +1020,17 @@
     "location": "",
     "description": "Tijdens 5 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
     "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Werelddierendag in park De Bruul",
+    "start": "2026-10-04T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag-park-de-bruul",
+    "url": "https://www.leuven.be/werelddierendag-park-de-bruul",
     "source": "leuven_be_agenda"
   },
   {
@@ -990,6 +1089,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo 'Kennis en Kwesties', over het begin van 600 jaar universiteit in de stad.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -1009,6 +1119,17 @@
     "location": "",
     "description": "Ben je van plan om te renoveren, maar weet je niet hoe te beginnen? We helpen je op weg.\n\nMore info: https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
     "url": "https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Doe-het-zelf dakisolatie'",
+    "start": "2026-10-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je dak correct kan isoleren en energie kan besparen.\n\nMore info: https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
+    "url": "https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
     "source": "leuven_be_agenda"
   },
   {
@@ -1100,69 +1221,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Roller- en bikeparade",
-    "start": "2026-08-26T00:00:00",
+    "title": "Eindejaarscorrida",
+    "start": "2026-12-27T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rijd mee door de Leuvense straten op rollerblades of op een skateboard. Alles wat rolt, is welkom!\n\nMore info: https://www.leuven.be/rollerparade",
-    "url": "https://www.leuven.be/rollerparade",
+    "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
+    "url": "https://www.leuven.be/corrida",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Initiaties voetbal (6 tot 12 jaar)",
-    "start": "2026-08-25T00:00:00",
+    "title": "Jaarmarkt Leuven",
+    "start": "2026-09-07T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "In juli en augustus krijg je gratis initiaties voetbal bij jou in de buurt.\n\nMore info: https://www.leuven.be/voetbalinitiaties",
-    "url": "https://www.leuven.be/voetbalinitiaties",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomerpodium op de Olevodroomexternal link",
-    "start": "2026-08-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Zomer van Sint-Pieter 2026external link",
-    "start": "2026-08-28T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "In het historische hart van de stad geniet je van klassieke meesterwerken, verrassende composities en vele topuitvoerders.\n\nMore info: https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "url": "https://www.leuven.be/zomer-van-sint-pieter-2026",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Pop-upzwemmen in de Vaart",
-    "start": "2026-08-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens de laatste 2 weekends van augustus kan je gratis zwemmen in de Vaart. Je zwemt in een afgebakende zone in open water.\n\nMore info: https://www.leuven.be/zwemmen",
-    "url": "https://www.leuven.be/zwemmen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Skatefest",
-    "start": "2026-08-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Geniet van straffe skatecontests, optredens en een heerlijke vibe. Dit jaar is het thema 'Flowerpower'.\n\nMore info: https://www.leuven.be/skatefest",
-    "url": "https://www.leuven.be/skatefest",
+    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
+    "url": "https://www.leuven.be/jaarmarkt",
     "source": "leuven_be_agenda"
   },
   {
@@ -1174,6 +1251,17 @@
     "location": "",
     "description": "Doe gratis mee met leuke zomeractiviteiten voor kinderen in de Bib Leuven Tweebronnen, Heverlee, Kessel-Lo en Wilsele.\n\nMore info: https://www.leuven.be/zomerindebib",
     "url": "https://www.leuven.be/zomerindebib",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Beweegt",
+    "start": "2026-09-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
+    "url": "https://www.leuven.be/beweegt",
     "source": "leuven_be_agenda"
   },
   {
@@ -1199,6 +1287,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Zomerpodium op de Olevodroomexternal link",
+    "start": "2026-09-02T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek elke woensdagavond in de zomervakantie 2 verrassende acts aan de Olevodroom. Helemaal gratis.\n\nMore info: https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "url": "https://www.leuven.be/zomerpodium-op-de-olevodroom",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Tofsportdag voor 55-plussers",
     "start": "2026-09-04T00:00:00",
     "city": "leuven",
@@ -1218,6 +1317,17 @@
     "location": "",
     "description": "Met De Hagelandse 101 wandel je langs de mooiste plekken van het Hageland. Je kan kiezen uit 3 afstanden: 55, 101 of 107 km.\n\nMore info: https://www.leuven.be/hagelandse-101",
     "url": "https://www.leuven.be/hagelandse-101",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Unexposed",
+    "start": "2026-09-27T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "De laureaten van de 14de PhotoTWENS-editie presenteren hun fotoreeksen.\n\nMore info: https://www.leuven.be/unexposed",
+    "url": "https://www.leuven.be/unexposed",
     "source": "leuven_be_agenda"
   },
   {
@@ -1251,6 +1361,17 @@
     "location": "",
     "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
     "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Opendeurdagen in de Kruidtuin",
+    "start": "2026-09-13T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bewonder bijzondere dieren, laat je inspireren door kleine onderwaterwerelden of praat met enthousiaste tuinliefhebbers.\n\nMore info: https://www.leuven.be/opendeurdag-kruidtuin",
+    "url": "https://www.leuven.be/opendeurdag-kruidtuin",
     "source": "leuven_be_agenda"
   },
   {
@@ -1298,17 +1419,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Jaarmarkt Leuven",
-    "start": "2026-09-07T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Geniet van een braderie, veeprijskamp en optredens ... in het centrum van Leuven.\n\nMore info: https://www.leuven.be/jaarmarkt",
-    "url": "https://www.leuven.be/jaarmarkt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Documentaire: Team Rudy",
     "start": "2026-09-08T00:00:00",
     "city": "leuven",
@@ -1331,25 +1441,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Amateurama 2.0: Fotografie",
+    "start": "2026-09-19T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
+    "url": "https://www.leuven.be/amateurama",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst'",
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -1364,6 +1474,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Demonstratie thuiscomposteren",
+    "start": "2026-09-12T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Open Monumentendag",
     "start": "2026-09-13T00:00:00",
     "city": "leuven",
@@ -1372,6 +1493,17 @@
     "location": "",
     "description": "Met het thema \u2018In goede handen\u2019 zet Open Monumentendag de mensen die zorg dragen voor onze monumenten en historische plekken in de kijker.\n\nMore info: https://www.leuven.be/omd",
     "url": "https://www.leuven.be/omd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -1397,7 +1529,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Studentenwelkom 2026: Guess who's backexternal link",
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Studentenwelkom 2026external link",
     "start": "2026-09-24T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -1405,17 +1548,6 @@
     "location": "",
     "description": "In september zijn de studenten terug in de stad. En dat vieren we met een groots Studentenwelkom.\n\nMore info: https://www.leuven.be/studentenwelkom",
     "url": "https://www.leuven.be/studentenwelkom",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Vrijwilligerswerkbeurs",
-    "start": "2026-09-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
-    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -1427,6 +1559,17 @@
     "location": "",
     "description": "Heb je een fysieke beperking en ben je op zoek naar een spannende en uitdagende sport om te beoefenen in je elektrische rolstoel?\n\nMore info: https://www.leuven.be/powerchair",
     "url": "https://www.leuven.be/powerchair",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Vrijwilligerswerkbeurs",
+    "start": "2026-09-26T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Maak kennis met Leuvense organisaties die op zoek zijn naar nieuwe vrijwilligers.\n\nMore info: https://www.leuven.be/vrijwilligerswerkbeurs",
+    "url": "https://www.leuven.be/vrijwilligerswerkbeurs",
     "source": "leuven_be_agenda"
   },
   {
@@ -1449,6 +1592,17 @@
     "location": "",
     "description": "50 koren brengen 100 gratis concerten op 24 podia in de stad. Zing, luister, kijk en beleef!\n\nMore info: https://www.leuven.be/leuven-bekoort",
     "url": "https://www.leuven.be/leuven-bekoort",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Online infosessie 'Koken met restjes'",
+    "start": "2026-09-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
+    "url": "https://www.leuven.be/koken-met-restjes",
     "source": "leuven_be_agenda"
   },
   {
@@ -1482,6 +1636,17 @@
     "location": "",
     "description": "Tijdens 5 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
     "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Werelddierendag in park De Bruul",
+    "start": "2026-10-04T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag-park-de-bruul",
+    "url": "https://www.leuven.be/werelddierendag-park-de-bruul",
     "source": "leuven_be_agenda"
   },
   {
@@ -1540,6 +1705,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo 'Kennis en Kwesties', over het begin van 600 jaar universiteit in de stad.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -1559,6 +1735,17 @@
     "location": "",
     "description": "Ben je van plan om te renoveren, maar weet je niet hoe te beginnen? We helpen je op weg.\n\nMore info: https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
     "url": "https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Doe-het-zelf dakisolatie'",
+    "start": "2026-10-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je dak correct kan isoleren en energie kan besparen.\n\nMore info: https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
+    "url": "https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie",
     "source": "leuven_be_agenda"
   },
   {
@@ -1647,6 +1834,17 @@
     "location": "",
     "description": "Inspiratie voor het eindejaar, die vind je in Leuven.\n\nMore info: https://www.leuven.be/eindejaarsshoppen",
     "url": "https://www.leuven.be/eindejaarsshoppen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Eindejaarscorrida",
+    "start": "2026-12-27T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
+    "url": "https://www.leuven.be/corrida",
     "source": "leuven_be_agenda"
   }
 ]

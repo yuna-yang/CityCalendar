@@ -1,7 +1,18 @@
 [
   {
+    "title": "Market in Wijgmaal",
+    "start": "2026-08-31T15:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
+    "description": "More info: https://www.visitleuven.be/en/monday-market",
+    "url": "https://www.visitleuven.be/en/monday-market",
+    "source": "leuven_flea_markets"
+  },
+  {
     "title": "Market in Kessel-Lo",
-    "start": "2026-08-26T14:00:00",
+    "start": "2026-09-02T14:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -12,7 +23,7 @@
   },
   {
     "title": "Market in city centre",
-    "start": "2026-08-27T13:00:00",
+    "start": "2026-09-03T13:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -23,35 +34,13 @@
   },
   {
     "title": "Market in city centre of Leuven",
-    "start": "2026-08-29T09:00:00",
+    "start": "2026-09-05T09:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
     "location": "City centre of Leuven",
     "description": "More info: https://www.visitleuven.be/en/market-saturday",
     "url": "https://www.visitleuven.be/en/market-saturday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "title": "Market in Heverlee",
-    "start": "2026-08-30T08:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/market-sunday",
-    "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "title": "Market in Wijgmaal",
-    "start": "2026-08-24T15:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
-    "description": "More info: https://www.visitleuven.be/en/monday-market",
-    "url": "https://www.visitleuven.be/en/monday-market",
     "source": "leuven_flea_markets"
   },
   {
@@ -63,6 +52,17 @@
     "location": "Leuvense shopping streets",
     "description": "More info: https://www.visitleuven.be/en/buskers",
     "url": "https://www.visitleuven.be/en/buskers",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Market in Heverlee",
+    "start": "2026-09-06T08:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
     "source": "leuven_flea_markets"
   },
   {

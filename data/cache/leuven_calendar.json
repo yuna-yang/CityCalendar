@@ -1,7 +1,29 @@
 [
   {
+    "title": "ILUVLeuven Walk",
+    "start": "2026-08-31T14:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "url": "https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in Wijgmaal",
+    "start": "2026-08-31T15:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
+    "description": "More info: https://www.visitleuven.be/en/monday-market",
+    "url": "https://www.visitleuven.be/en/monday-market",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-08-25T14:00:00",
+    "start": "2026-08-31T10:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -11,52 +33,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Guided walk: ILUVLeuven Walk",
-    "start": "2026-08-25T14:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
-    "url": "https://www.visitleuven.be/en/guided-walk-iluvleuven-walk",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Tower visit and live carillon concert University Library",
-    "start": "2026-08-25T18:20:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
-    "url": "https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Summer Yoga at Hal 5",
-    "start": "2026-08-25T20:45:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Hal 5, Diestsesteenweg 104, 3010 Leuven (Kessel-Lo)",
-    "description": "More info: https://www.visitleuven.be/en/summer-yoga-hal-5",
-    "url": "https://www.visitleuven.be/en/summer-yoga-hal-5",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Roller and Bike Parade",
-    "start": "2026-08-26T11:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/roller-and-bike-parade",
-    "url": "https://www.visitleuven.be/en/roller-and-bike-parade",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Market in Kessel-Lo",
-    "start": "2026-08-26T14:00:00",
+    "start": "2026-09-02T14:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -67,266 +45,13 @@
   },
   {
     "title": "Free carillon concerts in Park Abbey",
-    "start": "2026-08-26T16:00:00",
+    "start": "2026-09-02T16:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "Park Abbey",
     "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
     "url": "https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "The Warm Table: join for a delicious and honest meal",
-    "start": "2026-08-26T18:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Joris Helleputteplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/warm-table-join-delicious-and-honest-meal",
-    "url": "https://www.visitleuven.be/en/warm-table-join-delicious-and-honest-meal",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Dance and performance: Summer of Olevodroom",
-    "start": "2026-08-26T19:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Olevodroom, Brusselsestraat 63/69, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/dance-and-performance-summer-olevodroom",
-    "url": "https://www.visitleuven.be/en/dance-and-performance-summer-olevodroom",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Open Dance Floor",
-    "start": "2026-08-26T20:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
-    "url": "https://www.visitleuven.be/en/open-dance-floor",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Summer of Stelplaats: Stelplaza",
-    "start": "2026-08-26T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Stelplaats,  Diestsepoort 15, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/summer-stelplaats-stelplaza",
-    "url": "https://www.visitleuven.be/en/summer-stelplaats-stelplaza",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Exhibition: Val\u00e9rie Mannaerts",
-    "start": "2026-08-25T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "M Leuven, Leopold Vanderkelenstraat 28, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/exhibition-valerie-mannaerts",
-    "url": "https://www.visitleuven.be/en/exhibition-valerie-mannaerts",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in city centre",
-    "start": "2026-08-27T13:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Brusselsestraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-thursday",
-    "url": "https://www.visitleuven.be/en/market-thursday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Leuven Bells: carillon of University library",
-    "start": "2026-08-27T15:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Sint-Geertruiabdij, Halfmaartstraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/leuven-bells-carillon-university-library",
-    "url": "https://www.visitleuven.be/en/leuven-bells-carillon-university-library",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in city centre of Leuven",
-    "start": "2026-08-28T07:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Ladeuzeplein en Hooverplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-friday",
-    "url": "https://www.visitleuven.be/en/market-friday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided tour: Brewery Stella Artois",
-    "start": "2026-08-28T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Brouwerij Stella Artois \u2022 Aarschotsesteenweg 20, 3000 Leuven",
-    "description": "More info: https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
-    "url": "https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Free carillon concerts on Grote Markt",
-    "start": "2026-08-28T12:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Grote Markt, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
-    "url": "https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Afternoons filled with classical music: Summer of Saint Peter",
-    "start": "2026-08-28T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/afternoons-filled-classical-music-summer-saint-peter",
-    "url": "https://www.visitleuven.be/en/afternoons-filled-classical-music-summer-saint-peter",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided tour: University library and visit of the tower",
-    "start": "2026-08-28T13:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/guided-tour-university-library-and-visit-tower",
-    "url": "https://www.visitleuven.be/en/guided-tour-university-library-and-visit-tower",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Beer tastin tour in Leuven",
-    "start": "2026-08-28T14:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/beer-tastin-tour-leuven",
-    "url": "https://www.visitleuven.be/en/beer-tastin-tour-leuven",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Summer pop-up Bar Belvue",
-    "start": "2026-08-28T18:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Martelarenplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/summer-pop-bar-belvue",
-    "url": "https://www.visitleuven.be/en/summer-pop-bar-belvue",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Beer tour: Leuven on tap",
-    "start": "2026-09-22T14:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/agenda/leuven-on-tap",
-    "url": "https://www.visitleuven.be/en/agenda/leuven-on-tap",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in city centre of Leuven",
-    "start": "2026-08-29T09:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-saturday",
-    "url": "https://www.visitleuven.be/en/market-saturday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Yoga at Park Abbey",
-    "start": "2026-08-29T10:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Park Abbey",
-    "description": "More info: https://www.visitleuven.be/en/yoga-park-abbey",
-    "url": "https://www.visitleuven.be/en/yoga-park-abbey",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided walk: Six centuries of the university in Leuven",
-    "start": "2026-08-29T10:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Universiteitshal, Naamsestraat 22, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/rondleiding-universiteit",
-    "url": "https://www.visitleuven.be/en/rondleiding-universiteit",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Heritage Tour KU Leuven: University Hall",
-    "start": "2026-08-29T10:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Universiteitshal, Naamsestraat 22, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-university-hall",
-    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-university-hall",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided tour: Brewery de Coureur",
-    "start": "2026-08-29T13:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Brouwerij de Coureur \u2022 Borstelsstraat 20/1, 3010 Leuven",
-    "description": "More info: https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
-    "url": "https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Heverlee",
-    "start": "2026-08-30T08:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/market-sunday",
-    "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided tour: Adept Brewery",
-    "start": "2026-08-30T11:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "De Smederij",
-    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Wijgmaal",
-    "start": "2026-08-24T15:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
-    "description": "More info: https://www.visitleuven.be/en/monday-market",
-    "url": "https://www.visitleuven.be/en/monday-market",
     "source": "leuven_calendar"
   },
   {
@@ -341,6 +66,72 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Dance and performance: Summer of Olevodroom",
+    "start": "2026-09-02T19:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Olevodroom, Brusselsestraat 63/69, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/dance-and-performance-summer-olevodroom",
+    "url": "https://www.visitleuven.be/en/dance-and-performance-summer-olevodroom",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Open Dance Floor",
+    "start": "2026-09-02T20:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Various locations",
+    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
+    "url": "https://www.visitleuven.be/en/open-dance-floor",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in city centre",
+    "start": "2026-09-03T13:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Brusselsestraat, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-thursday",
+    "url": "https://www.visitleuven.be/en/market-thursday",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in city centre of Leuven",
+    "start": "2026-09-04T07:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Ladeuzeplein en Hooverplein, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-friday",
+    "url": "https://www.visitleuven.be/en/market-friday",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Free carillon concerts on Grote Markt",
+    "start": "2026-09-04T12:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Grote Markt, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
+    "url": "https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: University library and visit of the tower",
+    "start": "2026-09-04T13:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-university-library-and-visit-tower",
+    "url": "https://www.visitleuven.be/en/guided-tour-university-library-and-visit-tower",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "September Fair",
     "start": "2026-08-04T00:00:00",
     "city": "leuven",
@@ -349,6 +140,72 @@
     "location": "City centre of Leuven",
     "description": "More info: https://www.visitleuven.be/en/september-fair",
     "url": "https://www.visitleuven.be/en/september-fair",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Summer pop-up Bar Belvue",
+    "start": "2026-09-04T18:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Martelarenplein, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/summer-pop-bar-belvue",
+    "url": "https://www.visitleuven.be/en/summer-pop-bar-belvue",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Walk: Leuven on tap",
+    "start": "2026-09-22T14:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-leuven-tap",
+    "url": "https://www.visitleuven.be/en/walk-leuven-tap",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in city centre of Leuven",
+    "start": "2026-09-05T09:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-saturday",
+    "url": "https://www.visitleuven.be/en/market-saturday",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Walk: Six centuries of the university in Leuven",
+    "start": "2026-09-05T10:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Universiteitshal, Naamsestraat 22, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/rondleiding-universiteit",
+    "url": "https://www.visitleuven.be/en/rondleiding-universiteit",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Brewery Stella Artois",
+    "start": "2026-08-05T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Brouwerij Stella Artois \u2022 Aarschotsesteenweg 20, 3000 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
+    "url": "https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Brewery de Coureur",
+    "start": "2026-09-05T13:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Brouwerij de Coureur \u2022 Borstelsstraat 20/1, 3010 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
+    "url": "https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
     "source": "leuven_calendar"
   },
   {
@@ -371,6 +228,17 @@
     "location": "Rector De Somerplein, Leuven",
     "description": "More info: https://www.visitleuven.be/en/leuven-night-run",
     "url": "https://www.visitleuven.be/en/leuven-night-run",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in Heverlee",
+    "start": "2026-09-06T08:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
     "source": "leuven_calendar"
   },
   {
@@ -440,6 +308,28 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Tower visit and live carillon concert University Library",
+    "start": "2026-09-08T18:20:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
+    "url": "https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Yoga at Park Abbey",
+    "start": "2026-09-12T10:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Park Abbey",
+    "description": "More info: https://www.visitleuven.be/en/yoga-park-abbey",
+    "url": "https://www.visitleuven.be/en/yoga-park-abbey",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Heritage Tour KU Leuven: Thermotechnical Institute",
     "start": "2026-09-12T10:30:00",
     "city": "leuven",
@@ -459,6 +349,17 @@
     "location": "Abdij van Vlierbeek, Abdij Vlierbeek 14, 3010 Kessel-Lo",
     "description": "More info: https://www.visitleuven.be/en/flea-market-vlierbeek-abbey",
     "url": "https://www.visitleuven.be/en/flea-market-vlierbeek-abbey",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Adept Brewery",
+    "start": "2026-09-13T11:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "De Smederij",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
+    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
     "source": "leuven_calendar"
   },
   {
@@ -583,6 +484,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Heritage Tour KU Leuven: University Hall",
+    "start": "2026-10-18T10:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Universiteitshal, Naamsestraat 22, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-university-hall",
+    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-university-hall",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Threading Landscapes: Art at Park Abbey",
     "start": "2026-10-24T00:00:00",
     "city": "leuven",
@@ -646,6 +558,17 @@
     "location": "Leuvense shopping streets",
     "description": "More info: https://www.visitleuven.be/en/leuven-night",
     "url": "https://www.visitleuven.be/en/leuven-night",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Walk: Beer tastin tour in Leuven",
+    "start": "2026-11-28T14:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-beer-tastin-tour-leuven",
+    "url": "https://www.visitleuven.be/en/walk-beer-tastin-tour-leuven",
     "source": "leuven_calendar"
   },
   {

@@ -4,1142 +4,6 @@ PRODID:-//CityCalendar//citycalendar//EN
 X-WR-CALNAME:City Calendar - copenhagen
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked Helligåndshuset
-DTSTART;TZID=Europe/Copenhagen:20260812T100000
-DTEND;TZID=Europe/Copenhagen:20260826T100000
-UID:01af0988ea52172c1f87450785d28ff24db69439@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Genfund holder kæmpe loppemarked i helligåndshuset midt på 
- strøget. 3 uger med nye vare hver dag. Åbent alle dage fra 10-17
-LOCATION:Valkendorfsgade 23\, 1151 København K\, Danmark\, Valkendorfsgad
- e 23\, 1151 København K\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-helligaandsh
- uset/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Bachs cellosuiter med Alisa Weilerstein
-DTSTART:20260824T193000
-UID:ab8960848e49e99c21682abcad44505b8b2fe10b@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19679453
-LOCATION:Tivoli - Glassalen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19679453
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Kenio: The Support Show
-DTSTART:20260824T194000
-UID:966d980480c7ab61ec413380eeb93d22f30cbbea@citycalendar
-CATEGORIES:event
-DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20153241
-LOCATION:Studenterhus Odense
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20153241
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Sicilien - fra barok til belcanto
-DTSTART:20260825T000000
-UID:844ce05bb7a5d0ce03fc29d4a8b00ed58e4c8f2e@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20131253
-LOCATION:Metronomen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131253
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Jazz på Pladsen
-DTSTART:20260825T000000
-UID:ee27b36806c401cc1f79850e80b14f27addd81d4@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20025448
-LOCATION:Ofelia Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20025448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 En sommeraften med DR Vokalensemblet
-DTSTART:20260825T193000
-UID:5ceaf496f8888d6062d0f830db83439f48948553@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19774318
-LOCATION:Trinitatis Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19774318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Tivoli Jazzpris 2026
-DTSTART:20260826T000000
-UID:b001783e55e163787de12e2ef7d6872c3a947676@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=19721968
-LOCATION:Tivoli - Glassalen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19721968
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Oplev et af byens bedste livebands: Kresten Osgood Kvintet
-DTSTART:20260826T000000
-UID:5f910db1e400ff08295dc2c1280278751af56564@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20159214
-LOCATION:KU.BE
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20159214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Koncert: bach xiii
-DTSTART:20260826T193000
-UID:da75bca6f67b3d354bad642acb0e3f8e4feb810c@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19999440
-LOCATION:Vigerslev Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19999440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Sjostakovitj - en sovjetkunstner
-DTSTART:20260827T000000
-UID:21597c33ca4090765cc738f76f1c46efc4db805e@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19854930
-LOCATION:Musikbiblioteket Odense
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19854930
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Koncert med Absalon String Quartet
-DTSTART:20260827T193000
-UID:6fa7c489d008321b76054307368f9a27d6ffb4ac@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19941952
-LOCATION:Sct. Thomas kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19941952
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Shefunk
-DTSTART:20260828T000000
-UID:27684f1c53a1932fb4975fe936fdc979913121f1@citycalendar
-CATEGORIES:event
-DESCRIPTION:Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arr
- more/type-nynaut?ArrNr=19866409
-LOCATION:Rust
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19866409
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Philippe Bernold & Træblæserne fra Den Kongelige Livgardes 
- Musikkorps
-DTSTART:20260828T000000
-UID:879eb4a11609a6c2b8dbcb676e801c0157f49c43@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20116786
-LOCATION:Christians Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20116786
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Copenhagen baroque festival
-DTSTART:20260828T000000
-UID:bfb18280b740b76beb7e5fef72bda26259d38b46@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19937271
-LOCATION:Trinitatis Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937271
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Sommerkoncert med Musica Ficta
-DTSTART:20260828T000000
-UID:4e9456c7005f68481b837b680eb1c122b9028b29@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20105600
-LOCATION:Ansgars Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105600
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Valby Dage 2026
-DTSTART;TZID=Europe/Copenhagen:20260828T120000
-DTEND;TZID=Europe/Copenhagen:20260830T200000
-UID:5b84b577775417985181f9ace5716d5e8c7d14ec@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:📅 Sæt et stort X i kalenderen – Valby Dage 2026 er nu of
- ficielt på plads! \nFra 28.-30. august inviterer vi til tre dage fyldt me
- d oplevelser\, fællesskab og festlig stemning i hele Valby. Og ja – i 
- år er programmet udvidet med en ekstra dag! \nGlæd dig blandt andet til 
- tivoli\, loppemarked\, musikbanko\, byvandringer\, aktiviteter for børn\,
-  langbordsmiddag på Skolegade\, gode tilbud og masser af livemusik. \nDer
-  kommer løbende endnu flere aktiviteter på programmet\, så der er masse
- r at se frem til. Se programmet på valbydage.dk. \nVi glæder os til at f
- ejre Valby sammen med jer! 🎉
-LOCATION:Porcelænstorvet og Tingstedet\, 2500 Valby\, Denmark\, Porcelæn
- storvet og Tingstedet\, 2500 Valby\, Denmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/valby-dage-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 The Staircase - A Travel in Time
-DTSTART:20260828T163000
-UID:2b0962dbdf214d059da3c28f23d0cf2c148a7f57@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20047923
-LOCATION:Trinitatis Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20047923
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Synergi med Rasmus Sørensen og Jakob Sørensen
-DTSTART:20260828T193000
-UID:2a0cbb3038e36030569059ee42a8b1ecc4046d92@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20013492
-LOCATION:Kvarterhuset Amagerbro
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20013492
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Stenbroen Festival
-DTSTART:20260829T000000
-UID:a210a128620b138804e47f8f119963c43996835a@citycalendar
-CATEGORIES:event
-DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20075536
-LOCATION:Nørrebro Street Food
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20075536
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Copenhagen baroque festival
-DTSTART:20260829T000000
-UID:85b3d3abc43aa3da40582a792f9e91cb85474dbf@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19937675
-LOCATION:Trinitatis Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19937675
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Koncert med Absalon String Quartet
-DTSTART:20260829T000000
-UID:c79d12a2ccf3986e06c0a56cf5488ea52d6b2357@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19694383
-LOCATION:Lundehus Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19694383
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Anders matthesen
-DTSTART:20260829T000000
-UID:e23f4063a93aa19377a1eaf9ac2be5ae084e72e6@citycalendar
-CATEGORIES:event
-DESCRIPTION:Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrm
- ore/type-nynaut?ArrNr=19771767
-LOCATION:Arken Museum for Samtidskunst
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771767
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked på Den Sorte Plads 2026
-DTSTART:20260829T000000
-UID:4f3681adac1bf8d5726ec9f276a7f789078bbce9@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19791676
-LOCATION:Den Sorte Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19791676
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppetorvet - Københavns Loppetorv
-DTSTART:20260829T000000
-UID:bc16fb3a6de61b91bc36b83f572b853254b69d54@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19956061
-LOCATION:Israels Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956061
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Amagerloppernes loppemarked
-DTSTART:20260829T000000
-UID:d26f8e26a0690b01fdca5db45a0d623ce9300044@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19979378
-LOCATION:Sundbyvester Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19979378
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Lyngby Loppemarked 2026
-DTSTART:20260829T000000
-UID:74213209e4a7c3c0915622ec02ca8f5c96a97a9a@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20011114
-LOCATION:Ulrikkenborg Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20011114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Farmers Market i Marketenderiet\, Valby. Et overdådigt madma
- rked med lokale varer
-DTSTART:20260829T000000
-UID:4fd05674aeae37d9a5c1b2ad1523805b69de6081@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20038682
-LOCATION:Marketenderiet
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20038682
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Københavns Længste Loppemarked
-DTSTART:20260829T000000
-UID:1d273152ce1e9bdc4673eed2efac60af1b8d8475@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20042986
-LOCATION:Byparken i Ørestad City
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20042986
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Saxogades loppemarked
-DTSTART:20260829T000000
-UID:f9073bd4c6dd0320cc7b167ab375f8280a989150@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20050549
-LOCATION:Saxogade
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050549
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Vanløse torv loppemarked
-DTSTART:20260829T000000
-UID:5ddbac4ddc7ac5451d4d68b61fd49d321a939ec3@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20050565
-LOCATION:Vanløse Torv
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050565
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked\, Skovshoved Grundejerforening
-DTSTART:20260829T000000
-UID:d7c2383ba84ef75d3ba8d7ee1abd77c9bb74646a@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20170965
-LOCATION:Skovshoved Havn
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20170965
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Luna Markedet Amager Strand
-DTSTART:20260829T000000
-UID:10fd05976eaabbb88f1892ba9d3ef59971d60f65@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20208694
-LOCATION:Amager Strandpark
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208694
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Sensommermarked
-DTSTART:20260829T000000
-UID:fb533fed438597fc1d587f48708c4e38299aa50d@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20226974
-LOCATION:Folkekirkens Nødhjælps Sorteringscenter
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20226974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Stort vejloppemarked i Vanløse
-DTSTART:20260829T000000
-UID:28269c0faed7621d67529b7d0175bc5cd0a0a710@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20233259
-LOCATION:Bangsbo Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20233259
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked Toftegårds Plads
-DTSTART;TZID=Europe/Copenhagen:20260829T070000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:b87bdc7d2477ff64ac29599db4c02aa285c634f5@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Antal stadepladser:\n\n26-50 \n\n\nSalg fra boder med genbrug
-LOCATION:Toftegårds Plads 2500 Valby\, Toftegårds Plads\, 2500 Valby
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-toftegaards-
- plads/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Københavns Længste Loppemarked 2026
-DTSTART;TZID=Europe/Copenhagen:20260829T080000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:efd04f3723a69fa1cfd083714f22eafd05729a30@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:🔺Salg af standpladser er åbent🔺 \nKøbenhavns længste 
- loppemarked byder på ca. 400 stadeholdere og flere tusinde besøgende. \n
- D. 13 juni kl. 10.00-16.00 har du mulighed for at træde ind i Københavns
-  længste loppemarked\, som strækker sig intet mindre end 1\,3km og med s
- tadeholdere på begge sider af gågaden hvilket giver hele 2\,6km med tons
- vis af varer af både brugt og ubrugte ting og sager. \nMarkedet er for al
- le der vil sælge ud af sine ting og sager – både som ny og førstegang
- s sælger og som god gammel kræmmersælger. – alle er velkommen. \nUdva
- lget strækker sig af alt fra nyt til gammelt af tøj\, legetøj\, smykker
- \, møbler osv. \nSavner du derfor de gode gamle loppemarkeder hvor man ku
- nne finde alt mellem himmel og jord\, så er Københavns Længste Loppemar
- ked det rette sted at tage til. \nIkke desto mindre er der gratis entré f
- or alle besøgende. Og prisen for en standplads som sælger er prisen bill
- ig og til at overkomme. \nMarkedet ligger som nabo til Fields\, så der er
-  rig mulighed for at gøre lørdag d. 13 juni til en fantastisk og hyggeli
- g shoppedag både inde og ude og med Ørestad byparks hyggelige omgivelser
-  kan der samtidig nydes en dag i naturrige sommer omgivelser. \nIkke minds
- t ligger markedet med både bus\, metro og Kystbane forbindelser og et uta
- l af muligheder af parkering. \nSkal du have en stand på Københavns læn
- gste loppemarked kan du bestille plads på linket her:\nhttps://loppebjorn
- en.dk \nGå ikke glip af årets hyggeligste loppemarked. \nMarkedet er st
- øttet op af Grundejerforeningen Ørestad bylivspulje
-LOCATION:Ørestads boulevard 68\, Copenhagen\, Ørestads boulevard 68\, K
- øbenhavn S\, 2300\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-laengste-lop
- pemarked-2026/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Københavns Længste Loppemarked 29 august 2026
-DTSTART;TZID=Europe/Copenhagen:20260829T080000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:f3a861a09c26188f764acd255b2b9d150acd1450@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:🔺Salg af standpladser er åbent🔺 \nKøbenhavns længste 
- loppemarked byder på ca. 400 stadeholdere og flere tusinde besøgende. \n
- D. 29 august kl. 10.00-16.00 har du mulighed for at træde ind i Københav
- ns længste loppemarked\, som strækker sig intet mindre end 1\,3km og med
-  stadeholdere på begge sider af gågaden hvilket giver hele 2\,6km med to
- nsvis af varer af både brugt og ubrugte ting og sager. \nMarkedet er for 
- alle der vil sælge ud af sine ting og sager – både som ny og førstega
- ngs sælger og som god gammel kræmmersælger. – alle er velkommen. \nUd
- valget strækker sig af alt fra nyt til gammelt af tøj\, legetøj\, smykk
- er\, møbler osv. \nSavner du derfor de gode gamle loppemarkeder hvor man 
- kunne finde alt mellem himmel og jord\, så er Københavns Længste Loppem
- arked det rette sted at tage til. \nIkke desto mindre er der gratis entré
-  for alle besøgende. Og prisen for en standplads som sælger er prisen bi
- llig og til at overkomme. \nMarkedet ligger som nabo til Fields\, så der 
- er rig mulighed for at gøre lørdag d. 29 august til en fantastisk og hyg
- gelig shoppedag både inde og ude og med Ørestad byparks hyggelige omgive
- lser kan der samtidig nydes en dag i naturrige sommer omgivelser. \nIkke m
- indst ligger markedet med både bus\, metro og Kystbane forbindelser og et
-  utal af muligheder af parkering. \nSkal du have en stand på Københavns 
- længste loppemarked kan du bestille plads på linket her:\nhttps://loppeb
- jornen.dk \nGå ikke glip af årets hyggeligste loppemarked. \nMarkedet er
-  støttet op af Grundejerforeningen Ørestad bylivspulje
-LOCATION:Ørestads boulevard 68\, Copenhagen\, Ørestads boulevard 68\, K
- øbenhavn S\, 2300\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-laengste-lop
- pemarked-29-august-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Brønshøj Torv - Loppemarked
-DTSTART;TZID=Europe/Copenhagen:20260829T090000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:aed99e8ae85941aed92bb1bd70306faf95cc2fe4@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Kom og oplev det hyggelige Looppemarked på Brønshøj Torv! H
- er finder du alt fra loppefund og genbrugsguld til hjemmelavede varer\, ku
- nsthåndværk og lokale specialiteter. Stemningen er afslappet og fyldt me
- d liv – et sted\, hvor naboer\, familier og besøgende mødes over gode 
- handler og en kop kaffe.
-LOCATION:Brønshøj Torv 177 2700 Brønshøj\, Brønshøj Torv 177 2700 Br
- ønshøj
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/broenshoej-torv-looppema
- rked/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Gør et kup på Frederiksberg Loppetorv bag Rådhuset
-DTSTART;TZID=Europe/Copenhagen:20260829T090000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:e37a70bb7c33700eec3eb5eb99b47fc57cb29442@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Er du på jagt efter unikke genbrugsfund\, smukke antikviteter
-  eller måske bare en hyggelig lørdagsaktivitet? Så er Frederiksberg Lop
- petorv det helt rette sted at starte. Hver lørdag i sommerhalvåret forva
- ndles pladsen bag Frederiksberg Rådhus til et sandt mekka for loppeentusi
- aster. \nSæsonen 2026 Vi glæder os til at byde velkommen til en ny forry
- gende sæson. Her er alt\, hvad du skal vide om åbningstiderne: \n\n\nSæ
- sonstart: Lørdag den 4. april 2026 \n\n\nSæsonslut: Lørdag den 17. okto
- ber 2026 \n\n\nÅbningstid: Hver lørdag fra kl. 09.00 til 15.00 \n\n\nVig
- tig information om august Bemærk venligst\, at der holdes en lille pause 
- midt på sommeren. Lørdag den 15. august 2026 er der intet loppemarked\, 
- da pladsen her danner ramme om festlighederne i forbindelse med Copenhagen
-  Pride Parade. \nKom forbi og mærk den særlige Frederiksberg-stemning\, 
- hvor du kan finde alt fra tøj og bøger til designklassikere og køkkengr
- ej. Vi ses på Rådhuspladsen!
-LOCATION:Frederiksberg Bredegade\, 2000 Frederiksberg\, Frederiksberg Bred
- egade\, 2000 Frederiksberg
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/goer-et-kup-paa-frederik
- sberg-loppetorv-bag-raadhuset/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Hyggenygge Lopper
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T130000
-UID:40dece3b157d319d765765a2878cba65feac3dc7@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:📣 Loppemarked foran Dessertcaféen Hyggenygge🧸👕☕️
-  \nHar du fyldt dit loft eller din kælder\, og trænger du til at få ryd
- det ud i dine gemmer? 📦✨ \nNu har du mulighed for at få en gratis lo
- ppestand på 2 x 2 meter foran Dessertcaféen Hyggenygge.\nDer opkræves d
- og et depositum på 100 kr. for at reservere din plads. ✅ \n📌 Praktis
- k information for standholdere \n🕗 Opsætning kan ske fra kl. 08.00\n
- 🪑 Medbring selv bord og stol\n💰 Har du brug for bord og stol\, kan d
- et lejes for 50 kr. \n📝 Tilmelding \nFor at reservere din plads skal du
-  overføre: \n💵 100 kr. i depositum for stand\n💵 150 kr. hvis du bå
- de ønsker stand samt leje af bord og stol \n📲 Betaling sker via Mobile
- Pay Box 8911YH \nDer vil være 15-20 stande\, hvor man kan gøre et godt f
- und. 🛍️\nHer finder du blandt andet tøj til både små og store\, le
- getøj og masser af gode loppefund til voksne. 👚👖🧩 \nI caféen ka
- n der købes kaffe\, kage\, is\, milkshake og mange andre lækkerier. ☕
- ️🍰🍦🥤\nDer er naturligvis også adgang til toilet i caféen. 
- 🚻 \nVi håber på solskin\, god stemning og masser af glade loppebørn 
- og voksne. ☀️😊 \n📍 Du finder os på hjørnet af Carl Jacobsens V
- ej og Trekronergade \n🕙 Loppemarkedet afholdes kl. 10.00-15.00 \nVi gl
- æder os til en hyggelig dag med gode fund\, glade mennesker og caféhygge
- . 🧡
-LOCATION:Dessertcaféen Hyggenygge\, Carl Jacobsens Vej 15A\, Valby\, 2500
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/hyggenygge-lopper/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Gadens Børns Outlet-stand på Danmarks længste Loppemarked 
- / Valbydagene
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T130000
-UID:5354ea345198e8d67b47571049be0ef8f4d934ed@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Gadens Børn på Danmarks Længste Loppemarked.\nGadens Børn 
- er stolte af at være en del af Danmarks Længste Loppemarked i forbindels
- e med Valbydagene. \nVi deltager med et udvalg af restlagertøj\, tidliger
- e kollektioner og samples fra udvalgte brands\, som fortjener et nyt liv. 
- Derudover sælger vi styles og accessories\, som er produceret gennem vore
- s systue i Kolkata\, hvor udsatte unge får mulighed for at lære et fag o
- g skabe sig en vej til et mere selvstændigt liv. \nFor os handler det om 
- mere end at give tøj et nyt liv. Det handler om at være med til at skabe
-  nye muligheder for børn og unge i Kolkata. \nNår du handler hos os\, er
-  du med til at sikre\, at flere børn får adgang til skole\, sundhed\, tr
- yghed og troen på\, at deres fremtid kan blive en anden. \nVi håber\, du
-  vil kigge forbi\, gå på opdagelse og være med til at give både tøjet
-  og mennesker nye muligheder. 🤍
-LOCATION:Skolegade\, 2500 København\, Danmark\, Skolegade\, 2500 Københa
- vn\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/gadens-boerns-outlet-sta
- nd-paa-danmarks-laengste-loppemarked-valbydagene/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Amagerlopperne ´s loppemarked 2026
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T140000
-UID:57294f7244e74177e0afddfcd4b325dc51968ee5@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Kom og vær med når Amagers hyggeligste og populære loppemar
- ked igen afholdes på Sundbyvester Plads.\nPå pladsen møder du en masse 
- glade kræmmere\, der står klar til at gøre en god handel\, med bl.a. An
- tik/Retro\, nips\, indretning til hjemmet\, tøj smykker og meget\, meget 
- mere.\nVi står står på pladsen mellem busholdepladsen og legepladsen.\n
- Parkering findes i de omkringliggende gader.\nBusser lige til pladsen: 5C\
- , 250S\, 18\, 77 78\nVelmødt til en hyggelig dag.\nAmagerlopperne
-LOCATION:Sundbyvester Plads\, 2300 København S\, Danmark\, Sundbyvester P
- lads\, 2300 København S\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/amagerlopperne-s-loppema
- rked-2026/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Byens tøj og Kreamarked
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T140000
-UID:aa9e8c2c737c9d57ca03d95a1e2ba303c49d8c7b@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Byens tøj & krea marked 5/4 \, har du booket ? Book på mp 40
- 52TCHusk skriv dato !Krea stade 75kr 1×2 m Tøj stade 150kr 2×3 mKom og 
- find det fedeste tøj til billige priser ! Ses vi ?
-LOCATION:Vanløse Torv\, 2720 København\, Danmark\, Vanløse Torv\, 2720 
- København\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/byens-toej-og-kreamarked
- /2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked i Urtehaven
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T140000
-UID:412d7c483a60a0cc56ff7dc1a39a9197ae4df419@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Velkommen på Tomat- og Persillevej på Amager\, hvor 52 rækk
- ehuse disker op med alskens fund fra gemmerne. Der vil være tøj og sko i
-  alle størrelser\, ting til hjemmet og både til husets mindste og størs
- te – og så vil der også være lidt lækkert til ganen. Så kig forbi d
- et skønne loppemarked og find lige præcis det\, du altid har stået og m
- anglet. Vi ses selvfølgelig lørdag den 29. august kl 10.00-14.00 🤩
- 🥳🌟🌸
-LOCATION:Persillevej\, amager\, Persillevej\, amager
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-urtehaven/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Falkoner loppemarked
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T140000
-UID:d7235f11cb9dc8eb5e3e5b9ed01dc1671725e361@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Hyggeligt loppemarked i gården🤎🤎
-LOCATION:Falkoner alle 63\, Falkoner alle 63
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/falkoner-loppemarked/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 SAXOGADES LOPPEMARKED
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:3e4796a4411b5f6da779a9b55fea0580a1290275@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:SAXOGADES LOPPEMARKED er tilbage den sidste lørdag hver måne
- d fra april til september!🫂🎈🌅🛋️❣️🛒❕👜 \nGør dig 
- et genialt kup\, hæng ud i solen med en kaffe fra Café Sonja eller tilme
- ld dig med din egen bod kvit og frit på saxogade.social. \nLoppemarkedet 
- foregår i forlængelse af Saxogade på Litauens Plads og alle (bortset fr
- a kommercielle boder) kan stille op med egen loppebod. \nTilmeld dig som s
- tadeholder på saxogade.social og modtag mere information.\n❌Vi er lukke
- t for tilmeldinger til d. 25. april❌ \nSaxogades Loppemarked er frivilli
- gt drevet og al overskud fra Sonja-boden går til Settlementets sociale in
- dsatser på Vesterbro. \nTil dig med en bod:\n🤍Medbring selv borde\, st
- ativ\, tæpper\, osv.\n🤍Vi sætter op kl. 9 og pakker sammen kl 15.\n
- 🤍Tag hensyn til hinanden og udnyt pladsen effektivt\, så der er plads 
- til alle.\n🤍Kommercielt salg er desværre ikke tilladt!\n(Hvis du har e
- t brand med kunsthåndværk eller en instagramprofil/hjemmeside til dine v
- arer\, tæller dette som kommercielt salg. Hold i stedet øje med Saxogade
- s Julemarked\, hvor kunsthåndværk og lokale brands er meget velkomne<3) 
- \nVi glæder os til at se dig! \nhttps://www.facebook.com/events/164600835
- 3209527/?event_time_id=1652885179188511
-LOCATION:Saxogade\, 1662 Copenhagen\, Denmark\, Saxogade\, 1662 Copenhagen
- \, Denmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/saxogades-loppemarked-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked på Skjolds Plads
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:acf2a31c6fdd4961692f6dbe1a3717bab4c2ce45@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Kommer til lopper på Skjolds Plads lige ved metroen
-LOCATION:Skjolds Plads\, Skjolds Plads
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-paa-skjolds-
- plads/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Stort Loppemarked\, Sundbyvester Plads
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:d863ae5a03abc7cf5b437dce7033066881cdc848@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Amagerlopperne står på pladsen efter sommerpause \nKom og v
- ær med når Amagers hyggeligste og populære loppemarked afholdes på Sun
- dbyvester Plads.\nPladsen fyldes med glade kræmmere\, der står klar til 
- at gøre en god handel\, med bl.a. Antik/Retro\, nips\, indretning til hje
- mmet\, tøj smykker og meget\, meget mere. \n– Vi står står på pladse
- n mellem busholdepladsen og legepladsen.\n– Parkering findes i de omkrin
- gliggende gader.\n– Busser lige til pladsen: 5C\, 250S\, 18\, 77 78 \nVe
- lmødt til en hyggelig dag.\nAmagerlopperne ♥ \nhttps://www.facebook.com
- /events/1042667045154587/?event_time_id=1042667048487920
-LOCATION:Sundbyvester Plads\, Sundbyvester Plads
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/stort-loppemarked-sundby
- vester-plads-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Stort vejloppemarked i Vanløse 29. august
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T150000
-UID:5f14c140d77e7e2cf15365ecd54f871f2a31a780@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Det store årlige loppemarked omkring Bangsbo Plads og Bangsbo
- vej i Vanløse løber af stablen 29. august. Masser af familier sælger ud
-  af gemmerne.\nOmkring 40 boder.\nTæt på metro\, bus og tog. Vejene lige
-  omkring vil være spærret af\, men der er rig mulighed for parkering i o
- mrådet.\nVi glæder os til en hyggelig dag.
-LOCATION:Bangsbo Plads\, 2720 København\, Danmark\, Bangsbo Plads\, 2720 
- København\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/stort-vejloppemarked-i-v
- anloese-29-august/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Vanløse Torv Loppemarked
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:ba8ba6a2dd110c043cd6ec477afbe7b967bef1f4@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Vanløse torv loppemarked hver lørdag 10.00 – 16.00 på Van
- løse torv.\nKom og gør et kup på vores loppe & livsstilsmarked masser a
- f lækre loppefund!\nKøb brugt \, hjælp klima & spar penge! \nSes vi?
-LOCATION:Vanløse Torv Lopemarked\, Vanløse Torv 1\, Vanløse\, 2720
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/vanloese-torv-loppemarke
- d/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked på Den Sorte Plads 2026
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:91e8864248e4ce946ef64e706dfef5ecb6712eb6@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked på Den Sorte Plads vender tilbage med hyggelige l
- oppemarkeder henover sommerhalvåret 2026. Datoerne i år er lørdag 30. m
- aj og lørdag 29. august.
-LOCATION:Den Sorte Plads\, København N\, Den Sorte Plads\, København N
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-paa-den-sort
- e-plads-2026/2026-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked og grill hygge 2026
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:ac95daf78a774eecc610da50e070cc14218b2147@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Sæt ❌ i kalenderen den 29. august 2026 \nTil Loppemarked og
-  Grill hygge \nKl. 10:00-16:00 \nPå legepladsen/Hjallerup alle\, i samarb
- ejde mellem Grønnehave og Hjallerupvang. \n– Gratis hoppeborg til børn
- ene 🌞 \n– Gratis popcorn til børnene 🌞 \n– GRATIS deltagelse 
- 🌞 \n– Kl. 12.30 tænder vi op for grillen 🌭 \nBemærk:\n– Du er 
- velkommen til at sælge kaffe/kage/lignende i din loppebod\n– Medbring s
- elv borde\, telte\, m.v.\n– Der er ikke toilet på pladsen \nTilmelding 
- af stand senest 20/8: Send mail til loppe@groennehave.dk\, eller kontakt b
- estyrelsen. \nVi glæder os til en hyggelig dag sammen med jer. \nMedbring
-  godt humør 😁 \nSommerhilsner fra bestyrelsen 🌞
-LOCATION:Legepladsen\, Hjallerup alle 31\, 2770 Kastrup\, Legepladsen\, Hj
- allerup alle 31\, 2770 Kastrup
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-og-grill-hyg
- ge-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 VALBY DAGE 2026 - Loppemarked\, belgiske vafler\, tip en 13
- ’er 💚🌿👒
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260830T170000
-UID:8392db8f5268939581f3fe5b999c991c0bfb1c3d@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:VALBY DAGE – kom forbi og vær med \nLørdag den 29. og søn
- dag den 30. august kl. 10–17 er der Valby Dage – og selvfølgelig er V
- alby Værested med. \nI 1986 blev Værestedet skabt af lokale kirker\, og 
- siden har samarbejdet været en vigtig del af Værestedets historie. Derfo
- r er de fire kirker naturligvis også med\, når Valby Dage løber af stab
- len. Prøv tip en 13ér og test din viden om kirken – alle kan være med
-  på spørgsmål. Præmier på højkant. \nForan og inde i værestedet hol
- der vi loppemarked\, og indenfor kan du få belgiske vafler og en kop kaff
- e. \nMellem kl. 10 og 15 møder du forskellige præster fra Timotheuskirke
- n\, Aalholm Kirke\, Valby Søndre Sogn\, som består af Johannes Døber- o
- g Margrethekirken\, samt Jesuskirken. \nDet handler først og fremmest om 
- at være sammen\, møde hinanden og fejre det gode lokale liv i Valby. \nS
- å kig forbi – måske finder du et loppefund\, får en vaffel eller bare
-  en god snak. \n29. & 30. august kl. 10–17 \nVi ses i værestedet
-LOCATION:Valby Langgade 122\, st. tv.\, 2500 Valby\, Denmark\, Valby Langg
- ade 122\, 2500 København
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/valby-dage-2026-loppemar
- ked-belgiske-vafler-tip-en-13er-%f0%9f%92%9a%f0%9f%8c%bf%f0%9f%91%92/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked i Skolegade
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260830T180000
-UID:471a15dd6fe99bd815285d8b2d277dd8e3cb53fb@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Silicon Valby støtter op omkring Valby dagene\, og står for
-  det populære loppemarked. \nVi satser på at 2026 igen bliver det hidtil
-  største år\, og der vil også være loppemarked i begge ender af Skoleg
- ade som der også har været de sidste par år.
-LOCATION:Skolegade\, 2500 København\, Danmark\, Skolegade\, 2500 Københa
- vn\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-skolegade/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Danmarks længste loppemarked (Valby)
-DTSTART;TZID=Europe/Copenhagen:20260829T100000
-DTEND;TZID=Europe/Copenhagen:20260830T180000
-UID:133dc6f62d35456a14a14fada31fae502d4c2a56@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Vi støtter op omkring Valby dagene\, og står for det populæ
- re loppemarked. \nVi satser på at 2026 igen bliver det hidtil største å
- r\, og der vil også være loppemarked i begge ender af Skolegade som der 
- også har været de sidste par år. \nSidste år var der mellem 10-15.000 
- besøgende. \nVil du have en stand?\ntilmeld dig her: https://www.siliconv
- alby.dk/loppemarked/
-LOCATION:Skolegade\, 2500 København\, Danmark\, Skolegade\, 2500 Københa
- vn\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/danmarks-laengste-loppem
- arked-valby/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Københavns Loppetorv
-DTSTART;TZID=Europe/Copenhagen:20260829T110000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:949456b1d82c23b220bad1d30ecdb7e69a60ec99@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Københavns Loppetorv er et fast traditionelt loppemarked hver
-  lørdag\n \n– et mødested for mennesker og ting\, tøj og andet godt.
-LOCATION:Israels Plads\, Linnésgade 3\, København\, Israels Plads\, Linn
- ésgade 3\, København
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
- 26-08-29/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked - Nørrebro Vænge
-DTSTART;TZID=Europe/Copenhagen:20260829T110000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:710cb041eb871aa667f0416b56a33b15bc5186fe@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked på Nørrebro Vænge – 29. august 2026 \nNørreb
- ro Vænge afholder loppemarked og inviterer borgere fra nærområdet til a
- t opstille boder med brugte genstande. Der er stadig ledige pladser\, og d
- et er gratis at deltage med en bod. \nTilmelding foregår via mail på fe
- stinbv@gmail.com Pladser tildeles efter først til mølle-princippet. \nD
- ato: 29. august 2026\nTidspunkt: Kl. 11.00–16.00\nSted: Nørrebro Vænge
- \, Nørrebro\nAlle er velkomne.
-LOCATION:Nørrebro Vænge 1\, 2200 København N\, Danmark\, Nørrebro Væn
- ge 1\, 2200 København N\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-noerrebro-va
- enge/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 LOPPEMARKED I Masnedøgade 2-10 København Ø
-DTSTART;TZID=Europe/Copenhagen:20260829T110000
-DTEND;TZID=Europe/Copenhagen:20260829T160000
-UID:3373614c9a77b7dfb9f3e72eb368bf45ec7ca67d@citycalendar
-CATEGORIES:flea_market
-LOCATION:Masnedøgade 2-10 København Ø\, Masnedøgade 2-10 København Ø
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-masnedoega
- de-2-10-koebenhavn-oe/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Rejer & Vin ad libitum
-DTSTART:20260829T153000
-UID:f550aa1d63a75b51465083ca1054d237d819256f@citycalendar
-CATEGORIES:event
-DESCRIPTION:Gastronomi\n\nMore info: https://www.kultunaut.dk/perl/arrmore
- /type-nynaut?ArrNr=19707059
-LOCATION:Restaurant Nordatlanten
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19707059
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Musikkammeret: Carl Nielsen og Rued Langgaard
-DTSTART:20260829T164500
-UID:5864d60d918b7bc90d30c37c4cf95017610c8b57@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20218332
-LOCATION:Amalienborgmuseet
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Sommerkoncert: Novo Quartet - Sene kvartetter af Haydn og Bee
- thoven
-DTSTART:20260830T000000
-UID:8a9148a85ec2379f591a46aa9501a6dd4090cf08@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19935417
-LOCATION:Glyptoteket
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19935417
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Kræmmer for en dag
-DTSTART:20260830T000000
-UID:0972ea5f8e5d1ac7f98019b46149dc433f072ca0@citycalendar
-CATEGORIES:event
-DESCRIPTION:Byfest/Festival\n\nMore info: https://www.kultunaut.dk/perl/ar
- rmore/type-nynaut?ArrNr=20008448
-LOCATION:Bredekærgård
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20008448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Schack Gruppen spiller jazz på dansk
-DTSTART:20260830T000000
-UID:27de138d9ee33e4c945201d19c35fb33efc4f97e@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20000160
-LOCATION:Kildevældskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20000160
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🖼️ Soloudstilling v. CMK - Carl Mårten Karlholm"Dyrefarver I
-  CPH"
-DTSTART:20260830T000000
-UID:cea17abba941aec32b48bd863c2036b4a5db4cb6@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmor
- e/type-nynaut?ArrNr=20203091
-LOCATION:Gallery House of k3
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203091
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked på Bredekærgård
-DTSTART:20260830T000000
-UID:6f106c944486176153d0f345eb54be01ce4f4709@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20008455
-LOCATION:Bredekærgård
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20008455
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppelinda på rådhuspladsen
-DTSTART:20260830T000000
-UID:7e27caa477cfae0f3364ddaee732630d84e0f36d@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19713034
-LOCATION:Rådhuspladsen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19713034
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Bæredygtigt Loppemarked på Enghave Plads
-DTSTART:20260830T000000
-UID:d06b90a4c31befbb8e409694dad8c2643d61dcf8@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19840609
-LOCATION:Enghave Plads Metro
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19840609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Pink Journal Loppemarked
-DTSTART:20260830T000000
-UID:012fb801544e9a6475384fdd669236354abc3aba@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19975537
-LOCATION:Halmtorvet
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19975537
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Gentofte loppemarked
-DTSTART:20260830T000000
-UID:c7d08a3be812977f55e6fb543cb09f72fd09e0c0@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=19976121
-LOCATION:Gentofte Loppemarked
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked til Bilfri Søndag
-DTSTART:20260830T000000
-UID:ca7af429b46a32355db91ed29af43805cacad6cb@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20165054
-LOCATION:Nørrebrogade
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20165054
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Furesøens loppemarked
-DTSTART:20260830T000000
-UID:bdc74fb5c8a6e82a415ee4652ab9cc1c5713c93f@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20174779
-LOCATION:Furesøens loppemarked
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174779
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Danmarks længste loppemarked (Valby)
-DTSTART:20260830T000000
-UID:cc1b225644644e507b4eefd19a8d8273f0223275@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20224023
-LOCATION:Skolegade
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20224023
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Bæredygtigt Loppemarked - Enghave Plads
-DTSTART:20260830T000000
-UID:52f97ea02153aff3e38ea4074694267f3f554e34@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20233268
-LOCATION:Enghave Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20233268
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked i Blågårdsgade
-DTSTART:20260830T000000
-UID:d2e87ce31a49b215e6a40571bf5884a41fca2643@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20238472
-LOCATION:Blågårdsgade 12
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20238472
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked i Rentemestergården
-DTSTART:20260830T000000
-UID:50bfe233fa8c43d3ec215b66118e0825f9fc4acc@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
- ut.dk/perl/arrmore/type-nynaut?ArrNr=20259146
-LOCATION:Thoravej 6
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20259146
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked Toftegårds Plads
-DTSTART;TZID=Europe/Copenhagen:20260830T070000
-DTEND;TZID=Europe/Copenhagen:20260830T150000
-UID:6a3cda99d8fc93a77fac793e92bb830477696987@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Antal stadepladser:\n\n26-50 \n\n\nSalg fra boder med genbrug
-LOCATION:Toftegårds Plads 2500 Valby\, Toftegårds Plads\, 2500 Valby
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-toftegaards-
- plads/2026-08-30/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Veras Market under Buen 2026
-DTSTART;TZID=Europe/Copenhagen:20260830T100000
-DTEND;TZID=Europe/Copenhagen:20260830T150000
-UID:da8d769a274be203d56138d019bd03165d02d08c@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Join os til Danmarks største genbrugstøjmarked af en loppefe
- st hver søndag\, når Veras Market samler de flotteste loppe hoveder\, so
- m sammen sikrer at brugt tøj får nyt liv  \nENGLISH BELOWTil Veras Mark
- et under Buen kan du hver søndag snuppe sprødt brugt kluns til gavn for 
- miljøet fra 80 private stande og fra Veras egen stand\, hvor der altid er
-  1 for 40\,- og 4 for 100\,-Tjen selv monetos på dit brugte tøj og giv d
- et nyt liv med en stand\, hvor du kan leje bord\, tøjstativ og bøjler af
-  Veras  Du finder mere info lige her: https://verasvintage.dk/market/ko
- ebenhavn/Vi glæder os helt vildt til at se jeres flotte hoveder til en fa
- rverig søndagsloppefest under Buen! \nKærligst\,Damerne bag Veras\n⁠ 
- BLIV STANDHOLDER ⁠Veras Market er landets nemmeste tøjmarked\, hvor du
-  er sikret værdi for ALT dit kluns. Lej tøjstativ m. bøjler og borde af
-  os – og hvis du har lyst\, så kan du endda aflevere dit overskydende t
- øj til os efter markedet\, hvor vi som tak kvitterer med et gavekort på 
- 100\,- til Veras webshop eller butik i Studiestræde 27\, Kbh. Nemt\, ik?T
- jen penge på dit aflagte kluns\, mens du har en fest! Sælg lige hvad du 
- lyster\, så længe det er egne brugte varer indenfor kategorierne tøj\, 
- accessories og sko.Book din stand og tøjstativer  verasvintage.dk/marke
- t/koebenhavn\n FOR BESØGENDE Veras Market byder altid på tonsvis af un
- ikke brugte skatte\, og du kan finde alt fra trendy highstreet\, unikke vi
- ntagesager til flotte mærkevarer.• Der er altid gratis adgang til Veras
-  Market under Buen• Der er fri adgang til toiletter• De fleste standho
- ldere tager imod MobilePay og kontanter• I Veras stand tager vi imod kor
- t\, kontanter og MobilePay\nVERAS STAND ALT 40\,- // 4 items for 100\,-BY
- T DIT TØJ TIL NYTIndlevér dit tøj på markedet (maks. 5 stykker tøj pe
- r kunde) og få 50% på alt nyt\, brugt tøj i Veras:1. Aflevér dit tøj 
- (maks. 5 styk) til os i Veras stand2. Få straks rabatpoint udbetalt\, ca.
-  50% af vores salgspris3. Rabatpointene gir’ dig op til 50% på alt nyt\
- , brugt tøj fra VerasVi tager imod alt dametøj\, som er rentvasket og ud
- en huller\, pletter og slitage. Vi glæder os til at se dig og dit kluns\,
-  så vi sammen cirkulerer alt brugt tøj og bekæmper tøjspild \n OM VE
- RAS I Veras er det nemt at forny din garderobe bæredygtigt og skille dig
-  af med dit brugte tøj uden at skabe tøjspild. Veras er skabt ud fra en 
- cirkulær forretningsmodel med flere platforme\, hvor alt tøj finder sin 
- plads og dermed får nyt liv. Hos Veras kan du bytte\, shoppe og sælge br
- ugt tøj – og dét\, der er hullet eller slidt\, reparerer og upcycler v
- i for dig.\nAlt tøj i Veras kommer fra lokale danske garderober. Vi indk
- øber ikke noget tøj – og intet tøj går til spilde. Vi hacker den eta
- blerede tøjindustri og gør et lineært systemet cirkulært. Sådan når 
- vi vores vision om at bekæmpe tøjspild og give alt tøj nyt liv. Det mes
- t bæredygtige er at cirkulere tøjet – præcis som det er.Besøg vores 
- brugte univers  verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 10
- -15 is transformed into your favorite secondhand market – with clothes a
- nd accessories for both women and men. Whether you’re into high street s
- coops\, exclusive luxury\, or hidden vintage treasures\, Veras Market is f
- or you! With more than 80 stalls and of course the famous Veras vibe this 
- is the perfect place to spend your Sunday. There is always free entrance t
- o the market.Remember to check out Veras shop where you can get item for 4
- 0\,- and 4 items for 100\,-. Here you can also hand in your own clothes\, 
- from which you receive points to use in Veras stall and Veras shop.We can
- ’t wait to get our secondhand Sunday groove on with all of you!￼BECOME
-  A STALLHOLDER￼Book a stall on one of Copenhagens most popular secondhan
- d clothing markets. You can sell used items within the categories of cloth
- ing\, accessories\, and shoes for women and men. Book your stall: www.ver
- asvintage.dk/koebenhavnA stall 2×3 m: 465 DKKRent a dress rail incl. 50 h
- angers for your stall: 250 DKK• All stalls are allocated on a first come
-  first served basis• You can share your stall with one other friend• Y
- ou can bring your own dress rail(s) as long as you don’t have more than 
- two in total.• You can bring your own table\, but there is a table inclu
- ded in every stall• Check-in is between 8:30-09.00 AMVeras accept all le
- ft-over clothes that you didn’t get to sell after each market. In exchan
- ge we give you 100 DKK (a minimum of 1 regular bag) which you can use in o
- ur stores or online at verasvintage.dk￼ABOUT VERASVeras secondhand univ
- erse helps you to always get value for your old clothes. Veras gives you t
- he opportunity to get a whole new wardrobe without hurting the environment
-  or your finances in 2 simple ways:• Swap to new: Receive points in retu
- rn for your old clothes – no matter the quality\, brand\, or style of th
- e clothes. With the points you can buy new secondhand clothes in our shops
-  or on verasvintage.dk• Sell your clothes with at stall at Veras Market
- . We’ll make sure you get a table\, dress rail and hangers\, so all you 
- need to take care of is having a fun day with your friends!
-LOCATION:Bispeengen 20\, 2000 Frederiksberg
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/veras-market-under-buen-
- 2026/2026-08-30/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 LOPPELINDA på RÅDHUSPLADSEN - Årets Første!
-DTSTART;TZID=Europe/Copenhagen:20260830T100000
-DTEND;TZID=Europe/Copenhagen:20260830T150000
-UID:59e03df2130aae76ecceafc517c9814adf573a74@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:REGLER FOR KØB HERUNDER: \nSALGET FOR HELE SÆSONEN 2026 på 
- RådhusPladsen starter fredag d.27.FEB KL.10.00 \nINSTA: loppelinda_ \nhtt
- ps://www.instagram.com/lopp… \nFØLG LoppeLindas Markeder: \nhttps://www
- .loppelinda.dk/\nhttps://www.facebook.com/loppelinda.dk/\nhttps://billetto
- .dk/users/loppelinda \nDATOER for afholdelse af LOPPER på RådhusPladsen:
-  \nLØR D. 25-04-2026 \nSØN D 31-05-2026 \nLØR D.30-08-2026 \nDer er et 
- begrænset antal loppestande og det bliver FØRST-TIL-MØLLE som sædvanli
- gt! \nLoppeLinda på RådhusPladsen afholdes på selve RådhusPladsen fora
- n RådHuset. \nStandene vil ca. være 3×3 meter(Kan dog variere afhængig
-  af placering) til 275 kr. + gebyr. \nAlle medbringer eget bord\, tøjstat
- iver og lignende. \nDer er opsætning fra kl. 8.30\, hvorefter vi kommer f
- orbi og tjekker alle ind i løbet af dagen. \nDer er først-til-mølle på
-  dagen i forhold til hvilken stand du vil have – du vælger selv. Der vi
- l være afmærkninger på jorden\, og du snupper bare den plads\, du bedst
-  kan lide\, når du ankommer om morgenen! \nDu behøver ikke at printe bil
- letten\, medbring gerne en digital kopi på din mobiletelefon. Alle tilmel
- dte er noteret på forhånd. \nEfter endt loppemarked kl.15.00 er der indt
- il kl. 16.00 at rydde standen. \nIntet må efterlades på RÅDHUSPLADSEN\,
-  hverken skrald eller overskud af loppegenstande. \nDette er et loppemarke
- d for PRIVATE PERSONER\, der sælger ud af egne brugte genstande\, der har
-  ligget hjemme i gemmerne\, medmindre andet på forhånd er aftalt og godk
- endt. \nDet vil være muligt at sælge ud af hjemmelavet kunst og design\,
-  egne værker\, kreationer og håndværk. \n!!!Det er ikke tilladt at sæl
- ge partivarer eller kræmmervarer!!! \nI er velkomne til at være maks 3 p
- ersoner om en bod. \nI forhold til ankomst i bil: \nDET ER FORBUDT AT KØR
- E I BIL IND PÅ RÅDHUSPLADSEN! Husk en sækkevogn! \nHusk at respektere f
- ærdselsloven ved aflæsning af bil og vær opmærksom på at parkeringsre
- gler for Københavns Kommune er gældende. \nVær opmærksom på at der al
- tid skal betales parkeringsafgift efter gældende regler! \nForce majeure:
- \nBemærk at der ikke refunderes betaling for stande\, uanset hvad afholde
- s markedet – “rain or shine. Man er velkommen til at tage en pavillon 
- med og sætte op i al slags vejr.”Billetten kan ikke refunderes\, men du
-  er velkommen til at bytte den væk til en\, der er interesseret. \nDeltag
- else sker på eget ansvar. LoppeLinda påtager sig intet ansvar for skader
-  på eller bortkomst af ejendele\, herunder varer\, telte\, biler eller an
- det udstyr\, før\, under eller efter markedet. LoppeLinda kan ikke gøres
-  ansvarlig medmindre andet følger ufravigelig lovgivning. \nAL KOMMUNIKAT
- ION FOREGÅR VIA: info@loppelinda.com \nVi glæder os til igen i år at lo
- ppe sammen – genbrugshygge & finde loppeguld <3 \nKH. \nLoppeLinda \nFØ
- LG LoppeLindas Markeder: \nhttps://www.loppelinda.dk/\nhttps://www.faceboo
- k.com/loppelinda.dk/\nhttps://billetto.dk/users/loppelinda \nNB. DER TAGES
-  FORBEHOLD FOR ÆNDRINGER I LØBET AF LOPPESÆSONEN 2026! Husk altid at ho
- lde dig opdateret dagen før eller på selve dagen i tilfælde af ændring
- er af dage\, datoer eller aflysninger! \nhttps://www.facebook.com/events/1
- 660403928287732/?event_time_id=1660403941621064
-LOCATION:Rådhuspladsen\, København V\, Danmark\, Rådhuspladsen\, Køben
- havn V\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppelinda-paa-raadhuspl
- adsen-aarets-foerste-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked Sønderholm Alle 26-46
-DTSTART;TZID=Europe/Copenhagen:20260830T100000
-DTEND;TZID=Europe/Copenhagen:20260830T150000
-UID:ca5ef5bf7801f00c84a1fe1f7420a58c5e66127f@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Vi gentager succesen og fylder vejen med stande. \nVi håber a
- t vejret bliver skønt og der kommer så mange besøgende som de tidligere
-  år.
-LOCATION:SØNDERHOLM ALLE 26\, Amager\, SØNDERHOLM ALLE 26\, Amager
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-soenderholm-
- alle-26-46/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Slowlooking: Ensomhedsslottet
 DTSTART:20260831T000000
 UID:1b8521c378e1647649019173d4ad8914904ba30d@citycalendar
@@ -1148,6 +12,16 @@ DESCRIPTION:Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
  type-nynaut?ArrNr=19741644
 LOCATION:Jagtslottet Eremitagen
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Oplev Eremitageslottet
+DTSTART:20260831T000000
+UID:1aebf6e34d78d53b75f59ffba1724c59a83de08f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=20217983
+LOCATION:Jagtslottet Eremitagen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20217983
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Rundvisning i Kongens Have
@@ -1170,6 +44,76 @@ LOCATION:Den Gamle Kro
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560027
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Tango i Diamanten: Lyden af Buenos Aires
+DTSTART:20260901T193000
+UID:d66bd2acb3a493fc5f3966980b5f146310befa3f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20030331
+LOCATION:Det Kongelige Bibliotek/Den Sorte Diamant
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20030331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Onsdagskoncert i Hans Egedes Kirke
+DTSTART:20260902T000000
+UID:e2ed5bec58032b73b20adfb3631b1f4dd0c92d97@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20055360
+LOCATION:Hans Egedes Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20055360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Lundgrens Duo Soft Bossa
+DTSTART:20260902T000000
+UID:09e6a359a4cc07cc67c0298c82e9a5153f1dd5b4@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20217880
+LOCATION:Lundgren V.I.P
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20217880
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Debutkoncert Alexandra Guiraud
+DTSTART:20260902T193000
+UID:619dc30bf3003a3958326f5c61800463fccae0c1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20062590
+LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20062590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 JAM-Session - Besiakov/Fjeldsted/Besiakov
+DTSTART:20260902T213000
+UID:b89d1c52049e698291f1b39d6e07b4806c7f2f50@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20205107
+LOCATION:Jazzhus Montmartre
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20205107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Reverie
+DTSTART:20260903T000000
+UID:b60bd7fd73b230319b0b68b8e53c46273e6a5dd1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20107695
+LOCATION:Kong Haakons kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20107695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 DvorÁk & guldas cellokoncert
+DTSTART:20260903T000000
+UID:0bbae0bb6170493b4e96a8001dc0917e156d7738@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19586376
+LOCATION:Odense Koncerthus
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586376
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Orglet og dets venner 1
 DTSTART:20260903T193000
 UID:20b9384af6f9e64ff96ae828b2c6e9a79a6efbdb@citycalendar
@@ -1180,6 +124,95 @@ LOCATION:Sankt Johannes Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902318
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Pernille rosendahl & dorthe gerlach
+DTSTART:20260904T000000
+UID:6c8a4636ee7a1200763c0bd8340991f649afedfc@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19561707
+LOCATION:Arken Museum for Samtidskunst
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19561707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Hilal Kaya
+DTSTART:20260904T000000
+UID:91757bdb551049c4ae445ab0b93dd956a3cea15f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19711508
+LOCATION:Dexter
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 LOPPEMARKED at VAB-13
+DTSTART;TZID=Europe/Copenhagen:20260904T110000
+DTEND;TZID=Europe/Copenhagen:20260904T220000
+UID:d8ef9a2d39f8be5b36ef80065dfb268e748a3584@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Hej neighbors! \nWe are MOMO MOMO\, your local hot sauce neigh
+ bors at Ved Amagerbanen 13. This summer\, we are preparing to open a new c
+ afe and kiosk here—a space for our community to meet\, have fun\, and en
+ joy each other’s company. \nTo celebrate\, we are hosting a neighborhood
+  loppemarked on May 30th! All profits from this event will go directly tow
+ ard opening the new cafe. \nCome say hi\, find a treasure to give a second
+  life\, and get to know the people living right next door. We’ve planned
+  a day filled with \n🎵 music\n🍛 food\n🥤 drinks (both soft and alc
+ oholic)\n👥 and great community spirit. \n——————————
+ —————————— \nWANT TO SELL? \nCost: 100 DKK plot size a
+ pprox 220-250 \nBook a table 220 x 60 cm: 50 DKK\nBook a clothing rack: 90
+  cm: 50 DKK \nTo book: Send an email to hello@momomomo.dk. \nAvailability:
+  We have 25 spots total\, so reach out soon! \n—————————
+ ——————————— \nPROGRAM FOR THE DAY: \n10:00 – 11:00
+ : Setup and neighborly greetings \n11:00: Loppemarked open for browsing \n
+ 16:00: Dances w music\, drinks and food. \nWe will have music playing thro
+ ughout the day at a neighbor-friendly volume. \nWe can’t wait to see you
+  there and share our plans for the summer! \n—————————
+ ——————————– \nDansk version: \nKære naboer\, \nVi e
+ r MOMO MOMO\, jeres lokale chilisauce-naboer på Ved Amagerbanen 13. Til s
+ ommer åbner vi en ny café og kiosk her på adressen – et sted hvor nab
+ olaget kan mødes og hygge sig. \nFor at fejre det inviterer vi til loppem
+ arked i nabolaget d. 30. maj! Alt overskud fra arrangementet går direkte 
+ til åbningen af den nye café. \nKom og sig hej\, find en genbrugsskat og
+  lær dine naboer at kende. Vi har sørget for god musik\, mad\, drikkevar
+ er (med og uden alkohol) og masser af nabohygge. \n———————
+ ————————————– \nVIL DU SÆLGE? \nPris: 100 DKK\n
+ Book et bord 220 x 60 cm: 50 DKK\nBook et tøjstativ: 90 cm: 50 DKK \nFor 
+ booking: Send en e-mail til hello@momomomo.dk\n. \nTilgængelighed: Vi har
+  i alt 25 pladser\, så kontakt os hurtigst muligt. \n——————
+ —————————————– \nPROGRAM: \n10:00 – 11:00: O
+ psætning og nabohygge \n11:00 – 16:00: Loppemarkedet er åbent \n16:00 
+ – Solnedgang: Musik\, drinks og samvær \nArrangementet slutter senest k
+ l. 21:00. Vi sørger for musik i løbet af dagen på et niveau\, hvor alle
+  naboer kan være med. \nVi glæder os helt vildt til at se jer! \n____ \n
+ Powered by Nørrebrew \nhttps://www.facebook.com/events/1404269021736383/?
+ event_time_id=1404269038403048
+LOCATION:Ved Amagerbanen 13\, 2300 København S\, Danmark\, Ved Amagerbane
+ n 13\, 2300 København S\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-at-vab-13-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Bellahøj Kræmmermarked september
+DTSTART;TZID=Europe/Copenhagen:20260904T140000
+DTEND;TZID=Europe/Copenhagen:20260906T173000
+UID:89334e450e27d20403f305ee1a810fda94ebcd99@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Gammeldags kræmmermarked med forlystelser\, kræmmerboder og 
+ ikke mindst en masse underholdning og koncerter www.bellahojmarked.dk
+LOCATION:Hvidkildevej 66\, Hvidkildevej 66
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/bellahoej-kraemmermarked
+ -september/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Lars Jansson Trio
+DTSTART:20260904T153000
+UID:bfe776c6ccb0fa73acfda4cba3adc2e82c5a10e7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20192974
+LOCATION:Jazzcup
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20192974
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Septemberfestival: Mozart
 DTSTART:20260904T193000
 UID:a1b095db2a922f3d2c8b21aff0e9ef523797cf1b@citycalendar
@@ -1188,6 +221,16 @@ DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
  ype-nynaut?ArrNr=19316817
 LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 The Grand Season Opening / Late Night Baroque - LUMIÈRES
+DTSTART:20260904T200000
+UID:45880fb243c4191ef44ce2ab19be9100411da942@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20202622
+LOCATION:LiteraturHaus
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202622
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Septemberfestival: Mozart
@@ -1208,6 +251,26 @@ DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
  -nynaut?ArrNr=20131079
 LOCATION:Ishøj Byhave
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20131079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Koncert med The Baroque Society og Amarilis Dueñas
+DTSTART:20260905T000000
+UID:8a888fe307037a56d1b4c5ceca35da4ab325d980@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20117152
+LOCATION:Esajas Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20117152
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 HG Loppemarked
+DTSTART:20260905T000000
+UID:519f25838855965ebf34b6f0c45c164c02ebfa65@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20203062
+LOCATION:Torvet\, Høje Gladsaxe
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20203062
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Loppemarked i Vallensbæk
@@ -1290,6 +353,407 @@ LOCATION:Grantoftegaard
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202077
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🧺 Sensommerloppemarked i Elmegadekvarteret
+DTSTART:20260905T000000
+UID:9d53ba6fb7d20ce7ac37d60437652fb163b480da@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20214291
+LOCATION:Elmegade
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20214291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked på bagvejen i Fuglebakkekvarteret
+DTSTART:20260905T000000
+UID:3e4dcabd5ec047b50d7fc7587f706eb2f56e6bfe@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20227132
+LOCATION:Bagvejen. Godthåbsvej/Duevej/Fuglebakkevej
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Høstfest og loppeboder på Sagasvej
+DTSTART:20260905T000000
+UID:db56d33ed2ebffb089d9fb92543558e0ebeeeb06@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20246329
+LOCATION:Sagasvej
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20246329
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Koncert med pianist Jakob Alsgaard Bahr
+DTSTART:20260905T000000
+UID:5568fdb5d4606154cf079503fb03f67d70988a1e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20105583
+LOCATION:Ansgars Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked Toftegårds Plads
+DTSTART;TZID=Europe/Copenhagen:20260905T070000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:0853036f5ac20640a42ed1d9db735198f17fbd94@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Antal stadepladser:\n\n26-50 \n\n\nSalg fra boder med genbrug
+LOCATION:Toftegårds Plads 2500 Valby\, Toftegårds Plads\, 2500 Valby
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-toftegaards-
+ plads/2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked på Uraniavej og Kastanievej
+DTSTART;TZID=Europe/Copenhagen:20260905T090000
+DTEND;TZID=Europe/Copenhagen:20260905T120000
+UID:8487b476497c59866eff7f750f293185b9306bb3@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Kom til et hyggeligt loppemarked på Uraniavej og Kastanievej
+ \, hvor vejens beboere rykker borde\, stativer ud foran husene. \nGå på 
+ opdagelse langs vejen og find tøj\, legetøj\, bøger\, møbler\, keramik
+ \, planter\, boligting og skatte fra gemmerne. \nDato: d. 5. september 202
+ 6\nTid: 9.00 – 15.00\nSted: Uraniavej og Kastanievej\, 1876 Frederiksber
+ g C \nVejen er åben for almindelig trafik under loppemarkedet\, så vi op
+ fordrer alle til at vise hensyn\, når de bevæger sig mellem boderne. \nV
+ i glæder os til at se jer.
+LOCATION:Kastanievej\, 1876 Frederiksberg C\, Danmark\, Kastanievej\, 1876
+  Frederiksberg C\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-paa-uraniave
+ j-og-kastanievej/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Brønshøj Torv - Loppemarked
+DTSTART;TZID=Europe/Copenhagen:20260905T090000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:c6bb9642ca805e721bfefe5026ba18b145b39ff4@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Kom og oplev det hyggelige Looppemarked på Brønshøj Torv! H
+ er finder du alt fra loppefund og genbrugsguld til hjemmelavede varer\, ku
+ nsthåndværk og lokale specialiteter. Stemningen er afslappet og fyldt me
+ d liv – et sted\, hvor naboer\, familier og besøgende mødes over gode 
+ handler og en kop kaffe.
+LOCATION:Brønshøj Torv 177 2700 Brønshøj\, Brønshøj Torv 177 2700 Br
+ ønshøj
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/broenshoej-torv-looppema
+ rked/2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Gør et kup på Frederiksberg Loppetorv bag Rådhuset
+DTSTART;TZID=Europe/Copenhagen:20260905T090000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:776985f5a3d44383caca2c450dadc48ceb43c785@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Er du på jagt efter unikke genbrugsfund\, smukke antikviteter
+  eller måske bare en hyggelig lørdagsaktivitet? Så er Frederiksberg Lop
+ petorv det helt rette sted at starte. Hver lørdag i sommerhalvåret forva
+ ndles pladsen bag Frederiksberg Rådhus til et sandt mekka for loppeentusi
+ aster. \nSæsonen 2026 Vi glæder os til at byde velkommen til en ny forry
+ gende sæson. Her er alt\, hvad du skal vide om åbningstiderne: \n\n\nSæ
+ sonstart: Lørdag den 4. april 2026 \n\n\nSæsonslut: Lørdag den 17. okto
+ ber 2026 \n\n\nÅbningstid: Hver lørdag fra kl. 09.00 til 15.00 \n\n\nVig
+ tig information om august Bemærk venligst\, at der holdes en lille pause 
+ midt på sommeren. Lørdag den 15. august 2026 er der intet loppemarked\, 
+ da pladsen her danner ramme om festlighederne i forbindelse med Copenhagen
+  Pride Parade. \nKom forbi og mærk den særlige Frederiksberg-stemning\, 
+ hvor du kan finde alt fra tøj og bøger til designklassikere og køkkengr
+ ej. Vi ses på Rådhuspladsen!
+LOCATION:Frederiksberg Bredegade\, 2000 Frederiksberg\, Frederiksberg Bred
+ egade\, 2000 Frederiksberg
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/goer-et-kup-paa-frederik
+ sberg-loppetorv-bag-raadhuset/2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i AB Pile Allé 7
+DTSTART;TZID=Europe/Copenhagen:20260905T090000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:576dfab56fdca34813e04e49b003a6fcd44fff1b@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:AB Pile Allé 7 holder det årlige loppemarked.\nMasser af sta
+ nde med mulighed for at gøre super fund.\nI gå afstand fra Frb Rådhus L
+ oppemarked. \nKom glad!
+LOCATION:Pile Alle 7\, Frederiksberg\, Pile Alle 7\, Frederiksberg
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-ab-pile-al
+ le-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Bagvejsloppemarked 2026
+DTSTART;TZID=Europe/Copenhagen:20260905T090000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:0013963ad24a2a4a00ae05abc8164793520212ff@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Så er der igen loppemarked i rækkehusene på bagvejen mellem
+  Duevej og Fuglebakkevej 💚☀️ \nIndgang gennem porten ved Godthåbsv
+ ej 86
+LOCATION:Godthåbsvej 86\, Frederiksberg\, Godthåbsvej 86\, Frederiksberg
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/bagvejsloppemarked-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked på Uraniavej og Kastanievej\, Frederiksberg C
+DTSTART:20260905T090000
+UID:af2d003c3802f2d969e3c6646485e9e5e583d9da@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20278131
+LOCATION:Kastanievej og Uraniavej
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20278131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 HF Formosa Loppemarked
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T130000
+UID:21dc9eb031d90605d0264a32bb7917fbbf717622@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Kom og gør et godt køb.\nIgen i år holder haveforeningen HF
+ . Formosa sit årlige loppemarkeds ved deres flagstang.\nDer vil være mas
+ ser af god stening og gode ting man kan købe med hjem for en billig skill
+ ing.
+LOCATION:Hf. Formosa\, Hf. Formosa
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/hf-formosa-loppemarked/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked på Gammelholm - lige ved Nyhavn
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T130000
+UID:fd45d3b1427d91efd4a685096ed67474abe99810@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked den 5. septemeber 2026 \nTraditionen tro er der lo
+ ppemarkeder på Havnepromenaden. Her kan du sælge ting\, som du ikke læn
+ gere har brug for\, og købe brugte ting\, du står og mangler.\nDesuden e
+ r der mulighed for at få en snak med foreningens bestyrelse\, gæster på
+  Gammelholm og dine naboer fra kvarteret. \nVi opfordrer lokale forretning
+ er til at deltage\, så vi kan få udvidet kendskabet til de lokale erhver
+ vsdrivende. \nGratis! for medlemmer af foreningen.\nMedlemskab koster 250
+ \,- pr. husstand/erhverv \nTilmeld dig her:\nhttps://gammelholmbeboerforen
+ ing.dk/loppemarkeder
+LOCATION:Havnegade (Københavns Havn)\, Havnegade (Københavns Havn)
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-paa-gammelho
+ lm-lige-ved-nyhavn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Amagerlopperne ´s loppemarked 2026
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T140000
+UID:52ab202e5f9f6b67f9a2453cfdfac5cc023814f1@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Kom og vær med når Amagers hyggeligste og populære loppemar
+ ked igen afholdes på Sundbyvester Plads.\nPå pladsen møder du en masse 
+ glade kræmmere\, der står klar til at gøre en god handel\, med bl.a. An
+ tik/Retro\, nips\, indretning til hjemmet\, tøj smykker og meget\, meget 
+ mere.\nVi står står på pladsen mellem busholdepladsen og legepladsen.\n
+ Parkering findes i de omkringliggende gader.\nBusser lige til pladsen: 5C
+ \, 250S\, 18\, 77 78\nVelmødt til en hyggelig dag.\nAmagerlopperne
+LOCATION:Sundbyvester Plads\, 2300 København S\, Danmark\, Sundbyvester P
+ lads\, 2300 København S\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/amagerlopperne-s-loppema
+ rked-2026/2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Byens tøj og Kreamarked
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T140000
+UID:e09fd84de3216f634ea89cca2d9e845a598b9b05@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Byens tøj & krea marked 5/4 \, har du booket ? Book på mp 40
+ 52TCHusk skriv dato !Krea stade 75kr 1×2 m Tøj stade 150kr 2×3 mKom og 
+ find det fedeste tøj til billige priser ! Ses vi ?
+LOCATION:Vanløse Torv\, 2720 København\, Danmark\, Vanløse Torv\, 2720 
+ København\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/byens-toej-og-kreamarked
+ /2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i grundejerforeningerne Svendebjerg og Hvidovreg
+ årds Villaby
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T140000
+UID:841da2f9d92a28c518a65fe36eccddb85abe56d1@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Igen i år holder de to grundejerforeninger\; Svendebjerg og H
+ vidovregårds Villaby\, loppemarked på Svendebjergvej og Bjergagervej i H
+ vidovre den første lørdag i september fra 10-14 og alle er velkomne. \nK
+ om ud og gør en god handel\, der plejer at være både legetøj\, tøj ti
+ l voksne og børn\, elektronik\, småmøbler\, brugskunst og andet interi
+ ør. \nDer uddeles gratis popcorn til børn fra kl. 10.30-12 på Svendebje
+ rgvej\, ligesom der på begge veje plejer at være boder som sælger kager
+  og saftevand. \nDer vil være hoppeborg til børn som er sponsoreret af E
+ state Mæglerne Hvidovre\, så kom ud og nyd efteråret – vi ses d. 5. s
+ eptember.
+LOCATION:Svendebjergvej\, 2650 Hvidovre\, Danmark\, Svendebjergvej\, 2650 
+ Hvidovre\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-grundejerf
+ oreningerne-svendebjerg-og-hvidovregaards-villaby/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 LOPPEMARKED Medborgercentret\, Nordens Plads 16 A
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T140000
+UID:16fe5922421a0cc11fdb5bc4efecd374e92ff2d2@citycalendar
+CATEGORIES:flea_market
+LOCATION:Medborgercentret Nordens Plads 16 A . 2000 F\, Medborgercentret N
+ ordens Plads 16 A . 2000 F
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-medborgercen
+ tret-nordens-plads-16-a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 GADE  LOPPEMARKED Bellisvej
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T140000
+UID:db5931566d57698a288798f67c446cd1c9ea8212@citycalendar
+CATEGORIES:flea_market
+LOCATION:Bellisvej vanløse\, Bellisvej vanløse
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/gade-loppemarked-bellisv
+ ej/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 🌸 Loppemarked i gården v. Nørrebro st. & GRATIS børneko
+ ncert m. Trylle & Trolle 🎶
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T143000
+UID:a2c55ffddb2641af6745e2e4caab0665f4205351@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Kom til en hyggelig dag i gården lørdag den 5. september kl.
+  10.00–14.30 ☀️ \nVi inviterer til hyggeligt loppemarked i gården! 
+ ☀️ \nKom forbi og gå på opdagelse blandt masser af gode loppefund og
+  Pokémon-kort. Der vil også være ansigtsmaling og ballondyr for børnen
+ e – og selvfølgelig masser af hyggelig stemning. \nUndervejs kan I køb
+ e kaffe\, kage\, kolde drikke og slushice. \n📍 Indgang fra Bregnerødga
+ de 5\n🗓 Lørdag d. 5. september\n⏰ Kl. 10.00–14.30\n🎟 Gratis adg
+ ang \n🎸 Kl. 13.00-13-45: Trylle og Trolles Børnesjow \nKl. 13 skruer v
+ i op for musikken\, når Trylle og Trolle banker dørene ind til børnenes
+  hjerter og tager dem med til et sted fuld af livsglæde med musik og bev
+ ægelse i centrum. \nDer bliver gyngende reggae\, dancehallmoves\, sange m
+ an kan synge med på og masser af fed energi\, hvor børnene inviteres med
+  som aktive deltagere i koncerten. \nDe voksne får også svært ved at si
+ dde stille\, når Trolle spiller på guitar\, og Trylle spiller trommer\, 
+ laver dansebevægelser og synger. \nKoncerten er for børn mellem 2–11 
+ år og med Signe Trylle og Morten Trolle. \nTag børnene\, familien\, venn
+ erne og naboerne med til en hyggelig dag med loppefund\, gårdstemning og 
+ musik for de små. \nDet hele er gratis – vi glæder os til at se jer! 
+ ❤️
+LOCATION:Bregnerødgade 5\, 2200 København N\, Danmark\, Bregnerødgade 5
+ \, 2200 København N\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/%f0%9f%8c%b8-loppemarked
+ -i-gaarden-v-noerrebro-st-gratis-boernekoncert-m-trylle-trolle-%f0%9f%8e%b
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Stort Loppemarked\, Sundbyvester Plads
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:dbf3fec3c660f9ae385afec6426de05e9864640c@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Amagerlopperne står på pladsen efter sommerpause \nKom og v
+ ær med når Amagers hyggeligste og populære loppemarked afholdes på Sun
+ dbyvester Plads.\nPladsen fyldes med glade kræmmere\, der står klar til 
+ at gøre en god handel\, med bl.a. Antik/Retro\, nips\, indretning til hje
+ mmet\, tøj smykker og meget\, meget mere. \n– Vi står står på pladse
+ n mellem busholdepladsen og legepladsen.\n– Parkering findes i de omkrin
+ gliggende gader.\n– Busser lige til pladsen: 5C\, 250S\, 18\, 77 78 \nVe
+ lmødt til en hyggelig dag.\nAmagerlopperne ♥ \nhttps://www.facebook.com
+ /events/1042667045154587/?event_time_id=1042667051821253
+LOCATION:Sundbyvester Plads\, Sundbyvester Plads
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/stort-loppemarked-sundby
+ vester-plads-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked - Brønshøj
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T150000
+UID:e8a81ee33824707b43440f8f7ee915bc42a1352c@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Årets sidste loppemarked langs sandbygårdsvej. Beboer i Ast
+ \, parkhøj og Solbjerg har igen været i gemmerne.\nHer finder du alt fra
+  smykker\, planter\, tøj\, små møbler\, nips og meget andet.\nKom og g
+ ør en god handel.
+LOCATION:Sandbygårdsvej\, Brønshøj\, sandbygårdsvej\, Brønshøj
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-broenshoej/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Vanløse Torv Loppemarked
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:5aaa7ee5a3b394881f44de066b48c8fd5783b81e@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Vanløse torv loppemarked hver lørdag 10.00 – 16.00 på Van
+ løse torv.\nKom og gør et kup på vores loppe & livsstilsmarked masser a
+ f lækre loppefund!\nKøb brugt \, hjælp klima & spar penge! \nSes vi?
+LOCATION:Vanløse Torv Lopemarked\, Vanløse Torv 1\, Vanløse\, 2720
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/vanloese-torv-loppemarke
+ d/2026-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Balders Efterårslopper
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:4e5a8b3d40217899810ba3249b5fc28a13d4fcb1@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Balders Plads danner rammen for Balders Lopper\n– et af Nør
+ rebros absolut hyggeligste loppemarkeder. Kom forbi og gør en god handel 
+ og nyd den parisiske markedsstemning på pladsen! \nBoderne er fortrinsvis
+ t til almindelige lopper\, så hvis du har nogle gode sager i kælderen\, 
+ eller blot trænger til at få ryddet op i dine ting\, så er dette nok s
+ æsonens sidste chance. \nBilletter til stande sættes til salg 8 uger fø
+ r loppemarkedet. \nVi glæder os til dig at se dig!
+LOCATION:Balders Plads\, Balders Plads 4\, København N\, 2200
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/balders-efteraarslopper/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 loppemarked i Elmegadekvarteret
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:cf8a46dbd38dc8fc65ba716303ef03f67ea75311@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Vi afholder igen i år vores dejlige Efterårsloppemarked i El
+ megade-Birkegade-Egegade lørdag d. 5. september fra kl 10-16. \nVi ses
+LOCATION:Elmegade \, 2200 Copenhagen\, Denmark\, Elmegade\, København N\,
+  2200
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-elmegadekv
+ arteretforaarsloppemarked-i-elmegadekvarteret-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Sensommerloppemarked i Elmegadekvarteret
+DTSTART;TZID=Europe/Copenhagen:20260905T100000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:6a164338b8694984e48b0cd36622506ac5d1a329@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Så er det endnu en gang tid til loppemarked i vores hyggelige
+  kvarter. Birkegade og Egegade er propfyldt med loppestande og Elmegade su
+ mmer af liv med musik\, dejlige butikker\, gode tilbud og lækre spisested
+ er. \nBOOK EN STAND\nSkriv til Natasha: Nn87@live.dk. Kører efter først-
+ til-mølle-princip.\nPrisen er 375 kr \nVi glæder os til at se jer 🙂
+LOCATION:Elmegade \, 2200 Copenhagen\, Denmark\, Elmegade\, København N\,
+  2200
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/sensommerloppemarked-i-e
+ lmegadekvarteret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Københavns Loppetorv
+DTSTART;TZID=Europe/Copenhagen:20260905T110000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:0c70afb47533abf45856e52b1c8805021144a07e@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Københavns Loppetorv er et fast traditionelt loppemarked hver
+  lørdag\n \n– et mødested for mennesker og ting\, tøj og andet godt.
+LOCATION:Israels Plads\, Linnésgade 3\, København\, Israels Plads\, Linn
+ ésgade 3\, København
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
+ 26-09-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i Pisserenden
+DTSTART;TZID=Europe/Copenhagen:20260905T110000
+DTEND;TZID=Europe/Copenhagen:20260905T160000
+UID:65e56f60d6956633c28b0c6cac7699a6a3850c5f@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Lokalt loppemarked i Nørre Kvarter (Pisserenden). 5 minutters
+  gang fra både Rådhuspladsen og Nørreport
+LOCATION:Teglgårdstræde\, 1452 København K\, Danmark\, Teglgårdstræde
+ \, 1452 København K\, Danmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-pisserende
+ n/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Jubilæumskoncert med Musikkoret København
 DTSTART:20260905T160000
 UID:e897f2d30fad3e7f401cf862cdc60712dabd77c6@citycalendar
@@ -1300,6 +764,36 @@ LOCATION:Bethesda
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20035117
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Angry Cat Fest
+DTSTART:20260905T193000
+UID:f0fb04bab5ec8ab6f27c93802c276f7928590bff@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19909641
+LOCATION:Basement Bar
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19909641
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 4 Widorsymfonier på Cavaillé-Coll-orglet
+DTSTART:20260906T000000
+UID:20a76d46d7dbcbcdd4763db8f47ebbd08b0803a1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19872537
+LOCATION:Jesuskirken
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19872537
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Pablo Sainz-Villegas\, guitar
+DTSTART:20260906T000000
+UID:733df66ff9afb225a7fe6ccf51a4b2390d19edba@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19917652
+LOCATION:Mogens Dahl Koncertsal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19917652
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 CirkusSøndag
 DTSTART:20260906T000000
 UID:162bad7fa432191b2d2d5b93b4c3833ae4ecdc89@citycalendar
@@ -1308,6 +802,36 @@ DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
  type-nynaut?ArrNr=19719674
 LOCATION:Cirkusmuseet i Hvidovre
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719674
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Septemberfestival: Mozart
+DTSTART:20260906T000000
+UID:c350f9599ab86097bf7700dec2cb422ad219d7ca@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19316876
+LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19316876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Kammertoner af tre store mestre
+DTSTART:20260906T000000
+UID:be221c772eb4a80039be1c1df84458262d726158@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19882034
+LOCATION:Operaen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19882034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Nat i naturen i Skovhytten
+DTSTART:20260906T000000
+UID:e31a555e46ac4cface9f97b92323637b2021e5ba@citycalendar
+CATEGORIES:event
+DESCRIPTION:Natur\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=19662610
+LOCATION:Skovhytten
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19662610
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Loppemarked på Bryggen
@@ -1330,14 +854,291 @@ LOCATION:Københavnstrup
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19680916
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 International Triennale for Kids
-DTSTART:20260908T150000
-UID:ab3b42f047975fdeea02cc32a0e57222948d0258@citycalendar
+SUMMARY:🧺 Loppelinda i fælledparken - sep marked!
+DTSTART:20260906T000000
+UID:f69d5b9a399ec71482481cd24384b39a5a468d86@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19638518
+LOCATION:Den Franske Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19638518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Det Grønne Loppemarked 2026
+DTSTART:20260906T000000
+UID:6d6cac970fe1f9e577deabf110cae8110cb63811@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19677896
+LOCATION:Den Grønne Cykelsti mellem Jagtvej og Rantzausgade på Nørrebro
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19677896
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Rita Blås Lopper på Sønder Boulevard
+DTSTART:20260906T000000
+UID:f444f018671a9d01d43f9cfb4532b3d972f5323e@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19692096
+LOCATION:Sønder Boulevard
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19692096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Byens Lopper X Trianglen
+DTSTART:20260906T000000
+UID:f916cc99d989a66e55c07feb5f00eae21857b545@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19741844
+LOCATION:Ingrid Jespersens Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Tårnby Torv Loppemarked 6. september
+DTSTART:20260906T000000
+UID:d1dacd708969cc1dc022ae8c2b5574f5a52ec843@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19807711
+LOCATION:Tårnby Torv
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19807711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppetorvet + Tøjtøj Market
+DTSTART:20260906T000000
+UID:4a785dc3661f32ebf19c784bf6bd47ed83284a26@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19956105
+LOCATION:Israels Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Gentofte loppemarked
+DTSTART:20260906T000000
+UID:939f4f450e9cea89bbe5017060d84a9c6ca85658@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19976146
+LOCATION:Gentofte Loppemarked
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 LoppeLinda i Fælledparken
+DTSTART:20260906T000000
+UID:6aba9d504f231eb4404e1e3c6fb032b3c2178554@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20023236
+LOCATION:Den Franske Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20023236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked standplads - 6. September
+DTSTART:20260906T000000
+UID:81d7fc9ac9bfaf44836af5c17f3e9f363e1acac6@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20060169
+LOCATION:Halgodt
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20060169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Bellahøj Kræmmermarked
+DTSTART:20260906T000000
+UID:7bed36a0cceb4aedb9927ff0b582b82fc1ce50f3@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20079136
+LOCATION:Bellahøj Kræmmermarked
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20079136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked - Nøddeboparken i Vallensbæk Strand
+DTSTART:20260906T000000
+UID:2af66eb9e4ed9201551e1737a2592eead4e78c80@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20109496
+LOCATION:Nøddeboparken
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20109496
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Furesøens loppemarked
+DTSTART:20260906T000000
+UID:b9f1d49d3d495216f184caf72a5af6c3bfc3144b@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20174734
+LOCATION:Furesøens loppemarked
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Indendørs Loppemarked
+DTSTART:20260906T000000
+UID:296ac19517146a9bb9d972597d1405fc860ba63f@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20184118
+LOCATION:Vesterbro Ungdomsgård
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20184118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Labre Lopper på Banegaarden
+DTSTART:20260906T000000
+UID:f9c8c4cda2e4c07210597826ed84d78c1a41e217@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20218081
+LOCATION:BaneGaarden
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i Svømmehalskvarteret
+DTSTART:20260906T000000
+UID:7e5886ce27a6faf1b14fe861969d65714b5fbca5@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20218100
+LOCATION:Frederiksberg Svømmehal
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i Blågårdsgade
+DTSTART:20260906T000000
+UID:166facb21baf39961e5a7983c39802a36be08be1@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20238470
+LOCATION:Blågårdsgade 12
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20238470
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Norbert Susemihl Jazz & Blues Band
+DTSTART:20260906T000000
+UID:bd0c0b0f8efb30cb9343e7a9f47a1699c8c22241@citycalendar
 CATEGORIES:event
-DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
- type-nynaut?ArrNr=20208852
-LOCATION:Fyns Grafiske Værksted
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=20102276
+LOCATION:Seniorhus Odense
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20102276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Der Var Engang ~ Kunstmalerier af Heather Millar
+DTSTART:20260906T000000
+UID:903077b858180949afc18da79cb182e69583fef1@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmor
+ e/type-nynaut?ArrNr=20196023
+LOCATION:Kunstbygningen Filosoffen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked Toftegårds Plads
+DTSTART;TZID=Europe/Copenhagen:20260906T070000
+DTEND;TZID=Europe/Copenhagen:20260906T150000
+UID:2ec671700a1c51b90816fbdda508ac0e30a58f3c@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Antal stadepladser:\n\n26-50 \n\n\nSalg fra boder med genbrug
+LOCATION:Toftegårds Plads 2500 Valby\, Toftegårds Plads\, 2500 Valby
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-toftegaards-
+ plads/2026-09-06/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Københavns hyggeligste loppemarked
+DTSTART;TZID=Europe/Copenhagen:20260906T080000
+DTEND;TZID=Europe/Copenhagen:20260906T160000
+UID:453eb9caed36507ee731e451984f3b3f11c86c66@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Københavnstrup ligger lige hvor Gentofte og Københavns kommu
+ ner mødes.\n300 meter nord for Emdrup station. Hvis du kommer fra Københ
+ avn (linie B eller Bx mod Farum) så skal du fortsætte i samme retning so
+ m toget kører og så bare gå langs med jernbanen indtil du ser det store
+  skilt hvorpå der står “Københavnstrup ”.\nDer er masser af gratis 
+ P-pladser i området. Særligt hele den østlige side af Emdrup station 
+ – ved PureGym. Her er der ca 100 pladser.\nParker endelig ikke på Baneb
+ rinken – det er privat område.
+LOCATION:Lundebakken 1\, 2400 København NV\, Lundebakken 1\, 2400 Københ
+ avn NV
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-hyggeligste-
+ loppemarked/2026-09-06/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Byens Lopper X Trianglen
+DTSTART;TZID=Europe/Copenhagen:20260906T100000
+DTEND;TZID=Europe/Copenhagen:20260906T130000
+UID:233599b2a2466a361f370b0928f4813ddc6a23fd@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Byens Lopper inviterer til genbrugs- og vintagemarked på Ingr
+ id Jespersens Plads\, lige ved Trianglen Metro / indgangen til Fælledpark
+ en foran Enigma. \nFra april til oktober indtager vi gruspladsen med loppe
+ stande\, kaffevogn og hygge. \nPraktisk info til standholdere:\nStande må
+ ler ca. 3 x 3 meter.\nDu kan både købe en stand\, der inkluderer et bord
+ \, eller en stand uden bord\, hvor du er velkommen til at medbringe dit eg
+ et. Stole\, bøjler og stativer skal du selv medbringe. \nVi har check-in 
+ fra kl. 8.30 ved den store statue på gruspladsen. Her registrerer du dig 
+ ved at vise din billet. Herefter får du udleveret bord (hvis du har købt
+  stand med bord) og anvist en plads. Det er muligt at køre helt ind på p
+ ladsen med bil ved opstilling og nedtagning af stand\, men din bil skal k
+ øres ud\, så snart du har læsset af. \nEr du ikke dukket op ved markeds
+ start kl. 10\, og har du ikke givet os besked om forsinkelse\, forbeholder
+  vi os retten til at videresælge din plads og dit bord.\nUdover kaffevogn
+  på pladsen hele dagen er der en masse spisesteder\, en 7-Eleven samt toi
+ letmuligheder på Trianglen\, 2 minutter fra pladsen. \nParkering kan fore
+ gå i de omkringliggende gader. Husk\, at det ikke længere er gratis at p
+ arkere i København om søndagen. \nVi aflyser ikke i tilfælde af regn\, 
+ men du er velkommen til at medbringe paraplyer\, pavilloner eller anden ov
+ erdækning. \nGode ting at medbringe som standholder:\nPowerbank\, papir o
+ g noget at skrive med til MobilePay-skilte (eller lav dem hjemmefra)\, tap
+ e\, en dug til dit bord\, solcreme\, stol\, tøjstativer og bøjler. \nVi 
+ glæder os rigtig meget til at loppe med jer\n￼\nDel gerne begivenheden 
+ på sociale medier\, så vi kan få en masse købeglade gæster forbi mark
+ edet\n￼
+LOCATION:Ingrid Jespersens Plads\, Ingrid Jespersens Plads\, 2100 Østerbr
+ o
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/byens-lopper-x-trianglen
+ -9/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked i Eskildsgadekarreen
+DTSTART;TZID=Europe/Copenhagen:20260906T100000
+DTEND;TZID=Europe/Copenhagen:20260906T130000
+UID:b638d7bfb79256cda0a25460d603d08b2c17048e@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Vi holder loppemarked i Eskildsgadekarreen søndag d. 6/9 kl. 
+ 10-16. \nAlle beboere i karreen er velkomne til at sætte en bod op. \nDer
+  er baggårdskoncert samme dag (FB begivenhed: https://fb.me/e/6SeqS9dKJ)
+ \, og arrangementet er åbent for alle\, så spred endelig budskabet til v
+ enner og bekendte. \nVi håber på at se en hel masse af jer <3
+LOCATION:Eskildsgade\, vesterbro\, Eskildsgade\, vesterbro
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-eskildsgad
+ ekarreen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked - Skuespillerforeningen af 1879s have
+DTSTART;TZID=Europe/Copenhagen:20260906T100000
+DTEND;TZID=Europe/Copenhagen:20260906T140000
+UID:9c8757776a4bed215089de6b6788de167632e4aa@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Salg af inventar\, beklædning\, stort og småt\, antikviteter
+  og nyt samt salg af kaffe/te. økologisk saft og hjemmebag til fordelagti
+ ge priser
+LOCATION:Bispebjergvej 53\, 2400 København NV\, Bispebjergvej 53\, 2400 K
+ øbenhavn NV
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-skuespillerf
+ oreningen-af-1879s-have/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppemarked HORNEMANSGADE 38 København Ø
+DTSTART;TZID=Europe/Copenhagen:20260906T100000
+DTEND;TZID=Europe/Copenhagen:20260906T140000
+UID:f77ac6b0ce4b32a6d9ae0d2c42f8a38d770fd128@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:LOPPEMARKED D. 6 SEPTEMBER  Kom forbi og gør en god handel s
+ øndag d. 6/9 mellem kl. 10-14
+LOCATION:HORNEMANSGADE 38 København Ø\, HORNEMANSGADE 38 København Ø
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-hornemansgad
+ e-38-koebenhavn-oe/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Bill Evans Celebration: Lundgren/Jormin/Haffner
@@ -1348,6 +1149,16 @@ DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
  nynaut?ArrNr=19788521
 LOCATION:Jazzhus Montmartre
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19788521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Loppetorvet - Københavns Loppetorv
+DTSTART:20260912T000000
+UID:43667b4a8b4884ac91c63ac0673a25baa2debe22@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=19956051
+LOCATION:Israels Plads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956051
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ Gårdcafé
@@ -1368,6 +1179,16 @@ DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
  ut.dk/perl/arrmore/type-nynaut?ArrNr=19646451
 LOCATION:Høkeren & Forsamlingshuset
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19646451
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Witch market ix
+DTSTART:20260913T000000
+UID:07a83e742dcf71f05624b576ffd4a9dd5a35b6a4@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultuna
+ ut.dk/perl/arrmore/type-nynaut?ArrNr=20224041
+LOCATION:Kulturhuset Islands Brygge
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20224041
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 SPOKEN | De Udødelige Poeters Klub om den grønlandske litte
@@ -1411,6 +1232,36 @@ LOCATION:Kulturium Musikteater
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19356626
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 The Ragtops indtager maskinladen på Bredekærgård
+DTSTART:20260920T130000
+UID:88bae1ee58992cb917a7c02ef8224ef81c4b4f8e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20174803
+LOCATION:Bredekærgård
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Omvisning: Brønshøj Vandtårn indefra
+DTSTART:20260927T000000
+UID:cfd0b38d079584a0871ac5b4327fa6844070ebeb@citycalendar
+CATEGORIES:event
+DESCRIPTION:Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=20179284
+LOCATION:Brønshøj Vandtårn
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20179284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Burhan g
+DTSTART:20261003T000000
+UID:fe089dce1487e1f363083e2ec6e19410229a616c@citycalendar
+CATEGORIES:event
+DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=19732054
+LOCATION:Arken Museum for Samtidskunst
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19732054
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Bjarke Falgren Kvartet
 DTSTART:20261004T000000
 UID:5dae18c0b139205fa91d0d93c6b35c9610f673f8@citycalendar
@@ -1419,6 +1270,16 @@ DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
  nynaut?ArrNr=19771651
 LOCATION:Kulturium Musikteater
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19771651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Botanisk Have igennem mere end 150 år
+DTSTART:20261006T163000
+UID:f8eb238b2b678b56a8c89d8e6cd45a013912564e@citycalendar
+CATEGORIES:event
+DESCRIPTION:Omvisning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=20016714
+LOCATION:Botanisk Have
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20016714
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Frederiksberg Loppetorv
@@ -1441,13 +1302,13 @@ LOCATION:Dexter
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19454183
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Særudstilling 2026 - UNG I 80'ERNE
-DTSTART:20261212T000000
-UID:bed2be685d72b8f1eed331bb84394879257f211b@citycalendar
+SUMMARY:🎫 Skattejagt for børn i Odense
+DTSTART:20261031T000000
+UID:17bb164d0da18855083781d871659f0996ccf4e1@citycalendar
 CATEGORIES:event
-DESCRIPTION:Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
- type-nynaut?ArrNr=19401317
-LOCATION:Tidens Samling
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317
+DESCRIPTION:For børn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/
+ type-nynaut?ArrNr=20043641
+LOCATION:Kongens Have
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641
 END:VEVENT
 END:VCALENDAR

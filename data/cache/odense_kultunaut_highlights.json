@@ -1,13 +1,35 @@
 [
   {
-    "title": "SPOKEN | De Ud\u00f8delige Poeters Klub om den gr\u00f8nlandske litteratur",
-    "start": "2026-09-13T00:00:00",
+    "title": "Norbert Susemihl Jazz & Blues Band",
+    "start": "2026-09-06T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Nordatlantisk Hus",
-    "description": "Andet\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
+    "location": "Seniorhus Odense",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20102276",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20102276",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Koncert med pianist Jakob Alsgaard Bahr",
+    "start": "2026-09-05T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Ansgars Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105583",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105583",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Dvor\u00c1k & guldas cellokoncert",
+    "start": "2026-09-03T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Odense Koncerthus",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586376",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586376",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -22,36 +44,36 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Sommerkoncert med Musica Ficta",
-    "start": "2026-08-28T00:00:00",
+    "title": "SPOKEN | De Ud\u00f8delige Poeters Klub om den gr\u00f8nlandske litteratur",
+    "start": "2026-09-13T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Ansgars Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105600",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20105600",
+    "location": "Nordatlantisk Hus",
+    "description": "Andet\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Rejer & Vin ad libitum",
-    "start": "2026-08-29T15:30:00",
+    "title": "Der Var Engang ~ Kunstmalerier af Heather Millar",
+    "start": "2026-09-06T00:00:00",
     "city": "copenhagen",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
-    "location": "Restaurant Nordatlanten",
-    "description": "Gastronomi\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19707059",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19707059",
+    "location": "Kunstbygningen Filosoffen",
+    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196023",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196023",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Sjostakovitj - en sovjetkunstner",
-    "start": "2026-08-27T00:00:00",
+    "title": "Hilal Kaya",
+    "start": "2026-09-04T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Musikbiblioteket Odense",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19854930",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19854930",
+    "location": "Dexter",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711508",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711508",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -66,17 +88,6 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "International Triennale for Kids",
-    "start": "2026-09-08T15:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Fyns Grafiske V\u00e6rksted",
-    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
     "title": "Uffe Steen Trio & Vestbo Trio",
     "start": "2026-10-22T00:00:00",
     "city": "copenhagen",
@@ -88,25 +99,14 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Kenio: The Support Show",
-    "start": "2026-08-24T19:40:00",
+    "title": "Skattejagt for b\u00f8rn i Odense",
+    "start": "2026-10-31T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Studenterhus Odense",
-    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20153241",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20153241",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
-    "start": "2026-12-12T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Tidens Samling",
-    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "location": "Kongens Have",
+    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
     "source": "odense_kultunaut_highlights"
   }
 ]
