@@ -1,49 +1,5 @@
 [
   {
-    "title": "Neder-Over-Heembeek street and flea market",
-    "start": "2026-09-05T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Neder-Over-Heembeek, Place Peter Benoit - 1120 Brussels (NOH)",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/neder-over-heembeek-street-and-flea-market",
-    "url": "https://www.brussels.be/neder-over-heembeek-street-and-flea-market",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Flea market Boulevard de Dixmude",
-    "start": "2026-09-06T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Boulevard de Dixmude, Boulevard de Dixmude - 1000 Brussels",
-    "description": "Flea market & rummage sales\n\nMore info: https://www.brussels.be/flea-market-boulevard-de-dixmude",
-    "url": "https://www.brussels.be/flea-market-boulevard-de-dixmude",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Versailles flea market and neighbourhood party",
-    "start": "2026-09-06T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Avenue de Versailles, Avenue de Versailles - 1120 Brussels (Neder-Over-Heembeek)",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/versailles-flea-market-and-neighbourhood-party",
-    "url": "https://www.brussels.be/versailles-flea-market-and-neighbourhood-party",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Brussels Vintage Market",
-    "start": "2026-07-05T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": "2026-12-06T12:00:00+00:00",
-    "location": "Halles Saint-G\u00e9ry, Place Saint-G\u00e9ry 1 - 1000 Brussels",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-vintage-market",
-    "url": "https://www.brussels.be/brussels-vintage-market",
-    "source": "brussels_flea_markets"
-  },
-  {
     "title": "Haren flea market",
     "start": "2026-09-12T12:00:00+00:00",
     "city": "leuven",
@@ -63,6 +19,28 @@
     "location": "Square Ambiorix, Square Ambiorix - 1000 Brussels",
     "description": "Music // Youth // Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/square-ambiorix-party-and-flea-market",
     "url": "https://www.brussels.be/square-ambiorix-party-and-flea-market",
+    "source": "brussels_flea_markets"
+  },
+  {
+    "title": "Flea market Rue de Flandre",
+    "start": "2026-09-19T12:00:00+00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": "2026-09-20T12:00:00+00:00",
+    "location": "Rue de Flandre, Rue de Flandre, 1000 Brussels",
+    "description": "Flea market & rummage sales\n\nMore info: https://www.brussels.be/flea-market-rue-de-flandre",
+    "url": "https://www.brussels.be/flea-market-rue-de-flandre",
+    "source": "brussels_flea_markets"
+  },
+  {
+    "title": "54 Closet sale - De Markten",
+    "start": "2026-09-20T12:00:00+00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "De Markten, Place du Vieux March\u00e9 aux Grains 5, 1000 Brussels",
+    "description": "Music // Multidisciplinary // Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/54-closet-sale-de-markten",
+    "url": "https://www.brussels.be/54-closet-sale-de-markten",
     "source": "brussels_flea_markets"
   },
   {
