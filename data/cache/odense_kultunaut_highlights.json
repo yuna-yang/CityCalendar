@@ -1,24 +1,13 @@
 [
   {
-    "title": "Odense Barokfestival 10 \u00e5rs Jubil\u00e6um - Ensemble Barocca med g\u00e6st Steffen Bruun, bas",
-    "start": "2026-09-15T19:00:00",
+    "title": "Koncert med sangerne Emma Oemann og Michelle Nora Lind, violinist Caspar Pr\u00e6stegaard og organist",
+    "start": "2026-09-17T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
     "location": "Vor Frue Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004318",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004318",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Sommerudstilling: Kvinder p\u00e5 kanten",
-    "start": "2026-09-17T00:00:00",
-    "city": "copenhagen",
-    "category": "exhibition",
-    "end": null,
-    "location": "Lokalhistorisk Bibliotek",
-    "description": "Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20215503",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20215503",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -33,80 +22,91 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "SPOKEN | De Ud\u00f8delige Poeters Klub om den gr\u00f8nlandske litteratur",
-    "start": "2026-09-13T00:00:00",
+    "title": "SDMK Symfonisk: Nielsen, Mozart & Brahms",
+    "start": "2026-09-18T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Odeon - Konservatoriets Koncertsal",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20229776",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20229776",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Odense Barokfestival 10 \u00e5rs Jubil\u00e6um - Ensemble Barocca med g\u00e6st Steffen Bruun, bas",
+    "start": "2026-09-15T19:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Vor Frue Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004318",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004318",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Odense Barokfestival",
+    "start": "2026-09-20T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Den Fynske Opera",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20011115",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20011115",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Sommerudstilling: Kvinder p\u00e5 kanten",
+    "start": "2026-09-17T00:00:00",
+    "city": "copenhagen",
+    "category": "exhibition",
+    "end": null,
+    "location": "Lokalhistorisk Bibliotek",
+    "description": "Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976550",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Drag Bingo Show p\u00e5 No Stress Odense",
+    "start": "2026-11-05T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "No Stress Bar, Odense",
+    "description": "Banko\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997609",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997609",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Drip Paintings",
+    "start": "2026-10-03T00:00:00",
+    "city": "copenhagen",
+    "category": "exhibition",
+    "end": null,
+    "location": "Gallerie Rasmus",
+    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20280857",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20280857",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "After Brunch Koncert | Inuit Feet",
+    "start": "2026-09-19T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
     "location": "Nordatlantisk Hus",
-    "description": "Andet\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186568",
+    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186564",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186564",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Nashville Nights Festival",
-    "start": "2026-09-13T00:00:00",
+    "title": "Duo koncert med Pernille Petersen, blokfl\u00f8jter og Jakob Lorentzen, cembalo",
+    "start": "2026-09-18T18:15:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Odense",
-    "description": "Folk/Vise/Country\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19588931",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19588931",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Tjajkovskijs 1. klaverkoncert & 5. symfoni",
-    "start": "2026-09-10T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odense Koncerthus",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586350",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586350",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Skattejagt for b\u00f8rn i Odense",
-    "start": "2026-10-31T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Kongens Have",
-    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Caf\u00e9l\u00f8rdag: 4-h\u00e6ndig klavermusik",
-    "start": "2026-09-12T14:30:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Paarup Sogneg\u00e5rd",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20114289",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20114289",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "International Triennale for Kids",
-    "start": "2026-09-08T15:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Fyns Grafiske V\u00e6rksted",
-    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208852",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
-    "start": "2026-12-12T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Tidens Samling",
-    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "location": "Graabr\u00f8dre Klosterkirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004323",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20004323",
     "source": "odense_kultunaut_highlights"
   }
 ]
