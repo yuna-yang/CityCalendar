@@ -1,16 +1,5 @@
 [
   {
-    "title": "Frederiksberg Loppetorv",
-    "start": "2026-10-17T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Frederiksberg R\u00e5dhusplads",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711570",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711570",
-    "source": "copenhagen_flea_markets"
-  },
-  {
     "title": "Loppemarked p\u00e5 Bryggen",
     "start": "2026-09-27T00:00:00",
     "city": "copenhagen",
@@ -22,146 +11,14 @@
     "source": "copenhagen_flea_markets"
   },
   {
-    "title": "Loppetorvet - K\u00f8benhavns Loppetorv",
-    "start": "2026-09-19T00:00:00",
+    "title": "Frederiksberg Loppetorv",
+    "start": "2026-10-17T00:00:00",
     "city": "copenhagen",
     "category": "flea_market",
     "end": null,
-    "location": "Israels Plads",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956055",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956055",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Vanl\u00f8se torv loppemarked",
-    "start": "2026-09-19T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Vanl\u00f8se Torv",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050602",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050602",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Made in Gladsaxe",
-    "start": "2026-09-19T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "S\u00f8borg torv",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208698",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20208698",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "B\u00dcmarked - Loppemarked p\u00e5 Skolen ved B\u00fclowsvej",
-    "start": "2026-09-19T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Skolen Ved B\u00fclowsvej",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20246389",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20246389",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Loppemarked i Absalon",
-    "start": "2026-09-19T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Folkehuset Absalon",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20295932",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20295932",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Det Gr\u00f8nne Loppemarked 2026",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Den Gr\u00f8nne Cykelsti mellem Jagtvej og Rantzausgade p\u00e5 N\u00f8rrebro",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19677895",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19677895",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Gentofte loppemarked",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Gentofte Loppemarked",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976129",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976129",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Efter\u00e5rsplantemarked i S\u00f8borg",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Haveselskabet",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20071874",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20071874",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "H\u00e5ndv\u00e6rksmarked p\u00e5 Reffen",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Reffen - Copenhagen Streetfood",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20123611",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20123611",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Fures\u00f8ens loppemarked",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Fures\u00f8ens loppemarked",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174776",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174776",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Fures\u00f8ens loppemarked",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Fures\u00f8ens loppemarked",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174776",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174776",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "J\u00e6gersborggade Loppemarkeds\u00f8ndag d. 20. september",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "J\u00e6gersborggade",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20215749",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20215749",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "title": "Loppemarked i Bl\u00e5g\u00e5rdsgade",
-    "start": "2026-09-20T00:00:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "end": null,
-    "location": "Bl\u00e5g\u00e5rdsgade 12",
-    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20238476",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20238476",
+    "location": "Frederiksberg R\u00e5dhusplads",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711570",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19711570",
     "source": "copenhagen_flea_markets"
   },
   {
@@ -261,6 +118,17 @@
     "location": "Gentofte Loppemarked",
     "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976154",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976154",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Fures\u00f8ens loppemarked",
+    "start": "2026-09-27T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Fures\u00f8ens loppemarked",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174768",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20174768",
     "source": "copenhagen_flea_markets"
   },
   {
@@ -393,6 +261,138 @@
     "location": "Enghave Plads",
     "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19629044",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19629044",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Rita Bl\u00e5s Lopper p\u00e5 S\u00f8nder Boulevard",
+    "start": "2026-10-04T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "S\u00f8nder Boulevard",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19692141",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19692141",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Loppetorvet + T\u00f8jt\u00f8j Market",
+    "start": "2026-10-04T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Israels Plads",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956089",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956089",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Gentofte loppemarked",
+    "start": "2026-10-04T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Gentofte Loppemarked",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976126",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19976126",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "H\u00f8stmarked 4/10 kl. 14-16.30 - Hospice S\u00f8nderg\u00e5rd, M\u00e5l\u00f8v",
+    "start": "2026-10-04T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Hospice S\u00f8nderg\u00e5rd",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20229917",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20229917",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Loppemarked p\u00e5 Bryggen",
+    "start": "2026-10-11T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Kulturhuset Islands Brygge",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19774700",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19774700",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Loppetorvet - K\u00f8benhavns Loppetorv",
+    "start": "2026-10-10T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Israels Plads",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956038",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956038",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Vanl\u00f8se torv loppemarked",
+    "start": "2026-10-10T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Vanl\u00f8se Torv",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050567",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050567",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "B\u00f8rnenes loppemarked",
+    "start": "2026-10-10T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Folkehuset Absalon",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20286495",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20286495",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Byens Lopper X Trianglen",
+    "start": "2026-10-11T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Ingrid Jespersens Plads",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741828",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19741828",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Broens lopper",
+    "start": "2026-10-11T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Broens Gadek\u00f8kken",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20340689",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20340689",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Torsdagsmarked p\u00e5 torvet",
+    "start": "2026-10-15T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "TorvehallerneKBH",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20327995",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20327995",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "title": "Loppetorvet - K\u00f8benhavns Loppetorv",
+    "start": "2026-10-17T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Israels Plads",
+    "description": "Loppemarked/Torvedag/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956068",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19956068",
     "source": "copenhagen_flea_markets"
   }
 ]

@@ -1,46 +1,13 @@
 [
   {
-    "title": "Leuven Autovrij",
-    "start": "2026-09-20T00:00:00",
+    "title": "Leuven Kermis",
+    "start": "2026-09-23T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "Fietsers, wandelaars, skaters en steppers krijgen weer vrij spel in de binnenstad. Overal in de stad geniet je van muziek, gratis activiteiten, lekkers en ambiance.\n\nMore info: https://www.leuven.be/leuven-autovrij-0",
-    "url": "https://www.leuven.be/leuven-autovrij-0",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Amateurama 2.0: Fotografie",
-    "start": "2026-09-19T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
-    "url": "https://www.leuven.be/amateurama",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-09-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leer reanimeren en een AED-toestel gebruiken",
-    "start": "2026-09-21T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
-    "url": "https://www.leuven.be/leer-reanimeren",
+    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
+    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -52,6 +19,17 @@
     "location": "",
     "description": "Een vredesconcert op de beiaard van de Universiteitsbibliotheek op de Internationale Dag van de Vrede.\n\nMore info: https://www.leuven.be/vredesconcert-op-beiaard",
     "url": "https://www.leuven.be/vredesconcert-op-beiaard",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -74,17 +52,6 @@
     "location": "",
     "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
     "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Kermis",
-    "start": "2026-09-23T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
-    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -341,14 +308,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Lezing: Tinel en Gronowskiexternal link",
+    "start": "2026-10-09T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
+    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
     "source": "leuven_be_agenda"
   },
   {
@@ -363,14 +330,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
     "source": "leuven_be_agenda"
   },
   {
@@ -385,6 +352,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -393,6 +371,28 @@
     "location": "",
     "description": "Ontdek alles over hemelwaterinstallaties en groendaken. Wat heb je nodig? Hoe bespaar je water? En waarvoor kan je regenwater gebruiken?\n\nMore info: https://www.leuven.be/infosessie-regenwater-wat-nu",
     "url": "https://www.leuven.be/infosessie-regenwater-wat-nu",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Training voor omstaanders",
+    "start": "2026-11-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe reageer je als omstaander op discriminatie en ongewenst gedrag? Je leert het tijdens de opleiding.\n\nMore info: https://www.leuven.be/omstaanders",
+    "url": "https://www.leuven.be/omstaanders",
     "source": "leuven_be_agenda"
   },
   {
@@ -413,8 +413,8 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuven-legacy-gravel",
-    "url": "https://www.leuven.be/leuven-legacy-gravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
+    "url": "https://www.leuven.be/legacygravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -451,6 +451,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Seniorenmaandexternal link",
+    "start": "2026-11-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
+    "url": "https://www.leuven.be/seniorenmaand",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Reveil: troostvoorstelling op de begraafplaats",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
@@ -459,6 +470,17 @@
     "location": "",
     "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Rode Hondexternal link",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kunstenfestival Rode Hond is terug! Geniet in de herfstvakantie van theater, dans, muziek, circus, games, breaking en nog veel meer.\n\nMore info: https://www.leuven.be/rode-hond",
+    "url": "https://www.leuven.be/rode-hond",
     "source": "leuven_be_agenda"
   },
   {
@@ -528,17 +550,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Tentoonstelling 'Folded Memory'",
-    "start": "2026-12-06T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
-    "url": "https://www.leuven.be/foldedmemory",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Eindejaarsshoppen en koopzondagenexternal link",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -547,6 +558,17 @@
     "location": "",
     "description": "Inspiratie voor het eindejaar, die vind je in Leuven.\n\nMore info: https://www.leuven.be/eindejaarsshoppen",
     "url": "https://www.leuven.be/eindejaarsshoppen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Tentoonstelling 'Folded Memory'",
+    "start": "2026-12-06T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
   {
@@ -578,52 +600,19 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuvenmarathon",
-    "url": "https://www.leuven.be/leuvenmarathon",
+    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/marathon",
+    "url": "https://www.leuven.be/marathon",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Leuven Autovrij",
-    "start": "2026-09-20T00:00:00",
+    "title": "Leuven Kermis",
+    "start": "2026-09-23T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "Fietsers, wandelaars, skaters en steppers krijgen weer vrij spel in de binnenstad. Overal in de stad geniet je van muziek, gratis activiteiten, lekkers en ambiance.\n\nMore info: https://www.leuven.be/leuven-autovrij-0",
-    "url": "https://www.leuven.be/leuven-autovrij-0",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Amateurama 2.0: Fotografie",
-    "start": "2026-09-19T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
-    "url": "https://www.leuven.be/amateurama",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-09-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leer reanimeren en een AED-toestel gebruiken",
-    "start": "2026-09-21T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
-    "url": "https://www.leuven.be/leer-reanimeren",
+    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
+    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -635,6 +624,17 @@
     "location": "",
     "description": "Een vredesconcert op de beiaard van de Universiteitsbibliotheek op de Internationale Dag van de Vrede.\n\nMore info: https://www.leuven.be/vredesconcert-op-beiaard",
     "url": "https://www.leuven.be/vredesconcert-op-beiaard",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -657,17 +657,6 @@
     "location": "",
     "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
     "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Kermis",
-    "start": "2026-09-23T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
-    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -924,14 +913,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Lezing: Tinel en Gronowskiexternal link",
+    "start": "2026-10-09T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
+    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
     "source": "leuven_be_agenda"
   },
   {
@@ -946,14 +935,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
     "source": "leuven_be_agenda"
   },
   {
@@ -968,6 +957,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -976,6 +976,28 @@
     "location": "",
     "description": "Ontdek alles over hemelwaterinstallaties en groendaken. Wat heb je nodig? Hoe bespaar je water? En waarvoor kan je regenwater gebruiken?\n\nMore info: https://www.leuven.be/infosessie-regenwater-wat-nu",
     "url": "https://www.leuven.be/infosessie-regenwater-wat-nu",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Training voor omstaanders",
+    "start": "2026-11-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe reageer je als omstaander op discriminatie en ongewenst gedrag? Je leert het tijdens de opleiding.\n\nMore info: https://www.leuven.be/omstaanders",
+    "url": "https://www.leuven.be/omstaanders",
     "source": "leuven_be_agenda"
   },
   {
@@ -996,8 +1018,8 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuven-legacy-gravel",
-    "url": "https://www.leuven.be/leuven-legacy-gravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
+    "url": "https://www.leuven.be/legacygravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -1034,6 +1056,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Seniorenmaandexternal link",
+    "start": "2026-11-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
+    "url": "https://www.leuven.be/seniorenmaand",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Reveil: troostvoorstelling op de begraafplaats",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
@@ -1042,6 +1075,17 @@
     "location": "",
     "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Rode Hondexternal link",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kunstenfestival Rode Hond is terug! Geniet in de herfstvakantie van theater, dans, muziek, circus, games, breaking en nog veel meer.\n\nMore info: https://www.leuven.be/rode-hond",
+    "url": "https://www.leuven.be/rode-hond",
     "source": "leuven_be_agenda"
   },
   {
@@ -1111,17 +1155,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Tentoonstelling 'Folded Memory'",
-    "start": "2026-12-06T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
-    "url": "https://www.leuven.be/foldedmemory",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Eindejaarsshoppen en koopzondagenexternal link",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -1130,6 +1163,17 @@
     "location": "",
     "description": "Inspiratie voor het eindejaar, die vind je in Leuven.\n\nMore info: https://www.leuven.be/eindejaarsshoppen",
     "url": "https://www.leuven.be/eindejaarsshoppen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Tentoonstelling 'Folded Memory'",
+    "start": "2026-12-06T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
   {
@@ -1161,52 +1205,19 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuvenmarathon",
-    "url": "https://www.leuven.be/leuvenmarathon",
+    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/marathon",
+    "url": "https://www.leuven.be/marathon",
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Leuven Autovrij",
-    "start": "2026-09-20T00:00:00",
+    "title": "Leuven Kermis",
+    "start": "2026-09-23T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
     "location": "",
-    "description": "Fietsers, wandelaars, skaters en steppers krijgen weer vrij spel in de binnenstad. Overal in de stad geniet je van muziek, gratis activiteiten, lekkers en ambiance.\n\nMore info: https://www.leuven.be/leuven-autovrij-0",
-    "url": "https://www.leuven.be/leuven-autovrij-0",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Amateurama 2.0: Fotografie",
-    "start": "2026-09-19T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Amateurama brengt het werk van 4 Leuvense fotoclubs samen in een gevarieerde en boeiende tentoonstelling.\n\nMore info: https://www.leuven.be/amateurama",
-    "url": "https://www.leuven.be/amateurama",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-09-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leer reanimeren en een AED-toestel gebruiken",
-    "start": "2026-09-21T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
-    "url": "https://www.leuven.be/leer-reanimeren",
+    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
+    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -1218,6 +1229,17 @@
     "location": "",
     "description": "Een vredesconcert op de beiaard van de Universiteitsbibliotheek op de Internationale Dag van de Vrede.\n\nMore info: https://www.leuven.be/vredesconcert-op-beiaard",
     "url": "https://www.leuven.be/vredesconcert-op-beiaard",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leer reanimeren en een AED-toestel gebruiken",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren",
+    "url": "https://www.leuven.be/leer-reanimeren",
     "source": "leuven_be_agenda"
   },
   {
@@ -1240,17 +1262,6 @@
     "location": "",
     "description": "Leer reanimeren en een AED-toestel gebruiken. Want jouw snelle reactie kan een leven redden.\n\nMore info: https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
     "url": "https://www.leuven.be/leer-reanimeren-en-een-aed-toestel-gebruiken",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Kermis",
-    "start": "2026-09-23T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Eendjes vissen, op de draaimolen of naar het schietkraam?\n\nMore info: https://www.leuven.be/leuvenkermis",
-    "url": "https://www.leuven.be/leuvenkermis",
     "source": "leuven_be_agenda"
   },
   {
@@ -1507,14 +1518,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-09-12T00:00:00",
+    "title": "Lezing: Tinel en Gronowskiexternal link",
+    "start": "2026-10-09T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
+    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
+    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
     "source": "leuven_be_agenda"
   },
   {
@@ -1529,14 +1540,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
+    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
     "source": "leuven_be_agenda"
   },
   {
@@ -1551,6 +1562,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Open Archiefdag",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie \u2018Regenwater! Wat nu?'",
     "start": "2026-10-12T00:00:00",
     "city": "leuven",
@@ -1559,6 +1581,28 @@
     "location": "",
     "description": "Ontdek alles over hemelwaterinstallaties en groendaken. Wat heb je nodig? Hoe bespaar je water? En waarvoor kan je regenwater gebruiken?\n\nMore info: https://www.leuven.be/infosessie-regenwater-wat-nu",
     "url": "https://www.leuven.be/infosessie-regenwater-wat-nu",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Training voor omstaanders",
+    "start": "2026-11-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe reageer je als omstaander op discriminatie en ongewenst gedrag? Je leert het tijdens de opleiding.\n\nMore info: https://www.leuven.be/omstaanders",
+    "url": "https://www.leuven.be/omstaanders",
     "source": "leuven_be_agenda"
   },
   {
@@ -1579,8 +1623,8 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuven-legacy-gravel",
-    "url": "https://www.leuven.be/leuven-legacy-gravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
+    "url": "https://www.leuven.be/legacygravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -1617,6 +1661,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Seniorenmaandexternal link",
+    "start": "2026-11-30T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
+    "url": "https://www.leuven.be/seniorenmaand",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Reveil: troostvoorstelling op de begraafplaats",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
@@ -1625,6 +1680,17 @@
     "location": "",
     "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Rode Hondexternal link",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kunstenfestival Rode Hond is terug! Geniet in de herfstvakantie van theater, dans, muziek, circus, games, breaking en nog veel meer.\n\nMore info: https://www.leuven.be/rode-hond",
+    "url": "https://www.leuven.be/rode-hond",
     "source": "leuven_be_agenda"
   },
   {
@@ -1694,17 +1760,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Tentoonstelling 'Folded Memory'",
-    "start": "2026-12-06T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
-    "url": "https://www.leuven.be/foldedmemory",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Eindejaarsshoppen en koopzondagenexternal link",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -1713,6 +1768,17 @@
     "location": "",
     "description": "Inspiratie voor het eindejaar, die vind je in Leuven.\n\nMore info: https://www.leuven.be/eindejaarsshoppen",
     "url": "https://www.leuven.be/eindejaarsshoppen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Tentoonstelling 'Folded Memory'",
+    "start": "2026-12-06T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze tentoonstelling brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
   {
@@ -1744,8 +1810,8 @@
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/leuvenmarathon",
-    "url": "https://www.leuven.be/leuvenmarathon",
+    "description": "Loop mee met de marathon, halve marathon of 10 kilometer of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/marathon",
+    "url": "https://www.leuven.be/marathon",
     "source": "leuven_be_agenda"
   }
 ]
