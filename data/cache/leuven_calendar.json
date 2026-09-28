@@ -1,7 +1,7 @@
 [
   {
     "title": "ILUVLeuven Walk",
-    "start": "2026-09-21T14:00:00",
+    "start": "2026-09-28T14:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -12,7 +12,7 @@
   },
   {
     "title": "Market in Wijgmaal",
-    "start": "2026-09-21T15:00:00",
+    "start": "2026-09-28T15:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -22,19 +22,19 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Festival 20\u202221",
-    "start": "2026-09-21T00:00:00",
+    "title": "Remembrance ritual: Infinite Dances",
+    "start": "2026-09-28T19:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/agenda/festival2021",
-    "url": "https://www.visitleuven.be/en/agenda/festival2021",
+    "location": "Martelarenplein, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
+    "url": "https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
     "source": "leuven_calendar"
   },
   {
     "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-09-21T10:00:00",
+    "start": "2026-09-28T10:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -44,19 +44,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Walk: Leuven on tap",
-    "start": "2026-09-22T14:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/walk-leuven-tap",
-    "url": "https://www.visitleuven.be/en/walk-leuven-tap",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Tower visit and live carillon concert University Library",
-    "start": "2026-09-22T18:20:00",
+    "start": "2026-09-29T18:20:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -67,7 +56,7 @@
   },
   {
     "title": "Market in Kessel-Lo",
-    "start": "2026-09-23T14:00:00",
+    "start": "2026-09-30T14:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -78,7 +67,7 @@
   },
   {
     "title": "Free carillon concerts in Park Abbey",
-    "start": "2026-09-23T17:00:00",
+    "start": "2026-09-30T17:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -88,19 +77,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "September Fair",
-    "start": "2026-09-23T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/september-fair",
-    "url": "https://www.visitleuven.be/en/september-fair",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Market in city centre",
-    "start": "2026-09-24T13:00:00",
+    "start": "2026-10-01T13:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -110,30 +88,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Student Welcome 2026",
-    "start": "2026-09-24T18:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Leuven \u2022 Various locations",
-    "description": "More info: https://www.visitleuven.be/en/student-welcome-2025-student-parade-parties-city",
-    "url": "https://www.visitleuven.be/en/student-welcome-2025-student-parade-parties-city",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Open Dance Floor",
-    "start": "2026-09-24T20:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
-    "url": "https://www.visitleuven.be/en/open-dance-floor",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Market in city centre of Leuven",
-    "start": "2026-09-25T07:00:00",
+    "start": "2026-10-02T07:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -143,19 +99,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Festival: PLATEAU26",
-    "start": "2026-09-25T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "STUK, Naamsestraat 96, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/festival-plateau26",
-    "url": "https://www.visitleuven.be/en/festival-plateau26",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Free carillon concerts on Grote Markt",
-    "start": "2026-09-25T12:00:00",
+    "start": "2026-10-02T12:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -166,7 +111,7 @@
   },
   {
     "title": "Guided tour: University library and visit of the tower",
-    "start": "2026-09-25T13:30:00",
+    "start": "2026-10-02T13:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -176,19 +121,19 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Summer pop-up Bar Belvue",
-    "start": "2026-09-25T18:00:00",
+    "title": "Walk: Leuven on tap",
+    "start": "2026-10-02T19:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "Martelarenplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/summer-pop-bar-belvue",
-    "url": "https://www.visitleuven.be/en/summer-pop-bar-belvue",
+    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-leuven-tap",
+    "url": "https://www.visitleuven.be/en/walk-leuven-tap",
     "source": "leuven_calendar"
   },
   {
     "title": "Market in city centre of Leuven",
-    "start": "2026-09-26T09:00:00",
+    "start": "2026-10-03T09:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -198,19 +143,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Yoga at Park Abbey",
-    "start": "2026-09-26T10:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Park Abbey",
-    "description": "More info: https://www.visitleuven.be/en/yoga-park-abbey",
-    "url": "https://www.visitleuven.be/en/yoga-park-abbey",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Walk: Six centuries of the university in Leuven",
-    "start": "2026-09-26T10:30:00",
+    "start": "2026-10-03T10:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -221,7 +155,7 @@
   },
   {
     "title": "Guided tour: Brewery Stella Artois",
-    "start": "2026-09-26T11:00:00",
+    "start": "2026-09-03T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -232,7 +166,7 @@
   },
   {
     "title": "Guided tour: Brewery de Coureur",
-    "start": "2026-09-26T13:30:00",
+    "start": "2026-10-03T13:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -242,30 +176,8 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Leuven Pride",
-    "start": "2026-09-26T16:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Martelarenplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/leuven-pride",
-    "url": "https://www.visitleuven.be/en/leuven-pride",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Heverlee",
-    "start": "2026-09-27T08:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/market-sunday",
-    "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_calendar"
-  },
-  {
     "title": "Guided tour: Adept Brewery",
-    "start": "2026-09-27T11:00:00",
+    "start": "2026-10-03T16:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -275,25 +187,14 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Leuven beKOORt",
-    "start": "2026-09-27T13:30:00",
+    "title": "Market in Heverlee",
+    "start": "2026-10-04T08:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "flea_market",
     "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/leuven-bekoort",
-    "url": "https://www.visitleuven.be/en/leuven-bekoort",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided walk-in tour: Heart of the Abbey",
-    "start": "2026-09-27T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Museum PARCUM, Abdij van Park 7, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/guided-walk-tour-heart-abbey",
-    "url": "https://www.visitleuven.be/en/guided-walk-tour-heart-abbey",
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
     "source": "leuven_calendar"
   },
   {
@@ -330,14 +231,36 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Free concert: Open Mic @ Het Depot",
+    "title": "Open Dance Floor",
+    "start": "2026-10-07T20:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Various locations",
+    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
+    "url": "https://www.visitleuven.be/en/open-dance-floor",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Concert: Open Mic night",
     "start": "2026-10-07T20:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "Het Depot, Martelarenplein 12, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-concert-open-mic-het-depot",
-    "url": "https://www.visitleuven.be/en/free-concert-open-mic-het-depot",
+    "description": "More info: https://www.visitleuven.be/en/concert-open-mic-night",
+    "url": "https://www.visitleuven.be/en/concert-open-mic-night",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Free visit to the theatre: Open House",
+    "start": "2026-10-09T10:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/free-visit-theatre-open-house",
+    "url": "https://www.visitleuven.be/en/free-visit-theatre-open-house",
     "source": "leuven_calendar"
   },
   {
@@ -352,14 +275,25 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Free visit to the theatre: Open House",
-    "start": "2026-10-09T10:00:00",
+    "title": "Dance battle: Dansbaar Vol. XI",
+    "start": "2026-10-10T14:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-visit-theatre-open-house",
-    "url": "https://www.visitleuven.be/en/free-visit-theatre-open-house",
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/bow-battle-shake",
+    "url": "https://www.visitleuven.be/en/bow-battle-shake",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Arts festival in the public space: Zomertank",
+    "start": "2026-09-10T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Kessel-Lo",
+    "description": "More info: https://www.visitleuven.be/en/arts-festival-public-space-zomertank",
+    "url": "https://www.visitleuven.be/en/arts-festival-public-space-zomertank",
     "source": "leuven_calendar"
   },
   {
@@ -407,6 +341,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Festival 20\u202221",
+    "start": "2026-10-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Various locations",
+    "description": "More info: https://www.visitleuven.be/en/agenda/festival2021",
+    "url": "https://www.visitleuven.be/en/agenda/festival2021",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Heritage Tour KU Leuven: Holland College",
     "start": "2026-10-31T10:30:00",
     "city": "leuven",
@@ -451,14 +396,14 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Dance battle: Dance Shake for kids",
+    "title": "Dance Battle: Battle Shake for kids",
     "start": "2026-11-05T16:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/dance-battle-dance-shake-kids",
-    "url": "https://www.visitleuven.be/en/dance-battle-dance-shake-kids",
+    "description": "More info: https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
+    "url": "https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
     "source": "leuven_calendar"
   },
   {
@@ -529,7 +474,7 @@
   },
   {
     "title": "Winter Season Leuven",
-    "start": "2026-12-09T00:00:00",
+    "start": "2026-12-08T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -550,14 +495,25 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Exhibition: Experience Bouts",
-    "start": "2027-01-01T00:00:00",
+    "title": "Unstoppable: discover tomorrow's musicians, theatre makers and circus artists",
+    "start": "2026-09-14T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
-    "location": "Sint-Pieterskerk, Grote Markt 1, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/exhibition-experience-bouts",
-    "url": "https://www.visitleuven.be/en/exhibition-experience-bouts",
+    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/unstoppable-discover-tomorrows-musicians-theatre-makers-and-circus-artists",
+    "url": "https://www.visitleuven.be/en/unstoppable-discover-tomorrows-musicians-theatre-makers-and-circus-artists",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Man, man, man",
+    "start": "2026-09-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/man-man-man",
+    "url": "https://www.visitleuven.be/en/man-man-man",
     "source": "leuven_calendar"
   },
   {
@@ -627,6 +583,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Summer festival: Het Groot Verlof",
+    "start": "2027-07-01T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Leuven \u2022 Various locations",
+    "description": "More info: https://www.visitleuven.be/en/summer-festival-het-groot-verlof",
+    "url": "https://www.visitleuven.be/en/summer-festival-het-groot-verlof",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Festival: Rock Werchter",
     "start": "2026-09-01T00:00:00",
     "city": "leuven",
@@ -638,14 +605,14 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Summer festival: Het Groot Verlof",
-    "start": "2027-07-01T00:00:00",
+    "title": "Exhibition: Experience Bouts",
+    "start": "2028-01-01T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
-    "location": "Leuven \u2022 Various locations",
-    "description": "More info: https://www.visitleuven.be/en/summer-festival-het-groot-verlof",
-    "url": "https://www.visitleuven.be/en/summer-festival-het-groot-verlof",
+    "location": "Sint-Pieterskerk, Grote Markt 1, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/exhibition-experience-bouts",
+    "url": "https://www.visitleuven.be/en/exhibition-experience-bouts",
     "source": "leuven_calendar"
   },
   {

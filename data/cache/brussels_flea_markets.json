@@ -1,38 +1,5 @@
 [
   {
-    "title": "De Wand flea market and fair",
-    "start": "2026-09-26T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": "2026-09-27T12:00:00+00:00",
-    "location": "De Wand quarter, Rue de Wand, 1020 Brussels (Laeken)",
-    "description": "Flea market & rummage sales\n\nMore info: https://www.brussels.be/de-wand-flea-market-and-fair",
-    "url": "https://www.brussels.be/de-wand-flea-market-and-fair",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Braderie brocante du Midi 2026",
-    "start": "2026-09-26T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Esplanade de l'Europe",
-    "description": "Flea market & rummage sales\n\nMore info: https://www.brussels.be/braderie-brocante-du-midi-2026",
-    "url": "https://www.brussels.be/braderie-brocante-du-midi-2026",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Big street market of the Marolles",
-    "start": "2026-09-26T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": "2026-09-27T12:00:00+00:00",
-    "location": "Marolles Quarter",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/big-street-market-marolles",
-    "url": "https://www.brussels.be/big-street-market-marolles",
-    "source": "brussels_flea_markets"
-  },
-  {
     "title": "Houba de Strooper flea market",
     "start": "2026-10-03T12:00:00+00:00",
     "city": "leuven",
@@ -82,7 +49,7 @@
     "city": "leuven",
     "category": "flea_market",
     "end": "2026-11-22T12:00:00+00:00",
-    "location": "Tour & Taxis, Avenue du Port 86c - 1000 Brussels",
+    "location": "Tour & Taxis, Avenue du Port 86c, 1000 Brussels",
     "description": "Fairs & shows // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-design-market",
     "url": "https://www.brussels.be/brussels-design-market",
     "source": "brussels_flea_markets"
