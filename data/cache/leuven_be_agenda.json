@@ -1,38 +1,5 @@
 [
   {
-    "title": "Weekend van de Klantexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens dit weekend maakt Leuven er een geweldig shopping- en verwenweekend van.\n\nMore info: https://www.leuven.be/weekend-van-de-klant",
-    "url": "https://www.leuven.be/weekend-van-de-klant",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Online infosessie 'Koken met restjes' (volzet)",
-    "start": "2026-09-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
-    "url": "https://www.leuven.be/koken-met-restjes",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Beweegt",
-    "start": "2026-09-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
-    "url": "https://www.leuven.be/beweegt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -44,61 +11,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-03T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Bezoek Eastech Park tijdens Open Bedrijvendagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek hoe ondernemers van morgen hun idee\u00ebn omzetten in bedrijven. Je ontmoet student-ondernemers en innovatieve start-ups en ziet technologie in actie.\n\nMore info: https://www.leuven.be/openbedrijvendag",
-    "url": "https://www.leuven.be/openbedrijvendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Koopzondagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Shoppen op zondag? Natuurlijk! Op een koopzondag zijn de meeste winkels open in de namiddag.\n\nMore info: https://www.leuven.be/koopzondag",
-    "url": "https://www.leuven.be/koopzondag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Werelddierendag in park De Bruul",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag",
-    "url": "https://www.leuven.be/werelddierendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
     "start": "2026-10-05T00:00:00",
     "city": "leuven",
@@ -107,6 +19,17 @@
     "location": "",
     "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
     "url": "https://www.leuven.be/soul-repair-cafe",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
     "source": "leuven_be_agenda"
   },
   {
@@ -187,6 +110,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -198,14 +132,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "title": "Open Archiefdag",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
     "source": "leuven_be_agenda"
   },
   {
@@ -220,14 +154,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
+    "url": "https://www.leuven.be/samen-veerkrachtig",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-10-11T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
     "source": "leuven_be_agenda"
   },
   {
@@ -297,14 +242,25 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
+    "start": "2026-10-31T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
+    "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Leuven Legacy Gravel",
     "start": "2026-10-18T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
-    "url": "https://www.leuven.be/legacygravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/gravel",
+    "url": "https://www.leuven.be/gravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -415,6 +371,17 @@
     "location": "",
     "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
     "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
     "source": "leuven_be_agenda"
   },
   {
@@ -539,39 +506,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Weekend van de Klantexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens dit weekend maakt Leuven er een geweldig shopping- en verwenweekend van.\n\nMore info: https://www.leuven.be/weekend-van-de-klant",
-    "url": "https://www.leuven.be/weekend-van-de-klant",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Online infosessie 'Koken met restjes' (volzet)",
-    "start": "2026-09-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
-    "url": "https://www.leuven.be/koken-met-restjes",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Beweegt",
-    "start": "2026-09-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
-    "url": "https://www.leuven.be/beweegt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -583,61 +517,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-03T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Bezoek Eastech Park tijdens Open Bedrijvendagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek hoe ondernemers van morgen hun idee\u00ebn omzetten in bedrijven. Je ontmoet student-ondernemers en innovatieve start-ups en ziet technologie in actie.\n\nMore info: https://www.leuven.be/openbedrijvendag",
-    "url": "https://www.leuven.be/openbedrijvendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Koopzondagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Shoppen op zondag? Natuurlijk! Op een koopzondag zijn de meeste winkels open in de namiddag.\n\nMore info: https://www.leuven.be/koopzondag",
-    "url": "https://www.leuven.be/koopzondag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Werelddierendag in park De Bruul",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag",
-    "url": "https://www.leuven.be/werelddierendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
     "start": "2026-10-05T00:00:00",
     "city": "leuven",
@@ -646,6 +525,17 @@
     "location": "",
     "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
     "url": "https://www.leuven.be/soul-repair-cafe",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
     "source": "leuven_be_agenda"
   },
   {
@@ -726,6 +616,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -737,14 +638,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "title": "Open Archiefdag",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
     "source": "leuven_be_agenda"
   },
   {
@@ -759,14 +660,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
+    "url": "https://www.leuven.be/samen-veerkrachtig",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-10-11T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
     "source": "leuven_be_agenda"
   },
   {
@@ -836,14 +748,25 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
+    "start": "2026-10-31T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
+    "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Leuven Legacy Gravel",
     "start": "2026-10-18T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
-    "url": "https://www.leuven.be/legacygravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/gravel",
+    "url": "https://www.leuven.be/gravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -954,6 +877,17 @@
     "location": "",
     "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
     "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
     "source": "leuven_be_agenda"
   },
   {
@@ -1078,39 +1012,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Weekend van de Klantexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens dit weekend maakt Leuven er een geweldig shopping- en verwenweekend van.\n\nMore info: https://www.leuven.be/weekend-van-de-klant",
-    "url": "https://www.leuven.be/weekend-van-de-klant",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Online infosessie 'Koken met restjes' (volzet)",
-    "start": "2026-09-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je eenvoudig een nieuw gerecht maakt met restjes en overschotten. Zo verspil je minder voedsel.\n\nMore info: https://www.leuven.be/koken-met-restjes",
-    "url": "https://www.leuven.be/koken-met-restjes",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Leuven Beweegt",
-    "start": "2026-09-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Volg in september gratis proeflessen bij Leuvense sportclubs en vind een nieuwe sport.\n\nMore info: https://www.leuven.be/beweegt",
-    "url": "https://www.leuven.be/beweegt",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -1122,61 +1023,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-03T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Bezoek Eastech Park tijdens Open Bedrijvendagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Ontdek hoe ondernemers van morgen hun idee\u00ebn omzetten in bedrijven. Je ontmoet student-ondernemers en innovatieve start-ups en ziet technologie in actie.\n\nMore info: https://www.leuven.be/openbedrijvendag",
-    "url": "https://www.leuven.be/openbedrijvendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Koopzondagexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Shoppen op zondag? Natuurlijk! Op een koopzondag zijn de meeste winkels open in de namiddag.\n\nMore info: https://www.leuven.be/koopzondag",
-    "url": "https://www.leuven.be/koopzondag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Werelddierendag in park De Bruul",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "We vieren Werelddierendag met een infomarkt over dierenwelzijn in park De Bruul.\n\nMore info: https://www.leuven.be/werelddierendag",
-    "url": "https://www.leuven.be/werelddierendag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-10-04T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
     "start": "2026-10-05T00:00:00",
     "city": "leuven",
@@ -1185,6 +1031,17 @@
     "location": "",
     "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
     "url": "https://www.leuven.be/soul-repair-cafe",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
     "source": "leuven_be_agenda"
   },
   {
@@ -1265,6 +1122,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "start": "2026-10-10T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Demonstratie thuiscomposteren",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
@@ -1276,14 +1144,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
+    "title": "Open Archiefdag",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
+    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
+    "url": "https://www.leuven.be/archiefdag",
     "source": "leuven_be_agenda"
   },
   {
@@ -1298,14 +1166,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Open Archiefdag",
+    "title": "Samen Veerkrachtigexternal link",
     "start": "2026-10-10T00:00:00",
     "city": "leuven",
-    "category": "exhibition",
+    "category": "event",
     "end": null,
     "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
+    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
+    "url": "https://www.leuven.be/samen-veerkrachtig",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-10-11T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
     "source": "leuven_be_agenda"
   },
   {
@@ -1375,14 +1254,25 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
+    "start": "2026-10-31T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
+    "url": "https://www.leuven.be/lessen-valpreventie",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Leuven Legacy Gravel",
     "start": "2026-10-18T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/legacygravel",
-    "url": "https://www.leuven.be/legacygravel",
+    "description": "Rij mee met de offici\u00eble kwalificatiewedstrijd voor de UCI Gravel World Championships 2027 of kom supporteren langs het parcours.\n\nMore info: https://www.leuven.be/gravel",
+    "url": "https://www.leuven.be/gravel",
     "source": "leuven_be_agenda"
   },
   {
@@ -1493,6 +1383,17 @@
     "location": "",
     "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
     "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
     "source": "leuven_be_agenda"
   },
   {

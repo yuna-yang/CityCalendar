@@ -1,27 +1,5 @@
 [
   {
-    "title": "Houba de Strooper flea market",
-    "start": "2026-10-03T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": "2026-10-04T12:00:00+00:00",
-    "location": "Houba de Strooper, Avenue Houba de Strooper - 1020 Brussels (Laeken)",
-    "description": "Flea market & rummage sales\n\nMore info: https://www.brussels.be/houba-de-strooper-flea-market",
-    "url": "https://www.brussels.be/houba-de-strooper-flea-market",
-    "source": "brussels_flea_markets"
-  },
-  {
-    "title": "Brussels Vintage Market",
-    "start": "2026-07-05T12:00:00+00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": "2026-12-06T12:00:00+00:00",
-    "location": "Halles Saint-G\u00e9ry, Place Saint-G\u00e9ry 1 - 1000 Brussels",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-vintage-market",
-    "url": "https://www.brussels.be/brussels-vintage-market",
-    "source": "brussels_flea_markets"
-  },
-  {
     "title": "Brussels Retro Market",
     "start": "2026-10-04T12:00:00+00:00",
     "city": "leuven",
