@@ -1,178 +1,13 @@
 [
   {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
-    "start": "2026-10-05T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
-    "url": "https://www.leuven.be/soul-repair-cafe",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Digitale weekexternal link",
-    "start": "2026-10-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
-    "url": "https://www.leuven.be/digitale-week",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Seniorenbalexternal link",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
-    "url": "https://www.leuven.be/seniorenbal",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infopunt vrijwilligerswerk",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
-    "url": "https://www.leuven.be/infopunt-vrijwilliger",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Huis te koop: een koopje of een valkuil?'",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een woning kopen is een grote stap met praktische en financi\u00eble gevolgen. Deze infoavond is jouw gids naar een verstandige aankoop.\n\nMore info: https://www.leuven.be/infosessie-kopen",
-    "url": "https://www.leuven.be/infosessie-kopen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Urban Jam Session",
-    "start": "2026-10-07T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Probeer samen met anderen 4 urban sports uit: skate, BMX, parkour en wheelie.\n\nMore info: https://www.leuven.be/urban-jam-session",
-    "url": "https://www.leuven.be/urban-jam-session",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Meet your street: ontmoet studenten in je buurt",
-    "start": "2026-10-08T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Nodig je buren en de studenten in je straat uit voor een gezellige kennismaking.\n\nMore info: https://www.leuven.be/meetyourstreet",
-    "url": "https://www.leuven.be/meetyourstreet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
-    "start": "2026-11-17T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Lezing: Tinel en Gronowskiexternal link",
-    "start": "2026-10-09T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
-    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Open Archiefdag",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "G-sportinitiaties 'Sportprikkels'",
-    "start": "2026-10-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
-    "url": "https://www.leuven.be/sportprikkels",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
     "source": "leuven_be_agenda"
   },
   {
@@ -187,14 +22,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-10-14T00:00:00",
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-10-24T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -209,7 +44,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Training voor omstaanders",
+    "title": "Training voor omstaanders (volzet)",
     "start": "2026-11-19T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -231,14 +66,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Workshop 'Thuiscomposteren'",
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Workshop 'Thuiscomposteren' (volzet)",
     "start": "2026-10-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
-    "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/workshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -297,6 +143,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Dag van de Jeugdbeweging",
+    "start": "2026-10-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontbijt samen met duizenden jongeren die ook in de jeugdbeweging zitten.\n\nMore info: https://www.leuven.be/jeugdbeweging",
+    "url": "https://www.leuven.be/jeugdbeweging",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Flanders Technology and Innovation: Patatten en prothesenexternal link",
     "start": "2026-10-25T00:00:00",
     "city": "leuven",
@@ -305,6 +162,28 @@
     "location": "",
     "description": "Ontdek kraampjes vol technologie op de markt.\n\nMore info: https://www.leuven.be/patatten-en-prothesen",
     "url": "https://www.leuven.be/patatten-en-prothesen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Legacy League Leuvenexternal link",
+    "start": "2026-10-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Verwonder je over indrukwekkende breakingduels.\n\nMore info: https://www.leuven.be/legacy-league-leuven",
+    "url": "https://www.leuven.be/legacy-league-leuven",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Boekenverkoop in de bibexternal link",
+    "start": "2026-10-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
+    "url": "https://www.leuven.be/boekenverkoop",
     "source": "leuven_be_agenda"
   },
   {
@@ -330,14 +209,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Reveil: troostvoorstelling op de begraafplaats",
+    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
+    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infopunt vrijwilligerswerk",
+    "start": "2026-11-03T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
+    "url": "https://www.leuven.be/infopunt-vrijwilliger",
     "source": "leuven_be_agenda"
   },
   {
@@ -374,6 +264,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Foyer Matineeexternal link",
     "start": "2026-11-15T00:00:00",
     "city": "leuven",
@@ -382,6 +283,28 @@
     "location": "",
     "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
     "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Seniorenbalexternal link",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
+    "url": "https://www.leuven.be/seniorenbal",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
+    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
     "source": "leuven_be_agenda"
   },
   {
@@ -506,179 +429,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
-    "start": "2026-10-05T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
-    "url": "https://www.leuven.be/soul-repair-cafe",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Digitale weekexternal link",
-    "start": "2026-10-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
-    "url": "https://www.leuven.be/digitale-week",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Seniorenbalexternal link",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
-    "url": "https://www.leuven.be/seniorenbal",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infopunt vrijwilligerswerk",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
-    "url": "https://www.leuven.be/infopunt-vrijwilliger",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Huis te koop: een koopje of een valkuil?'",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een woning kopen is een grote stap met praktische en financi\u00eble gevolgen. Deze infoavond is jouw gids naar een verstandige aankoop.\n\nMore info: https://www.leuven.be/infosessie-kopen",
-    "url": "https://www.leuven.be/infosessie-kopen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Urban Jam Session",
-    "start": "2026-10-07T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Probeer samen met anderen 4 urban sports uit: skate, BMX, parkour en wheelie.\n\nMore info: https://www.leuven.be/urban-jam-session",
-    "url": "https://www.leuven.be/urban-jam-session",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Meet your street: ontmoet studenten in je buurt",
-    "start": "2026-10-08T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Nodig je buren en de studenten in je straat uit voor een gezellige kennismaking.\n\nMore info: https://www.leuven.be/meetyourstreet",
-    "url": "https://www.leuven.be/meetyourstreet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
-    "start": "2026-11-17T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Lezing: Tinel en Gronowskiexternal link",
-    "start": "2026-10-09T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
-    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Open Archiefdag",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "G-sportinitiaties 'Sportprikkels'",
-    "start": "2026-10-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
-    "url": "https://www.leuven.be/sportprikkels",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
     "source": "leuven_be_agenda"
   },
   {
@@ -693,14 +451,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-10-14T00:00:00",
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-10-24T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -715,7 +473,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Training voor omstaanders",
+    "title": "Training voor omstaanders (volzet)",
     "start": "2026-11-19T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -737,14 +495,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Workshop 'Thuiscomposteren'",
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Workshop 'Thuiscomposteren' (volzet)",
     "start": "2026-10-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
-    "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/workshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -803,6 +572,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Dag van de Jeugdbeweging",
+    "start": "2026-10-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontbijt samen met duizenden jongeren die ook in de jeugdbeweging zitten.\n\nMore info: https://www.leuven.be/jeugdbeweging",
+    "url": "https://www.leuven.be/jeugdbeweging",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Flanders Technology and Innovation: Patatten en prothesenexternal link",
     "start": "2026-10-25T00:00:00",
     "city": "leuven",
@@ -811,6 +591,28 @@
     "location": "",
     "description": "Ontdek kraampjes vol technologie op de markt.\n\nMore info: https://www.leuven.be/patatten-en-prothesen",
     "url": "https://www.leuven.be/patatten-en-prothesen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Legacy League Leuvenexternal link",
+    "start": "2026-10-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Verwonder je over indrukwekkende breakingduels.\n\nMore info: https://www.leuven.be/legacy-league-leuven",
+    "url": "https://www.leuven.be/legacy-league-leuven",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Boekenverkoop in de bibexternal link",
+    "start": "2026-10-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
+    "url": "https://www.leuven.be/boekenverkoop",
     "source": "leuven_be_agenda"
   },
   {
@@ -836,14 +638,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Reveil: troostvoorstelling op de begraafplaats",
+    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
+    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infopunt vrijwilligerswerk",
+    "start": "2026-11-03T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
+    "url": "https://www.leuven.be/infopunt-vrijwilliger",
     "source": "leuven_be_agenda"
   },
   {
@@ -880,6 +693,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Foyer Matineeexternal link",
     "start": "2026-11-15T00:00:00",
     "city": "leuven",
@@ -888,6 +712,28 @@
     "location": "",
     "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
     "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Seniorenbalexternal link",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
+    "url": "https://www.leuven.be/seniorenbal",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
+    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
     "source": "leuven_be_agenda"
   },
   {
@@ -1012,179 +858,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
+    "title": "Straatmakers skate sessies op het Martelarenplein",
+    "start": "2026-10-14T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Soul Repair Caf\u00e9: vertel je verliesverhaal",
-    "start": "2026-10-05T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Artiesten zetten je verhaal om in een tekening, lied, brief of gedicht. Je krijgt gratis je persoonlijke kunstwerk mee.\n\nMore info: https://www.leuven.be/soul-repair-cafe",
-    "url": "https://www.leuven.be/soul-repair-cafe",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Digitale weekexternal link",
-    "start": "2026-10-16T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
-    "url": "https://www.leuven.be/digitale-week",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Seniorenbalexternal link",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
-    "url": "https://www.leuven.be/seniorenbal",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infopunt vrijwilligerswerk",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
-    "url": "https://www.leuven.be/infopunt-vrijwilliger",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Huis te koop: een koopje of een valkuil?'",
-    "start": "2026-10-06T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een woning kopen is een grote stap met praktische en financi\u00eble gevolgen. Deze infoavond is jouw gids naar een verstandige aankoop.\n\nMore info: https://www.leuven.be/infosessie-kopen",
-    "url": "https://www.leuven.be/infosessie-kopen",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Urban Jam Session",
-    "start": "2026-10-07T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Probeer samen met anderen 4 urban sports uit: skate, BMX, parkour en wheelie.\n\nMore info: https://www.leuven.be/urban-jam-session",
-    "url": "https://www.leuven.be/urban-jam-session",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Meet your street: ontmoet studenten in je buurt",
-    "start": "2026-10-08T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Nodig je buren en de studenten in je straat uit voor een gezellige kennismaking.\n\nMore info: https://www.leuven.be/meetyourstreet",
-    "url": "https://www.leuven.be/meetyourstreet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
-    "start": "2026-11-17T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Lezing: Tinel en Gronowskiexternal link",
-    "start": "2026-10-09T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Luister naar het bijzondere verhaal van een Holocaustoverlevende en de zoon van een collaborateur, die vriendschap sluiten.\n\nMore info: https://www.leuven.be/lezing-tinel-en-gronowski",
-    "url": "https://www.leuven.be/lezing-tinel-en-gronowski",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Wandeling 'Een tuin voor de toekomst' (volzet)",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Onderweg ontdek je idee\u00ebn en voorbeelden voor een duurzame en klimaatbestendige tuin.\n\nMore info: https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "url": "https://www.leuven.be/wandeling-een-tuin-voor-de-toekomst-volzet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Demonstratie thuiscomposteren",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "De compostmeesters tonen je hoe je thuis kan composteren en geven een antwoord op je vragen.\n\nMore info: https://www.leuven.be/demonstratie-thuiscomposteren",
-    "url": "https://www.leuven.be/demonstratie-thuiscomposteren",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Open Archiefdag",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Neem een kijkje achter de schermen van het Stadsarchief en bezoek de expo met Leuvense filmaffiches.\n\nMore info: https://www.leuven.be/archiefdag",
-    "url": "https://www.leuven.be/archiefdag",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Samen Veerkrachtigexternal link",
-    "start": "2026-10-10T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Doe 10 dagen lang mee met workshops, wandelingen en andere activiteiten om je veerkracht te versterken.\n\nMore info: https://www.leuven.be/samen-veerkrachtig",
-    "url": "https://www.leuven.be/samen-veerkrachtig",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "G-sportinitiaties 'Sportprikkels'",
-    "start": "2026-10-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
-    "url": "https://www.leuven.be/sportprikkels",
+    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
     "source": "leuven_be_agenda"
   },
   {
@@ -1199,14 +880,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Straatmakers skate sessies op het Martelarenplein",
-    "start": "2026-10-14T00:00:00",
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-10-24T00:00:00",
     "city": "leuven",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Kom skaten op het Martelarenplein. Je krijgt gratis materiaal en coaching.\n\nMore info: https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
-    "url": "https://www.leuven.be/straatmakers-skate-sessies-op-het-martelarenplein",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -1221,7 +902,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Training voor omstaanders",
+    "title": "Training voor omstaanders (volzet)",
     "start": "2026-11-19T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -1243,14 +924,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Workshop 'Thuiscomposteren'",
+    "title": "Digitale weekexternal link",
+    "start": "2026-10-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De Bib Leuven gidst je door de digitale wereld. Inspirerende lezingen en workshops helpen je op een laagdrempelige manier op weg.\n\nMore info: https://www.leuven.be/digitale-week",
+    "url": "https://www.leuven.be/digitale-week",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Workshop 'Thuiscomposteren' (volzet)",
     "start": "2026-10-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren",
-    "url": "https://www.leuven.be/workshop-thuiscomposteren",
+    "description": "Leer hoe je tuinafval verwerkt en hoe je aan de slag gaat met compostbakken en -vaten.\n\nMore info: https://www.leuven.be/workshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/workshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -1309,6 +1001,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Dag van de Jeugdbeweging",
+    "start": "2026-10-23T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontbijt samen met duizenden jongeren die ook in de jeugdbeweging zitten.\n\nMore info: https://www.leuven.be/jeugdbeweging",
+    "url": "https://www.leuven.be/jeugdbeweging",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Flanders Technology and Innovation: Patatten en prothesenexternal link",
     "start": "2026-10-25T00:00:00",
     "city": "leuven",
@@ -1317,6 +1020,28 @@
     "location": "",
     "description": "Ontdek kraampjes vol technologie op de markt.\n\nMore info: https://www.leuven.be/patatten-en-prothesen",
     "url": "https://www.leuven.be/patatten-en-prothesen",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Legacy League Leuvenexternal link",
+    "start": "2026-10-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Verwonder je over indrukwekkende breakingduels.\n\nMore info: https://www.leuven.be/legacy-league-leuven",
+    "url": "https://www.leuven.be/legacy-league-leuven",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Boekenverkoop in de bibexternal link",
+    "start": "2026-10-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
+    "url": "https://www.leuven.be/boekenverkoop",
     "source": "leuven_be_agenda"
   },
   {
@@ -1342,14 +1067,25 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Reveil: troostvoorstelling op de begraafplaats",
+    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
     "start": "2026-11-01T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "We herdenken overledenen met ingetogen troostconcerten en -voorstellingen op begraafplaatsen\n\nMore info: https://www.leuven.be/reveil",
+    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
     "url": "https://www.leuven.be/reveil",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infopunt vrijwilligerswerk",
+    "start": "2026-11-03T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
+    "url": "https://www.leuven.be/infopunt-vrijwilliger",
     "source": "leuven_be_agenda"
   },
   {
@@ -1386,6 +1122,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-11-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Foyer Matineeexternal link",
     "start": "2026-11-15T00:00:00",
     "city": "leuven",
@@ -1394,6 +1141,28 @@
     "location": "",
     "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
     "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Seniorenbalexternal link",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
+    "url": "https://www.leuven.be/seniorenbal",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Infosessie 'Kelderisolatie, leidingisolatie en asbest'",
+    "start": "2026-11-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Leer hoe je je kelder en leidingen effici\u00ebnt isoleert en hoe je veilig omgaat met asbest.\n\nMore info: https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
+    "url": "https://www.leuven.be/infosessie-kelderisolatie-leidingisolatie-en-asbest",
     "source": "leuven_be_agenda"
   },
   {
