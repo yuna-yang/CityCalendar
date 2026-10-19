@@ -22,6 +22,17 @@
     "source": "brussels_agenda"
   },
   {
+    "title": "Guided visits by Arkadia",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
+    "url": "https://www.brussels.be/guided-visits-arkadia",
+    "source": "brussels_agenda"
+  },
+  {
     "title": "Workshops at the Jewish Museum of Belgium",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -44,36 +55,14 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
-    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Guided visits by Arkadia",
+    "title": "Guided visits by Korei Guided Tours",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
     "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
-    "url": "https://www.brussels.be/guided-visits-arkadia",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Guided tours Laeken D\u00e9couverte",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Laeken",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-tours-laeken-decouverte",
-    "url": "https://www.brussels.be/guided-tours-laeken-decouverte",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
+    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
     "source": "brussels_agenda"
   },
   {
@@ -88,28 +77,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Training courses - 'Mission Locale pour l'Emploi'",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Mission Locale pour l'Emploi de Bruxelles-Ville, Boulevard d'Anvers 26 - 1000 Brussels",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
-    "url": "https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Ancienne Belgique - AB - programme 2026",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -118,28 +85,6 @@
     "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
     "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
     "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Lectures and guided tours - Cercle d'Histoire de Bruxelles",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various places in Brussels",
-    "description": "Lectures & debates // Guided tours\n\nMore info: https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
-    "url": "https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Guided visits by Korei Guided Tours",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
-    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
     "source": "brussels_agenda"
   },
   {
@@ -154,14 +99,69 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
+    "title": "Lectures and guided tours - Cercle d'Histoire de Bruxelles",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
+    "location": "Various places in Brussels",
+    "description": "Lectures & debates // Guided tours\n\nMore info: https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "url": "https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Public programme - La Bellone",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "La Bellone, Rue de Flandre 46 - 1000 Brussels",
+    "description": "Multidisciplinary // Lectures & debates\n\nMore info: https://www.brussels.be/public-programme-la-bellone",
+    "url": "https://www.brussels.be/public-programme-la-bellone",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Korei Guided Tours",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
+    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Underground treasure hunt at the Coudenberg",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
+    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Workshops at the Jewish Museum of Belgium",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "museum_free_day",
+    "end": "2027-12-31T12:00:00+00:00",
+    "location": "Jewish Museum of Belgium, Rue des Minimes 21, 1000 Brussels",
+    "description": "Youth\n\nMore info: https://www.brussels.be/workshops-jewish-museum-belgium",
+    "url": "https://www.brussels.be/workshops-jewish-museum-belgium",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Arkadia",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
+    "url": "https://www.brussels.be/guided-visits-arkadia",
     "source": "brussels_agenda"
   },
   {
@@ -297,17 +297,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Visit of the King Baudouin Stadium",
-    "start": "2026-02-21T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-19T12:00:00+00:00",
-    "location": "King Baudouin Stadium, Avenue de Marathon - 1020 Brussels (Laeken)",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/visit-king-baudouin-stadium",
-    "url": "https://www.brussels.be/visit-king-baudouin-stadium",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Guided bicycle tours",
     "start": "2026-02-21T12:00:00+00:00",
     "city": "leuven",
@@ -316,6 +305,17 @@
     "location": "",
     "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-bicycle-tours",
     "url": "https://www.brussels.be/guided-bicycle-tours",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Visit of the King Baudouin Stadium",
+    "start": "2026-02-21T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-19T12:00:00+00:00",
+    "location": "King Baudouin Stadium, Avenue de Marathon - 1020 Brussels (Laeken)",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/visit-king-baudouin-stadium",
+    "url": "https://www.brussels.be/visit-king-baudouin-stadium",
     "source": "brussels_agenda"
   },
   {
@@ -422,7 +422,7 @@
     "start": "2026-07-16T12:00:00+00:00",
     "city": "leuven",
     "category": "exhibition",
-    "end": "2026-11-08T12:00:00+00:00",
+    "end": "2027-01-03T12:00:00+00:00",
     "location": "Brussels Expo, Place de la Belgique 1 - 1020 Brussels (Laeken)",
     "description": "Exhibition // Events\n\nMore info: https://www.brussels.be/harry-pottertm-exhibition",
     "url": "https://www.brussels.be/harry-pottertm-exhibition",
@@ -484,17 +484,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Nekkersdal neighbourhood kitchen",
-    "start": "2026-09-15T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2027-06-22T12:00:00+00:00",
-    "location": "NoordOuest Caf\u00e9, Rue Verhoeven 34, 1020 Brussels (Laeken)",
-    "description": "Events\n\nMore info: https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
-    "url": "https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Enjoy BXL by art",
     "start": "2026-09-15T12:00:00+00:00",
     "city": "leuven",
@@ -503,6 +492,17 @@
     "location": "Various places in Brussels",
     "description": "Events\n\nMore info: https://www.brussels.be/enjoy-bxl-art",
     "url": "https://www.brussels.be/enjoy-bxl-art",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Nekkersdal neighbourhood kitchen",
+    "start": "2026-09-15T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2027-06-22T12:00:00+00:00",
+    "location": "NoordOuest Caf\u00e9, Rue Verhoeven 34, 1020 Brussels (Laeken)",
+    "description": "Events\n\nMore info: https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
+    "url": "https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
     "source": "brussels_agenda"
   },
   {

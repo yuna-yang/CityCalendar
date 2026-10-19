@@ -1,46 +1,13 @@
 [
   {
-    "title": "Fantasykoncert",
-    "start": "2026-10-15T00:00:00",
+    "title": "Christina Bj\u00f8rk\u00f8e & Friends: Klaverv\u00e6rker og lieder fra Carl Nielsens tid",
+    "start": "2026-10-23T17:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Odense Koncerthus",
-    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586378",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586378",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Korkoncert Oldenburger Kammerchor, dirigent Lukas Henke",
-    "start": "2026-10-13T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odense Domkirke (Skt. Knuds Kirke)",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20347167",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20347167",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Ole Frimer/ Knud M\u00f8ller kvartet",
-    "start": "2026-10-16T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "M\u00f8decenter Odense",
-    "description": "Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428458",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428458",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Koncert med Trio \u00d8berg",
-    "start": "2026-10-18T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Fredens Kirke i Odense",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20097222",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20097222",
+    "location": "Carl Nielsen Museet",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20325112",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20325112",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -55,17 +22,6 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Mytologiens ni verdener",
-    "start": "2026-10-18T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Jernalderlandsbyen Odins Odense",
-    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19572329",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19572329",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
     "title": "Uffe Steen Trio & Vestbo Trio",
     "start": "2026-10-22T00:00:00",
     "city": "copenhagen",
@@ -74,6 +30,28 @@
     "location": "Dexter",
     "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19454183",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19454183",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "DR Pigekoret i M\u00f8rke",
+    "start": "2026-10-25T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Odense Koncerthus",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19750701",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19750701",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Takuma Onodera",
+    "start": "2026-10-25T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Odense Valgmenighed",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19441682",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19441682",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -88,25 +66,47 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Fantasykoncert",
-    "start": "2026-10-16T00:00:00",
+    "title": "Udstilling: \u00d8havsstien til den rolige hjerne",
+    "start": "2026-10-29T00:00:00",
     "city": "copenhagen",
-    "category": "event",
+    "category": "exhibition",
     "end": null,
-    "location": "Odense Koncerthus",
-    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586353",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586353",
+    "location": "Odense Hovedbibliotek",
+    "description": "Udstilling\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20368650",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20368650",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Claus Hempler",
-    "start": "2026-10-13T00:00:00",
+    "title": "Drag Bingo Show p\u00e5 No Stress Odense",
+    "start": "2026-11-05T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Kulturmaskinen - Magasinet",
-    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19886754",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19886754",
+    "location": "No Stress Bar, Odense",
+    "description": "Banko\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997609",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997609",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
+    "start": "2026-12-12T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Tidens Samling",
+    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Skattejagt for b\u00f8rn i Odense",
+    "start": "2026-10-31T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Kongens Have",
+    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20043641",
     "source": "odense_kultunaut_highlights"
   }
 ]
