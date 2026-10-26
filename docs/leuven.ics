@@ -27,28 +27,6 @@ LOCATION:Cathedral of St. Michael and St. Gudula\, Parvis Sainte-Gudule -
 URL:https://www.brussels.be/gudula26
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Guided visits by Arkadia
-DTSTART:20260101T120000Z
-DTEND:20261231T120000Z
-UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
-CATEGORIES:event
-DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
- ts-arkadia
-LOCATION:Various locations in Brussels
-URL:https://www.brussels.be/guided-visits-arkadia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏛️ Workshops at the Jewish Museum of Belgium
-DTSTART:20260101T120000Z
-DTEND:20271231T120000Z
-UID:698d0c90c386f7b8cd612dc36ddbda4d1c610a88@citycalendar
-CATEGORIES:museum_free_day
-DESCRIPTION:Youth\n\nMore info: https://www.brussels.be/workshops-jewish-m
- useum-belgium
-LOCATION:Jewish Museum of Belgium\, Rue des Minimes 21\, 1000 Brussels
-URL:https://www.brussels.be/workshops-jewish-museum-belgium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Underground treasure hunt at the Coudenberg
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -59,6 +37,17 @@ DESCRIPTION:Youth\n\nMore info: https://www.brussels.be/underground-treasu
 LOCATION:Coudenberg\, Place des Palais 7 - 1000 Brussel (entrance via the 
  BELvue Museum)
 URL:https://www.brussels.be/underground-treasure-hunt-coudenberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided visits by Brussels Chatterguides
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:33e2dd5faf55b011306778223657b82a36761754@citycalendar
+CATEGORIES:event
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-brussels-chatterguides
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/guided-visits-brussels-chatterguides
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Guided visits by Korei Guided Tours
@@ -72,15 +61,27 @@ LOCATION:Various locations in Brussels
 URL:https://www.brussels.be/guided-visits-korei-guided-tours
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Public programme - La Bellone
+SUMMARY:🎫 Workshops and trainings for traders - Entreprendre Bruxelles
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar
+UID:8db41d552d4312f8358671d53ae885fcd7b7f0ab@citycalendar
 CATEGORIES:event
-DESCRIPTION:Multidisciplinary // Lectures & debates\n\nMore info: https://
- www.brussels.be/public-programme-la-bellone
-LOCATION:La Bellone\, Rue de Flandre 46 - 1000 Brussels
-URL:https://www.brussels.be/public-programme-la-bellone
+DESCRIPTION:Multidisciplinary\n\nMore info: https://www.brussels.be/worksh
+ ops-and-trainings-traders-entreprendre-bruxelles
+URL:https://www.brussels.be/workshops-and-trainings-traders-entreprendre-b
+ ruxelles
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
+CATEGORIES:event
+DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
+ russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
+ bruxelles
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Ancienne Belgique - AB - programme 2026
@@ -94,6 +95,28 @@ LOCATION:Ancienne Belgique - AB\, Boulevard Anspach 110\, 1000 Brussels
 URL:https://www.brussels.be/ancienne-belgique-ab-programme-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Guided visits by Arkadia
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:ef236a35d27ca15c53b513cdba7a5446395672a7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-visi
+ ts-arkadia
+LOCATION:Various locations in Brussels
+URL:https://www.brussels.be/guided-visits-arkadia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Public programme - La Bellone
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:98cbc6e5772868f7eb96706bba8f3b52b2c7da41@citycalendar
+CATEGORIES:event
+DESCRIPTION:Multidisciplinary // Lectures & debates\n\nMore info: https://
+ www.brussels.be/public-programme-la-bellone
+LOCATION:La Bellone\, Rue de Flandre 46 - 1000 Brussels
+URL:https://www.brussels.be/public-programme-la-bellone
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Pavi'On programme
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
@@ -105,16 +128,38 @@ LOCATION:Pavi'On\, Cinquantenaire Park - 1000 Brussels
 URL:https://www.brussels.be/pavion-programme
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Lectures and guided tours - Cercle d'Histoire de Bruxelles
+SUMMARY:🎫 Guided tours Laeken Découverte
 DTSTART:20260101T120000Z
 DTEND:20261231T120000Z
-UID:f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar
+UID:cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar
 CATEGORIES:event
-DESCRIPTION:Lectures & debates // Guided tours\n\nMore info: https://www.b
- russels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-
- bruxelles
+DESCRIPTION:Guided tours\n\nMore info: https://www.brussels.be/guided-tour
+ s-laeken-decouverte
+LOCATION:Laeken
+URL:https://www.brussels.be/guided-tours-laeken-decouverte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ Workshops at the Jewish Museum of Belgium
+DTSTART:20260101T120000Z
+DTEND:20271231T120000Z
+UID:698d0c90c386f7b8cd612dc36ddbda4d1c610a88@citycalendar
+CATEGORIES:museum_free_day
+DESCRIPTION:Youth\n\nMore info: https://www.brussels.be/workshops-jewish-m
+ useum-belgium
+LOCATION:Jewish Museum of Belgium\, Rue des Minimes 21\, 1000 Brussels
+URL:https://www.brussels.be/workshops-jewish-museum-belgium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Our House\, in the Middle of Our Street (Beursschouwburg)
+DTSTART:20260101T120000Z
+DTEND:20261231T120000Z
+UID:0a633df1747eb2bed0fdb2bba332404f5161cf90@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Exhibition // Music // Multidisciplinary // Lectures & debates
+  // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street
+ -beursschouwburg
+LOCATION:Beursschouwburg\, Rue A. Orts 20-28 - 1000 Brussels
+URL:https://www.brussels.be/our-house-middle-our-street-beursschouwburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 La Madeleine - programme 2026
@@ -291,6 +336,17 @@ LOCATION:Various places in Brussels
 URL:https://www.brussels.be/kidical-mass-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 'Midis de la Poésie'
+DTSTART:20260402T120000Z
+DTEND:20261231T120000Z
+UID:1d512a36975fead6007a52ce40dcfb662803165b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Lectures & debates\n\nMore info: https://www.brussels.be/midis
+ -de-la-poesie
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/midis-de-la-poesie
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🖼️ Museum of Museums
 DTSTART:20260416T120000Z
 DTEND:20261101T120000Z
@@ -314,16 +370,14 @@ LOCATION:Val du Bois des Béguines\, Trassersweg 420 - 1120 Brussels (Nede
 URL:https://www.brussels.be/spell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Val Saint Lambert & Design (1958-2000)
-DTSTART:20260424T120000Z
-DTEND:20261025T120000Z
-UID:4123fa36cd4290bd54e00b7cfb7a01bee19dfcb8@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Exhibition\n\nMore info: https://www.brussels.be/val-saint-lam
- bert-design-1958-2000
-LOCATION:Design Museum Brussels\, Place de Belgique - 1020 Brussels (Laeke
- n)
-URL:https://www.brussels.be/val-saint-lambert-design-1958-2000
+SUMMARY:🎫 Energy Thursdays
+DTSTART:20260423T120000Z
+DTEND:20270225T120000Z
+UID:1561b7d4e6291045f0d86b48361c405c1ab878b4@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.brussels.be/energy-thursdays
+LOCATION:Capla\, Boulevard Emile Bockstael 160\, 1020 Brussels (Laeken)
+URL:https://www.brussels.be/energy-thursdays
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ Tutankhamun: The Immersive Exhibition
@@ -367,17 +421,6 @@ DESCRIPTION:Events // Flea market & rummage sales\n\nMore info: https://ww
  w.brussels.be/brussels-vintage-market
 LOCATION:Halles Saint-Géry\, Place Saint-Géry 1 - 1000 Brussels
 URL:https://www.brussels.be/brussels-vintage-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Detours Festival
-DTSTART:20260715T120000Z
-DTEND:20261024T120000Z
-UID:3714699f96071450a10253bc663ecc464fd40fa9@citycalendar
-CATEGORIES:event
-DESCRIPTION:Music // Dance // Multidisciplinary // Festivals\n\nMore info:
-  https://www.brussels.be/detours-festival
-LOCATION:Various places in Brussels (including the Mont des Arts)
-URL:https://www.brussels.be/detours-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🖼️ Harry Potter™: The Exhibition
@@ -461,6 +504,17 @@ LOCATION:Maison de la Création - NOH site\, Place Saint-Nicolas - 1120 Br
 URL:https://www.brussels.be/les-petits-koalas
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Dutch conversation groups
+DTSTART:20260903T120000Z
+DTEND:20270628T120000Z
+UID:2d41503f2602b3ffeaeb93f7742568609e7bf553@citycalendar
+CATEGORIES:event
+DESCRIPTION:Lectures & debates\n\nMore info: https://www.brussels.be/dutch
+ -conversation-groups
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/dutch-conversation-groups
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🖼️ Africa Legacy
 DTSTART:20260904T120000Z
 DTEND:20261101T120000Z
@@ -529,16 +583,6 @@ URL:https://www.rommelmarktgids.be/rommelmarkt/200693/fully-booked-book-fa
  ir-leuven-leuven/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Genesis
-DTSTART:20260912T120000Z
-DTEND:20261025T120000Z
-UID:9846a999aa06be90b12ce010c36dc62892fe5cb1@citycalendar
-CATEGORIES:event
-DESCRIPTION:Music // Events\n\nMore info: https://www.brussels.be/genesis
-LOCATION:Church of Our Lady of the Sablon
-URL:https://www.brussels.be/genesis
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🧺 CAMPING FLAMINGO
 DTSTART:20260913T000000
 UID:88bc49425a3e66916ad76327b3d80b3786eca45b@citycalendar
@@ -550,16 +594,6 @@ URL:https://www.rommelmarktgids.be/rommelmarkt/201191/camping-flamingo-leu
  ven/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Enjoy BXL by art
-DTSTART:20260915T120000Z
-DTEND:20261116T120000Z
-UID:00491f1be4ef7a40ff2505806885e8e537b9a410@citycalendar
-CATEGORIES:event
-DESCRIPTION:Events\n\nMore info: https://www.brussels.be/enjoy-bxl-art
-LOCATION:Various places in Brussels
-URL:https://www.brussels.be/enjoy-bxl-art
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Nekkersdal neighbourhood kitchen
 DTSTART:20260915T120000Z
 DTEND:20270622T120000Z
@@ -569,6 +603,16 @@ DESCRIPTION:Events\n\nMore info: https://www.brussels.be/nekkersdal-neighb
  ourhood-kitchen
 LOCATION:NoordOuest Café\, Rue Verhoeven 34\, 1020 Brussels (Laeken)
 URL:https://www.brussels.be/nekkersdal-neighbourhood-kitchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Enjoy BXL by art
+DTSTART:20260915T120000Z
+DTEND:20261116T120000Z
+UID:00491f1be4ef7a40ff2505806885e8e537b9a410@citycalendar
+CATEGORIES:event
+DESCRIPTION:Events\n\nMore info: https://www.brussels.be/enjoy-bxl-art
+LOCATION:Various places in Brussels
+URL:https://www.brussels.be/enjoy-bxl-art
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Storytelling at the Dutch-language libraries
@@ -755,57 +799,6 @@ LOCATION:Cinema Zed International\, Andreas Vesaliusstraat 9c\, Leuven
 URL:https://www.visitleuven.be/en/agenda/kortfilmfestival
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Bike Tour: Lovely Leuven Bike Tour
-DTSTART:20261019T100000
-UID:7dfffa08b83ae5b93c7de4a17c1fe9cf402d232e@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/bike-tour-lovely-leuv
- en-bike-tour
-LOCATION:Parijsstraat 14\, Leuven
-URL:https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 ILUVLeuven Walk
-DTSTART:20261019T143000
-UID:031c57996de6570c8ca5f2f455d445a584af4838@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/city-walk-iluvleuven-
- walk
-LOCATION:Visit Leuven\, Jozef Vounckplein 2\, Leuven
-URL:https://www.visitleuven.be/en/city-walk-iluvleuven-walk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in Wijgmaal
-DTSTART:20261019T150000
-UID:b865c32d6a5c61215fc01ffc7a9f3973132d8738@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/monday-market
-LOCATION:Parking Sportcomplex Ymeria • Pastoor Bellonstraat 29\, 3012 Wi
- jgmaal
-URL:https://www.visitleuven.be/en/monday-market
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Infosessie ‘Starten met renoveren. Hoe begin ik?’
-DTSTART:20261020T000000
-UID:9a50b1a1d19ab071b07dd65b29d65a60f68fd14a@citycalendar
-CATEGORIES:event
-DESCRIPTION:Ben je van plan om te renoveren\, maar weet je niet hoe te beg
- innen? We helpen je op weg.\n\nMore info: https://www.leuven.be/infosessie
- -starten-met-renoveren-hoe-begin-ik
-URL:https://www.leuven.be/infosessie-starten-met-renoveren-hoe-begin-ik
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Tower visit and live carillon concert University Library
-DTSTART:20261020T182000
-UID:c4c1a25247ee4df4a23fb4dd4bffc622d496f9cb@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/tower-visit-and-live-
- carillon-concert-university-library
-LOCATION:Universiteitsbibliotheek\, Ladeuzeplein 21\, Leuven
-URL:https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-un
- iversity-library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Man\, man\, man
 DTSTART:20261021T000000
 UID:d66bd401d1a17ca595f5bdb55e9cc9ad9b06552c@citycalendar
@@ -815,72 +808,6 @@ LOCATION:30CC/Schouwburg\, Bondgenotenlaan 21\, Leuven
 URL:https://www.visitleuven.be/en/man-man-man
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Infosessie 'Doe-het-zelf dakisolatie'
-DTSTART:20261021T000000
-UID:cf208816e00dc6207db7c5b33949dfc87ef19cf0@citycalendar
-CATEGORIES:event
-DESCRIPTION:Leer hoe je je dak correct kan isoleren en energie kan bespare
- n.\n\nMore info: https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie
-URL:https://www.leuven.be/infosessie-doe-het-zelf-dakisolatie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in Kessel-Lo
-DTSTART:20261021T140000
-UID:1900c03666410a66b13740925623ab0fbcb29ad3@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-wednesday
-LOCATION:Becker-Remyplein\, 3010 Leuven (Kessel-Lo)
-URL:https://www.visitleuven.be/en/market-wednesday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Free carillon concerts in Park Abbey
-DTSTART:20261021T170000
-UID:1912500d17666c81de83216c77b12340338c0e04@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
- s-park-abbey
-LOCATION:Park Abbey
-URL:https://www.visitleuven.be/en/free-carillon-concerts-park-abbey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Free carillon concerts in Great Beguinage
-DTSTART:20261021T190000
-UID:386057787a1f21825a12b71598f933c9fcf377d4@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
- s-great-beguinage
-LOCATION:Groot Begijnhof\, Schapenstraat\, Leuven
-URL:https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Open Dance Floor
-DTSTART:20261021T200000
-UID:836767ffc1671a96811b9fb9a0ccd13e8e693f9a@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/open-dance-floor
-LOCATION:Various locations
-URL:https://www.visitleuven.be/en/open-dance-floor
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Flanders Technology and Innovation: Curious Talksexternal lin
- k
-DTSTART:20261022T000000
-UID:c235bf666ec307900adb6a383e62d77025947b0c@citycalendar
-CATEGORIES:event
-DESCRIPTION:Inspirerende lezingen over de toekomst van technologie.\n\nMor
- e info: https://www.leuven.be/curious-talks
-URL:https://www.leuven.be/curious-talks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre
-DTSTART:20261022T130000
-UID:21649bb9c5450b77e222893fb74c89c19867a4fc@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-thursday
-LOCATION:Brusselsestraat\, Leuven
-URL:https://www.visitleuven.be/en/market-thursday
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Festival: Voices of Passion
 DTSTART:20261023T000000
 UID:c0592681f693dd5b6a78204996067050912476eb@citycalendar
@@ -888,74 +815,6 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/agenda/passion
 LOCATION:Various locations
 URL:https://www.visitleuven.be/en/agenda/passion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Dag van de Jeugdbeweging
-DTSTART:20261023T000000
-UID:297f2dc12d21300c64c7c80eaab10bbb86fd9e74@citycalendar
-CATEGORIES:event
-DESCRIPTION:Ontbijt samen met duizenden jongeren die ook in de jeugdbewegi
- ng zitten.\n\nMore info: https://www.leuven.be/jeugdbeweging
-URL:https://www.leuven.be/jeugdbeweging
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre of Leuven
-DTSTART:20261023T070000
-UID:c7257faed9e09cf3d5934f8df5ff4870e4224b27@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-friday
-LOCATION:Ladeuzeplein en Hooverplein\, Leuven
-URL:https://www.visitleuven.be/en/market-friday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Free carillon concerts on Grote Markt
-DTSTART:20261023T120000
-UID:46c1b5d78370d9b93a667703b1f2049cf3ed8506@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
- s-grote-markt
-LOCATION:Grote Markt\, Leuven
-URL:https://www.visitleuven.be/en/free-carillon-concerts-grote-markt
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided tour: University library and visit of the tower
-DTSTART:20261023T133000
-UID:b66431e92472607829976df815f5d24e1367657c@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-universit
- y-library-and-visit-tower
-LOCATION:Universiteitsbibliotheek\, Ladeuzeplein 21\, Leuven
-URL:https://www.visitleuven.be/en/guided-tour-university-library-and-visit
- -tower
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Walk: Leuven on tap
-DTSTART:20261023T193000
-UID:53e17de64c71167a42953858c52ea80feab70ad9@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/walk-leuven-tap
-LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
-URL:https://www.visitleuven.be/en/walk-leuven-tap
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Threading Landscapes: Art at Park Abbey
-DTSTART:20261024T000000
-UID:0dc69e72675c87573c041e24f6a8c9fd34f920a9@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/threading-landscapes-
- art-park-abbey
-LOCATION:Museum PARCUM\, Abdij van Park 7\, 3001 Leuven (Heverlee)
-URL:https://www.visitleuven.be/en/threading-landscapes-art-park-abbey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏛️ Opening weekend museum PARCUM
-DTSTART:20261024T000000
-UID:9dd639b3273776c820262cd3641852394fb1f730@citycalendar
-CATEGORIES:museum_free_day
-DESCRIPTION:More info: https://www.visitleuven.be/en/opening-weekend-museu
- m-parcum
-LOCATION:Park Abbey
-URL:https://www.visitleuven.be/en/opening-weekend-museum-parcum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Performing arts festival: For Real
@@ -968,109 +827,34 @@ LOCATION:30CC/Schouwburg\, Bondgenotenlaan 21\, Leuven
 URL:https://www.visitleuven.be/en/performing-arts-festival-real
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Legacy League Leuvenexternal link
-DTSTART:20261024T000000
-UID:d96d65bba3ed1d087e76efc5e6ec0bff7e51c75f@citycalendar
+SUMMARY:🎫 Bike Tour: Lovely Leuven Bike Tour
+DTSTART:20261026T100000
+UID:8668713619ff63730b5585489ffa8928778fc0c1@citycalendar
 CATEGORIES:event
-DESCRIPTION:Verwonder je over indrukwekkende breakingduels.\n\nMore info: 
- https://www.leuven.be/legacy-league-leuven
-URL:https://www.leuven.be/legacy-league-leuven
+DESCRIPTION:More info: https://www.visitleuven.be/en/bike-tour-lovely-leuv
+ en-bike-tour
+LOCATION:Parijsstraat 14\, Leuven
+URL:https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Mini-expo: Leuvense filmaffiches
-DTSTART:20261024T000000
-UID:a64bdd3ed1dcf8fa14f4190a5fe88b647810c11f@citycalendar
-CATEGORIES:exhibition
-DESCRIPTION:Bekijk een selectie uit de collectie filmaffiches van het Stad
- sarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffic
- hes
-URL:https://www.leuven.be/mini-expo-leuvense-filmaffiches
+SUMMARY:🎫 ILUVLeuven Walk
+DTSTART:20261026T143000
+UID:13e74e7e8f7916815fe898d6ab06ba1fcd3d3762@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/city-walk-iluvleuven-
+ walk
+LOCATION:Visit Leuven\, Jozef Vounckplein 2\, Leuven
+URL:https://www.visitleuven.be/en/city-walk-iluvleuven-walk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧺 Market in city centre of Leuven
-DTSTART:20261024T090000
-UID:926862d2a10e310410763e056c8d6ffb24ae1580@citycalendar
+SUMMARY:🧺 Market in Wijgmaal
+DTSTART:20261026T150000
+UID:d0438f2a1b1e64f9879ac639960b9433b7a28421@citycalendar
 CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-saturday
-LOCATION:City centre of Leuven
-URL:https://www.visitleuven.be/en/market-saturday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Walk: Six centuries of the university in Leuven
-DTSTART:20261024T103000
-UID:8216dd57ebbd50f43c822e7a6e80ce38ed40745b@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/rondleiding-universit
- eit
-LOCATION:Universiteitshal\, Naamsestraat 22\, Leuven
-URL:https://www.visitleuven.be/en/rondleiding-universiteit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided tour: Brewery Stella Artois
-DTSTART:20261024T110000
-UID:8a52cc51ae01cbc91a8eb905a2ce5c94bf0dba39@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-brewery-s
- tella-artois
-LOCATION:Brouwerij Stella Artois • Aarschotsesteenweg 20\, 3000 Leuven
-URL:https://www.visitleuven.be/en/guided-tour-brewery-stella-artois
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided tour: Brewery de Coureur
-DTSTART:20261024T133000
-UID:800c455ca1f8735c8a585925ce6c2fc6b97f9f82@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/rondleiding-brouwerij
- -de-coureur
-LOCATION:Brouwerij de Coureur • Borstelsstraat 20/1\, 3010 Leuven
-URL:https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Openingsweekend Abdij van Parkexternal link
-DTSTART:20261025T000000
-UID:cbd8c792e7ecc7d6c22c4b02c5118d9e5c6ae4ab@citycalendar
-CATEGORIES:event
-DESCRIPTION:Na 15 jaar restauratie opent Abdij van Park opnieuw haar deure
- n.\n\nMore info: https://www.leuven.be/openingsweekend-abdij-van-park
-URL:https://www.leuven.be/openingsweekend-abdij-van-park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Flanders Technology and Innovation: Patatten en prothesenexte
- rnal link
-DTSTART:20261025T000000
-UID:871423554f21e9bbf12ca1cf094b32c1132f185d@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Ontdek kraampjes vol technologie op de markt.\n\nMore info: ht
- tps://www.leuven.be/patatten-en-prothesen
-URL:https://www.leuven.be/patatten-en-prothesen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Market in Heverlee
-DTSTART:20261025T080000
-UID:059de413f9aea9b6eef75334aeb8b89b9cf9c74a@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:More info: https://www.visitleuven.be/en/market-sunday
-LOCATION:Lodewijk Engelbertus Van Arenbergplein\, 3001 Leuven (Heverlee)
-URL:https://www.visitleuven.be/en/market-sunday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Guided tour: Adept Brewery
-DTSTART:20261025T110000
-UID:32066e24c70cccafafee76d8f0d694f838ecc6a8@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-adept-bre
- wery
-LOCATION:De Smederij
-URL:https://www.visitleuven.be/en/guided-tour-adept-brewery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Jazz on Sunday
-DTSTART:20261025T210000
-UID:c9d969c5995a29e0cdaed58f8fdef9325a05608b@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/jazz-sunday
-LOCATION:STUK\, Naamsestraat 96\, Leuven
-URL:https://www.visitleuven.be/en/jazz-sunday
+DESCRIPTION:More info: https://www.visitleuven.be/en/monday-market
+LOCATION:Parking Sportcomplex Ymeria • Pastoor Bellonstraat 29\, 3012 Wi
+ jgmaal
+URL:https://www.visitleuven.be/en/monday-market
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Remembrance ritual: Infinite Dances
@@ -1081,6 +865,36 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/remembrance-ritual-in
  finite-dances
 LOCATION:Martelarenplein\, Leuven
 URL:https://www.visitleuven.be/en/remembrance-ritual-infinite-dances
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Tower visit and live carillon concert University Library
+DTSTART:20261027T182000
+UID:9b07db18df1a9c579ea5be299bd92d3df42eb53a@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/tower-visit-and-live-
+ carillon-concert-university-library
+LOCATION:Universiteitsbibliotheek\, Ladeuzeplein 21\, Leuven
+URL:https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-un
+ iversity-library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Market in Kessel-Lo
+DTSTART:20261028T140000
+UID:e57d599f2c11ae143215b01f7cd4fadca3f85aa6@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/market-wednesday
+LOCATION:Becker-Remyplein\, 3010 Leuven (Kessel-Lo)
+URL:https://www.visitleuven.be/en/market-wednesday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Free carillon concerts in Park Abbey
+DTSTART:20261028T160000
+UID:1d6d15d54f77686ec7eb0479d76b73b919b6837f@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
+ s-park-abbey
+LOCATION:Park Abbey
+URL:https://www.visitleuven.be/en/free-carillon-concerts-park-abbey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Festival 20•21
@@ -1102,13 +916,31 @@ DESCRIPTION:Koop boeken voor € 1 of € 2 per stuk in de Bib Leuven Kess
 URL:https://www.leuven.be/boekenverkoop
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Sandwiches with Jazz
+DTSTART:20261029T120000
+UID:0f527b7882bc0b09c9484b6039a01e0dbef3ea45@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/sandwiches-jazz
+LOCATION:30CC/Schouwburg\, Bondgenotenlaan 21\, Leuven
+URL:https://www.visitleuven.be/en/sandwiches-jazz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Market in city centre
+DTSTART:20261029T130000
+UID:45d5f5aad644523d3acdcd08d01834a30e9f75ca@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/market-thursday
+LOCATION:Brusselsestraat\, Leuven
+URL:https://www.visitleuven.be/en/market-thursday
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Live performances: Jazz Club Leuven
 DTSTART:20261029T201500
 UID:9a683059a6312628fdb568c6357b9623ef0e740b@citycalendar
 CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/live-performances-jaz
  z-club-leuven
-LOCATION:Campus Corso\, Diestsestraat 253\, Leuven
+LOCATION:Leuven • Various locations
 URL:https://www.visitleuven.be/en/live-performances-jazz-club-leuven
 END:VEVENT
 BEGIN:VEVENT
@@ -1121,23 +953,62 @@ DESCRIPTION:Kleine glazen containers tonen de grote vragen in de gezondhei
 URL:https://www.leuven.be/straatlabos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Groepstraject voor senioren 'Beweeg veilig\, voorkom vallen'
-DTSTART:20261031T000000
-UID:cba8e520a3b34e6d31b5e7b4a92e60a9582e70fc@citycalendar
+SUMMARY:🧺 Market in city centre of Leuven
+DTSTART:20261030T070000
+UID:c0a5c4b94a28ca35144797f3b73c23c9e5df7ecc@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/market-friday
+LOCATION:Ladeuzeplein en Hooverplein\, Leuven
+URL:https://www.visitleuven.be/en/market-friday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Free carillon concerts on Grote Markt
+DTSTART:20261030T120000
+UID:ddc646af169802580d849ab078dae65c30951f34@citycalendar
 CATEGORIES:event
-DESCRIPTION:Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je 
- krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/le
- ssen-valpreventie
-URL:https://www.leuven.be/lessen-valpreventie
+DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
+ s-grote-markt
+LOCATION:Grote Markt\, Leuven
+URL:https://www.visitleuven.be/en/free-carillon-concerts-grote-markt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided tour: University library and visit of the tower
+DTSTART:20261030T133000
+UID:167055838b74fe5650c81101a8b49ca1d29459c6@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-universit
+ y-library-and-visit-tower
+LOCATION:Universiteitsbibliotheek\, Ladeuzeplein 21\, Leuven
+URL:https://www.visitleuven.be/en/guided-tour-university-library-and-visit
+ -tower
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Beer and chocolate tasting
+DTSTART:20261030T150000
+UID:c06a2ec60c7f5d0358a5af40a91a1b9277b97bce@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/beer-and-chocolate-ta
+ sting
+LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
+URL:https://www.visitleuven.be/en/beer-and-chocolate-tasting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Walk: Leuven on tap
+DTSTART:20261030T193000
+UID:38bc2f6c069be632b35bb680a9f79b45b89b5a0a@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/walk-leuven-tap
+LOCATION:Leuven Leisure\, Boekhandelstraat 1\, Leuven
+URL:https://www.visitleuven.be/en/walk-leuven-tap
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Tienerfuif
 DTSTART:20261031T000000
 UID:d7bdf1d5cbacdb781319e87e8db1056243efd858@citycalendar
 CATEGORIES:event
-DESCRIPTION:Een fuif voor 12-en 13-jarigen! Dans op de beats van dj Nona V
- an Braeckel en leer nieuwe mensen kennen.\n\nMore info: https://www.leuven
- .be/tienerfuif
+DESCRIPTION:Een fuif voor 12- en 13-jarigen! Dans op de beats van dj Nona 
+ Van Braeckel en leer nieuwe mensen kennen.\n\nMore info: https://www.leuve
+ n.be/tienerfuif
 URL:https://www.leuven.be/tienerfuif
 END:VEVENT
 BEGIN:VEVENT
@@ -1151,6 +1022,35 @@ DESCRIPTION:Kom naar de zaterdagmarkt en laat je gratis schminken. Van 10
 URL:https://www.leuven.be/halloween
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Groepstraject voor senioren 'Beweeg veilig\, voorkom vallen'
+DTSTART:20261031T000000
+UID:cba8e520a3b34e6d31b5e7b4a92e60a9582e70fc@citycalendar
+CATEGORIES:event
+DESCRIPTION:Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je 
+ krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/le
+ ssen-valpreventie
+URL:https://www.leuven.be/lessen-valpreventie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Market in city centre of Leuven
+DTSTART:20261031T090000
+UID:7f2db17a9aa92ff6dab3ded30d714651baf2b6d0@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/market-saturday
+LOCATION:City centre of Leuven
+URL:https://www.visitleuven.be/en/market-saturday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Walk: Six centuries of the university in Leuven
+DTSTART:20261031T103000
+UID:09751677f83dd97cd0ca33b9649dfc2708f84b2a@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/rondleiding-universit
+ eit
+LOCATION:Universiteitshal\, Naamsestraat 22\, Leuven
+URL:https://www.visitleuven.be/en/rondleiding-universiteit
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Heritage Tour KU Leuven: Holland College
 DTSTART:20261031T103000
 UID:8020e7cebe4447fc3695455c1e1a6c26eb0af95b@citycalendar
@@ -1159,6 +1059,16 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/heritage-tour-ku-leuv
  en-holland-college
 LOCATION:Hollands College • Pater Damiaanplein 9
 URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided tour: Brewery Stella Artois
+DTSTART:20261031T110000
+UID:db5641ec972e474613206b059c06a7a39688c0af@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-brewery-s
+ tella-artois
+LOCATION:Brouwerij Stella Artois • Aarschotsesteenweg 20\, 3000 Leuven
+URL:https://www.visitleuven.be/en/guided-tour-brewery-stella-artois
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 The Blue Market
@@ -1170,6 +1080,26 @@ LOCATION:Hal 5\, Diestsesteenweg 104\, 3010 Leuven (Kessel-Lo)
 URL:https://www.visitleuven.be/en/blue-market
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Guided tour: Brewery de Coureur
+DTSTART:20261031T133000
+UID:d242a9c96df17394c30d017fa528a36150268ce6@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/rondleiding-brouwerij
+ -de-coureur
+LOCATION:Brouwerij de Coureur • Borstelsstraat 20/1\, 3010 Leuven
+URL:https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Guided tour: Adept Brewery
+DTSTART:20261031T160000
+UID:c61d2be9aed9bd58dfd3356a30496c6e69db4f2c@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/guided-tour-adept-bre
+ wery
+LOCATION:De Smederij
+URL:https://www.visitleuven.be/en/guided-tour-adept-brewery
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Reveil: muziek en poëzie op de begraafplaatsen
 DTSTART:20261101T000000
 UID:d22d147a07d703ba20300c66c318e09f1544b631@citycalendar
@@ -1177,6 +1107,15 @@ CATEGORIES:event
 DESCRIPTION:We herdenken overledenen met muziek en poëzie op de begraafpl
  aatsen.\n\nMore info: https://www.leuven.be/reveil
 URL:https://www.leuven.be/reveil
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Market in Heverlee
+DTSTART:20261101T080000
+UID:966b3b020912034ce4ec8b8e7219902fff9dfd74@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:More info: https://www.visitleuven.be/en/market-sunday
+LOCATION:Lodewijk Engelbertus Van Arenbergplein\, 3001 Leuven (Heverlee)
+URL:https://www.visitleuven.be/en/market-sunday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Brocanterie with makers market
@@ -1197,6 +1136,25 @@ DESCRIPTION:Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg
   antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.l
  euven.be/infopunt-vrijwilliger
 URL:https://www.leuven.be/infopunt-vrijwilliger
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Free carillon concerts in Great Beguinage
+DTSTART:20261104T190000
+UID:8b638c9b342acb1fb7c9dd892a165db5ceb7b96c@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/free-carillon-concert
+ s-great-beguinage
+LOCATION:Groot Begijnhof\, Schapenstraat\, Leuven
+URL:https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Open Dance Floor
+DTSTART:20261104T200000
+UID:d6721efbb173924218ad2db15e78cd6a375b27df@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/open-dance-floor
+LOCATION:Various locations
+URL:https://www.visitleuven.be/en/open-dance-floor
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Concert: Open Mic night
@@ -1269,6 +1227,25 @@ LOCATION:Arenbergkasteel • Kasteelpark Arenberg 1\, 3001 Leuven
 URL:https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Walk with beer tasting
+DTSTART:20261108T140000
+UID:dc56aeda13825966d4cd9691a212b5b37a1d066d@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/walk-beer-tasting
+LOCATION:City centre of Leuven
+URL:https://www.visitleuven.be/en/walk-beer-tasting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Salsa Flash Tropical Night
+DTSTART:20261110T220000
+UID:438e12b76afcd83172e24273df844d16c50a477b@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/salsa-flash-tropical-
+ night
+LOCATION:STUK\, Naamsestraat 96\, Leuven
+URL:https://www.visitleuven.be/en/salsa-flash-tropical-night
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Boektopia op toerexternal link
 DTSTART:20261115T000000
 UID:faecefe300bf5d916632ccef3f54e0476e7777e8@citycalendar
@@ -1308,6 +1285,15 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/dancing-schouwburg-fo
  yer-matinee
 LOCATION:30CC/Schouwburg\, Bondgenotenlaan 21\, Leuven
 URL:https://www.visitleuven.be/en/dancing-schouwburg-foyer-matinee
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Jazz on Sunday
+DTSTART:20261115T210000
+UID:7eea7819c68366da348718ac3d458afda942de34@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/jazz-sunday
+LOCATION:STUK\, Naamsestraat 96\, Leuven
+URL:https://www.visitleuven.be/en/jazz-sunday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Seniorenbalexternal link
@@ -1393,6 +1379,16 @@ LOCATION:Tour & Taxis\, Avenue du Port 86c\, 1000 Brussels
 URL:https://www.brussels.be/brussels-design-market
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Belgisch Kampioenschap Breaking
+DTSTART:20261122T000000
+UID:c07d2a107c25809e6baaf05df0ac00387f2b893b@citycalendar
+CATEGORIES:event
+DESCRIPTION:Wie kroont zich in Leuven tot Belgisch kampioen breaking en kw
+ alificeert zich voor het WK in Parijs?\n\nMore info: https://www.leuven.be
+ /belgisch-kampioenschap-breaking
+URL:https://www.leuven.be/belgisch-kampioenschap-breaking
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Infosessie 'Slim omgaan met je digitale meter'
 DTSTART:20261124T000000
 UID:d5cead8b15a3479630d2aad4bece2910bf731c9d@citycalendar
@@ -1433,16 +1429,6 @@ URL:https://www.rommelmarktgids.be/rommelmarkt/201102/weggeef-in-de-hal-le
  uven/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Walk: Beer tastin tour in Leuven
-DTSTART:20261128T140000
-UID:d2f96d232d34a3dadb6e461881d9b5633c6645f9@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/walk-beer-tastin-tour
- -leuven
-LOCATION:City centre of Leuven
-URL:https://www.visitleuven.be/en/walk-beer-tastin-tour-leuven
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎫 Seniorenmaandexternal link
 DTSTART:20261130T000000
 UID:d808b4c7c48468a37d5828144fb9eea70662547b@citycalendar
@@ -1453,13 +1439,22 @@ DESCRIPTION:Ontmoet nieuwe mensen\, probeer een nieuwe hobby of geniet sam
 URL:https://www.leuven.be/seniorenmaand
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🖼️ Tentoonstelling 'Folded Memory'
+SUMMARY:🎫 Winter Season Leuven
+DTSTART:20261203T000000
+UID:46787013a97f5b8aa9a662aecf241ba91ed1801a@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/winter-season
+LOCATION:Leuven • Various locations
+URL:https://www.visitleuven.be/en/winter-season
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Expo 'Folded Memory'
 DTSTART:20261206T000000
-UID:484b6b573d3b450188733a919fe4222e00e2d665@citycalendar
+UID:5fbda95ce72c1cb6e33a1807409f1a6d461bcb8a@citycalendar
 CATEGORIES:exhibition
-DESCRIPTION:Tijdens deze tentoonstelling brengt curator Karen Wuytens hede
- ndaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel t
- roost dragen?\n\nMore info: https://www.leuven.be/foldedmemory
+DESCRIPTION:Tijdens deze expo brengt curator Karen Wuytens hedendaagse kun
+ st en historisch erfgoed samen rond de vraag: Hoe kan textiel troost drage
+ n?\n\nMore info: https://www.leuven.be/foldedmemory
 URL:https://www.leuven.be/foldedmemory
 END:VEVENT
 BEGIN:VEVENT
@@ -1482,15 +1477,6 @@ CATEGORIES:event
 DESCRIPTION:More info: https://www.visitleuven.be/en/sunday-shopping
 LOCATION:Leuvense shopping streets
 URL:https://www.visitleuven.be/en/sunday-shopping
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Winter Season Leuven
-DTSTART:20261208T000000
-UID:041e8d7d573c2f446eb96060306ca2510eecca62@citycalendar
-CATEGORIES:event
-DESCRIPTION:More info: https://www.visitleuven.be/en/winter
-LOCATION:Leuven • Various locations
-URL:https://www.visitleuven.be/en/winter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Countdown
@@ -1597,6 +1583,27 @@ DESCRIPTION:More info: https://www.visitleuven.be/en/relaxed-performances-
  stuk
 LOCATION:STUK\, Naamsestraat 96\, Leuven
 URL:https://www.visitleuven.be/en/relaxed-performances-stuk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Threading Landscapes: Art at Park Abbey
+DTSTART:20270328T000000
+UID:debd18e729e39820f7b138e43fbef6398a1f106c@citycalendar
+CATEGORIES:event
+DESCRIPTION:More info: https://www.visitleuven.be/en/threading-landscapes-
+ art-park-abbey
+LOCATION:Museum PARCUM\, Abdij van Park 7\, 3001 Leuven (Heverlee)
+URL:https://www.visitleuven.be/en/threading-landscapes-art-park-abbey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🖼️ Expo: ​Verweven Landschappen: Kunst in Abdij van Parkext
+ ernal link
+DTSTART:20270328T000000
+UID:859d3fd89bf09958ba9f3504a7ba40673eea0f0d@citycalendar
+CATEGORIES:exhibition
+DESCRIPTION:Ontdek de geest en het karakter van Abdij van Park door het we
+ rk van 24 kunstenaars.\n\nMore info: https://www.leuven.be/expo-verweven-l
+ andschappen-kunst-abdij-van-park
+URL:https://www.leuven.be/expo-verweven-landschappen-kunst-abdij-van-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Leuven Marathon

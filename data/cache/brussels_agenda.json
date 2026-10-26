@@ -22,28 +22,6 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Guided visits by Arkadia",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
-    "url": "https://www.brussels.be/guided-visits-arkadia",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Workshops at the Jewish Museum of Belgium",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "museum_free_day",
-    "end": "2027-12-31T12:00:00+00:00",
-    "location": "Jewish Museum of Belgium, Rue des Minimes 21, 1000 Brussels",
-    "description": "Youth\n\nMore info: https://www.brussels.be/workshops-jewish-museum-belgium",
-    "url": "https://www.brussels.be/workshops-jewish-museum-belgium",
-    "source": "brussels_agenda"
-  },
-  {
     "title": "Underground treasure hunt at the Coudenberg",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -52,6 +30,17 @@
     "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
     "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
     "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Brussels Chatterguides",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various places in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
     "source": "brussels_agenda"
   },
   {
@@ -66,36 +55,14 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Public programme - La Bellone",
+    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "La Bellone, Rue de Flandre 46 - 1000 Brussels",
-    "description": "Multidisciplinary // Lectures & debates\n\nMore info: https://www.brussels.be/public-programme-la-bellone",
-    "url": "https://www.brussels.be/public-programme-la-bellone",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Ancienne Belgique - AB - programme 2026",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
-    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Pavi'On programme",
-    "start": "2026-01-01T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-12-31T12:00:00+00:00",
-    "location": "Pavi'On, Cinquantenaire Park - 1000 Brussels",
-    "description": "Music // Dance // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/pavion-programme",
-    "url": "https://www.brussels.be/pavion-programme",
+    "location": "",
+    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
+    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
     "source": "brussels_agenda"
   },
   {
@@ -110,6 +77,28 @@
     "source": "brussels_agenda"
   },
   {
+    "title": "Ancienne Belgique - AB - programme 2026",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
+    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
+    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Guided visits by Arkadia",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various locations in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
+    "url": "https://www.brussels.be/guided-visits-arkadia",
+    "source": "brussels_agenda"
+  },
+  {
     "title": "Public programme - La Bellone",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
@@ -121,25 +110,25 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Guided visits by Korei Guided Tours",
+    "title": "Pavi'On programme",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-korei-guided-tours",
-    "url": "https://www.brussels.be/guided-visits-korei-guided-tours",
+    "location": "Pavi'On, Cinquantenaire Park - 1000 Brussels",
+    "description": "Music // Dance // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/pavion-programme",
+    "url": "https://www.brussels.be/pavion-programme",
     "source": "brussels_agenda"
   },
   {
-    "title": "Underground treasure hunt at the Coudenberg",
+    "title": "Guided tours Laeken D\u00e9couverte",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
-    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "location": "Laeken",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-tours-laeken-decouverte",
+    "url": "https://www.brussels.be/guided-tours-laeken-decouverte",
     "source": "brussels_agenda"
   },
   {
@@ -154,14 +143,25 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Guided visits by Arkadia",
+    "title": "Public programme - La Bellone",
     "start": "2026-01-01T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "end": "2026-12-31T12:00:00+00:00",
-    "location": "Various locations in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-arkadia",
-    "url": "https://www.brussels.be/guided-visits-arkadia",
+    "location": "La Bellone, Rue de Flandre 46 - 1000 Brussels",
+    "description": "Multidisciplinary // Lectures & debates\n\nMore info: https://www.brussels.be/public-programme-la-bellone",
+    "url": "https://www.brussels.be/public-programme-la-bellone",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "Our House, in the Middle of Our Street (Beursschouwburg)",
+    "start": "2026-01-01T12:00:00+00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Beursschouwburg, Rue A. Orts 20-28 - 1000 Brussels",
+    "description": "Exhibition // Music // Multidisciplinary // Lectures & debates // Film\n\nMore info: https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
+    "url": "https://www.brussels.be/our-house-middle-our-street-beursschouwburg",
     "source": "brussels_agenda"
   },
   {
@@ -363,14 +363,14 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Val Saint Lambert & Design (1958-2000)",
-    "start": "2026-04-24T12:00:00+00:00",
+    "title": "Energy Thursdays",
+    "start": "2026-04-23T12:00:00+00:00",
     "city": "leuven",
-    "category": "exhibition",
-    "end": "2026-10-25T12:00:00+00:00",
-    "location": "Design Museum Brussels, Place de Belgique - 1020 Brussels (Laeken)",
-    "description": "Exhibition\n\nMore info: https://www.brussels.be/val-saint-lambert-design-1958-2000",
-    "url": "https://www.brussels.be/val-saint-lambert-design-1958-2000",
+    "category": "event",
+    "end": "2027-02-25T12:00:00+00:00",
+    "location": "Capla, Boulevard Emile Bockstael 160, 1020 Brussels (Laeken)",
+    "description": "More info: https://www.brussels.be/energy-thursdays",
+    "url": "https://www.brussels.be/energy-thursdays",
     "source": "brussels_agenda"
   },
   {
@@ -404,17 +404,6 @@
     "location": "Museum of the City of Brussels, Grand-Place - 1000 Brussels",
     "description": "Exhibition\n\nMore info: https://www.brussels.be/embroidered-epic-collective-textile-artwork",
     "url": "https://www.brussels.be/embroidered-epic-collective-textile-artwork",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Detours Festival",
-    "start": "2026-07-15T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2026-10-24T12:00:00+00:00",
-    "location": "Various places in Brussels (including the Mont des Arts)",
-    "description": "Music // Dance // Multidisciplinary // Festivals\n\nMore info: https://www.brussels.be/detours-festival",
-    "url": "https://www.brussels.be/detours-festival",
     "source": "brussels_agenda"
   },
   {
@@ -462,6 +451,17 @@
     "source": "brussels_agenda"
   },
   {
+    "title": "Dutch conversation groups",
+    "start": "2026-09-03T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2027-06-28T12:00:00+00:00",
+    "location": "Various places in Brussels",
+    "description": "Lectures & debates\n\nMore info: https://www.brussels.be/dutch-conversation-groups",
+    "url": "https://www.brussels.be/dutch-conversation-groups",
+    "source": "brussels_agenda"
+  },
+  {
     "title": "Africa Legacy",
     "start": "2026-09-04T12:00:00+00:00",
     "city": "leuven",
@@ -473,14 +473,14 @@
     "source": "brussels_agenda"
   },
   {
-    "title": "Genesis",
-    "start": "2026-09-12T12:00:00+00:00",
+    "title": "Nekkersdal neighbourhood kitchen",
+    "start": "2026-09-15T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "end": "2026-10-25T12:00:00+00:00",
-    "location": "Church of Our Lady of the Sablon",
-    "description": "Music // Events\n\nMore info: https://www.brussels.be/genesis",
-    "url": "https://www.brussels.be/genesis",
+    "end": "2027-06-22T12:00:00+00:00",
+    "location": "NoordOuest Caf\u00e9, Rue Verhoeven 34, 1020 Brussels (Laeken)",
+    "description": "Events\n\nMore info: https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
+    "url": "https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
     "source": "brussels_agenda"
   },
   {
@@ -492,17 +492,6 @@
     "location": "Various places in Brussels",
     "description": "Events\n\nMore info: https://www.brussels.be/enjoy-bxl-art",
     "url": "https://www.brussels.be/enjoy-bxl-art",
-    "source": "brussels_agenda"
-  },
-  {
-    "title": "Nekkersdal neighbourhood kitchen",
-    "start": "2026-09-15T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": "2027-06-22T12:00:00+00:00",
-    "location": "NoordOuest Caf\u00e9, Rue Verhoeven 34, 1020 Brussels (Laeken)",
-    "description": "Events\n\nMore info: https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
-    "url": "https://www.brussels.be/nekkersdal-neighbourhood-kitchen",
     "source": "brussels_agenda"
   },
   {
@@ -547,6 +536,17 @@
     "location": "ISELP, Boulevard de Waterloo 31, 1000 Brussels",
     "description": "Exhibition\n\nMore info: https://www.brussels.be/become-sky",
     "url": "https://www.brussels.be/become-sky",
+    "source": "brussels_agenda"
+  },
+  {
+    "title": "'Midis de la Po\u00e9sie'",
+    "start": "2026-04-02T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": "2026-12-31T12:00:00+00:00",
+    "location": "Various places in Brussels",
+    "description": "Lectures & debates\n\nMore info: https://www.brussels.be/midis-de-la-poesie",
+    "url": "https://www.brussels.be/midis-de-la-poesie",
     "source": "brussels_agenda"
   }
 ]
