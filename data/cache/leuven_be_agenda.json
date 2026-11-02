@@ -1,60 +1,5 @@
 [
   {
-    "title": "Flanders Technology and Innovation: Straatlabo'sexternal link",
-    "start": "2026-10-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kleine glazen containers tonen de grote vragen in de gezondheidszorg.\n\nMore info: https://www.leuven.be/straatlabos",
-    "url": "https://www.leuven.be/straatlabos",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Tienerfuif",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een fuif voor 12- en 13-jarigen! Dans op de beats van dj Nona Van Braeckel en leer nieuwe mensen kennen.\n\nMore info: https://www.leuven.be/tienerfuif",
-    "url": "https://www.leuven.be/tienerfuif",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Halloween op de zaterdagmarktexternal link",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Kom naar de zaterdagmarkt en laat je gratis schminken. Van 10 tot 18 uur cre\u00ebert onze schminkartieste de leukste Halloweenlooks.\n\nMore info: https://www.leuven.be/halloween",
-    "url": "https://www.leuven.be/halloween",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenmaandexternal link",
     "start": "2026-11-30T00:00:00",
     "city": "leuven",
@@ -63,17 +8,6 @@
     "location": "",
     "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
     "url": "https://www.leuven.be/seniorenmaand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
-    "start": "2026-11-01T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
-    "url": "https://www.leuven.be/reveil",
     "source": "leuven_be_agenda"
   },
   {
@@ -110,14 +44,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Miniworkshop thuiscomposteren",
+    "title": "Miniworkshop thuiscomposteren (volzet)",
     "start": "2026-11-07T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
-    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -129,6 +63,17 @@
     "location": "",
     "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
     "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-11-09T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -176,14 +121,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Infosessie 'Plug-in zonnepanelen en batterijen'",
+    "title": "Infosessie 'Plug-in zonnepanelen en batterijen' (volzet)",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
-    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
+    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
+    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -242,6 +187,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Gesmoorde stemmenexternal link",
+    "start": "2026-11-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Thema-avond over seksueel grensoverschrijdend gedrag.\n\nMore info: https://www.leuven.be/gesmoorde-stemmen",
+    "url": "https://www.leuven.be/gesmoorde-stemmen",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie 'Slim omgaan met je digitale meter'",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -264,13 +220,46 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Expo 'Folded Memory'",
+    "title": "Kerstmarktexternal link",
+    "start": "2025-12-21T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Kom gezellig snuisteren tussen meer dan 120 kraampjes met geschenken, kerstspullen en handgemaakte producten.\n\nMore info: https://www.leuven.be/kerstmarkt",
+    "url": "https://www.leuven.be/kerstmarkt",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Avondbezoek toren Universiteitsbibliotheekexternal link",
+    "start": "2026-12-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bezoek de toren van de Universiteitsbibliotheek uitzonderlijk \u2019s avonds en vergaap je aan een prachtig verlichte stad.\n\nMore info: https://www.leuven.be/toren",
+    "url": "https://www.leuven.be/toren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Sofagesprek: Leven met ADHD",
+    "start": "2026-01-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
+    "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Expo: Folded Memory",
     "start": "2026-12-06T00:00:00",
     "city": "leuven",
     "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Tijdens deze expo brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "description": "Deze expo brengt historisch erfgoed en hedendaagse kunst samen rond thema's als verlies, herinnering, troost en verbondenheid.\n\nMore info: https://www.leuven.be/foldedmemory",
     "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
@@ -286,7 +275,29 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "City Walk Leuven",
+    "title": "Instaprondleiding 'Folded Memory'",
+    "start": "2026-12-20T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
+    "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Botanique Magiqueexternal link",
+    "start": "2026-12-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek het nieuw betoverend lichtbeleving in de Kruidtuin.\n\nMore info: https://www.leuven.be/botanique-magique",
+    "url": "https://www.leuven.be/botanique-magique",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "City Walk Leuvenexternal link",
     "start": "2026-12-12T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -294,6 +305,17 @@
     "location": "",
     "description": "Wandel langs plekken met streetart in de binnenstad. Je kan kiezen uit verschillende afstanden.\n\nMore info: https://www.leuven.be/city-walk",
     "url": "https://www.leuven.be/city-walk",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Kerstconcert Currendeexternal link",
+    "start": "2026-12-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Het klassieke ensemble Currende trakteert je op klassieke muziek in prachtige setting van de Abdij van Vlierbeek of de Sint-Pieterskerk.\n\nMore info: https://www.leuven.be/kerstconcert-currende",
+    "url": "https://www.leuven.be/kerstconcert-currende",
     "source": "leuven_be_agenda"
   },
   {
@@ -308,7 +330,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Eindejaarscorrida",
+    "title": "Workshop 'Weven met de draden van een Leuvense vlag'",
+    "start": "2026-12-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Weef mee aan een collectief kunstwerk en voeg jouw draad toe aan het verhaal van Leuven.\n\nMore info: https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "url": "https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Eindejaarscorridaexternal link",
     "start": "2026-12-27T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -316,6 +349,28 @@
     "location": "",
     "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
     "url": "https://www.leuven.be/corrida",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Countdownexternal link",
+    "start": "2026-12-31T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Aftellen naar 2027, dat doe je op de Oude Markt natuurlijk. Een dj zorgt voor de muziek, de duizenden feestneuzen zorgen voor de sfeer.\n\nMore info: https://www.leuven.be/countdown",
+    "url": "https://www.leuven.be/countdown",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Nieuwjaarsdrinkexternal link",
+    "start": "2027-01-09T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De stad trakteert alle Leuvenaars op een frisse Stella 0,0%, een kop koffie en een lekker pak smoutebollen.\n\nMore info: https://www.leuven.be/nieuwjaarsdrink",
+    "url": "https://www.leuven.be/nieuwjaarsdrink",
     "source": "leuven_be_agenda"
   },
   {
@@ -352,61 +407,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Flanders Technology and Innovation: Straatlabo'sexternal link",
-    "start": "2026-10-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kleine glazen containers tonen de grote vragen in de gezondheidszorg.\n\nMore info: https://www.leuven.be/straatlabos",
-    "url": "https://www.leuven.be/straatlabos",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Tienerfuif",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een fuif voor 12- en 13-jarigen! Dans op de beats van dj Nona Van Braeckel en leer nieuwe mensen kennen.\n\nMore info: https://www.leuven.be/tienerfuif",
-    "url": "https://www.leuven.be/tienerfuif",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Halloween op de zaterdagmarktexternal link",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Kom naar de zaterdagmarkt en laat je gratis schminken. Van 10 tot 18 uur cre\u00ebert onze schminkartieste de leukste Halloweenlooks.\n\nMore info: https://www.leuven.be/halloween",
-    "url": "https://www.leuven.be/halloween",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenmaandexternal link",
     "start": "2026-11-30T00:00:00",
     "city": "leuven",
@@ -415,17 +415,6 @@
     "location": "",
     "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
     "url": "https://www.leuven.be/seniorenmaand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
-    "start": "2026-11-01T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
-    "url": "https://www.leuven.be/reveil",
     "source": "leuven_be_agenda"
   },
   {
@@ -462,14 +451,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Miniworkshop thuiscomposteren",
+    "title": "Miniworkshop thuiscomposteren (volzet)",
     "start": "2026-11-07T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
-    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -481,6 +470,17 @@
     "location": "",
     "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
     "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-11-09T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -528,14 +528,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Infosessie 'Plug-in zonnepanelen en batterijen'",
+    "title": "Infosessie 'Plug-in zonnepanelen en batterijen' (volzet)",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
-    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
+    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
+    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -594,6 +594,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Gesmoorde stemmenexternal link",
+    "start": "2026-11-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Thema-avond over seksueel grensoverschrijdend gedrag.\n\nMore info: https://www.leuven.be/gesmoorde-stemmen",
+    "url": "https://www.leuven.be/gesmoorde-stemmen",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie 'Slim omgaan met je digitale meter'",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -616,13 +627,46 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Expo 'Folded Memory'",
+    "title": "Kerstmarktexternal link",
+    "start": "2025-12-21T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Kom gezellig snuisteren tussen meer dan 120 kraampjes met geschenken, kerstspullen en handgemaakte producten.\n\nMore info: https://www.leuven.be/kerstmarkt",
+    "url": "https://www.leuven.be/kerstmarkt",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Avondbezoek toren Universiteitsbibliotheekexternal link",
+    "start": "2026-12-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bezoek de toren van de Universiteitsbibliotheek uitzonderlijk \u2019s avonds en vergaap je aan een prachtig verlichte stad.\n\nMore info: https://www.leuven.be/toren",
+    "url": "https://www.leuven.be/toren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Sofagesprek: Leven met ADHD",
+    "start": "2026-01-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
+    "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Expo: Folded Memory",
     "start": "2026-12-06T00:00:00",
     "city": "leuven",
     "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Tijdens deze expo brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "description": "Deze expo brengt historisch erfgoed en hedendaagse kunst samen rond thema's als verlies, herinnering, troost en verbondenheid.\n\nMore info: https://www.leuven.be/foldedmemory",
     "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
@@ -638,7 +682,29 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "City Walk Leuven",
+    "title": "Instaprondleiding 'Folded Memory'",
+    "start": "2026-12-20T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
+    "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Botanique Magiqueexternal link",
+    "start": "2026-12-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek het nieuw betoverend lichtbeleving in de Kruidtuin.\n\nMore info: https://www.leuven.be/botanique-magique",
+    "url": "https://www.leuven.be/botanique-magique",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "City Walk Leuvenexternal link",
     "start": "2026-12-12T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -646,6 +712,17 @@
     "location": "",
     "description": "Wandel langs plekken met streetart in de binnenstad. Je kan kiezen uit verschillende afstanden.\n\nMore info: https://www.leuven.be/city-walk",
     "url": "https://www.leuven.be/city-walk",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Kerstconcert Currendeexternal link",
+    "start": "2026-12-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Het klassieke ensemble Currende trakteert je op klassieke muziek in prachtige setting van de Abdij van Vlierbeek of de Sint-Pieterskerk.\n\nMore info: https://www.leuven.be/kerstconcert-currende",
+    "url": "https://www.leuven.be/kerstconcert-currende",
     "source": "leuven_be_agenda"
   },
   {
@@ -660,7 +737,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Eindejaarscorrida",
+    "title": "Workshop 'Weven met de draden van een Leuvense vlag'",
+    "start": "2026-12-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Weef mee aan een collectief kunstwerk en voeg jouw draad toe aan het verhaal van Leuven.\n\nMore info: https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "url": "https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Eindejaarscorridaexternal link",
     "start": "2026-12-27T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -668,6 +756,28 @@
     "location": "",
     "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
     "url": "https://www.leuven.be/corrida",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Countdownexternal link",
+    "start": "2026-12-31T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Aftellen naar 2027, dat doe je op de Oude Markt natuurlijk. Een dj zorgt voor de muziek, de duizenden feestneuzen zorgen voor de sfeer.\n\nMore info: https://www.leuven.be/countdown",
+    "url": "https://www.leuven.be/countdown",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Nieuwjaarsdrinkexternal link",
+    "start": "2027-01-09T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De stad trakteert alle Leuvenaars op een frisse Stella 0,0%, een kop koffie en een lekker pak smoutebollen.\n\nMore info: https://www.leuven.be/nieuwjaarsdrink",
+    "url": "https://www.leuven.be/nieuwjaarsdrink",
     "source": "leuven_be_agenda"
   },
   {
@@ -704,61 +814,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Flanders Technology and Innovation: Straatlabo'sexternal link",
-    "start": "2026-10-30T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Kleine glazen containers tonen de grote vragen in de gezondheidszorg.\n\nMore info: https://www.leuven.be/straatlabos",
-    "url": "https://www.leuven.be/straatlabos",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boekenverkoop in de bibexternal link",
-    "start": "2026-10-29T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Koop boeken voor \u20ac 1 of \u20ac 2 per stuk in de Bib Leuven Kessel-Lo, Wilsele en Heverlee.\n\nMore info: https://www.leuven.be/boekenverkoop",
-    "url": "https://www.leuven.be/boekenverkoop",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Tienerfuif",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Een fuif voor 12- en 13-jarigen! Dans op de beats van dj Nona Van Braeckel en leer nieuwe mensen kennen.\n\nMore info: https://www.leuven.be/tienerfuif",
-    "url": "https://www.leuven.be/tienerfuif",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Halloween op de zaterdagmarktexternal link",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "",
-    "description": "Kom naar de zaterdagmarkt en laat je gratis schminken. Van 10 tot 18 uur cre\u00ebert onze schminkartieste de leukste Halloweenlooks.\n\nMore info: https://www.leuven.be/halloween",
-    "url": "https://www.leuven.be/halloween",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Groepstraject voor senioren 'Beweeg veilig, voorkom vallen'",
-    "start": "2026-10-31T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Tijdens 4 groepssessies leer je hoe je veilig kan bewegen. Je krijgt tips om vallen te voorkomen.\n\nMore info: https://www.leuven.be/lessen-valpreventie",
-    "url": "https://www.leuven.be/lessen-valpreventie",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenmaandexternal link",
     "start": "2026-11-30T00:00:00",
     "city": "leuven",
@@ -767,17 +822,6 @@
     "location": "",
     "description": "Ontmoet nieuwe mensen, probeer een nieuwe hobby of geniet samen met vrienden en familie van heerlijke momenten.\n\nMore info: https://www.leuven.be/seniorenmaand",
     "url": "https://www.leuven.be/seniorenmaand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Reveil: muziek en po\u00ebzie op de begraafplaatsen",
-    "start": "2026-11-01T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "We herdenken overledenen met muziek en po\u00ebzie op de begraafplaatsen.\n\nMore info: https://www.leuven.be/reveil",
-    "url": "https://www.leuven.be/reveil",
     "source": "leuven_be_agenda"
   },
   {
@@ -814,14 +858,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Miniworkshop thuiscomposteren",
+    "title": "Miniworkshop thuiscomposteren (volzet)",
     "start": "2026-11-07T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren",
-    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren",
+    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
+    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -833,6 +877,17 @@
     "location": "",
     "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
     "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Mini-expo: Leuvense filmaffiches",
+    "start": "2026-11-09T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
+    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
   },
   {
@@ -880,14 +935,14 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Infosessie 'Plug-in zonnepanelen en batterijen'",
+    "title": "Infosessie 'Plug-in zonnepanelen en batterijen' (volzet)",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "",
-    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
-    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen",
+    "description": "Ontdek hoe plug-in zonnepanelen en plug-in thuisbatterijen werken, wat de mogelijkheden en beperkingen zijn en waarop je moet letten bij aankoop en gebruik.\n\nMore info: https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
+    "url": "https://www.leuven.be/infosessie-plug-zonnepanelen-en-batterijen-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -946,6 +1001,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Gesmoorde stemmenexternal link",
+    "start": "2026-11-24T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Thema-avond over seksueel grensoverschrijdend gedrag.\n\nMore info: https://www.leuven.be/gesmoorde-stemmen",
+    "url": "https://www.leuven.be/gesmoorde-stemmen",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Infosessie 'Slim omgaan met je digitale meter'",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -968,13 +1034,46 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Expo 'Folded Memory'",
+    "title": "Kerstmarktexternal link",
+    "start": "2025-12-21T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Kom gezellig snuisteren tussen meer dan 120 kraampjes met geschenken, kerstspullen en handgemaakte producten.\n\nMore info: https://www.leuven.be/kerstmarkt",
+    "url": "https://www.leuven.be/kerstmarkt",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Avondbezoek toren Universiteitsbibliotheekexternal link",
+    "start": "2026-12-17T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Bezoek de toren van de Universiteitsbibliotheek uitzonderlijk \u2019s avonds en vergaap je aan een prachtig verlichte stad.\n\nMore info: https://www.leuven.be/toren",
+    "url": "https://www.leuven.be/toren",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Sofagesprek: Leven met ADHD",
+    "start": "2026-01-16T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
+    "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Expo: Folded Memory",
     "start": "2026-12-06T00:00:00",
     "city": "leuven",
     "category": "exhibition",
     "end": null,
     "location": "",
-    "description": "Tijdens deze expo brengt curator Karen Wuytens hedendaagse kunst en historisch erfgoed samen rond de vraag: Hoe kan textiel troost dragen?\n\nMore info: https://www.leuven.be/foldedmemory",
+    "description": "Deze expo brengt historisch erfgoed en hedendaagse kunst samen rond thema's als verlies, herinnering, troost en verbondenheid.\n\nMore info: https://www.leuven.be/foldedmemory",
     "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
   },
@@ -990,7 +1089,29 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "City Walk Leuven",
+    "title": "Instaprondleiding 'Folded Memory'",
+    "start": "2026-12-20T00:00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "end": null,
+    "location": "",
+    "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
+    "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Botanique Magiqueexternal link",
+    "start": "2026-12-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Ontdek het nieuw betoverend lichtbeleving in de Kruidtuin.\n\nMore info: https://www.leuven.be/botanique-magique",
+    "url": "https://www.leuven.be/botanique-magique",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "City Walk Leuvenexternal link",
     "start": "2026-12-12T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -998,6 +1119,17 @@
     "location": "",
     "description": "Wandel langs plekken met streetart in de binnenstad. Je kan kiezen uit verschillende afstanden.\n\nMore info: https://www.leuven.be/city-walk",
     "url": "https://www.leuven.be/city-walk",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Kerstconcert Currendeexternal link",
+    "start": "2026-12-21T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Het klassieke ensemble Currende trakteert je op klassieke muziek in prachtige setting van de Abdij van Vlierbeek of de Sint-Pieterskerk.\n\nMore info: https://www.leuven.be/kerstconcert-currende",
+    "url": "https://www.leuven.be/kerstconcert-currende",
     "source": "leuven_be_agenda"
   },
   {
@@ -1012,7 +1144,18 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Eindejaarscorrida",
+    "title": "Workshop 'Weven met de draden van een Leuvense vlag'",
+    "start": "2026-12-19T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Weef mee aan een collectief kunstwerk en voeg jouw draad toe aan het verhaal van Leuven.\n\nMore info: https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "url": "https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Eindejaarscorridaexternal link",
     "start": "2026-12-27T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -1020,6 +1163,28 @@
     "location": "",
     "description": "Sluit het jaar sportief af met de gezelligste eindejaarsloop van het land.\n\nMore info: https://www.leuven.be/corrida",
     "url": "https://www.leuven.be/corrida",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Leuven Countdownexternal link",
+    "start": "2026-12-31T00:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "",
+    "description": "Aftellen naar 2027, dat doe je op de Oude Markt natuurlijk. Een dj zorgt voor de muziek, de duizenden feestneuzen zorgen voor de sfeer.\n\nMore info: https://www.leuven.be/countdown",
+    "url": "https://www.leuven.be/countdown",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Nieuwjaarsdrinkexternal link",
+    "start": "2027-01-09T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "De stad trakteert alle Leuvenaars op een frisse Stella 0,0%, een kop koffie en een lekker pak smoutebollen.\n\nMore info: https://www.leuven.be/nieuwjaarsdrink",
+    "url": "https://www.leuven.be/nieuwjaarsdrink",
     "source": "leuven_be_agenda"
   },
   {
