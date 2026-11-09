@@ -24,39 +24,51 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "a7b057cdcdbd0556bb48197c21bfa45e44dae8bf@citycalendar",
-    "title": "Kerstmarktexternal link",
-    "start": "2025-12-21T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "",
-    "description": "Kom gezellig snuisteren tussen meer dan 120 kraampjes met geschenken, kerstspullen en handgemaakte producten.\n\nMore info: https://www.leuven.be/kerstmarkt",
-    "url": "https://www.leuven.be/kerstmarkt",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "698d0c90c386f7b8cd612dc36ddbda4d1c610a88@citycalendar",
-    "title": "Workshops at the Jewish Museum of Belgium",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2027-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "museum_free_day",
-    "location": "Jewish Museum of Belgium, Rue des Minimes 21, 1000 Brussels",
-    "description": "Youth\n\nMore info: https://www.brussels.be/workshops-jewish-museum-belgium",
-    "url": "https://www.brussels.be/workshops-jewish-museum-belgium",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "3e9cdc97e7430bce9bda9af8998f7ec18a6425f1@citycalendar",
-    "title": "Training courses - 'Mission Locale pour l'Emploi'",
+    "uid": "8b568cb979cbd9d9faf35165ee193b49858551b8@citycalendar",
+    "title": "Ancienne Belgique - AB - programme 2026",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "location": "Mission Locale pour l'Emploi de Bruxelles-Ville, Boulevard d'Anvers 26 - 1000 Brussels",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
-    "url": "https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
+    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
+    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
+    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "f57e8e19fb60d988ae7e0234dfffcf3a41dffbbe@citycalendar",
+    "title": "Lectures and guided tours - Cercle d'Histoire de Bruxelles",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Various places in Brussels",
+    "description": "Lectures & debates // Guided tours\n\nMore info: https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "url": "https://www.brussels.be/lectures-and-guided-tours-cercle-dhistoire-de-bruxelles",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "33e2dd5faf55b011306778223657b82a36761754@citycalendar",
+    "title": "Guided visits by Brussels Chatterguides",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Various places in Brussels",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "8db41d552d4312f8358671d53ae885fcd7b7f0ab@citycalendar",
+    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
+    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
     "source": "brussels_agenda"
   },
   {
@@ -72,15 +84,15 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar",
-    "title": "Guided tours Laeken D\u00e9couverte",
+    "uid": "8d4bfe49642574f4babfe9e2b75aa166c30a49fd@citycalendar",
+    "title": "Underground treasure hunt at the Coudenberg",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "location": "Laeken",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-tours-laeken-decouverte",
-    "url": "https://www.brussels.be/guided-tours-laeken-decouverte",
+    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
+    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
+    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
     "source": "brussels_agenda"
   },
   {
@@ -96,18 +108,6 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "8d4bfe49642574f4babfe9e2b75aa166c30a49fd@citycalendar",
-    "title": "Underground treasure hunt at the Coudenberg",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "Coudenberg, Place des Palais 7 - 1000 Brussel (entrance via the BELvue Museum)",
-    "description": "Youth\n\nMore info: https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "url": "https://www.brussels.be/underground-treasure-hunt-coudenberg",
-    "source": "brussels_agenda"
-  },
-  {
     "uid": "2dfeb37733a9e54a2007bfbd63cbc3da0147eb3b@citycalendar",
     "title": "Pavi'On programme",
     "start": "2026-01-01T12:00:00+00:00",
@@ -120,15 +120,39 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "33e2dd5faf55b011306778223657b82a36761754@citycalendar",
-    "title": "Guided visits by Brussels Chatterguides",
+    "uid": "698d0c90c386f7b8cd612dc36ddbda4d1c610a88@citycalendar",
+    "title": "Workshops at the Jewish Museum of Belgium",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2027-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "museum_free_day",
+    "location": "Jewish Museum of Belgium, Rue des Minimes 21, 1000 Brussels",
+    "description": "Youth\n\nMore info: https://www.brussels.be/workshops-jewish-museum-belgium",
+    "url": "https://www.brussels.be/workshops-jewish-museum-belgium",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "cd31279e4fb95fa0f4971b5138f420f27428687c@citycalendar",
+    "title": "Guided tours Laeken D\u00e9couverte",
     "start": "2026-01-01T12:00:00+00:00",
     "end": "2026-12-31T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
-    "location": "Various places in Brussels",
-    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-visits-brussels-chatterguides",
-    "url": "https://www.brussels.be/guided-visits-brussels-chatterguides",
+    "location": "Laeken",
+    "description": "Guided tours\n\nMore info: https://www.brussels.be/guided-tours-laeken-decouverte",
+    "url": "https://www.brussels.be/guided-tours-laeken-decouverte",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "3e9cdc97e7430bce9bda9af8998f7ec18a6425f1@citycalendar",
+    "title": "Training courses - 'Mission Locale pour l'Emploi'",
+    "start": "2026-01-01T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Mission Locale pour l'Emploi de Bruxelles-Ville, Boulevard d'Anvers 26 - 1000 Brussels",
+    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
+    "url": "https://www.brussels.be/training-courses-mission-locale-pour-lemploi",
     "source": "brussels_agenda"
   },
   {
@@ -156,34 +180,10 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "8b568cb979cbd9d9faf35165ee193b49858551b8@citycalendar",
-    "title": "Ancienne Belgique - AB - programme 2026",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "Ancienne Belgique - AB, Boulevard Anspach 110, 1000 Brussels",
-    "description": "Music // Events\n\nMore info: https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "url": "https://www.brussels.be/ancienne-belgique-ab-programme-2026",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "8db41d552d4312f8358671d53ae885fcd7b7f0ab@citycalendar",
-    "title": "Workshops and trainings for traders - Entreprendre Bruxelles",
-    "start": "2026-01-01T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Multidisciplinary\n\nMore info: https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "url": "https://www.brussels.be/workshops-and-trainings-traders-entreprendre-bruxelles",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "e9c270ef9dd9429b0fbb52f96df3fbc9eeecbb1d@citycalendar",
-    "title": "La Madeleine - programme 2026",
+    "uid": "87a453f9d9a7c9425ea4f65402f4c793440d53d7@citycalendar",
+    "title": "La Madeleine - programme 2026-2027",
     "start": "2026-01-02T12:00:00+00:00",
-    "end": "2026-12-26T12:00:00+00:00",
+    "end": "2027-05-19T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "location": "La Madeleine, Rue Duquesnoy 14 - 1000 Brussels",
@@ -204,10 +204,10 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "90455e2dc6291f85d4f97b637dfe2731c69be6e4@citycalendar",
-    "title": "Cirque Royal - programme 2026",
+    "uid": "79db8ea39599b9bae64a00a785583b85a42c4bc6@citycalendar",
+    "title": "Cirque Royal - programme 2026-2027",
     "start": "2026-01-07T12:00:00+00:00",
-    "end": "2026-12-20T12:00:00+00:00",
+    "end": "2027-07-05T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "location": "Cirque Royal, Rue de l'Enseignement 81 - 1000 Brussels",
@@ -240,22 +240,10 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "ad1d60d0fcc0d0d9896c33bf28245e1d7da2db97@citycalendar",
-    "title": "Sofagesprek: Leven met ADHD",
-    "start": "2026-01-16T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
-    "url": "https://www.leuven.be/adhd",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "9c2107d04874fad466f06d07a629c2cd35832bca@citycalendar",
-    "title": "ING Arena - programme 2026",
+    "uid": "36feb035c1d0129cd7d54e1fbcf3203d8d8dc680@citycalendar",
+    "title": "ING Arena - programme 2026-2027",
     "start": "2026-01-17T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
+    "end": "2027-06-12T12:00:00+00:00",
     "city": "leuven",
     "category": "event",
     "location": "ING Arena, Avenue de Miramar - 1020 Brussels (Laeken)",
@@ -345,18 +333,6 @@
     "location": "King Baudouin Stadium, Avenue de Marathon - 1020 Brussels (Laeken)",
     "description": "Guided tours\n\nMore info: https://www.brussels.be/visit-king-baudouin-stadium",
     "url": "https://www.brussels.be/visit-king-baudouin-stadium",
-    "source": "brussels_agenda"
-  },
-  {
-    "uid": "92d42a58f2b6c1a7a31d7c70e8a85e0a4c78fe80@citycalendar",
-    "title": "Bike Experience",
-    "start": "2026-03-05T12:00:00+00:00",
-    "end": "2026-11-05T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Participation // Multidisciplinary\n\nMore info: https://www.brussels.be/bike-experience",
-    "url": "https://www.brussels.be/bike-experience",
     "source": "brussels_agenda"
   },
   {
@@ -504,18 +480,6 @@
     "source": "leuven_fleamarket_guide"
   },
   {
-    "uid": "813fc8468dc9c40c7f7abfd6a5c8f0ddff6c1f97@citycalendar",
-    "title": "'Les Petits Koalas'",
-    "start": "2026-09-03T12:00:00+00:00",
-    "end": "2026-12-10T12:00:00+00:00",
-    "city": "leuven",
-    "category": "event",
-    "location": "Maison de la Cr\u00e9ation - NOH site, Place Saint-Nicolas - 1120 Bruxelles (Neder-Over-Heembeek)",
-    "description": "Youth // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/les-petits-koalas",
-    "url": "https://www.brussels.be/les-petits-koalas",
-    "source": "brussels_agenda"
-  },
-  {
     "uid": "2d41503f2602b3ffeaeb93f7742568609e7bf553@citycalendar",
     "title": "Dutch conversation groups",
     "start": "2026-09-03T12:00:00+00:00",
@@ -525,6 +489,18 @@
     "location": "Various places in Brussels",
     "description": "Lectures & debates\n\nMore info: https://www.brussels.be/dutch-conversation-groups",
     "url": "https://www.brussels.be/dutch-conversation-groups",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "813fc8468dc9c40c7f7abfd6a5c8f0ddff6c1f97@citycalendar",
+    "title": "'Les Petits Koalas'",
+    "start": "2026-09-03T12:00:00+00:00",
+    "end": "2026-12-10T12:00:00+00:00",
+    "city": "leuven",
+    "category": "event",
+    "location": "Maison de la Cr\u00e9ation - NOH site, Place Saint-Nicolas - 1120 Bruxelles (Neder-Over-Heembeek)",
+    "description": "Youth // Multidisciplinary // Events\n\nMore info: https://www.brussels.be/les-petits-koalas",
+    "url": "https://www.brussels.be/les-petits-koalas",
     "source": "brussels_agenda"
   },
   {
@@ -636,18 +612,6 @@
     "source": "brussels_agenda"
   },
   {
-    "uid": "5ae0030d04781189f28ff32330f588b2061b70fe@citycalendar",
-    "title": "Fran\u00e7ois Malfait (1872-1955): a talented architect in the service of the City",
-    "start": "2026-09-17T12:00:00+00:00",
-    "end": "2026-12-31T12:00:00+00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "location": "King's House, Grand-Place 29, 1000 Brussels",
-    "description": "Exhibition\n\nMore info: https://www.brussels.be/heritagedays2025",
-    "url": "https://www.brussels.be/heritagedays2025",
-    "source": "brussels_agenda"
-  },
-  {
     "uid": "6a58c67075f17dfe86017673dc1d3a25f1de53a9@citycalendar",
     "title": "M.C. Escher - Beyond Infinity",
     "start": "2026-09-17T12:00:00+00:00",
@@ -657,6 +621,18 @@
     "location": "Tour & Taxis, Avenue du Port 86c - 1000 Brussels",
     "description": "Exhibition // Events\n\nMore info: https://www.brussels.be/mc-escher-beyond-infinity",
     "url": "https://www.brussels.be/mc-escher-beyond-infinity",
+    "source": "brussels_agenda"
+  },
+  {
+    "uid": "5ae0030d04781189f28ff32330f588b2061b70fe@citycalendar",
+    "title": "Fran\u00e7ois Malfait (1872-1955): a talented architect in the service of the City",
+    "start": "2026-09-17T12:00:00+00:00",
+    "end": "2026-12-31T12:00:00+00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "location": "King's House, Grand-Place 29, 1000 Brussels",
+    "description": "Exhibition\n\nMore info: https://www.brussels.be/heritagedays2025",
+    "url": "https://www.brussels.be/heritagedays2025",
     "source": "brussels_agenda"
   },
   {
@@ -756,6 +732,18 @@
     "source": "brussels_flea_markets"
   },
   {
+    "uid": "2a982396270cd8983650790c21562ddbcbf17154@citycalendar",
+    "title": "MashaaDunya Festival",
+    "start": "2026-10-08T12:00:00+00:00",
+    "end": "2026-11-28T12:00:00+00:00",
+    "city": "leuven",
+    "category": "exhibition",
+    "location": "Various places in Brussels (including De Markten and Espace Magh)",
+    "description": "Exhibition // Music // Multidisciplinary // Festivals // Events // Film\n\nMore info: https://www.brussels.be/mashaadunya-festival",
+    "url": "https://www.brussels.be/mashaadunya-festival",
+    "source": "brussels_agenda"
+  },
+  {
     "uid": "b4821f40fa23e17e92cf7db7e3bf8c816710d022@citycalendar",
     "title": "Vinterlopper",
     "start": "2026-10-25T00:00:00",
@@ -792,30 +780,6 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "01a76b7ded27b75baeff3c44806b56ea6d807b06@citycalendar",
-    "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-11-02T10:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Parijsstraat 14, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
-    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "e4377ad7dea76e6252f2be44ef3ff350065b9599@citycalendar",
-    "title": "PB7talentscenen - Mandagskoncert",
-    "start": "2026-11-02T19:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "PB7talentscenen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20490153",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20490153",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "uid": "34cbb078ae2a90655559ed3b71a75dc949bdc0f1@citycalendar",
     "title": "Christmas market",
     "start": "2026-11-03T00:00:00",
@@ -826,66 +790,6 @@
     "description": "More info: https://www.visitleuven.be/en/christmas-market",
     "url": "https://www.visitleuven.be/en/christmas-market",
     "source": "leuven_flea_markets"
-  },
-  {
-    "uid": "b749ef3ae1cf4e8853f4f9f115be31793717f4ef@citycalendar",
-    "title": "Infopunt vrijwilligerswerk",
-    "start": "2026-11-03T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
-    "url": "https://www.leuven.be/infopunt-vrijwilliger",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "b45e368ec84d38a9bad43d3f8acb6a7bb23daa42@citycalendar",
-    "title": "Jazz p\u00e5 film - Ella Fitzgerald",
-    "start": "2026-11-03T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Posthus Teatret",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20441808",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20441808",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "5a0b7864262a8e5a5acf19b4d179c87392bd8843@citycalendar",
-    "title": "Koncert med Trio LAI",
-    "start": "2026-11-03T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "MUSIKiKANTEN",
-    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196206",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196206",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "uid": "be6cd3a2595db9bb2d71e5a813e5859f3fbacb7e@citycalendar",
-    "title": "Tower visit and live carillon concert University Library",
-    "start": "2026-11-03T18:20:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
-    "url": "https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "75fe716f39ca56cefe17765ff300eaae32e850d2@citycalendar",
-    "title": "Family festival: Rode Hond",
-    "start": "2026-11-04T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/agenda/rode-hond",
-    "url": "https://www.visitleuven.be/en/agenda/rode-hond",
-    "source": "leuven_calendar"
   },
   {
     "uid": "78844825dc13939420a31d88bf681daa20ffc77f@citycalendar",
@@ -900,644 +804,8 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "7eb99006a84d14fa85f1eb137cecd8c5ea1843a9@citycalendar",
-    "title": "Walter Trout (US)",
-    "start": "2026-11-04T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Amager Bio",
-    "description": "Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19561708",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19561708",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "8c64d646288fc212bb559fe7e425fabac9a4db66@citycalendar",
-    "title": "A Tribute to Jens Winther",
-    "start": "2026-11-04T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Templet",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20189998",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20189998",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "19d2a2cc3b39c78fcc545ffe9cca4700abc884ca@citycalendar",
-    "title": "Market in Kessel-Lo",
-    "start": "2026-11-04T14:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "Becker-Remyplein, 3010 Leuven (Kessel-Lo)",
-    "description": "More info: https://www.visitleuven.be/en/market-wednesday",
-    "url": "https://www.visitleuven.be/en/market-wednesday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "uid": "0485d482af47e90def376adff070e1ff1d720d0d@citycalendar",
-    "title": "Free carillon concerts in Park Abbey",
-    "start": "2026-11-04T16:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Park Abbey",
-    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
-    "url": "https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "8b638c9b342acb1fb7c9dd892a165db5ceb7b96c@citycalendar",
-    "title": "Free carillon concerts in Great Beguinage",
-    "start": "2026-11-04T19:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Groot Begijnhof, Schapenstraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
-    "url": "https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "114b46d8cca69b10ce72169c04b405c4aefd64b8@citycalendar",
-    "title": "Poesiens Mestre Erik Grip m.fl",
-    "start": "2026-11-04T19:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Kulturmaskinen - Magasinet",
-    "description": "Folk/Vise/Country\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20039017",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20039017",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "uid": "d6721efbb173924218ad2db15e78cd6a375b27df@citycalendar",
-    "title": "Open Dance Floor",
-    "start": "2026-11-04T20:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
-    "url": "https://www.visitleuven.be/en/open-dance-floor",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "6f149717853c7f08e2b5f764467165e9fdc9af66@citycalendar",
-    "title": "Concert: Open Mic night",
-    "start": "2026-11-04T20:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Het Depot, Martelarenplein 12, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/concert-open-mic-night",
-    "url": "https://www.visitleuven.be/en/concert-open-mic-night",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "5ddef85e735684a0703a999ecb7bd4ffec2f0bec@citycalendar",
-    "title": "Torsdagsmarked p\u00e5 torvet",
-    "start": "2026-11-05T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "TorvehallerneKBH",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20327989",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20327989",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "b86788305dbd8b8a9b4caa58430bd784c82f2762@citycalendar",
-    "title": "Market in city centre",
-    "start": "2026-11-05T13:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "Brusselsestraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-thursday",
-    "url": "https://www.visitleuven.be/en/market-thursday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "uid": "60f9513918939c7c4668b3873989c00c1fcf5bc9@citycalendar",
-    "title": "Dance Battle: Battle Shake for kids",
-    "start": "2026-11-05T16:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
-    "url": "https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "ef37d55347ec52d11c59eaafd36d9df3906b828a@citycalendar",
-    "title": "Klaverkoncert med Rune Solvang",
-    "start": "2026-11-05T19:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Steng\u00e5rd Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428127",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428127",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "684910e1d7ed53c9b6791d32b51e5572d6c5bd24@citycalendar",
-    "title": "Tjajkovskijs 6",
-    "start": "2026-11-06T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19733854",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19733854",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "f47982235bfe42811a2125c0235663bf62e71700@citycalendar",
-    "title": "Market in city centre of Leuven",
-    "start": "2026-11-06T07:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "Ladeuzeplein en Hooverplein, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-friday",
-    "url": "https://www.visitleuven.be/en/market-friday",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "ba548391c9cb8220e3584ec5d0fa1f3eae7470af@citycalendar",
-    "title": "Free carillon concerts on Grote Markt",
-    "start": "2026-11-06T12:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Grote Markt, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
-    "url": "https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "dac5c389e66e2a2b6fb11022c89897ce3a75d4ca@citycalendar",
-    "title": "Beer and chocolate tasting",
-    "start": "2026-11-06T16:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/beer-and-chocolate-tasting",
-    "url": "https://www.visitleuven.be/en/beer-and-chocolate-tasting",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "1d611d0ef3928057f701d544e5f91fa3d6e81465@citycalendar",
-    "title": "\u00d8S26: Iris Bergcrantz & Martin Seier",
-    "start": "2026-11-06T16:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Cafe Nabo",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428439",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428439",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "5a339cc7497edc0d98ac4188419ff2b4a63865bb@citycalendar",
-    "title": "Walk: Leuven on tap",
-    "start": "2026-11-06T19:30:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/walk-leuven-tap",
-    "url": "https://www.visitleuven.be/en/walk-leuven-tap",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "12c0ba82a0ab0ed315f5d2ad030ad93383c3fce0@citycalendar",
-    "title": "H\u00e4ndels h\u00e5b om fred - Vor Frue Kirke, K\u00f8benhavn",
-    "start": "2026-11-06T19:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Vor Frue Kirke - K\u00f8benhavns Domkirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20058920",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20058920",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "925bff10ca806fffb8f1dc1eafd003aeba0f3e71@citycalendar",
-    "title": "Workshop 'Composteren in een wormenbak'",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "In deze workshop leer je hoe je kan composteren in een wormenbak en hoe je die verzorgt.\n\nMore info: https://www.leuven.be/wormenbak",
-    "url": "https://www.leuven.be/wormenbak",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "f18dc24e8957b8841f3c8ea32cb4781b7ed2f8d6@citycalendar",
-    "title": "Miniworkshop thuiscomposteren (volzet)",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Leer de belangrijkste principes van het composteren: welk systeem kies je voor jouw tuin? Hoe opstarten? En wat zijn de belangrijkste vuistregels.\n\nMore info: https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
-    "url": "https://www.leuven.be/miniworkshop-thuiscomposteren-volzet",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "1a1410d820a86c4a6004680b1a806b64a91697eb@citycalendar",
-    "title": "Faur\u00e9: Requiem",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Christians Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19463148",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19463148",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "d284ab7cc501cbfae49eefc84b64db310a009241@citycalendar",
-    "title": "Julieta Rada at Union",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Union",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20335453",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20335453",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "44097a74fdd257815ef8d05bb0a84c5d9a79c189@citycalendar",
-    "title": "Orgelmatin\u00e9",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Vor Frue Kirke - K\u00f8benhavns Domkirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428167",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428167",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "ab1a9186f673414c9d4a845d1cc928804d480653@citycalendar",
-    "title": "Vanl\u00f8se torv loppemarked",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Vanl\u00f8se Torv",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050606",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050606",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "0b1eebfac11c02d33606a7bde7d04986b812fb4a@citycalendar",
-    "title": "Kunsth\u00e5ndv\u00e6rkermarked i Absalon",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Folkehuset Absalon",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20328255",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20328255",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "55f4e458d1126418ceca30456c941e3126b9bed8@citycalendar",
-    "title": "Herlev Kreamarked",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Herlev Medborgerhus",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20497290",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20497290",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "1f0f63ae5a7846efcbb49d8787dcf5cdedb982cb@citycalendar",
-    "title": "B\u00f8rnenes loppemarked i BR\u00d8K",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Kulturhuset BR\u00d8K",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186787",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20186787",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "ae186ba7bce4f8463f3409ce0261620ef5050682@citycalendar",
-    "title": "Luksus Secondhand Loppemarked i Nordhavn",
-    "start": "2026-11-07T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "The Silo",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508117",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508117",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "a17bfb19b3d504edb4c91a85ae460870abcd4af1@citycalendar",
-    "title": "Market in city centre of Leuven",
-    "start": "2026-11-07T09:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/market-saturday",
-    "url": "https://www.visitleuven.be/en/market-saturday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "uid": "52636074492dff902fc7f79d55e45f824846c116@citycalendar",
-    "title": "Luksus Secondhand Loppemarked i Nordhavn",
-    "start": "2026-11-07T10:00:00+01:00",
-    "end": "2026-11-07T15:00:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Helsinkigade 29, 2150 Nordhavn, Helsinkigade 29, Nordhavn, 2150, Danmark",
-    "description": "Velkommen til vores store vintermarked med t\u00f8j til b\u00e5de kulde og vinterens fester!Kom forbi \u201cThe Silo\u201d i Nordhavn til luksus secondhand loppemarked, hvor bygningens beboere s\u00e6lger ud af l\u00e6kre m\u00e6rkevarer til priser du ikke finder andre steder.Find et stort udvalg af t\u00f8j, sko og accessories til kvinder, m\u00e6nd og b\u00f8rn, lige fra de billige street m\u00e6rker til high-end m\u00e6rkevarer. Hos os kan du med god \u00f8konomisk samvittighed f\u00e5 din vintergarderobe fyldt op!N\u00e5r du kommer til Secondhand Loppemarked hos os, kan du v\u00e6re sikker p\u00e5, at alting er i p\u00e6n stand, nyvasket og str\u00f8get.Vi h\u00e5ber, du kigger forbi til en hyggelig dag og et godt k\u00f8b!Arrangementet afholdes i vores lobby. Vi gl\u00e6der os til at se dig",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/luksus-secondhand-loppemarked-i-nordhavn/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "f0f29729de98eaf5dbbc47b6be606f93b92f7e43@citycalendar",
-    "title": "Vanl\u00f8se Torv Loppemarked",
-    "start": "2026-11-07T10:00:00+01:00",
-    "end": "2026-11-07T16:00:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Vanl\u00f8se Torv Lopemarked, Vanl\u00f8se Torv 1, Vanl\u00f8se, 2720",
-    "description": "Vanl\u00f8se torv loppemarked hver l\u00f8rdag 10.00 \u2013 16.00 p\u00e5 Vanl\u00f8se torv.\nKom og g\u00f8r et kup p\u00e5 vores loppe & livsstilsmarked masser af l\u00e6kre loppefund!\nK\u00f8b brugt , hj\u00e6lp klima & spar penge! \nSes vi?",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/vanloese-torv-loppemarked/2026-11-07/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "3c8b54435bb1fa3b1a1606335ddf6e1ac17310c4@citycalendar",
-    "title": "Vanl\u00f8se torv loppemarked",
-    "start": "2026-11-07T10:00:00+01:00",
-    "end": "2026-11-07T16:00:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Vanl\u00f8se Torv, 2720 Vanl\u00f8se, Denmark, Vanl\u00f8se Torv, 2720 Vanl\u00f8se, Denmark",
-    "description": "Vanl\u00f8se torv loppemarked hver l\u00f8rdag 10.00-16.00 lige foran Kronen bycenter, stationen samt metro. S\u00e5 mange sk\u00f8nne loppefund, kom og g\u00f8r et kup eller s\u00e6lg ud af egne gemmer. Book p\u00e5 mp 4052TC husk skriv dato.Lille stand 1\u00d72 m 175 krStandard stand 2\u00d73 m 250 kr \u2013 Nyt ! Lej et tomt bord med s\u00e6lger 250 kr , s\u00e6t priser p\u00e5 dine ting og kom med dem til os. Afhent evt resterende samt afregning. K\u00f8b brugt, hj\u00e6lp og spar penge !Ses vi ? \nhttps://www.facebook.com/events/718590451342292/?event_time_id=718591044675566",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/vanloese-torv-loppemarked-6/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "b91b8e771928c6a89ae8f8f1da87123448a3cba5@citycalendar",
-    "title": "Weekend loppemarked i Kometen",
-    "start": "2026-11-07T10:00:00+01:00",
-    "end": "2026-11-08T14:30:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Kometen, Kometen",
-    "description": "Endnu engang afholder vi vores weekend loppemarked i Kometen, Hvidovrevej 280, 2650 Hvidovre \nLauritz.com kommer p\u00e5 bes\u00f8g l\u00f8rdag mellem kl. 11:00-14:00, og vurderer gratis private effekter (max 3 pr person). \n\u00c5bningstider: L\u00f8rdag kl. 10:00-15:00 \u2013 S\u00f8ndag kl. 10:00-14:30 \nGRATIS publikum entre.",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/weekend-loppemarked-i-kometen/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "77d0203c8ff8f7d2426573d493aeb3e1eefef115@citycalendar",
-    "title": "Walk: Six centuries of the university in Leuven",
-    "start": "2026-11-07T10:30:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Universiteitshal, Naamsestraat 22, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/rondleiding-universiteit",
-    "url": "https://www.visitleuven.be/en/rondleiding-universiteit",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "090de17e156e015dee628aa4485529957fe4b7d1@citycalendar",
-    "title": "Leget\u00f8jsloppemarked",
-    "start": "2026-11-07T10:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Gladsaxe Hovedbibliotek",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20434799",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20434799",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "8ba2793262043abdb8ce17b7b2a8fc560bd69ac7@citycalendar",
-    "title": "Next Flea Market",
-    "start": "2026-11-07T12:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Next House Copenhagen",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20471189",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20471189",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "1b40d4cfe6ea7a2d47cb08a24c97afbaefb95cf4@citycalendar",
-    "title": "Guided tour: Brewery de Coureur",
-    "start": "2026-11-07T13:30:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Brouwerij de Coureur \u2022 Borstelsstraat 20/1, 3010 Leuven",
-    "description": "More info: https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
-    "url": "https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "5ea8627bfc59537f05c6d9866894f4fceef487c6@citycalendar",
-    "title": "Trine Therkelsen inkl. 3-retters middag og drikkevarepakke",
-    "start": "2026-11-07T17:30:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Comwell Copenhagen Portside",
-    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19020889",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19020889",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "4e97ce37d636b8444d5b57e2cac16cd7e2dc988c@citycalendar",
-    "title": "Rode Hondexternal link",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Kunstenfestival Rode Hond is terug! Geniet in de herfstvakantie van theater, dans, muziek, circus, games, breaking en nog veel meer.\n\nMore info: https://www.leuven.be/rode-hond",
-    "url": "https://www.leuven.be/rode-hond",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "d399c19708a55c22e274c65e0320fe64c3806bcb@citycalendar",
-    "title": "G-sportinitiaties 'Sportprikkels'",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "",
-    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
-    "url": "https://www.leuven.be/sportprikkels",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "c9cfa04f809c0d7d46c07d28324a1dcd58851192@citycalendar",
-    "title": "Koncert: Mozarts Requiem",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Husumvold Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445225",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445225",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "13b6e4089cb94eea404d0b840c077436cd4f0f84@citycalendar",
-    "title": "Verdis Requiem",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Helligaandskirken",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20453321",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20453321",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "fef667b61c4b4b65307e597372042b4af22de939@citycalendar",
-    "title": "Schi\u00f8tz-prisen 2026",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Det kgl. Danske Musikkonservatorium, Studiescenen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20324629",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20324629",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "ec67812cd0a897985bfcb9bf78b4ffaddd3a2b14@citycalendar",
-    "title": "Durufl\u00e9s Requiem med Sankt Pauls Kammerkor",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Frihavnskirken",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20377071",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20377071",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "63e79d00d0c5c935b14f02c72e1cefb7f88ce28a@citycalendar",
-    "title": "Loppemarked for b\u00f8rn",
-    "start": "2026-11-08T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Kulturhuset Islands Brygge",
-    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20303093",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20303093",
-    "source": "copenhagen_flea_markets"
-  },
-  {
-    "uid": "ecbe002412ba60f0d35643f9d32c2df2b69f0bb3@citycalendar",
-    "title": "Market in Heverlee",
-    "start": "2026-11-08T08:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "flea_market",
-    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/market-sunday",
-    "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "uid": "cfc674c2b76a98a2aeef65c4304d9030244d61c0@citycalendar",
-    "title": "Veras Market under Buen 2026",
-    "start": "2026-11-08T10:00:00+01:00",
-    "end": "2026-11-08T15:00:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Bispeengen 20, 2000 Frederiksberg",
-    "description": "Join os til Danmarks st\u00f8rste genbrugst\u00f8jmarked af en loppefest hver s\u00f8ndag, n\u00e5r Veras Market samler de flotteste loppe hoveder, som sammen sikrer at brugt t\u00f8j f\u00e5r nyt liv \u00a0\nENGLISH BELOWTil Veras Market under Buen kan du hver s\u00f8ndag snuppe spr\u00f8dt brugt kluns til gavn for milj\u00f8et fra 80 private stande og fra Veras egen stand, hvor der altid er 1 for 40,- og 4 for 100,-Tjen selv monetos p\u00e5 dit brugte t\u00f8j og giv det nyt liv med en stand, hvor du kan leje bord, t\u00f8jstativ og b\u00f8jler af Veras\u00a0\u00a0Du finder mere info lige her:\u00a0https://verasvintage.dk/market/koebenhavn/Vi gl\u00e6der os helt vildt til at se jeres flotte hoveder til en farverig s\u00f8ndagsloppefest under Buen!\u00a0\nK\u00e6rligst,Damerne bag Veras\n\u2060 BLIV STANDHOLDER\u00a0\u2060Veras Market er landets nemmeste t\u00f8jmarked, hvor du er sikret v\u00e6rdi for ALT dit kluns. Lej t\u00f8jstativ m. b\u00f8jler og borde af os \u2013 og hvis du har lyst, s\u00e5 kan du endda aflevere dit overskydende t\u00f8j til os efter markedet, hvor vi som tak kvitterer med et gavekort p\u00e5 100,- til Veras webshop eller butik i Studiestr\u00e6de 27, Kbh. Nemt, ik?Tjen penge p\u00e5 dit aflagte kluns, mens du har en fest! S\u00e6lg lige hvad du lyster, s\u00e5 l\u00e6nge det er egne brugte varer indenfor kategorierne t\u00f8j, accessories og sko.Book din stand og t\u00f8jstativer\u00a0\u00a0verasvintage.dk/market/koebenhavn\n\u00a0FOR BES\u00d8GENDE\u00a0Veras Market byder altid p\u00e5 tonsvis af unikke brugte skatte, og du kan finde alt fra trendy highstreet, unikke vintagesager til flotte m\u00e6rkevarer.\u2022 Der er altid gratis adgang til Veras Market under Buen\u2022 Der er fri adgang til toiletter\u2022 De fleste standholdere tager imod MobilePay og kontanter\u2022 I Veras stand tager vi imod kort, kontanter og MobilePay\nVERAS STAND\u00a0ALT 40,- // 4 items for 100,-BYT DIT T\u00d8J TIL NYTIndlev\u00e9r dit t\u00f8j p\u00e5 markedet (maks. 5 stykker t\u00f8j per kunde) og f\u00e5 50% p\u00e5 alt nyt, brugt t\u00f8j i Veras:1. Aflev\u00e9r dit t\u00f8j (maks. 5 styk) til os i Veras stand2. F\u00e5 straks rabatpoint udbetalt, ca. 50% af vores salgspris3. Rabatpointene gir\u2019 dig op til 50% p\u00e5 alt nyt, brugt t\u00f8j fra VerasVi tager imod alt damet\u00f8j, som er rentvasket og uden huller, pletter og slitage. Vi gl\u00e6der os til at se dig og dit kluns, s\u00e5 vi sammen cirkulerer alt brugt t\u00f8j og bek\u00e6mper t\u00f8jspild\u00a0\n\u00a0OM VERAS\u00a0I Veras er det nemt at forny din garderobe b\u00e6redygtigt og skille dig af med dit brugte t\u00f8j uden at skabe t\u00f8jspild. Veras er skabt ud fra en cirkul\u00e6r forretningsmodel med flere platforme, hvor alt t\u00f8j finder sin plads og dermed f\u00e5r nyt liv. Hos Veras kan du bytte, shoppe og s\u00e6lge brugt t\u00f8j \u2013 og d\u00e9t, der er hullet eller slidt, reparerer og upcycler vi for dig.\nAlt t\u00f8j i Veras kommer fra lokale danske garderober. Vi indk\u00f8ber ikke noget t\u00f8j \u2013 og intet t\u00f8j g\u00e5r til spilde. Vi hacker den etablerede t\u00f8jindustri og g\u00f8r et line\u00e6rt systemet cirkul\u00e6rt. S\u00e5dan n\u00e5r vi vores vision om at bek\u00e6mpe t\u00f8jspild og give alt t\u00f8j nyt liv. Det mest b\u00e6redygtige er at cirkulere t\u00f8jet \u2013 pr\u00e6cis som det er.Bes\u00f8g vores brugte univers\u00a0\u00a0verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 10-15 is transformed into your favorite secondhand market \u2013 with clothes and accessories for both women and men. Whether you\u2019re into high street scoops, exclusive luxury, or hidden vintage treasures, Veras Market is for you! With more than 80 stalls and of course the famous Veras vibe this is the perfect place to spend your Sunday. There is always free entrance to the market.Remember to check out Veras shop where you can get item for 40,- and 4 items for 100,-. Here you can also hand in your own clothes, from which you receive points to use in Veras stall and Veras shop.We can\u2019t wait to get our secondhand Sunday groove on with all of you!\ufffcBECOME A STALLHOLDER\ufffcBook a stall on one of Copenhagens most popular secondhand clothing markets. You can sell used items within the categories of clothing, accessories, and shoes for women and men. Book your stall:\u00a0www.verasvintage.dk/koebenhavnA stall 2\u00d73 m: 465 DKKRent a dress rail incl. 50 hangers for your stall: 250 DKK\u2022 All stalls are allocated on a first come first served basis\u2022 You can share your stall with one other friend\u2022 You can bring your own dress rail(s) as long as you don\u2019t have more than two in total.\u2022 You can bring your own table, but there is a table included in every stall\u2022 Check-in is between 8:30-09.00 AMVeras accept all left-over clothes that you didn\u2019t get to sell after each market. In exchange we give you 100 DKK (a minimum of 1 regular bag) which you can use in our stores or online at\u00a0verasvintage.dk\ufffcABOUT VERASVeras secondhand universe helps you to always get value for your old clothes. Veras gives you the opportunity to get a whole new wardrobe without hurting the environment or your finances in 2 simple ways:\u2022 Swap to new: Receive points in return for your old clothes \u2013 no matter the quality, brand, or style of the clothes. With the points you can buy new secondhand clothes in our shops or on\u00a0verasvintage.dk\u2022 Sell your clothes with at stall at Veras Market. We\u2019ll make sure you get a table, dress rail and hangers, so all you need to take care of is having a fun day with your friends!",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/veras-market-under-buen-2026/2026-11-08/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "478579eec1c3efe14b13832c251bc40698f2f7c2@citycalendar",
-    "title": "Heritage Tour KU Leuven: Arenberg Castle",
-    "start": "2026-11-08T10:30:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Arenbergkasteel \u2022 Kasteelpark Arenberg 1, 3001 Leuven",
-    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle",
-    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "f19af9c70300b0c8d4d9d9f99459559fbb8a6fcd@citycalendar",
-    "title": "Guided tour: Adept Brewery",
-    "start": "2026-11-08T11:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "De Smederij",
-    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "71e1a0866265f979492ceaeea236617f9c5a1223@citycalendar",
-    "title": "Loppemarked i Det Gule Hus",
-    "start": "2026-11-08T11:00:00+01:00",
-    "end": "2026-11-08T16:00:00+01:00",
-    "city": "copenhagen",
-    "category": "flea_market",
-    "location": "Mikkel bryggers gade 7, 1460 k\u00f8benhavn, Mikkel bryggers gade 7, 1460 k\u00f8benhavn",
-    "description": "D. 8 november inviterer vi til indend\u00f8rs loppemarked midt i K\u00f8benhavn. Der vil v\u00e6re vinyl dj og god stemning, n\u00e5r vi \u00e5bner hele opgangen i Mikkel bryggers gade 7 for loppeg\u00e6ster. \nBygningen er under renovering, s\u00e5 kom og se helt ind til skelettet p\u00e5 et gammelt byhus fra 1801 \ud83d\ude42 \nMan kan k\u00f8be en bod til 150kr og al overskuddet af bod-salget g\u00e5r til Dyrenes Beskyttelse.",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-det-gule-hus/",
-    "source": "copenhagen_fleamarket_guide"
-  },
-  {
-    "uid": "dc56aeda13825966d4cd9691a212b5b37a1d066d@citycalendar",
-    "title": "Walk with beer tasting",
-    "start": "2026-11-08T14:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/walk-beer-tasting",
-    "url": "https://www.visitleuven.be/en/walk-beer-tasting",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "178a9622588b19bef080cfcc2316e00547fa483c@citycalendar",
-    "title": "Jazz on Sunday",
-    "start": "2026-11-08T21:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "STUK, Naamsestraat 96, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/jazz-sunday",
-    "url": "https://www.visitleuven.be/en/jazz-sunday",
-    "source": "leuven_calendar"
-  },
-  {
-    "uid": "33bf86b503201e7c3a9b31cefd4bfd098778b7ae@citycalendar",
-    "title": "Mini-expo: Leuvense filmaffiches",
+    "uid": "2cf8280388820337dd5611d752610cc2ec1a8713@citycalendar",
+    "title": "Mini-expo 'Leuvense filmaffiches'",
     "start": "2026-11-09T00:00:00",
     "end": null,
     "city": "leuven",
@@ -1546,6 +814,30 @@
     "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
     "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "6e7768bebad4b4c0a4721fd02ca6ab3d2296e569@citycalendar",
+    "title": "Bike Tour: Lovely Leuven Bike Tour",
+    "start": "2026-11-09T10:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Parijsstraat 14, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
+    "url": "https://www.visitleuven.be/en/bike-tour-lovely-leuven-bike-tour",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "70a16c3fff92ef00353d0961893cc048d23232a2@citycalendar",
+    "title": "ILUVLeuven Walk",
+    "start": "2026-11-09T14:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "url": "https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "source": "leuven_calendar"
   },
   {
     "uid": "20da749c7842e74f9b838b29293f53a4d67a985a@citycalendar",
@@ -1560,16 +852,16 @@
     "source": "leuven_flea_markets"
   },
   {
-    "uid": "52234d9ba59218dc21decbdf5420a0f8cdd58981@citycalendar",
-    "title": "Klassisk sang",
+    "uid": "f462df998e0f1b2eeb7637747b0a399e8d3abb22@citycalendar",
+    "title": "Mandagskoncert - PB7talentscenen",
     "start": "2026-11-09T19:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202706",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202706",
-    "source": "odense_kultunaut_highlights"
+    "location": "PB7talentscenen",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20514960",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20514960",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "80e1d3a86e202946f593b05fc9b15447f4261371@citycalendar",
@@ -1581,6 +873,18 @@
     "location": "\u00d8sterbro Koncertforening",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20382710",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20382710",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "f780fe8960053838972bffee2e2e7a2faed44a90@citycalendar",
+    "title": "Signe Asmussen - 25 \u00e5rs jubil\u00e6umskoncert",
+    "start": "2026-11-09T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Koncertkirken, Bl\u00e5g\u00e5rds Plads",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20431868",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20431868",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -1596,33 +900,33 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "21aa7af3d4c221a0f2b334d06761422fedcd6b79@citycalendar",
-    "title": "Pr\u00e6debutkoncert orgel",
-    "start": "2026-11-10T00:00:00",
+    "uid": "9b5036cf1888942bedb501f77610fc0b51317021@citycalendar",
+    "title": "Tower visit and live carillon concert University Library",
+    "start": "2026-11-10T18:20:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
+    "url": "https://www.visitleuven.be/en/tower-visit-and-live-carillon-concert-university-library",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "b51dff9ab51c22c11ef0af53367ae9085912e4e8@citycalendar",
+    "title": "Schuberts Winterreise med Mathias Hedegaard og Tove L\u00f8nskov",
+    "start": "2026-11-10T19:30:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Odense Domkirke (Skt. Knuds Kirke)",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20274235",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20274235",
-    "source": "odense_kultunaut_highlights"
+    "location": "Metronomen",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20423659",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20423659",
+    "source": "copenhagen_kultunaut"
   },
   {
-    "uid": "1ed880c825bb331666593d60ec0413be4c7106cf@citycalendar",
-    "title": "Brahms' klavertrio nr. 3 - pro musica",
-    "start": "2026-11-10T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Pro Musica",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586377",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586377",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "uid": "438e12b76afcd83172e24273df844d16c50a477b@citycalendar",
+    "uid": "8b12bd7fa74cb50273160d1beaffbb9786fd518b@citycalendar",
     "title": "Salsa Flash Tropical Night",
-    "start": "2026-11-10T22:00:00",
+    "start": "2026-11-10T21:00:00",
     "end": null,
     "city": "leuven",
     "category": "event",
@@ -1642,6 +946,54 @@
     "description": "More info: https://www.visitleuven.be/en/leuven-jazz",
     "url": "https://www.visitleuven.be/en/leuven-jazz",
     "source": "leuven_calendar"
+  },
+  {
+    "uid": "7025a6dd400a0ff191dd6d3a8e5a9266a841fa76@citycalendar",
+    "title": "Herdenking Wapenstilstand",
+    "start": "2026-11-11T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "Op woensdag 11 november 2026 herdenkt de stad Wapenstilstand met plechtigheden.\n\nMore info: https://www.leuven.be/wapenstilstand",
+    "url": "https://www.leuven.be/wapenstilstand",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "d9c52d60a65044e9a2d8c1fbd941d6a9deda14c4@citycalendar",
+    "title": "Market in Kessel-Lo",
+    "start": "2026-11-11T14:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "Becker-Remyplein, 3010 Leuven (Kessel-Lo)",
+    "description": "More info: https://www.visitleuven.be/en/market-wednesday",
+    "url": "https://www.visitleuven.be/en/market-wednesday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "uid": "ed31d00fbbfbcd9c9b916486314a31ef0bcc66a7@citycalendar",
+    "title": "Free carillon concerts in Park Abbey",
+    "start": "2026-11-11T16:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Park Abbey",
+    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
+    "url": "https://www.visitleuven.be/en/free-carillon-concerts-park-abbey",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "6f12fd92be6218563b86563f4794eab62e22f31d@citycalendar",
+    "title": "Unge Talenter // Kammermusikforeningen af 1911",
+    "start": "2026-11-11T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Garnisonskirken",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19772220",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19772220",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "dd376203ee5984e6b66bcc74a33d66e74d1acb9e@citycalendar",
@@ -1668,16 +1020,64 @@
     "source": "copenhagen_flea_markets"
   },
   {
-    "uid": "1c5f188f0e94922bc7322be69fe95e90d42c07ec@citycalendar",
-    "title": "Bachs m\u00e6gtige oratorier - Concerto Copenhagen",
-    "start": "2026-11-13T00:00:00",
+    "uid": "dcc99d8fde00b6914eede722a66d6278761922bd@citycalendar",
+    "title": "Klassisk & kolde \u00f8l",
+    "start": "2026-11-12T00:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Holmens Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20338077",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20338077",
+    "location": "Odense Koncerthus",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586345",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586345",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "7ecafd7958687515a580a67744a95f58f2ebc7c8@citycalendar",
+    "title": "Guided tour: Brewery Stella Artois",
+    "start": "2026-11-12T11:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Brouwerij Stella Artois \u2022 Aarschotsesteenweg 20, 3000 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
+    "url": "https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "7ccba0a8bae8aa141cc0c9792b4d50917ef73d3f@citycalendar",
+    "title": "Market in city centre",
+    "start": "2026-11-12T13:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "Brusselsestraat, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-thursday",
+    "url": "https://www.visitleuven.be/en/market-thursday",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "uid": "dc6371cde827ccce806c638a4f3218ac8f0fc9f9@citycalendar",
+    "title": "SWINGERIET",
+    "start": "2026-11-12T18:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Restaurant Kareten",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=18418618",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=18418618",
     "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "c0e5cafeedabdd8eec3f6c8642a5da5553800f73@citycalendar",
+    "title": "Open Dance Floor",
+    "start": "2026-11-12T20:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Various locations",
+    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
+    "url": "https://www.visitleuven.be/en/open-dance-floor",
+    "source": "leuven_calendar"
   },
   {
     "uid": "44caa9b12aea2dd76a3886c2d0dfe21b898e76ab@citycalendar",
@@ -1689,6 +1089,30 @@
     "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20047607",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20047607",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "4d4466be23a7896c39758e74e019a72019aa1474@citycalendar",
+    "title": "Oratorier af J. S. Bach - Fra graven til stjernen over Betlehem",
+    "start": "2026-11-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Holmens Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20375114",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20375114",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "6ac715ce82a4dfdc88c778fc4e22a6cac6292c93@citycalendar",
+    "title": "Afrobeat Madness",
+    "start": "2026-11-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "H15 Studio",
+    "description": "Verdensmusik/Latin\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20342965",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20342965",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -1704,16 +1128,100 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "uid": "a46a6e6922d928f86fd6112cc401ca22d5d09817@citycalendar",
-    "title": "Jan Harbeck Kvartet",
-    "start": "2026-11-13T15:30:00",
+    "uid": "a1024e641a4ce8721bb77e2107939a7ffa5a6205@citycalendar",
+    "title": "The Orgelheimers - surf, beats, grooves, jazz & soul - FEST!",
+    "start": "2026-11-13T00:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Jazzcup",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20192946",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20192946",
+    "location": "Bartof Station",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20386784",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20386784",
     "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "2a13c7d654f710f5d48354c4b5ab74a30fabe9b9@citycalendar",
+    "title": "Grarup All Stars",
+    "start": "2026-11-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "M\u00f8decenter Odense",
+    "description": "Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428463",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428463",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "984c12bd7bda614db92b7eaf71f4d540cbaec7e4@citycalendar",
+    "title": "Market in city centre of Leuven",
+    "start": "2026-11-13T07:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "Ladeuzeplein en Hooverplein, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-friday",
+    "url": "https://www.visitleuven.be/en/market-friday",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "efdc64fcb60385cedec7f7ac06d614d597d17b08@citycalendar",
+    "title": "Free carillon concerts on Grote Markt",
+    "start": "2026-11-13T12:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Grote Markt, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
+    "url": "https://www.visitleuven.be/en/free-carillon-concerts-grote-markt",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "9e19b74471a9e1f86b9a69a70d200fe4cb9c4537@citycalendar",
+    "title": "Beer and chocolate tasting",
+    "start": "2026-11-13T16:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/beer-and-chocolate-tasting",
+    "url": "https://www.visitleuven.be/en/beer-and-chocolate-tasting",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "db26e44d0975c982e7af3a02ba6cacf0f3a75836@citycalendar",
+    "title": "Killer queeen i bolbro hallen",
+    "start": "2026-11-13T17:40:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Bolbro Hallen",
+    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20031499",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20031499",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "4d635fe119114222c17a62e27b65be8b30dbbca9@citycalendar",
+    "title": "Walk: Leuven on tap",
+    "start": "2026-11-13T19:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Leuven Leisure, Boekhandelstraat 1, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-leuven-tap",
+    "url": "https://www.visitleuven.be/en/walk-leuven-tap",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "e6fc57e4081f67bd65ae55352d909f18822f8ac1@citycalendar",
+    "title": "Shubberne // Gratis koncert",
+    "start": "2026-11-13T20:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Storms Pakhus",
+    "description": "Dansktop/Underholdning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428300",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428300",
+    "source": "odense_kultunaut_highlights"
   },
   {
     "uid": "05e7f71be9269c42f4a6a404f0e4ac32408449f4@citycalendar",
@@ -1740,16 +1248,52 @@
     "source": "copenhagen_flea_markets"
   },
   {
-    "uid": "6f3b892c99e4f51acb3e02c184094a218540d9f9@citycalendar",
-    "title": "Frank Hammersh\u00f8j og Malene Hammersh\u00f8j",
+    "uid": "346f822815b91462c154e997c7dcbcb77f28701d@citycalendar",
+    "title": "Efter\u00e5rets T\u00f8jbyttemarked",
     "start": "2026-11-14T00:00:00",
     "end": null,
     "city": "copenhagen",
-    "category": "exhibition",
-    "location": "Gallerie Rasmus",
-    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20448735",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20448735",
+    "category": "flea_market",
+    "location": "Sydhavnens Genbrugscenter",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517751",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517751",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "6fad11aaf7abe634212de27507f4c19eaf1bcb5d@citycalendar",
+    "title": "Vinter- og Julemarked i Metodistkirken i Odense",
+    "start": "2026-11-14T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Metodistkirken i Odense",
+    "description": "Byfest/Torvedag/Festival\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20480920",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20480920",
     "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "8deb7e568a6ea26740aa2604a27b200603a22ac2@citycalendar",
+    "title": "Folkeklubben & Danmarks Underholdningsorkester | efter\u00e5r 2026",
+    "start": "2026-11-14T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Odense Koncerthus",
+    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20163017",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20163017",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "e6e02ce3fe3f2dd64d5c51caef6cd96ee6d9396a@citycalendar",
+    "title": "Market in city centre of Leuven",
+    "start": "2026-11-14T09:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/market-saturday",
+    "url": "https://www.visitleuven.be/en/market-saturday",
+    "source": "leuven_flea_markets"
   },
   {
     "uid": "cada57b0b9dcbfd262e0f44c567698b156960664@citycalendar",
@@ -1764,16 +1308,64 @@
     "source": "copenhagen_fleamarket_guide"
   },
   {
-    "uid": "16ce90da19d67a4ce3bbfb8ab754d3dd0538eb32@citycalendar",
-    "title": "Loppemarked I Remisen",
-    "start": "2026-11-14T10:00:00+01:00",
-    "end": "2026-11-15T16:00:00+01:00",
+    "uid": "013609fcdfec96168e73a0723a71a8b326f9bf80@citycalendar",
+    "title": "Walk: Six centuries of the university in Leuven",
+    "start": "2026-11-14T10:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Universiteitshal, Naamsestraat 22, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/rondleiding-universiteit",
+    "url": "https://www.visitleuven.be/en/rondleiding-universiteit",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "0172af1e3d645e329b9114cbef191bc6d43ac204@citycalendar",
+    "title": "K\u00f8benhavns Loppetorv",
+    "start": "2026-11-14T11:00:00+01:00",
+    "end": "2026-11-14T16:00:00+01:00",
     "city": "copenhagen",
     "category": "flea_market",
-    "location": "Blegdamsvej 132, 2100 Kbh \u00d8, Blegdamsvej 132, 2100 Kbh \u00d8",
-    "description": "Sams Loppemarked i Remisen. Flotte ting og sager, antik, t\u00f8j, nips, smykker, cykler, lp\u2019er, og meget meget mere!\nCafe og pr\u00f8verum\nFor k\u00f8b af stand, mail til: remisen.marked@yahoo.dk",
-    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-remisen-2/",
+    "location": "Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn, Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn",
+    "description": "K\u00f8benhavns Loppetorv er et fast traditionelt loppemarked hver\u00a0l\u00f8rdag\n \n\u2013 et m\u00f8dested for mennesker og ting, t\u00f8j og andet godt.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/2026-11-14/",
     "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "4b5544d839edead891fe1c9d5a7c82cbf3e8291a@citycalendar",
+    "title": "Guided tour: Brewery de Coureur",
+    "start": "2026-11-14T13:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Brouwerij de Coureur \u2022 Borstelsstraat 20/1, 3010 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
+    "url": "https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "2cd0dff19bedde17419a58fd87e5790926559e04@citycalendar",
+    "title": "Astrid Engberg",
+    "start": "2026-11-14T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Teater Momentum",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20248912",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20248912",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "a2ade7d29350477062c80310326596ae799954fc@citycalendar",
+    "title": "\u00d8sterbro Jazzklub/ Chris Tanners Rifftet",
+    "start": "2026-11-14T20:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kildev\u00e6ld Kulturcenter",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20457229",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20457229",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "4ce6fcd109b8b3a6cec1868ebdcf66ffd2178225@citycalendar",
@@ -1812,6 +1404,18 @@
     "source": "leuven_be_agenda"
   },
   {
+    "uid": "9366481fab09489876af0092c7265bc94458c692@citycalendar",
+    "title": "Mette Juul trio",
+    "start": "2026-11-15T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Nathanaels Kirke  og sogneg\u00e5rd",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20137543",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20137543",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "e26e1c56c45f69bd3220fc53bff389e73d6e7f94@citycalendar",
     "title": "Sams Loppemarked i Remisen",
     "start": "2026-11-15T00:00:00",
@@ -1821,6 +1425,18 @@
     "location": "Remisen",
     "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19725818",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19725818",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "55ea66c1aaef27c9c4ddd68e7dfd63b7e95eca9f@citycalendar",
+    "title": "Gorms bogbytte",
+    "start": "2026-11-15T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Herlev Bibliotek",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20310299",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20310299",
     "source": "copenhagen_flea_markets"
   },
   {
@@ -1836,6 +1452,42 @@
     "source": "copenhagen_flea_markets"
   },
   {
+    "uid": "fdfe4a632f9ca86e7aae9be1a9541a2b77d55778@citycalendar",
+    "title": "Bogsalg p\u00e5 Hovedbiblioteket",
+    "start": "2026-11-15T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "K\u00f8benhavns Hovedbibliotek",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20510382",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20510382",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "37117adfe6533a9dfad788c20671616b8c263c2a@citycalendar",
+    "title": "Indend\u00f8rs loppemarked",
+    "start": "2026-11-15T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Vesterbro Ungdomsg\u00e5rd",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517778",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517778",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "b54a3eab30f00dcd82a8462909637154d0bb8582@citycalendar",
+    "title": "Loppemarked I Remisen",
+    "start": "2026-11-15T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Remisen",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20521734",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20521734",
+    "source": "copenhagen_flea_markets"
+  },
+  {
     "uid": "9e108bde22b131f7c1f4c823974c4e1b505397af@citycalendar",
     "title": "Basar og loppetorv 2.dag \u00e5bner kl. 11 efter H\u00f8jmessen",
     "start": "2026-11-15T00:00:00",
@@ -1848,6 +1500,18 @@
     "source": "copenhagen_flea_markets"
   },
   {
+    "uid": "a10f2d4fd547c06f1d6422fc6ea15554821f7694@citycalendar",
+    "title": "Market in Heverlee",
+    "start": "2026-11-15T08:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
+    "source": "leuven_flea_markets"
+  },
+  {
     "uid": "0b6ba0f3eb7741cd22ae82ac0834e50d7ba01f57@citycalendar",
     "title": "Veras Market under Buen 2026",
     "start": "2026-11-15T10:00:00+01:00",
@@ -1858,6 +1522,42 @@
     "description": "Join os til Danmarks st\u00f8rste genbrugst\u00f8jmarked af en loppefest hver s\u00f8ndag, n\u00e5r Veras Market samler de flotteste loppe hoveder, som sammen sikrer at brugt t\u00f8j f\u00e5r nyt liv \u00a0\nENGLISH BELOWTil Veras Market under Buen kan du hver s\u00f8ndag snuppe spr\u00f8dt brugt kluns til gavn for milj\u00f8et fra 80 private stande og fra Veras egen stand, hvor der altid er 1 for 40,- og 4 for 100,-Tjen selv monetos p\u00e5 dit brugte t\u00f8j og giv det nyt liv med en stand, hvor du kan leje bord, t\u00f8jstativ og b\u00f8jler af Veras\u00a0\u00a0Du finder mere info lige her:\u00a0https://verasvintage.dk/market/koebenhavn/Vi gl\u00e6der os helt vildt til at se jeres flotte hoveder til en farverig s\u00f8ndagsloppefest under Buen!\u00a0\nK\u00e6rligst,Damerne bag Veras\n\u2060 BLIV STANDHOLDER\u00a0\u2060Veras Market er landets nemmeste t\u00f8jmarked, hvor du er sikret v\u00e6rdi for ALT dit kluns. Lej t\u00f8jstativ m. b\u00f8jler og borde af os \u2013 og hvis du har lyst, s\u00e5 kan du endda aflevere dit overskydende t\u00f8j til os efter markedet, hvor vi som tak kvitterer med et gavekort p\u00e5 100,- til Veras webshop eller butik i Studiestr\u00e6de 27, Kbh. Nemt, ik?Tjen penge p\u00e5 dit aflagte kluns, mens du har en fest! S\u00e6lg lige hvad du lyster, s\u00e5 l\u00e6nge det er egne brugte varer indenfor kategorierne t\u00f8j, accessories og sko.Book din stand og t\u00f8jstativer\u00a0\u00a0verasvintage.dk/market/koebenhavn\n\u00a0FOR BES\u00d8GENDE\u00a0Veras Market byder altid p\u00e5 tonsvis af unikke brugte skatte, og du kan finde alt fra trendy highstreet, unikke vintagesager til flotte m\u00e6rkevarer.\u2022 Der er altid gratis adgang til Veras Market under Buen\u2022 Der er fri adgang til toiletter\u2022 De fleste standholdere tager imod MobilePay og kontanter\u2022 I Veras stand tager vi imod kort, kontanter og MobilePay\nVERAS STAND\u00a0ALT 40,- // 4 items for 100,-BYT DIT T\u00d8J TIL NYTIndlev\u00e9r dit t\u00f8j p\u00e5 markedet (maks. 5 stykker t\u00f8j per kunde) og f\u00e5 50% p\u00e5 alt nyt, brugt t\u00f8j i Veras:1. Aflev\u00e9r dit t\u00f8j (maks. 5 styk) til os i Veras stand2. F\u00e5 straks rabatpoint udbetalt, ca. 50% af vores salgspris3. Rabatpointene gir\u2019 dig op til 50% p\u00e5 alt nyt, brugt t\u00f8j fra VerasVi tager imod alt damet\u00f8j, som er rentvasket og uden huller, pletter og slitage. Vi gl\u00e6der os til at se dig og dit kluns, s\u00e5 vi sammen cirkulerer alt brugt t\u00f8j og bek\u00e6mper t\u00f8jspild\u00a0\n\u00a0OM VERAS\u00a0I Veras er det nemt at forny din garderobe b\u00e6redygtigt og skille dig af med dit brugte t\u00f8j uden at skabe t\u00f8jspild. Veras er skabt ud fra en cirkul\u00e6r forretningsmodel med flere platforme, hvor alt t\u00f8j finder sin plads og dermed f\u00e5r nyt liv. Hos Veras kan du bytte, shoppe og s\u00e6lge brugt t\u00f8j \u2013 og d\u00e9t, der er hullet eller slidt, reparerer og upcycler vi for dig.\nAlt t\u00f8j i Veras kommer fra lokale danske garderober. Vi indk\u00f8ber ikke noget t\u00f8j \u2013 og intet t\u00f8j g\u00e5r til spilde. Vi hacker den etablerede t\u00f8jindustri og g\u00f8r et line\u00e6rt systemet cirkul\u00e6rt. S\u00e5dan n\u00e5r vi vores vision om at bek\u00e6mpe t\u00f8jspild og give alt t\u00f8j nyt liv. Det mest b\u00e6redygtige er at cirkulere t\u00f8jet \u2013 pr\u00e6cis som det er.Bes\u00f8g vores brugte univers\u00a0\u00a0verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 10-15 is transformed into your favorite secondhand market \u2013 with clothes and accessories for both women and men. Whether you\u2019re into high street scoops, exclusive luxury, or hidden vintage treasures, Veras Market is for you! With more than 80 stalls and of course the famous Veras vibe this is the perfect place to spend your Sunday. There is always free entrance to the market.Remember to check out Veras shop where you can get item for 40,- and 4 items for 100,-. Here you can also hand in your own clothes, from which you receive points to use in Veras stall and Veras shop.We can\u2019t wait to get our secondhand Sunday groove on with all of you!\ufffcBECOME A STALLHOLDER\ufffcBook a stall on one of Copenhagens most popular secondhand clothing markets. You can sell used items within the categories of clothing, accessories, and shoes for women and men. Book your stall:\u00a0www.verasvintage.dk/koebenhavnA stall 2\u00d73 m: 465 DKKRent a dress rail incl. 50 hangers for your stall: 250 DKK\u2022 All stalls are allocated on a first come first served basis\u2022 You can share your stall with one other friend\u2022 You can bring your own dress rail(s) as long as you don\u2019t have more than two in total.\u2022 You can bring your own table, but there is a table included in every stall\u2022 Check-in is between 8:30-09.00 AMVeras accept all left-over clothes that you didn\u2019t get to sell after each market. In exchange we give you 100 DKK (a minimum of 1 regular bag) which you can use in our stores or online at\u00a0verasvintage.dk\ufffcABOUT VERASVeras secondhand universe helps you to always get value for your old clothes. Veras gives you the opportunity to get a whole new wardrobe without hurting the environment or your finances in 2 simple ways:\u2022 Swap to new: Receive points in return for your old clothes \u2013 no matter the quality, brand, or style of the clothes. With the points you can buy new secondhand clothes in our shops or on\u00a0verasvintage.dk\u2022 Sell your clothes with at stall at Veras Market. We\u2019ll make sure you get a table, dress rail and hangers, so all you need to take care of is having a fun day with your friends!",
     "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/veras-market-under-buen-2026/2026-11-15/",
     "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "8ae310d6b7ffd310bcae92bf23e6cc3117f4682a@citycalendar",
+    "title": "Loppemarked I Remisen",
+    "start": "2026-11-15T10:00:00+01:00",
+    "end": "2026-11-15T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Blegdamsvej 132, 2100 Kbh \u00d8, Blegdamsvej 132, 2100 Kbh \u00d8",
+    "description": "Sams Loppemarked i Remisen. Flotte ting og sager, antik, t\u00f8j, nips, smykker, cykler, lp\u2019er, og meget meget mere!\nCafe og pr\u00f8verum\nFor k\u00f8b af stand, mail til: remisen.marked@yahoo.dk",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-remisen-2/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "b62e28de9cd31e1f3ffcbe471e383f90abfdb205@citycalendar",
+    "title": "Guided tour: Arenberg Castle",
+    "start": "2026-11-15T10:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Arenbergkasteel \u2022 Kasteelpark Arenberg 1, 3001 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-arenberg-castle",
+    "url": "https://www.visitleuven.be/en/guided-tour-arenberg-castle",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "3107532a1f33b4ff54a3a3086de6bf43e6b3aab6@citycalendar",
+    "title": "Guided tour: Adept Brewery",
+    "start": "2026-11-15T11:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "De Smederij",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
+    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
+    "source": "leuven_calendar"
   },
   {
     "uid": "e192295a87c347f042f373b40c5c23fb51983487@citycalendar",
@@ -1884,16 +1584,40 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "b09799cb28a62b98b32d370ef462c6c4a0030933@citycalendar",
-    "title": "Leonkoro String Quartet",
-    "start": "2026-11-15T20:00:00",
+    "uid": "d3c9cca544a185635d8e6adf895d6231ee5d6252@citycalendar",
+    "title": "Duruffl\u00e9s requiem",
+    "start": "2026-11-15T16:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Mogens Dahl Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20328203",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20328203",
+    "location": "Jesuskirken",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20016430",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20016430",
     "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "731227202478434b0995f01ba19735b9b3815d9b@citycalendar",
+    "title": "Efter\u00e5rskoncert med kor, strygere, klaver og orgel",
+    "start": "2026-11-15T16:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Sct. Thomas kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20457225",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20457225",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "7eea7819c68366da348718ac3d458afda942de34@citycalendar",
+    "title": "Jazz on Sunday",
+    "start": "2026-11-15T21:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/jazz-sunday",
+    "url": "https://www.visitleuven.be/en/jazz-sunday",
+    "source": "leuven_calendar"
   },
   {
     "uid": "73be2a6fa86722f8884df39204a08075917189f2@citycalendar",
@@ -1920,8 +1644,8 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "55a856be6cb7eadda3ef9111197446dae4d22536@citycalendar",
-    "title": "Seniorenbalexternal link",
+    "uid": "a67bffeaf728280120ed121634c4c2ff2e5a073e@citycalendar",
+    "title": "Seniorenbal (volzet)external link",
     "start": "2026-11-17T00:00:00",
     "end": null,
     "city": "leuven",
@@ -1929,6 +1653,18 @@
     "location": "",
     "description": "We toveren de foyer van 30CC/Schouwburg om tot dansvloer! DJ Eddy staat achter de draaitafel. Voor een wals of de vogeltjesdans: welkom!\n\nMore info: https://www.leuven.be/seniorenbal",
     "url": "https://www.leuven.be/seniorenbal",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "54f01da5ac385219bc390e9335635014ab02ae51@citycalendar",
+    "title": "Infopunt vrijwilligerswerk",
+    "start": "2026-11-17T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "Hoe moet je de zoektocht naar vrijwilligerswerk starten? Krijg antwoord op je vragen over vrijwilligerswerk.\n\nMore info: https://www.leuven.be/infopunt-vrijwilliger",
+    "url": "https://www.leuven.be/infopunt-vrijwilliger",
     "source": "leuven_be_agenda"
   },
   {
@@ -1980,6 +1716,30 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "d1d4f499c252843185ed271e41c448e22183e85c@citycalendar",
+    "title": "Free carillon concerts in Great Beguinage",
+    "start": "2026-11-18T19:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Groot Begijnhof, Schapenstraat, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
+    "url": "https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "cef5b1078ce6df1833bd02e58311ee7de51d4067@citycalendar",
+    "title": "Andreas Brantelid og Christian Ihle Hadland",
+    "start": "2026-11-18T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kulturhuset Galaksen",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19241956",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19241956",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "bcee75d436d53f3e35e6039f60dc09d4c15c6ba0@citycalendar",
     "title": "Playground Festival",
     "start": "2026-11-19T00:00:00",
@@ -2028,6 +1788,18 @@
     "source": "copenhagen_flea_markets"
   },
   {
+    "uid": "c30dca7a2e088006f0c4f0be5f71f100ee4434d2@citycalendar",
+    "title": "Tentoonstelling 'Onze kinderen, onze levensstijl: Work in Progress'",
+    "start": "2026-11-20T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "exhibition",
+    "location": "",
+    "description": "De tentoonstelling laat je nadenken over het leven van kinderen die geen kind kunnen zijn. 20 kindergezichten in klei vertellen elk een eigen verhaal.\n\nMore info: https://www.leuven.be/work-in-progress",
+    "url": "https://www.leuven.be/work-in-progress",
+    "source": "leuven_be_agenda"
+  },
+  {
     "uid": "4c30fe42a365501f76bb9e088aa25d04d294897d@citycalendar",
     "title": "Documentaire 'Mama, mag ik naar huis toe?'external link",
     "start": "2026-11-20T00:00:00",
@@ -2052,27 +1824,15 @@
     "source": "copenhagen_fleamarket_guide"
   },
   {
-    "uid": "c3c96c7a8b5407165ee9d42ceaf8d44fb6aa4ed6@citycalendar",
-    "title": "Konservatoriets Efter\u00e5rsfestival 2026",
-    "start": "2026-11-20T19:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202708",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202708",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "uid": "2214db992f8ddd55f0dbdb59ee92be0981ec9245@citycalendar",
-    "title": "Monteverdis Mariavesper",
+    "uid": "a65d9a0ac62fab6aa8155f27412f0c4127dae61c@citycalendar",
+    "title": "Different trains - Akela hos \u00d8sterbro Koncertforening",
     "start": "2026-11-20T19:30:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Trinitatis Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20194769",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20194769",
+    "location": "\u00d8sterbro Koncertforening",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20382711",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20382711",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -2100,6 +1860,18 @@
     "source": "leuven_be_agenda"
   },
   {
+    "uid": "42cccbee1efc5eb89b2db8a0370cdab44cb39ebe@citycalendar",
+    "title": "J.S. Bach: H-mol Messe med Copenhagen Soloists",
+    "start": "2026-11-21T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Holmens Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19865747",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19865747",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "71c29a6a14e14a96717e1a55139b486396eb68f2@citycalendar",
     "title": "Byttemarked",
     "start": "2026-11-21T00:00:00",
@@ -2110,6 +1882,42 @@
     "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20495528",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20495528",
     "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "149809d596f6a290518e31e774c0e1e02efc0402@citycalendar",
+    "title": "Loppemarked - Amager Selvskabslokaler",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": "2026-11-21T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Amager Selvskabslokaler, Amager Selvskabslokaler",
+    "description": "",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-amager-selvskabslokaler/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "a42ab2e99dd67a84019872d1cda5f90d8c337b1b@citycalendar",
+    "title": "Loppemarked i Amager Selskabslokaler",
+    "start": "2026-11-21T10:00:00+01:00",
+    "end": "2026-11-21T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Markmandsgade 9-11, Copenhagen, Markmandsgade 9",
+    "description": "Kom til Amagers hyggeligste loppemarked i Amager selskabslokaler i Markmandsgade. Gratis entr\u00e9. Fine boder og god stemning.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-amager-selskabslokaler/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "de6d4fb7d3cef0b12a76daff68e84406e0d05cae@citycalendar",
+    "title": "K\u00f8benhavns Loppetorv",
+    "start": "2026-11-21T11:00:00+01:00",
+    "end": "2026-11-21T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn, Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn",
+    "description": "K\u00f8benhavns Loppetorv er et fast traditionelt loppemarked hver\u00a0l\u00f8rdag\n \n\u2013 et m\u00f8dested for mennesker og ting, t\u00f8j og andet godt.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/2026-11-21/",
+    "source": "copenhagen_fleamarket_guide"
   },
   {
     "uid": "7c73ef994079dd75e71c2af607219559010bcab5@citycalendar",
@@ -2124,15 +1932,15 @@
     "source": "brussels_flea_markets"
   },
   {
-    "uid": "25d1345ed54cfb95e6f9a85ab393df3b58229b8c@citycalendar",
-    "title": "Bach - H-mol Messe",
-    "start": "2026-11-21T16:00:00",
+    "uid": "406137bd5a82638229d42c22336bb0dfe37b5bd3@citycalendar",
+    "title": "SURKOV - Manden der skabte Putin",
+    "start": "2026-11-21T19:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Holmens Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19388316",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19388316",
+    "location": "Teatret ved Sorte Hest",
+    "description": "Skuespil\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20468945",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20468945",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -2148,16 +1956,40 @@
     "source": "leuven_be_agenda"
   },
   {
-    "uid": "2155faf3e941e48fa94142fb36ce5d9be1ad95d3@citycalendar",
-    "title": "CirkusS\u00f8ndag",
+    "uid": "d768bec4726b2c708185c115c0fc3fa527677178@citycalendar",
+    "title": "Danmarks Underholdningsorkester: D\u00f8dens Toner - Brahms Requiem",
     "start": "2026-11-22T00:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Cirkusmuseet i Hvidovre",
-    "description": "For b\u00f8rn\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719656",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19719656",
+    "location": "Det Kgl. Danske Musikkonservatorium, Konservatoriets Koncertsal",
+    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997521",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19997521",
     "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "666b70df2117814a5766502658df4b930daaf519@citycalendar",
+    "title": "Festkoncert med Frederiksberg Salonorkester",
+    "start": "2026-11-22T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Metronomen",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20340839",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20340839",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "0c6aa4ed6eeab235ce1a1f1a0831949a71e37394@citycalendar",
+    "title": "Byttemarked i Teatersalen 2026",
+    "start": "2026-11-22T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Valby Kulturhus",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517761",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517761",
+    "source": "copenhagen_flea_markets"
   },
   {
     "uid": "baed66ae550f6355be347a09f9cdc1c77c392980@citycalendar",
@@ -2268,6 +2100,18 @@
     "source": "leuven_be_agenda"
   },
   {
+    "uid": "d467602ddde1225220d2ad5ea1d6f51578fcd721@citycalendar",
+    "title": "Koncert med C\u00e6cilia Kvartet",
+    "start": "2026-11-24T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "MUSIKiKANTEN",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196216",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196216",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
     "uid": "e83854148f73e77082925a963724b5a9d754fd89@citycalendar",
     "title": "Torsdagsmarked p\u00e5 torvet",
     "start": "2026-11-26T00:00:00",
@@ -2304,6 +2148,30 @@
     "source": "leuven_flea_markets"
   },
   {
+    "uid": "2af8e95b626bfd2bc159229e28587b3024328cff@citycalendar",
+    "title": "Stjernekoncert - en hyldest til Alexandre Zapolski",
+    "start": "2026-11-28T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Det Kongelige Bibliotek/Den Sorte Diamant",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20415300",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20415300",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "f9625938a60e4c82857308ca497e14e112a4882b@citycalendar",
+    "title": "K\u00f8benhavns Loppetorv",
+    "start": "2026-11-28T11:00:00+01:00",
+    "end": "2026-11-28T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn, Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn",
+    "description": "K\u00f8benhavns Loppetorv er et fast traditionelt loppemarked hver\u00a0l\u00f8rdag\n \n\u2013 et m\u00f8dested for mennesker og ting, t\u00f8j og andet godt.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/2026-11-28/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
     "uid": "40c5b33579fc81648e8ca358cd9f6d84e286d46c@citycalendar",
     "title": "WEGGEEF IN DE HAL",
     "start": "2026-11-28T13:00:00",
@@ -2316,16 +2184,16 @@
     "source": "leuven_fleamarket_guide"
   },
   {
-    "uid": "8f91d49319e55c7f4aa36b38b6efc32564875761@citycalendar",
-    "title": "Cello Fest 2026",
+    "uid": "c8eb39d4f63778039c276bc5b6ca4e0bd3198b9c@citycalendar",
+    "title": "Walk with beer tasting",
     "start": "2026-11-28T14:00:00",
     "end": null,
-    "city": "copenhagen",
+    "city": "leuven",
     "category": "event",
-    "location": "Metronomen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378562",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378562",
-    "source": "copenhagen_kultunaut"
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-beer-tasting",
+    "url": "https://www.visitleuven.be/en/walk-beer-tasting",
+    "source": "leuven_calendar"
   },
   {
     "uid": "f4cd451e4a560042f945ddb1c330513a74fc4e02@citycalendar",
@@ -2337,6 +2205,18 @@
     "location": "Lydbr\u00f8ndene",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472528",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472528",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "e27fa088343394e5eb7b4f2a655f0176d2deee7c@citycalendar",
+    "title": "\u00c6TLA. Adventsmusik 1",
+    "start": "2026-11-29T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Sankt Johannes Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902330",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19902330",
     "source": "copenhagen_kultunaut"
   },
   {
@@ -2352,18 +2232,6 @@
     "source": "copenhagen_fleamarket_guide"
   },
   {
-    "uid": "82b592869581a3b900aa606f1cb198e08925272b@citycalendar",
-    "title": "Jazz Medley med efter\u00e5rstema",
-    "start": "2026-11-29T15:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Lydbr\u00f8ndene",
-    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472527",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472527",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "uid": "d808b4c7c48468a37d5828144fb9eea70662547b@citycalendar",
     "title": "Seniorenmaandexternal link",
     "start": "2026-11-30T00:00:00",
@@ -2376,18 +2244,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "uid": "f2df90c46bd786c2348f9b7fbe23fcf73f3af4e6@citycalendar",
-    "title": "Bjarke Mogensen spiller Domenico Scarlatti sonater",
-    "start": "2026-11-30T07:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Lydbr\u00f8ndene",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472526",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472526",
-    "source": "copenhagen_kultunaut"
-  },
-  {
     "uid": "b9f1c0105db8fcd1324ecc5a54ef29ee45f06829@citycalendar",
     "title": "Remembrance ritual: Infinite Dances",
     "start": "2026-11-30T16:45:00",
@@ -2397,6 +2253,30 @@
     "location": "Martelarenplein, Leuven",
     "description": "More info: https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
     "url": "https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "62eec0c8e2ce27b48f1b90cbcd75780b2b572fa2@citycalendar",
+    "title": "Bachs Juleoratorium i Helligaandskirken",
+    "start": "2026-12-02T19:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Helligaandskirken",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445569",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445569",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "a6d55473cb54b0b0b5aa96c221041ace1ac65fbc@citycalendar",
+    "title": "Concert: Open Mic night",
+    "start": "2026-12-02T20:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Het Depot, Martelarenplein 12, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/concert-open-mic-night",
+    "url": "https://www.visitleuven.be/en/concert-open-mic-night",
     "source": "leuven_calendar"
   },
   {
@@ -2412,6 +2292,18 @@
     "source": "leuven_flea_markets"
   },
   {
+    "uid": "90ab9d152d8fdd0d8332ea69c213dacacf6eacdc@citycalendar",
+    "title": "Sofagesprek 'Leven met ADHD' (volzet)",
+    "start": "2026-12-03T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
+    "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
     "uid": "a42e5f53e0e05f7e76ead0a1c029ce85f29f5402@citycalendar",
     "title": "Torsdagsmarked p\u00e5 torvet",
     "start": "2026-12-03T00:00:00",
@@ -2424,28 +2316,76 @@
     "source": "copenhagen_flea_markets"
   },
   {
-    "uid": "bd707626b5ee9df1947cafd1806af31aa9a1329a@citycalendar",
-    "title": "H\u00e4ndels Messias i K\u00f8benhavns Domkirke",
+    "uid": "b63d967ae404d4fc6f705562a184363d5436a664@citycalendar",
+    "title": "Evening visit to the university library",
+    "start": "2026-12-03T18:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/amazing-view",
+    "url": "https://www.visitleuven.be/en/amazing-view",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "cc4dd321a996a8fce7b25d9a3b72b67b0bc1c70c@citycalendar",
+    "title": "Bachs Juleoratorium i Helligaandskirken",
     "start": "2026-12-03T19:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Vor Frue Kirke - K\u00f8benhavns Domkirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20404600",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20404600",
+    "location": "Helligaandskirken",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445572",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445572",
     "source": "copenhagen_kultunaut"
   },
   {
-    "uid": "060f1466cd65702542c216d5b23c609dffb3c69b@citycalendar",
-    "title": "Musik i M\u00f8rket - H\u00e4ndels Messias",
+    "uid": "f522330cea4dafafd6cbae7be628642b547dd5bd@citycalendar",
+    "title": "Et barn er f\u00f8dt - Julekoncert med Theatre of Voices",
     "start": "2026-12-04T19:30:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
-    "location": "Sankt Hans Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560471",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560471",
-    "source": "odense_kultunaut_highlights"
+    "location": "Trinitatis Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20424211",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20424211",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "aaf2c5195be86488393b69a352482a82d9f77a05@citycalendar",
+    "title": "Eva jin p\u00e5 m\u00e5nen",
+    "start": "2026-12-04T19:30:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kulturium Musikteater",
+    "description": "Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20135531",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20135531",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "4cd826a2d4ca03c05720a7d0d04431971cabd964@citycalendar",
+    "title": "Peddersen og Findus: Jul hos Peddersen",
+    "start": "2026-12-05T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kulturium Musikteater",
+    "description": "B\u00f8rneteater\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19912957",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19912957",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "8a5a3cf26793e2ec75d29e5b44d339f9f2afe4f5@citycalendar",
+    "title": "Schnee",
+    "start": "2026-12-05T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Koncertkirken, Bl\u00e5g\u00e5rds Plads",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20307026",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20307026",
+    "source": "copenhagen_kultunaut"
   },
   {
     "uid": "661aef07c11d4827801a7f9cf1ffb23f88905cc5@citycalendar",
@@ -2472,8 +2412,32 @@
     "source": "copenhagen_fleamarket_guide"
   },
   {
-    "uid": "03ee10d4deb5b39ee40efaa7b38abfb6b1def5a5@citycalendar",
-    "title": "Expo: Folded Memory",
+    "uid": "f30a6566d8bdd25bdfcff90ee6c85ab24683ba86@citycalendar",
+    "title": "Guided tour: Holland College",
+    "start": "2026-12-05T10:30:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Hollands College \u2022 Pater Damiaanplein 9",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-holland-college",
+    "url": "https://www.visitleuven.be/en/guided-tour-holland-college",
+    "source": "leuven_calendar"
+  },
+  {
+    "uid": "3eaa760795a91b01421695dc1bbc5ba4f541d0bd@citycalendar",
+    "title": "K\u00f8benhavns Loppetorv",
+    "start": "2026-12-05T11:00:00+01:00",
+    "end": "2026-12-05T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn, Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn",
+    "description": "K\u00f8benhavns Loppetorv er et fast traditionelt loppemarked hver\u00a0l\u00f8rdag\n \n\u2013 et m\u00f8dested for mennesker og ting, t\u00f8j og andet godt.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/2026-12-05/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
+    "uid": "5fbda95ce72c1cb6e33a1807409f1a6d461bcb8a@citycalendar",
+    "title": "Expo 'Folded Memory'",
     "start": "2026-12-06T00:00:00",
     "end": null,
     "city": "leuven",
@@ -2482,6 +2446,18 @@
     "description": "Deze expo brengt historisch erfgoed en hedendaagse kunst samen rond thema's als verlies, herinnering, troost en verbondenheid.\n\nMore info: https://www.leuven.be/foldedmemory",
     "url": "https://www.leuven.be/foldedmemory",
     "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "551944bdc69a547b104d8bfc23c32caa4ac92469@citycalendar",
+    "title": "Juleloppemarked",
+    "start": "2026-12-06T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Restauranten, Drag\u00f8r Fort",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20514583",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20514583",
+    "source": "copenhagen_flea_markets"
   },
   {
     "uid": "67d6f7ec769ec6b83790856878da3084140ee186@citycalendar",
@@ -2520,6 +2496,18 @@
     "source": "leuven_flea_markets"
   },
   {
+    "uid": "9b29f562284cfb16188dfc740175e191d1af5edc@citycalendar",
+    "title": "Botanique Magique",
+    "start": "2026-12-08T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Kruidtuin \u2022 Kapucijnenvoer 30",
+    "description": "More info: https://www.visitleuven.be/en/botanique-magique",
+    "url": "https://www.visitleuven.be/en/botanique-magique",
+    "source": "leuven_calendar"
+  },
+  {
     "uid": "3fee5c58f602ed1600482eff0d5dc8529d795463@citycalendar",
     "title": "Botanique Magiqueexternal link",
     "start": "2026-12-08T00:00:00",
@@ -2544,39 +2532,27 @@
     "source": "copenhagen_kultunaut"
   },
   {
-    "uid": "5ead2be05cf31ea1178d7e30d5b749dff3c5eb0e@citycalendar",
-    "title": "Juleoratoriet med Bachkoret i Holmens Kirke",
-    "start": "2026-12-08T19:30:00",
+    "uid": "ec9f0065f9c0cf1e921df63c99904030e0ab4969@citycalendar",
+    "title": "Beiaardconcerten voor Leuven Mensenrechtenstad",
+    "start": "2026-12-09T00:00:00",
     "end": null,
-    "city": "copenhagen",
+    "city": "leuven",
     "category": "event",
-    "location": "Holmens Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20347706",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20347706",
-    "source": "copenhagen_kultunaut"
+    "location": "",
+    "description": "Beiaardier Luc Rombouts brengt concerten van hoop en solidariteit. Je hoort kinderliedjes uit verschillende delen van de wereld, afgewisseld met kerstliedjes.\n\nMore info: https://www.leuven.be/beiaardconcert",
+    "url": "https://www.leuven.be/beiaardconcert",
+    "source": "leuven_be_agenda"
   },
   {
-    "uid": "3aea9000a953b99ccc60b1db85055e4a34a26468@citycalendar",
-    "title": "Juleoratoriet i K\u00f8benhavns Domkirke",
-    "start": "2026-12-11T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Vor Frue Kirke - K\u00f8benhavns Domkirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19733958",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19733958",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "86f5d50827eb979bb75052252b1527efefddb696@citycalendar",
-    "title": "Infosessies \u2018Bouwfit renovatie\u2019",
+    "uid": "4ffc69155acbf727f9c5c710060669e4d4ef509f@citycalendar",
+    "title": "Infosessies \u2018Bouwfit renovatie\u2019 (volzet)",
     "start": "2026-12-12T00:00:00",
     "end": null,
     "city": "leuven",
     "category": "event",
     "location": "",
-    "description": "Tweedaagse cursus waarin je alles te weten komt over duurzaam en energiezuinig bouwen of verbouwen.\n\nMore info: https://www.leuven.be/infosessies-bouwfit-renovatie",
-    "url": "https://www.leuven.be/infosessies-bouwfit-renovatie",
+    "description": "Tweedaagse cursus waarin je alles te weten komt over duurzaam en energiezuinig bouwen of verbouwen.\n\nMore info: https://www.leuven.be/infosessies-bouwfit-renovatie-volzet",
+    "url": "https://www.leuven.be/infosessies-bouwfit-renovatie-volzet",
     "source": "leuven_be_agenda"
   },
   {
@@ -2592,28 +2568,28 @@
     "source": "leuven_be_agenda"
   },
   {
-    "uid": "512782ba93c784247c08527a43c00a18b783e2c6@citycalendar",
-    "title": "Juleoratoriet i K\u00f8benhavns Domkirke",
-    "start": "2026-12-12T00:00:00",
-    "end": null,
-    "city": "copenhagen",
-    "category": "event",
-    "location": "Vor Frue Kirke - K\u00f8benhavns Domkirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19734031",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19734031",
-    "source": "copenhagen_kultunaut"
-  },
-  {
-    "uid": "bed2be685d72b8f1eed331bb84394879257f211b@citycalendar",
-    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
+    "uid": "177c68583f600da8b3b551baba1e28b25356f262@citycalendar",
+    "title": "Jul p\u00e5 Tidens Samling - Traditionen Tro",
     "start": "2026-12-12T00:00:00",
     "end": null,
     "city": "copenhagen",
     "category": "event",
     "location": "Tidens Samling",
-    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378474",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378474",
     "source": "odense_kultunaut_highlights"
+  },
+  {
+    "uid": "f82d0cc2b911992eaade806dac3131d7a19a0beb@citycalendar",
+    "title": "K\u00f8benhavns Loppetorv",
+    "start": "2026-12-12T11:00:00+01:00",
+    "end": "2026-12-12T16:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn, Israels Plads, Linn\u00e9sgade 3, K\u00f8benhavn",
+    "description": "K\u00f8benhavns Loppetorv er et fast traditionelt loppemarked hver\u00a0l\u00f8rdag\n \n\u2013 et m\u00f8dested for mennesker og ting, t\u00f8j og andet godt.",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/2026-12-12/",
+    "source": "copenhagen_fleamarket_guide"
   },
   {
     "uid": "1902e79953de0d88a6bd4d343d40d979be63b32c@citycalendar",
@@ -2628,6 +2604,18 @@
     "source": "leuven_flea_markets"
   },
   {
+    "uid": "4798f0a1066cf5ad88c3b63c784a33962009e805@citycalendar",
+    "title": "G-sportinitiaties 'Sportprikkels'",
+    "start": "2026-12-13T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "Tijdens deze G-sportinitiaties leer je verschillende sporten kennen. Ontdek nieuwe sporten op maat.\n\nMore info: https://www.leuven.be/sportprikkels",
+    "url": "https://www.leuven.be/sportprikkels",
+    "source": "leuven_be_agenda"
+  },
+  {
     "uid": "0e4b964c7fa9117eee5cb5a3ba2342e8cb718011@citycalendar",
     "title": "Wereldlichtjesdag",
     "start": "2026-12-13T00:00:00",
@@ -2638,6 +2626,30 @@
     "description": "Elk jaar organiseren we Wereldlichtjesdag in de sterretjestuin. We herdenken dan de overleden kinderen met een kaarsje.\n\nMore info: https://www.leuven.be/wereldlichtjesdag",
     "url": "https://www.leuven.be/wereldlichtjesdag",
     "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "b6abbfecc2006d41a667c16e5ebbb18e6d0232b5@citycalendar",
+    "title": "Keramikmarked",
+    "start": "2026-12-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Folkehuset Absalon",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517771",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517771",
+    "source": "copenhagen_flea_markets"
+  },
+  {
+    "uid": "aa0dc9e06d0adb6bae35d317bffd310a900c327d@citycalendar",
+    "title": "Kunstjulemarked p\u00e5 Frederiksberg",
+    "start": "2026-12-13T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Fuglebakkevej 97",
+    "description": "Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20518484",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20518484",
+    "source": "copenhagen_flea_markets"
   },
   {
     "uid": "d2fc95e24f76deb3b3e1f2d87a919c32c6ef8559@citycalendar",
@@ -2688,6 +2700,18 @@
     "source": "leuven_be_agenda"
   },
   {
+    "uid": "f11a9e6aaf3fae463168dfb15237990f2781ffa1@citycalendar",
+    "title": "J.S. Bach: Magnificat og Juleoratoriet med Sokkelund Sangkor",
+    "start": "2026-12-18T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Garnisonskirken",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20098169",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20098169",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "ce17bfaca4311b999c3fe10be50d7401b19d4ff6@citycalendar",
     "title": "Workshop 'Weven met de draden van een Leuvense vlag'",
     "start": "2026-12-19T00:00:00",
@@ -2697,6 +2721,18 @@
     "location": "",
     "description": "Weef mee aan een collectief kunstwerk en voeg jouw draad toe aan het verhaal van Leuven.\n\nMore info: https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
     "url": "https://www.leuven.be/workshop-weven-met-de-draden-van-een-leuvense-vlag",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "uid": "7100dc514ea386cf6bc625f0724bcda2f3516e82@citycalendar",
+    "title": "Kerstmarktexternal link",
+    "start": "2026-12-20T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "flea_market",
+    "location": "",
+    "description": "Kom gezellig snuisteren tussen meer dan 120 kraampjes met geschenken, kerstspullen en handgemaakte producten.\n\nMore info: https://www.leuven.be/kerstmarkt",
+    "url": "https://www.leuven.be/kerstmarkt",
     "source": "leuven_be_agenda"
   },
   {
@@ -2784,6 +2820,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "aaeaaff089e30197d84cd3fda77f93740b914bfa@citycalendar",
+    "title": "Winterspeeltuinexternal link",
+    "start": "2026-12-30T00:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "",
+    "description": "In de kerstvakantie toveren we de Brabanthal opnieuw om tot een grote binnenspeeltuin. Van knutselen en bouwen tot klimmen en glijden: er valt van alles te beleven!\n\nMore info: https://www.leuven.be/winterspeeltuin",
+    "url": "https://www.leuven.be/winterspeeltuin",
+    "source": "leuven_be_agenda"
+  },
+  {
     "uid": "b64b563d7e0d67d5bd4ea52a0b3dc773413b035e@citycalendar",
     "title": "Leuven Countdown",
     "start": "2026-12-31T00:00:00",
@@ -2791,8 +2839,8 @@
     "city": "leuven",
     "category": "event",
     "location": "Groot Begijnhof, Schapenstraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/leuven-countdown-0",
-    "url": "https://www.visitleuven.be/en/leuven-countdown-0",
+    "description": "More info: https://www.visitleuven.be/en/leuven-countdown",
+    "url": "https://www.visitleuven.be/en/leuven-countdown",
     "source": "leuven_flea_markets"
   },
   {
@@ -2928,6 +2976,18 @@
     "source": "leuven_calendar"
   },
   {
+    "uid": "1cf24148de4adf9687515fbfeb2528489a8038b6@citycalendar",
+    "title": "Nytorv Loppemarked",
+    "start": "2027-02-28T08:00:00+01:00",
+    "end": "2027-02-28T18:00:00+01:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "location": "Nyytorv , 1650 Copenhagen, Denmark, Nyytorv , 1650 Copenhagen, Denmark",
+    "description": "\u00c5bnings dagen\nmedbring selv bord og stol eller t\u00f8jstativ\nmad og drikke, v\u00e5ben og levende dyr m\u00e5 ikke s\u00e6lges !\nBook f\u00f8r det er for sent der bliver rift om pladserne midt i k\u00f8benhavn",
+    "url": "https://oplevelser-i-koebenhavn.dk/begivenhed/nytorv-loppemarked/",
+    "source": "copenhagen_fleamarket_guide"
+  },
+  {
     "uid": "c74af9473139711c3d76f1960fea017eb8c44137@citycalendar",
     "title": "Skovriderkroens Vinter Loppemarked",
     "start": "2027-03-07T09:00:00+01:00",
@@ -2976,6 +3036,18 @@
     "source": "copenhagen_flea_markets"
   },
   {
+    "uid": "a303217ad736dfdd454d0fff6af407eba5576e13@citycalendar",
+    "title": "Guided tour: Arenberg Campus Library",
+    "start": "2027-03-20T11:00:00",
+    "end": null,
+    "city": "leuven",
+    "category": "event",
+    "location": "Campusbibliotheek Arenberg \u2022 Willem de Croylaan 6, 3001 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/agenda/campusbibliotheek",
+    "url": "https://www.visitleuven.be/en/agenda/campusbibliotheek",
+    "source": "leuven_calendar"
+  },
+  {
     "uid": "debd18e729e39820f7b138e43fbef6398a1f106c@citycalendar",
     "title": "Threading Landscapes: Art at Park Abbey",
     "start": "2027-03-28T00:00:00",
@@ -2988,8 +3060,8 @@
     "source": "leuven_calendar"
   },
   {
-    "uid": "859d3fd89bf09958ba9f3504a7ba40673eea0f0d@citycalendar",
-    "title": "Expo: \u200bVerweven Landschappen: Kunst in Abdij van Parkexternal link",
+    "uid": "2876d3e4c08d6e74305f3d2d510cecb0489e3e27@citycalendar",
+    "title": "Expo '\u200bVerweven Landschappen: Kunst in Abdij van Park'external link",
     "start": "2027-03-28T00:00:00",
     "end": null,
     "city": "leuven",
@@ -3048,6 +3120,30 @@
     "source": "leuven_be_agenda"
   },
   {
+    "uid": "01224ac69167e5b61131aa9ddbee04851ade4e83@citycalendar",
+    "title": "Mick \u00d8gendahl \"Testshow\"",
+    "start": "2027-04-22T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kongekilden",
+    "description": "Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472671",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472671",
+    "source": "copenhagen_kultunaut"
+  },
+  {
+    "uid": "63c404b5de77d462c06910b681ea0b9002ae518a@citycalendar",
+    "title": "Mick \u00d8gendahl \"Testshow\"",
+    "start": "2027-04-23T00:00:00",
+    "end": null,
+    "city": "copenhagen",
+    "category": "event",
+    "location": "Kongekilden",
+    "description": "Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472673",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472673",
+    "source": "copenhagen_kultunaut"
+  },
+  {
     "uid": "936e2c88278d09b35eca2732d2b857236cb1c2d7@citycalendar",
     "title": "Heverlee kermis",
     "start": "2027-04-28T00:00:00",
@@ -3058,18 +3154,6 @@
     "description": "Kom eendjes vissen of naar het schietkraam op het Van Arenbergplein in Heverlee.\n\nMore info: https://www.leuven.be/heverlee-kermis",
     "url": "https://www.leuven.be/heverlee-kermis",
     "source": "leuven_be_agenda"
-  },
-  {
-    "uid": "c82963488b6097624825a8fd0eda2496461f0348@citycalendar",
-    "title": "Heritage Tour KU Leuven: Holland College",
-    "start": "2027-05-02T11:00:00",
-    "end": null,
-    "city": "leuven",
-    "category": "event",
-    "location": "Hollands College \u2022 Pater Damiaanplein 9",
-    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college",
-    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college",
-    "source": "leuven_calendar"
   },
   {
     "uid": "bafce6559b3fb117977449e72b5d6d5e3ccbeaf9@citycalendar",

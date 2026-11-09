@@ -1,5 +1,93 @@
 [
   {
+    "title": "Grarup All Stars",
+    "start": "2026-11-13T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "M\u00f8decenter Odense",
+    "description": "Funk/Blues/R&B\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428463",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19428463",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Vinter- og Julemarked i Metodistkirken i Odense",
+    "start": "2026-11-14T00:00:00",
+    "city": "copenhagen",
+    "category": "flea_market",
+    "end": null,
+    "location": "Metodistkirken i Odense",
+    "description": "Byfest/Torvedag/Festival\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20480920",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20480920",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Folkeklubben & Danmarks Underholdningsorkester | efter\u00e5r 2026",
+    "start": "2026-11-14T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Odense Koncerthus",
+    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20163017",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20163017",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Killer queeen i bolbro hallen",
+    "start": "2026-11-13T17:40:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Bolbro Hallen",
+    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20031499",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20031499",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Jul p\u00e5 Tidens Samling - Traditionen Tro",
+    "start": "2026-12-12T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Tidens Samling",
+    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378474",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20378474",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Astrid Engberg",
+    "start": "2026-11-14T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Teater Momentum",
+    "description": "Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20248912",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20248912",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Koncert med C\u00e6cilia Kvartet",
+    "start": "2026-11-24T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "MUSIKiKANTEN",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196216",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196216",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Shubberne // Gratis koncert",
+    "start": "2026-11-13T20:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Storms Pakhus",
+    "description": "Dansktop/Underholdning\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428300",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20428300",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
     "title": "Jul i Odense - Lys, hygge og stemning",
     "start": "2026-12-27T00:00:00",
     "city": "copenhagen",
@@ -11,102 +99,14 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Poesiens Mestre Erik Grip m.fl",
-    "start": "2026-11-04T19:30:00",
+    "title": "Klassisk & kolde \u00f8l",
+    "start": "2026-11-12T00:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Kulturmaskinen - Magasinet",
-    "description": "Folk/Vise/Country\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20039017",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20039017",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Konservatoriets Efter\u00e5rsfestival 2026",
-    "start": "2026-11-20T19:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202708",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202708",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Koncert med Trio LAI",
-    "start": "2026-11-03T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "MUSIKiKANTEN",
-    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196206",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20196206",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Pr\u00e6debutkoncert orgel",
-    "start": "2026-11-10T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odense Domkirke (Skt. Knuds Kirke)",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20274235",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20274235",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Brahms' klavertrio nr. 3 - pro musica",
-    "start": "2026-11-10T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Pro Musica",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586377",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586377",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Frank Hammersh\u00f8j og Malene Hammersh\u00f8j",
-    "start": "2026-11-14T00:00:00",
-    "city": "copenhagen",
-    "category": "exhibition",
-    "end": null,
-    "location": "Gallerie Rasmus",
-    "description": "Billedkunst\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20448735",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20448735",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Klassisk sang",
-    "start": "2026-11-09T19:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202706",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20202706",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Musik i M\u00f8rket - H\u00e4ndels Messias",
-    "start": "2026-12-04T19:30:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Sankt Hans Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560471",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19560471",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "S\u00e6rudstilling 2026 - UNG I 80'ERNE",
-    "start": "2026-12-12T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Tidens Samling",
-    "description": "Historisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19401317",
+    "location": "Odense Koncerthus",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586345",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19586345",
     "source": "odense_kultunaut_highlights"
   }
 ]

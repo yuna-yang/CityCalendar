@@ -1,7 +1,29 @@
 [
   {
+    "title": "ILUVLeuven Walk",
+    "start": "2026-11-09T14:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Visit Leuven, Jozef Vounckplein 2, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "url": "https://www.visitleuven.be/en/city-walk-iluvleuven-walk",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in Wijgmaal",
+    "start": "2026-11-09T15:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
+    "description": "More info: https://www.visitleuven.be/en/monday-market",
+    "url": "https://www.visitleuven.be/en/monday-market",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Bike Tour: Lovely Leuven Bike Tour",
-    "start": "2026-11-02T10:00:00",
+    "start": "2026-11-09T10:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -12,7 +34,7 @@
   },
   {
     "title": "Tower visit and live carillon concert University Library",
-    "start": "2026-11-03T18:20:00",
+    "start": "2026-11-10T18:20:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -22,19 +44,19 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Family festival: Rode Hond",
-    "start": "2026-11-04T00:00:00",
+    "title": "Salsa Flash Tropical Night",
+    "start": "2026-11-10T21:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/agenda/rode-hond",
-    "url": "https://www.visitleuven.be/en/agenda/rode-hond",
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/salsa-flash-tropical-night",
+    "url": "https://www.visitleuven.be/en/salsa-flash-tropical-night",
     "source": "leuven_calendar"
   },
   {
     "title": "Market in Kessel-Lo",
-    "start": "2026-11-04T14:00:00",
+    "start": "2026-11-11T14:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -45,7 +67,7 @@
   },
   {
     "title": "Free carillon concerts in Park Abbey",
-    "start": "2026-11-04T16:00:00",
+    "start": "2026-11-11T16:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -55,41 +77,19 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Free carillon concerts in Great Beguinage",
-    "start": "2026-11-04T19:00:00",
+    "title": "Guided tour: Brewery Stella Artois",
+    "start": "2026-11-12T11:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "Groot Begijnhof, Schapenstraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
-    "url": "https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Open Dance Floor",
-    "start": "2026-11-04T20:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Various locations",
-    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
-    "url": "https://www.visitleuven.be/en/open-dance-floor",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Concert: Open Mic night",
-    "start": "2026-11-04T20:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Het Depot, Martelarenplein 12, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/concert-open-mic-night",
-    "url": "https://www.visitleuven.be/en/concert-open-mic-night",
+    "location": "Brouwerij Stella Artois \u2022 Aarschotsesteenweg 20, 3000 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
+    "url": "https://www.visitleuven.be/en/guided-tour-brewery-stella-artois",
     "source": "leuven_calendar"
   },
   {
     "title": "Market in city centre",
-    "start": "2026-11-05T13:00:00",
+    "start": "2026-11-12T13:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -99,19 +99,19 @@
     "source": "leuven_calendar"
   },
   {
-    "title": "Dance Battle: Battle Shake for kids",
-    "start": "2026-11-05T16:00:00",
+    "title": "Open Dance Floor",
+    "start": "2026-11-12T20:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
-    "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
-    "url": "https://www.visitleuven.be/en/dance-battle-battle-shake-kids",
+    "location": "Various locations",
+    "description": "More info: https://www.visitleuven.be/en/open-dance-floor",
+    "url": "https://www.visitleuven.be/en/open-dance-floor",
     "source": "leuven_calendar"
   },
   {
     "title": "Market in city centre of Leuven",
-    "start": "2026-11-06T07:00:00",
+    "start": "2026-11-13T07:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -122,7 +122,7 @@
   },
   {
     "title": "Free carillon concerts on Grote Markt",
-    "start": "2026-11-06T12:00:00",
+    "start": "2026-11-13T12:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -144,7 +144,7 @@
   },
   {
     "title": "Beer and chocolate tasting",
-    "start": "2026-11-06T16:00:00",
+    "start": "2026-11-13T16:00:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -155,7 +155,7 @@
   },
   {
     "title": "Walk: Leuven on tap",
-    "start": "2026-11-06T19:30:00",
+    "start": "2026-11-13T19:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -166,7 +166,7 @@
   },
   {
     "title": "Market in city centre of Leuven",
-    "start": "2026-11-07T09:00:00",
+    "start": "2026-11-14T09:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -177,7 +177,7 @@
   },
   {
     "title": "Walk: Six centuries of the university in Leuven",
-    "start": "2026-11-07T10:30:00",
+    "start": "2026-11-14T10:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
@@ -188,90 +188,13 @@
   },
   {
     "title": "Guided tour: Brewery de Coureur",
-    "start": "2026-11-07T13:30:00",
+    "start": "2026-11-14T13:30:00",
     "city": "leuven",
     "category": "event",
     "end": null,
     "location": "Brouwerij de Coureur \u2022 Borstelsstraat 20/1, 3010 Leuven",
     "description": "More info: https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
     "url": "https://www.visitleuven.be/en/rondleiding-brouwerij-de-coureur",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Heverlee",
-    "start": "2026-11-08T08:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
-    "description": "More info: https://www.visitleuven.be/en/market-sunday",
-    "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Heritage Tour KU Leuven: Arenberg Castle",
-    "start": "2026-11-08T10:30:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Arenbergkasteel \u2022 Kasteelpark Arenberg 1, 3001 Leuven",
-    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle",
-    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-arenberg-castle",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Guided tour: Adept Brewery",
-    "start": "2026-11-08T11:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "De Smederij",
-    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Walk with beer tasting",
-    "start": "2026-11-08T14:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "City centre of Leuven",
-    "description": "More info: https://www.visitleuven.be/en/walk-beer-tasting",
-    "url": "https://www.visitleuven.be/en/walk-beer-tasting",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Jazz on Sunday",
-    "start": "2026-11-08T21:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "STUK, Naamsestraat 96, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/jazz-sunday",
-    "url": "https://www.visitleuven.be/en/jazz-sunday",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Market in Wijgmaal",
-    "start": "2026-11-09T15:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Parking Sportcomplex Ymeria \u2022 Pastoor Bellonstraat 29, 3012 Wijgmaal",
-    "description": "More info: https://www.visitleuven.be/en/monday-market",
-    "url": "https://www.visitleuven.be/en/monday-market",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Salsa Flash Tropical Night",
-    "start": "2026-11-10T22:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "STUK, Naamsestraat 96, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/salsa-flash-tropical-night",
-    "url": "https://www.visitleuven.be/en/salsa-flash-tropical-night",
     "source": "leuven_calendar"
   },
   {
@@ -283,6 +206,39 @@
     "location": "Leuven \u2022 Various locations",
     "description": "More info: https://www.visitleuven.be/en/live-performances-jazz-club-leuven",
     "url": "https://www.visitleuven.be/en/live-performances-jazz-club-leuven",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Market in Heverlee",
+    "start": "2026-11-15T08:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
+    "description": "More info: https://www.visitleuven.be/en/market-sunday",
+    "url": "https://www.visitleuven.be/en/market-sunday",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Arenberg Castle",
+    "start": "2026-11-15T10:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Arenbergkasteel \u2022 Kasteelpark Arenberg 1, 3001 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-arenberg-castle",
+    "url": "https://www.visitleuven.be/en/guided-tour-arenberg-castle",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Adept Brewery",
+    "start": "2026-11-15T11:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "De Smederij",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-adept-brewery",
+    "url": "https://www.visitleuven.be/en/guided-tour-adept-brewery",
     "source": "leuven_calendar"
   },
   {
@@ -308,6 +264,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Jazz on Sunday",
+    "start": "2026-11-15T21:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "STUK, Naamsestraat 96, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/jazz-sunday",
+    "url": "https://www.visitleuven.be/en/jazz-sunday",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Free visit to the theatre: Open House",
     "start": "2026-11-18T10:00:00",
     "city": "leuven",
@@ -327,6 +294,17 @@
     "location": "30CC/Schouwburg, Bondgenotenlaan 21, Leuven",
     "description": "More info: https://www.visitleuven.be/en/sandwiches-jazz",
     "url": "https://www.visitleuven.be/en/sandwiches-jazz",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Free carillon concerts in Great Beguinage",
+    "start": "2026-11-18T19:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Groot Begijnhof, Schapenstraat, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
+    "url": "https://www.visitleuven.be/en/free-carillon-concerts-great-beguinage",
     "source": "leuven_calendar"
   },
   {
@@ -385,6 +363,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Walk with beer tasting",
+    "start": "2026-11-28T14:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "City centre of Leuven",
+    "description": "More info: https://www.visitleuven.be/en/walk-beer-tasting",
+    "url": "https://www.visitleuven.be/en/walk-beer-tasting",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Remembrance ritual: Infinite Dances",
     "start": "2026-11-30T16:45:00",
     "city": "leuven",
@@ -393,6 +382,17 @@
     "location": "Martelarenplein, Leuven",
     "description": "More info: https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
     "url": "https://www.visitleuven.be/en/remembrance-ritual-infinite-dances",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Concert: Open Mic night",
+    "start": "2026-12-02T20:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Het Depot, Martelarenplein 12, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/concert-open-mic-night",
+    "url": "https://www.visitleuven.be/en/concert-open-mic-night",
     "source": "leuven_calendar"
   },
   {
@@ -418,6 +418,28 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Evening visit to the university library",
+    "start": "2026-12-03T18:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Universiteitsbibliotheek, Ladeuzeplein 21, Leuven",
+    "description": "More info: https://www.visitleuven.be/en/amazing-view",
+    "url": "https://www.visitleuven.be/en/amazing-view",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Guided tour: Holland College",
+    "start": "2026-12-05T10:30:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Hollands College \u2022 Pater Damiaanplein 9",
+    "description": "More info: https://www.visitleuven.be/en/guided-tour-holland-college",
+    "url": "https://www.visitleuven.be/en/guided-tour-holland-college",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Heritage Walking Tour: Colleges and Laboratories, Hidden Science in Leuven",
     "start": "2026-12-06T10:30:00",
     "city": "leuven",
@@ -437,6 +459,17 @@
     "location": "Leuvense shopping streets",
     "description": "More info: https://www.visitleuven.be/en/sunday-shopping",
     "url": "https://www.visitleuven.be/en/sunday-shopping",
+    "source": "leuven_calendar"
+  },
+  {
+    "title": "Botanique Magique",
+    "start": "2026-12-08T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Kruidtuin \u2022 Kapucijnenvoer 30",
+    "description": "More info: https://www.visitleuven.be/en/botanique-magique",
+    "url": "https://www.visitleuven.be/en/botanique-magique",
     "source": "leuven_calendar"
   },
   {
@@ -512,8 +545,8 @@
     "category": "event",
     "end": null,
     "location": "Groot Begijnhof, Schapenstraat, Leuven",
-    "description": "More info: https://www.visitleuven.be/en/leuven-countdown-0",
-    "url": "https://www.visitleuven.be/en/leuven-countdown-0",
+    "description": "More info: https://www.visitleuven.be/en/leuven-countdown",
+    "url": "https://www.visitleuven.be/en/leuven-countdown",
     "source": "leuven_calendar"
   },
   {
@@ -594,6 +627,17 @@
     "source": "leuven_calendar"
   },
   {
+    "title": "Guided tour: Arenberg Campus Library",
+    "start": "2027-03-20T11:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "Campusbibliotheek Arenberg \u2022 Willem de Croylaan 6, 3001 Leuven",
+    "description": "More info: https://www.visitleuven.be/en/agenda/campusbibliotheek",
+    "url": "https://www.visitleuven.be/en/agenda/campusbibliotheek",
+    "source": "leuven_calendar"
+  },
+  {
     "title": "Threading Landscapes: Art at Park Abbey",
     "start": "2027-03-28T00:00:00",
     "city": "leuven",
@@ -624,17 +668,6 @@
     "location": "Various locations",
     "description": "More info: https://www.visitleuven.be/en/agenda/passion",
     "url": "https://www.visitleuven.be/en/agenda/passion",
-    "source": "leuven_calendar"
-  },
-  {
-    "title": "Heritage Tour KU Leuven: Holland College",
-    "start": "2027-05-02T11:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "Hollands College \u2022 Pater Damiaanplein 9",
-    "description": "More info: https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college",
-    "url": "https://www.visitleuven.be/en/heritage-tour-ku-leuven-holland-college",
     "source": "leuven_calendar"
   },
   {
