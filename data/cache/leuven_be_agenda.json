@@ -11,50 +11,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Mini-expo 'Leuvense filmaffiches'",
-    "start": "2026-11-09T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Herdenking Wapenstilstand",
-    "start": "2026-11-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Op woensdag 11 november 2026 herdenkt de stad Wapenstilstand met plechtigheden.\n\nMore info: https://www.leuven.be/wapenstilstand",
-    "url": "https://www.leuven.be/wapenstilstand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boektopia op toerexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "November is boekenmaand! Beleef een weekend vol literaire evenementen in Leuven. Ontmoet auteurs en ontdek nieuwe verhalen.\n\nMore info: https://www.leuven.be/boektopia-op-toer",
-    "url": "https://www.leuven.be/boektopia-op-toer",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenbal (volzet)external link",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
@@ -165,6 +121,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Podiumkunstenfestival 'For Real'external link",
+    "start": "2026-11-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Wat krijg je als je theater, dans en muziek combineert met virtual reality, robotica of artifici\u00eble intelligentie? Ontdek het tijdens dit festival rond nieuwe technologie.\n\nMore info: https://www.leuven.be/podiumkunstenfestival-real",
+    "url": "https://www.leuven.be/podiumkunstenfestival-real",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Gesmoorde stemmenexternal link",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -220,7 +187,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Sofagesprek 'Leven met ADHD' (volzet)",
+    "title": "Sofagesprek 'Leven met ADHD'",
     "start": "2026-12-03T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -228,6 +195,17 @@
     "location": "",
     "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
     "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Documentaire 'Fantastique' met panelgesprek",
+    "start": "2026-12-05T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom kijken naar de documentaire 'Fantastique' en volg een panelgesprek over hoe kinderen vrije tijd beleven in verschillende culturen.\n\nMore info: https://www.leuven.be/fantastique",
+    "url": "https://www.leuven.be/fantastique",
     "source": "leuven_be_agenda"
   },
   {
@@ -253,6 +231,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Instaprondleiding 'Folded Memory'",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -261,6 +250,17 @@
     "location": "",
     "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
     "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Het Warme Kerstcaf\u00e9",
+    "start": "2026-12-18T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Mensen met en zonder dementie, mantelzorgers, familie en vrienden zijn welkom in Het Warme Kerstcaf\u00e9 voor een babbel en een lekker stuk cake.\n\nMore info: https://www.leuven.be/het-warme-kerstcafe",
+    "url": "https://www.leuven.be/het-warme-kerstcafe",
     "source": "leuven_be_agenda"
   },
   {
@@ -429,50 +429,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Mini-expo 'Leuvense filmaffiches'",
-    "start": "2026-11-09T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Herdenking Wapenstilstand",
-    "start": "2026-11-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Op woensdag 11 november 2026 herdenkt de stad Wapenstilstand met plechtigheden.\n\nMore info: https://www.leuven.be/wapenstilstand",
-    "url": "https://www.leuven.be/wapenstilstand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boektopia op toerexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "November is boekenmaand! Beleef een weekend vol literaire evenementen in Leuven. Ontmoet auteurs en ontdek nieuwe verhalen.\n\nMore info: https://www.leuven.be/boektopia-op-toer",
-    "url": "https://www.leuven.be/boektopia-op-toer",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenbal (volzet)external link",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
@@ -583,6 +539,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Podiumkunstenfestival 'For Real'external link",
+    "start": "2026-11-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Wat krijg je als je theater, dans en muziek combineert met virtual reality, robotica of artifici\u00eble intelligentie? Ontdek het tijdens dit festival rond nieuwe technologie.\n\nMore info: https://www.leuven.be/podiumkunstenfestival-real",
+    "url": "https://www.leuven.be/podiumkunstenfestival-real",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Gesmoorde stemmenexternal link",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -638,7 +605,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Sofagesprek 'Leven met ADHD' (volzet)",
+    "title": "Sofagesprek 'Leven met ADHD'",
     "start": "2026-12-03T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -646,6 +613,17 @@
     "location": "",
     "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
     "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Documentaire 'Fantastique' met panelgesprek",
+    "start": "2026-12-05T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom kijken naar de documentaire 'Fantastique' en volg een panelgesprek over hoe kinderen vrije tijd beleven in verschillende culturen.\n\nMore info: https://www.leuven.be/fantastique",
+    "url": "https://www.leuven.be/fantastique",
     "source": "leuven_be_agenda"
   },
   {
@@ -671,6 +649,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Instaprondleiding 'Folded Memory'",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -679,6 +668,17 @@
     "location": "",
     "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
     "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Het Warme Kerstcaf\u00e9",
+    "start": "2026-12-18T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Mensen met en zonder dementie, mantelzorgers, familie en vrienden zijn welkom in Het Warme Kerstcaf\u00e9 voor een babbel en een lekker stuk cake.\n\nMore info: https://www.leuven.be/het-warme-kerstcafe",
+    "url": "https://www.leuven.be/het-warme-kerstcafe",
     "source": "leuven_be_agenda"
   },
   {
@@ -847,50 +847,6 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Mini-expo 'Leuvense filmaffiches'",
-    "start": "2026-11-09T00:00:00",
-    "city": "leuven",
-    "category": "exhibition",
-    "end": null,
-    "location": "",
-    "description": "Bekijk een selectie uit de collectie filmaffiches van het Stadsarchief.\n\nMore info: https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "url": "https://www.leuven.be/mini-expo-leuvense-filmaffiches",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Herdenking Wapenstilstand",
-    "start": "2026-11-11T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Op woensdag 11 november 2026 herdenkt de stad Wapenstilstand met plechtigheden.\n\nMore info: https://www.leuven.be/wapenstilstand",
-    "url": "https://www.leuven.be/wapenstilstand",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Boektopia op toerexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "November is boekenmaand! Beleef een weekend vol literaire evenementen in Leuven. Ontmoet auteurs en ontdek nieuwe verhalen.\n\nMore info: https://www.leuven.be/boektopia-op-toer",
-    "url": "https://www.leuven.be/boektopia-op-toer",
-    "source": "leuven_be_agenda"
-  },
-  {
-    "title": "Foyer Matineeexternal link",
-    "start": "2026-11-15T00:00:00",
-    "city": "leuven",
-    "category": "event",
-    "end": null,
-    "location": "",
-    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
-    "url": "https://www.leuven.be/foyer-matinee",
-    "source": "leuven_be_agenda"
-  },
-  {
     "title": "Seniorenbal (volzet)external link",
     "start": "2026-11-17T00:00:00",
     "city": "leuven",
@@ -1001,6 +957,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Podiumkunstenfestival 'For Real'external link",
+    "start": "2026-11-29T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Wat krijg je als je theater, dans en muziek combineert met virtual reality, robotica of artifici\u00eble intelligentie? Ontdek het tijdens dit festival rond nieuwe technologie.\n\nMore info: https://www.leuven.be/podiumkunstenfestival-real",
+    "url": "https://www.leuven.be/podiumkunstenfestival-real",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Gesmoorde stemmenexternal link",
     "start": "2026-11-24T00:00:00",
     "city": "leuven",
@@ -1056,7 +1023,7 @@
     "source": "leuven_be_agenda"
   },
   {
-    "title": "Sofagesprek 'Leven met ADHD' (volzet)",
+    "title": "Sofagesprek 'Leven met ADHD'",
     "start": "2026-12-03T00:00:00",
     "city": "leuven",
     "category": "event",
@@ -1064,6 +1031,17 @@
     "location": "",
     "description": "Nele Reymen en Wendy de Pree vertellen over leven met ADHD.\n\nMore info: https://www.leuven.be/adhd",
     "url": "https://www.leuven.be/adhd",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Documentaire 'Fantastique' met panelgesprek",
+    "start": "2026-12-05T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Kom kijken naar de documentaire 'Fantastique' en volg een panelgesprek over hoe kinderen vrije tijd beleven in verschillende culturen.\n\nMore info: https://www.leuven.be/fantastique",
+    "url": "https://www.leuven.be/fantastique",
     "source": "leuven_be_agenda"
   },
   {
@@ -1089,6 +1067,17 @@
     "source": "leuven_be_agenda"
   },
   {
+    "title": "Foyer Matineeexternal link",
+    "start": "2026-11-15T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Voormalig stads-dj Bobby Ewing (aka Jimmy Dewit) cureert opnieuw fabuleuze dansfeestjes in de foyer van 30CC/Schouwburg.\n\nMore info: https://www.leuven.be/foyer-matinee",
+    "url": "https://www.leuven.be/foyer-matinee",
+    "source": "leuven_be_agenda"
+  },
+  {
     "title": "Instaprondleiding 'Folded Memory'",
     "start": "2026-12-20T00:00:00",
     "city": "leuven",
@@ -1097,6 +1086,17 @@
     "location": "",
     "description": "Ontdek de expo samen met een gids.\n\nMore info: https://www.leuven.be/instaprondleiding-folded-memory",
     "url": "https://www.leuven.be/instaprondleiding-folded-memory",
+    "source": "leuven_be_agenda"
+  },
+  {
+    "title": "Het Warme Kerstcaf\u00e9",
+    "start": "2026-12-18T00:00:00",
+    "city": "leuven",
+    "category": "event",
+    "end": null,
+    "location": "",
+    "description": "Mensen met en zonder dementie, mantelzorgers, familie en vrienden zijn welkom in Het Warme Kerstcaf\u00e9 voor een babbel en een lekker stuk cake.\n\nMore info: https://www.leuven.be/het-warme-kerstcafe",
+    "url": "https://www.leuven.be/het-warme-kerstcafe",
     "source": "leuven_be_agenda"
   },
   {

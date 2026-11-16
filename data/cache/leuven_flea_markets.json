@@ -1,7 +1,7 @@
 [
   {
     "title": "Market in Wijgmaal",
-    "start": "2026-11-09T15:00:00",
+    "start": "2026-11-16T15:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -12,7 +12,7 @@
   },
   {
     "title": "Market in Kessel-Lo",
-    "start": "2026-11-11T14:00:00",
+    "start": "2026-11-18T14:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -23,7 +23,7 @@
   },
   {
     "title": "Market in city centre",
-    "start": "2026-11-12T13:00:00",
+    "start": "2026-11-19T13:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -34,7 +34,7 @@
   },
   {
     "title": "Market in city centre of Leuven",
-    "start": "2026-11-14T09:00:00",
+    "start": "2026-11-21T09:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
@@ -45,24 +45,13 @@
   },
   {
     "title": "Market in Heverlee",
-    "start": "2026-11-15T08:00:00",
+    "start": "2026-11-22T08:00:00",
     "city": "leuven",
     "category": "flea_market",
     "end": null,
     "location": "Lodewijk Engelbertus Van Arenbergplein, 3001 Leuven (Heverlee)",
     "description": "More info: https://www.visitleuven.be/en/market-sunday",
     "url": "https://www.visitleuven.be/en/market-sunday",
-    "source": "leuven_flea_markets"
-  },
-  {
-    "title": "Makers and second-hand market: Camping Flamingo",
-    "start": "2026-11-15T12:00:00",
-    "city": "leuven",
-    "category": "flea_market",
-    "end": null,
-    "location": "Hal 5, Diestsesteenweg 104, 3010 Leuven (Kessel-Lo)",
-    "description": "More info: https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
-    "url": "https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
     "source": "leuven_flea_markets"
   },
   {
@@ -129,6 +118,17 @@
     "location": "Groot Begijnhof, Schapenstraat, Leuven",
     "description": "More info: https://www.visitleuven.be/en/great-beguinage-candlelight",
     "url": "https://www.visitleuven.be/en/great-beguinage-candlelight",
+    "source": "leuven_flea_markets"
+  },
+  {
+    "title": "Makers and second-hand market: Camping Flamingo",
+    "start": "2026-12-13T12:00:00",
+    "city": "leuven",
+    "category": "flea_market",
+    "end": null,
+    "location": "Hal 5, Diestsesteenweg 104, 3010 Leuven (Kessel-Lo)",
+    "description": "More info: https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
+    "url": "https://www.visitleuven.be/en/makers-and-second-hand-market-camping-flamingo",
     "source": "leuven_flea_markets"
   },
   {

@@ -6,8 +6,8 @@
     "category": "flea_market",
     "end": "2027-01-17T12:00:00+00:00",
     "location": "Be-Here, Rue Dieudonn\u00e9 Lef\u00e8vre 4 -  1020 Brussels (Laeken)",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-retro-market",
-    "url": "https://www.brussels.be/brussels-retro-market",
+    "description": "Events // Flea market & rummage sales\n\nMore info: /brussels-retro-market",
+    "url": "/brussels-retro-market",
     "source": "brussels_flea_markets"
   },
   {
@@ -17,8 +17,8 @@
     "category": "flea_market",
     "end": "2026-11-22T12:00:00+00:00",
     "location": "Tour & Taxis, Avenue du Port 86c, 1000 Brussels",
-    "description": "Fairs & shows // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-design-market",
-    "url": "https://www.brussels.be/brussels-design-market",
+    "description": "Fairs & shows // Flea market & rummage sales\n\nMore info: /brussels-design-market",
+    "url": "/brussels-design-market",
     "source": "brussels_flea_markets"
   },
   {
@@ -28,8 +28,8 @@
     "category": "flea_market",
     "end": "2026-12-06T12:00:00+00:00",
     "location": "Halles Saint-G\u00e9ry, Place Saint-G\u00e9ry 1 - 1000 Brussels",
-    "description": "Events // Flea market & rummage sales\n\nMore info: https://www.brussels.be/brussels-vintage-market",
-    "url": "https://www.brussels.be/brussels-vintage-market",
+    "description": "Events // Flea market & rummage sales\n\nMore info: /brussels-vintage-market",
+    "url": "/brussels-vintage-market",
     "source": "brussels_flea_markets"
   }
 ]
