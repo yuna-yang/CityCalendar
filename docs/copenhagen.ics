@@ -14,381 +14,34 @@ LOCATION:Skovriderkroen
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20401623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Mesterstykker #4
-DTSTART:20261116T000000
-UID:73be2a6fa86722f8884df39204a08075917189f2@citycalendar
+SUMMARY:🎫 PB7talentscenen - Mandagskoncert
+DTSTART:20261123T190000
+UID:33757a9997fdfc5ff73208e7a0f402dacbbda6d1@citycalendar
 CATEGORIES:event
 DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19757298
+ ype-nynaut?ArrNr=20562506
+LOCATION:Frelsens Hær\, Valby
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20562506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Carl Nielsens kammermusik
+DTSTART:20261123T193000
+UID:8c4155104445842b95fec577757cea3c101e8026@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20022099
 LOCATION:Det Kgl. Danske Musikkonservatorium\, Konservatoriets Koncertsal
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19757298
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20022099
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Mandagskoncert - Klaveraften
-DTSTART:20261116T190000
-UID:4cdfff5f2b5562285498554612c121fb899053d3@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20539844
-LOCATION:PB7talentscenen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20539844
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Trio Steinaa
-DTSTART:20261116T193000
-UID:aeddfff337a9dab6583e3a337580c45d3cea2f1c@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20016191
-LOCATION:Taastrup Kulturcenter
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20016191
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Efterårssamtaler: Kammertoner
-DTSTART:20261117T190000
-UID:3c954ba4028d7d37fbc62137f154e978c05480a3@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20508703
-LOCATION:Odeon - Konservatoriets Koncertsal
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508703
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Jazzkoncert - jazz fra alle tider
-DTSTART:20261117T193000
-UID:6e20259a8d4ebb64cd02ded4d2b30e3082323f94@citycalendar
-CATEGORIES:event
-DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20371085
-LOCATION:Frederiksberg Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20371085
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Koncert: Nightingale String Quartet
-DTSTART:20261119T000000
-UID:b4142c5c2b74223a31b77eecfb4eec06a8a78e90@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20139877
-LOCATION:Solbjerg Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20139877
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Efterårssamtaler: Sankt Hans Kirke
-DTSTART:20261119T170000
-UID:c26f0521a5b5dca9e036fd22fe2f567ccf2ac930@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20508708
-LOCATION:Odeon - Konservatoriets Koncertsal
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508708
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Koncert med Women of Brass
-DTSTART:20261119T190000
-UID:b137c48d7b4a613de5c4a7503909f4ae20f49a3a@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20525689
-LOCATION:Kunstbygningen Filosoffen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20525689
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked & Fodboldtrøjer på Christianshavn
-DTSTART;TZID=Europe/Copenhagen:20261120T163000
-DTEND;TZID=Europe/Copenhagen:20261122T160000
-UID:ebad2f5d160de1fd684507e415e73be61fb80029@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Kom til indendørs loppemarked og fodboldtrøje-salg på hjør
- net af Bådsmandsstræde og Overgaden oven vandet. \nVi har tømt kældre 
- og kasser med alt fra småmøbler\, ting\, japansk keramik\, børnetøj\, 
- lamper og vintage nips. Noah sælger ud af sin store samling fodboldtrøje
- r der tæller over 200 stk\, og hvori du finder ældre trøjer\, niche ite
- ms og vintage fodbold merchandise. Der er også en del børnestørrelser! 
- \nBørnene fra huset sælger boller og kaffe\, så kom endelig forbi til d
- et også! \nVi åbner fredag d. 20/11 kl 16.30 og lukker først Søndag ef
- termiddag. \nKig forbi i weekenden 20-22. nov. \nKh Rebecca og Noah
-LOCATION:Bådsmandsstræde 19\, 1407 København K\, Danmark\, Bådsmandsst
- ræde 19\, 1407 København K\, Danmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-fodboldtroej
- er-paa-christianshavn/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Langbordskoncert #2
-DTSTART:20261121T000000
-UID:ece83326ac3734941b355e1b7ed3c210248f5e2b@citycalendar
-CATEGORIES:event
-DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20280885
-LOCATION:Koncertkirken\, Blågårds Plads
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20280885
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Depeche Mode vs. New Order vs. Talk Talk - Black Celebration 
- Party 40 år
-DTSTART:20261121T000000
-UID:b66b18314e3cee52eb6e1a199c72cbd0f0263fbc@citycalendar
-CATEGORIES:event
-DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20405026
-LOCATION:KB3
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20405026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 J.S. Bach: H-mol Messe med Copenhagen Soloists
-DTSTART:20261121T000000
-UID:42cccbee1efc5eb89b2db8a0370cdab44cb39ebe@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19865747
-LOCATION:Holmens Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19865747
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Beat The Meetles
-DTSTART:20261121T000000
-UID:3c5edccf7ca82267acc4f07a1910adbdc4901ce5@citycalendar
+SUMMARY:🎫 Simon & Garfunkel Tribute
+DTSTART:20261123T193000
+UID:3cfef8c30b5bf9f8e98f4888347938778a2d0125@citycalendar
 CATEGORIES:event
 DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19820326
-LOCATION:RIGA
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19820326
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Byttemarked
-DTSTART:20261121T000000
-UID:71c29a6a14e14a96717e1a55139b486396eb68f2@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/per
- l/arrmore/type-nynaut?ArrNr=20495528
-LOCATION:Bibliotek+
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20495528
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked - Amager Selvskabslokaler
-DTSTART;TZID=Europe/Copenhagen:20261121T100000
-DTEND;TZID=Europe/Copenhagen:20261121T160000
-UID:149809d596f6a290518e31e774c0e1e02efc0402@citycalendar
-CATEGORIES:flea_market
-LOCATION:Amager Selvskabslokaler\, Amager Selvskabslokaler
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-amager-selvs
- kabslokaler/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Loppemarked i Amager Selskabslokaler
-DTSTART;TZID=Europe/Copenhagen:20261121T100000
-DTEND;TZID=Europe/Copenhagen:20261121T160000
-UID:a42ab2e99dd67a84019872d1cda5f90d8c337b1b@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Kom til Amagers hyggeligste loppemarked i Amager selskabslokal
- er i Markmandsgade. Gratis entré. Fine boder og god stemning.
-LOCATION:Markmandsgade 9-11\, Copenhagen\, Markmandsgade 9
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-amager-sel
- skabslokaler/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Københavns Loppetorv
-DTSTART;TZID=Europe/Copenhagen:20261121T110000
-DTEND;TZID=Europe/Copenhagen:20261121T160000
-UID:de6d4fb7d3cef0b12a76daff68e84406e0d05cae@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Københavns Loppetorv er et fast traditionelt loppemarked hver
-  lørdag\n \n– et mødested for mennesker og ting\, tøj og andet godt.
-LOCATION:Israels Plads\, Linnésgade 3\, København\, Israels Plads\, Linn
- ésgade 3\, København
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
- 26-11-21/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Klaverkoncert: Nocturner ved pianist Katrine Gislinge
-DTSTART:20261122T000000
-UID:d32bd1516478abd56370f965f7c4492cb4288d15@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20358126
-LOCATION:Stavnsholtkirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20358126
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Antonín Dvorák: Stabat Mater
-DTSTART:20261122T000000
-UID:bd8f6c7d4d0945bd6d97c6979cfb4a0979ffa296@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20453015
-LOCATION:Helligaandskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20453015
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Bazaar Bazaar
-DTSTART:20261122T000000
-UID:b27a3f2799a199f03b57d5545bf92620b6bdee49@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20541185
-LOCATION:Hotel Cecil
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20541185
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Byttemarked i Teatersalen 2026
-DTSTART:20261122T000000
-UID:0c6aa4ed6eeab235ce1a1f1a0831949a71e37394@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/per
- l/arrmore/type-nynaut?ArrNr=20517761
-LOCATION:Valby Kulturhus
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517761
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Veras Market under Buen 2026
-DTSTART;TZID=Europe/Copenhagen:20261122T100000
-DTEND;TZID=Europe/Copenhagen:20261122T150000
-UID:486024ccf5d09414f00069891ab5ff9c44cc0dde@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Join os til Danmarks største genbrugstøjmarked af en loppefe
- st hver søndag\, når Veras Market samler de flotteste loppe hoveder\, so
- m sammen sikrer at brugt tøj får nyt liv  \nENGLISH BELOWTil Veras Mark
- et under Buen kan du hver søndag snuppe sprødt brugt kluns til gavn for 
- miljøet fra 80 private stande og fra Veras egen stand\, hvor der altid er
-  1 for 40\,- og 4 for 100\,-Tjen selv monetos på dit brugte tøj og giv d
- et nyt liv med en stand\, hvor du kan leje bord\, tøjstativ og bøjler af
-  Veras  Du finder mere info lige her: https://verasvintage.dk/market/ko
- ebenhavn/Vi glæder os helt vildt til at se jeres flotte hoveder til en fa
- rverig søndagsloppefest under Buen! \nKærligst\,Damerne bag Veras\n⁠ 
- BLIV STANDHOLDER ⁠Veras Market er landets nemmeste tøjmarked\, hvor du
-  er sikret værdi for ALT dit kluns. Lej tøjstativ m. bøjler og borde af
-  os – og hvis du har lyst\, så kan du endda aflevere dit overskydende t
- øj til os efter markedet\, hvor vi som tak kvitterer med et gavekort på 
- 100\,- til Veras webshop eller butik i Studiestræde 27\, Kbh. Nemt\, ik?T
- jen penge på dit aflagte kluns\, mens du har en fest! Sælg lige hvad du 
- lyster\, så længe det er egne brugte varer indenfor kategorierne tøj\, 
- accessories og sko.Book din stand og tøjstativer  verasvintage.dk/marke
- t/koebenhavn\n FOR BESØGENDE Veras Market byder altid på tonsvis af un
- ikke brugte skatte\, og du kan finde alt fra trendy highstreet\, unikke vi
- ntagesager til flotte mærkevarer.• Der er altid gratis adgang til Veras
-  Market under Buen• Der er fri adgang til toiletter• De fleste standho
- ldere tager imod MobilePay og kontanter• I Veras stand tager vi imod kor
- t\, kontanter og MobilePay\nVERAS STAND ALT 40\,- // 4 items for 100\,-BY
- T DIT TØJ TIL NYTIndlevér dit tøj på markedet (maks. 5 stykker tøj pe
- r kunde) og få 50% på alt nyt\, brugt tøj i Veras:1. Aflevér dit tøj 
- (maks. 5 styk) til os i Veras stand2. Få straks rabatpoint udbetalt\, ca.
-  50% af vores salgspris3. Rabatpointene gir’ dig op til 50% på alt nyt
- \, brugt tøj fra VerasVi tager imod alt dametøj\, som er rentvasket og u
- den huller\, pletter og slitage. Vi glæder os til at se dig og dit kluns
- \, så vi sammen cirkulerer alt brugt tøj og bekæmper tøjspild \n OM 
- VERAS I Veras er det nemt at forny din garderobe bæredygtigt og skille d
- ig af med dit brugte tøj uden at skabe tøjspild. Veras er skabt ud fra e
- n cirkulær forretningsmodel med flere platforme\, hvor alt tøj finder si
- n plads og dermed får nyt liv. Hos Veras kan du bytte\, shoppe og sælge 
- brugt tøj – og dét\, der er hullet eller slidt\, reparerer og upcycler
-  vi for dig.\nAlt tøj i Veras kommer fra lokale danske garderober. Vi ind
- køber ikke noget tøj – og intet tøj går til spilde. Vi hacker den et
- ablerede tøjindustri og gør et lineært systemet cirkulært. Sådan når
-  vi vores vision om at bekæmpe tøjspild og give alt tøj nyt liv. Det me
- st bæredygtige er at cirkulere tøjet – præcis som det er.Besøg vores
-  brugte univers  verasvintage.dk\nENGLISH:On Sundays Bispeengbuen from 1
- 0-15 is transformed into your favorite secondhand market – with clothes 
- and accessories for both women and men. Whether you’re into high street 
- scoops\, exclusive luxury\, or hidden vintage treasures\, Veras Market is 
- for you! With more than 80 stalls and of course the famous Veras vibe this
-  is the perfect place to spend your Sunday. There is always free entrance 
- to the market.Remember to check out Veras shop where you can get item for 
- 40\,- and 4 items for 100\,-. Here you can also hand in your own clothes\,
-  from which you receive points to use in Veras stall and Veras shop.We can
- ’t wait to get our secondhand Sunday groove on with all of you!￼BECOME
-  A STALLHOLDER￼Book a stall on one of Copenhagens most popular secondhan
- d clothing markets. You can sell used items within the categories of cloth
- ing\, accessories\, and shoes for women and men. Book your stall: www.ver
- asvintage.dk/koebenhavnA stall 2×3 m: 465 DKKRent a dress rail incl. 50 h
- angers for your stall: 250 DKK• All stalls are allocated on a first come
-  first served basis• You can share your stall with one other friend• Y
- ou can bring your own dress rail(s) as long as you don’t have more than 
- two in total.• You can bring your own table\, but there is a table inclu
- ded in every stall• Check-in is between 8:30-09.00 AMVeras accept all le
- ft-over clothes that you didn’t get to sell after each market. In exchan
- ge we give you 100 DKK (a minimum of 1 regular bag) which you can use in o
- ur stores or online at verasvintage.dk￼ABOUT VERASVeras secondhand univ
- erse helps you to always get value for your old clothes. Veras gives you t
- he opportunity to get a whole new wardrobe without hurting the environment
-  or your finances in 2 simple ways:• Swap to new: Receive points in retu
- rn for your old clothes – no matter the quality\, brand\, or style of th
- e clothes. With the points you can buy new secondhand clothes in our shops
-  or on verasvintage.dk• Sell your clothes with at stall at Veras Market
- . We’ll make sure you get a table\, dress rail and hangers\, so all you 
- need to take care of is having a fun day with your friends!
-LOCATION:Bispeengen 20\, 2000 Frederiksberg
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/veras-market-under-buen-
- 2026/2026-11-22/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Tøjbyttemarked & Sysalon
-DTSTART;TZID=Europe/Copenhagen:20261122T110000
-DTEND;TZID=Europe/Copenhagen:20261122T140000
-UID:0ff48771714b26cf8f974183f696e86f5f0fb69d@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Mærk glæden ved genbrug! Kom forbi til tøjbyttemarked og sy
- salon\, hvor du kan bytte dig til nyt eller upcycle dit tøj. \nMåske er 
- garderoben blevet for lille\, for stor eller bare lidt kedelig? Til Tøjby
- ttemarked & Sysalon i Kulturhuset Islands Brygge kan du bytte dit tøj med
-  andre eller få inspiration og hjælp til at reparere\, redesigne eller f
- orvandle dit tøj\, så du kan få glæde af det igen. I sysalonen finder 
- du alt fra stofrester og mønstre til symaskiner og broderimaterialer\, so
- m du frit kan bruge til at reparere eller redesigne dit tøj. Du behøver 
- ikke at kunne sy på forhånd – vi hjælper dig i gang. \nTil tøjbyttem
- arkedet kan du aflevere tøj\, du ikke længere går med\, men som kan hav
- e brugsværdi for andre\, og bytte med andres guld fra gemmerne.  \nKom og
-  vær med i et hyggeligt og socialt fællesskab\, hvor vi er sammen om at 
- nedbringe overforbruget af tøj og tekstiler. \nDet er gratis at være med
- \, og tilmelding er ikke nødvendig – du dukker bare op.  \nDatoer i eft
- erår 2026:4/101/1122/1113/12 \nhttps://www.facebook.com/events/2788131455
- 1528504/?event_time_id=27881314574861835
-LOCATION:Islands Brygge 18\, 2300 Copenhagen\, Denmark\, Islands Brygge 18
- \, 2300 Copenhagen\, Denmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/toejbyttemarked-sysalon-
- 2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🧺 Byttemarked i Teatersalen 2026
-DTSTART;TZID=Europe/Copenhagen:20261122T110000
-DTEND;TZID=Europe/Copenhagen:20261122T150000
-UID:d9f6f5dc68afc7e3153751ff46884cb8d18aa7c7@citycalendar
-CATEGORIES:flea_market
-DESCRIPTION:Alt kan byttes!\nKom til Valby Miljøgruppes årlige Byttemark
- ed i Teatersalen i Valby Kulturhus søndag d. 22. november kl. 11-15. \nTa
- g det med du har til overs og tag det med hjem du kan bruge.\nDet er lidt 
- ligesom et loppemarked bortset fra at alt er gratis. \nNår vi bytter i st
- edet for at smide ud og købe nyt så sparer vi naturen for ressourcetræk
- \, genererer mindre affald og belaster klimaet mindre. \nTøm kælderen\, 
- loftet\, skuffer og skabe\, tag kun ting med der ikke er i stykker og som 
- kan stå på et bord. Kom med så meget du kan undvære og tag så meget m
- ed hjem igen du kan bruge. Du er også velkommen til blot at aflevere ting
-  eller blot at komme og tage ting med hjem. \nHvis du gerne vil hjælpe me
- d som frivillig på byttemarkedet eller er nysgerrig på Valby Miljøgrupp
- e så skriv til miljømedarbejder Asger Gad på GN7S@kk.dk
-LOCATION:Valgaardsvej 4-8\, 2500 Valby\, Denmark\, Valgaardsvej 4-8\, 2500
-  Valby\, Denmark
-URL:https://oplevelser-i-koebenhavn.dk/begivenhed/byttemarked-i-teatersale
- n-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 LYS i november - dansk-svensk venskabskoncert
-DTSTART:20261122T150000
-UID:6ec4a63bc95615dc2544f6654a16745d326e4699@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20508740
-LOCATION:Odense Koncerthus
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508740
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Dvorak: Stabat Mater
-DTSTART:20261122T160000
-UID:cb6dc55c684048fced68ff924f6f9b0e6fc7d7d5@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19728985
-LOCATION:Helligaandskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19728985
+ ype-nynaut?ArrNr=19569517
+LOCATION:Det Ny Teater
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19569517
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Jazzlytteklubben: Keith Jarrett
@@ -411,6 +64,26 @@ LOCATION:Garnisonskirken
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20480969
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Messias-oratoriet
+DTSTART:20261124T193000
+UID:816c77a2403dc0a097f99bff7226b459cd686df1@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20350690
+LOCATION:Sankt Jakobs Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20350690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Julekoncert med Danske Bank Notes
+DTSTART:20261124T193000
+UID:e90a3c730d9a6ca28d408dfe96a500f116b75205@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20489589
+LOCATION:Kastrup Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20489589
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🧺 Grøn Fredag: Pakkekalender byttemarked
 DTSTART:20261127T000000
 UID:13d103d6c0a6a0ab17385f13a916dc63e39358e2@citycalendar
@@ -431,24 +104,24 @@ LOCATION:Vor Frue Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20165953
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Koncert "Happy X-mas" med Beatsalmer
-DTSTART:20261128T000000
-UID:ad109eca56909a433cce92481cd2b54dbb1fdae1@citycalendar
-CATEGORIES:event
-DESCRIPTION:Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20411232
-LOCATION:Tornbjerg Kirke og sognegård
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20411232
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Messias med Odense Barokfestival
-DTSTART:20261128T000000
-UID:f924f58a8ed4d38a624db75568735b1054b88e74@citycalendar
+SUMMARY:🎫 Bach friday
+DTSTART:20261127T193000
+UID:760f488af539a57ae2b48faba9d1c48e23b4867f@citycalendar
 CATEGORIES:event
 DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20439747
-LOCATION:Vor Frue Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20439747
+ ype-nynaut?ArrNr=20185965
+LOCATION:Dyssegårdskirke og sognegård
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20185965
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Julekoncert i Carl Nielsen Museet
+DTSTART:20261128T000000
+UID:fbba82cb015785a51cc296b7bedc7f2785378db7@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20539762
+LOCATION:Carl Nielsen Museet
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20539762
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Københavns Loppetorv
@@ -464,14 +137,74 @@ URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
  26-11-28/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Brantelid-Ihle Hadland
-DTSTART:20261129T000000
-UID:37ae66623a3f0df69c1a5fdf63d1c484427df4db@citycalendar
+SUMMARY:🎫 Julekoncert for velgørenhed 28. nov. 26 kl. 15.00
+DTSTART:20261128T150000
+UID:0b8dd784546936b84cf15e20e275f55bb9dd8a02@citycalendar
 CATEGORIES:event
 DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=19441686
-LOCATION:Odense Valgmenighed
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19441686
+ ype-nynaut?ArrNr=20483267
+LOCATION:Odense Domkirke (Skt. Knuds Kirke)
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20483267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Strong enough
+DTSTART:20261128T193000
+UID:aa2367335c532bc0d8b38cbb2319f1871e7e1533@citycalendar
+CATEGORIES:event
+DESCRIPTION:Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrm
+ ore/type-nynaut?ArrNr=20055608
+LOCATION:Teater Momentum
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20055608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Julemarked i Remisen\, København Østerbro
+DTSTART:20261129T000000
+UID:13615b783dcf6e2158cab9f8d2b2433bd09db456@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Byfest/Torvedag/Festival\n\nMore info: https://www.kultunaut.d
+ k/perl/arrmore/type-nynaut?ArrNr=20472508
+LOCATION:Remisen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Julekoncert i den Svenske kirke
+DTSTART:20261129T000000
+UID:a9d9ec42e37c36e6e15009191943c7b86460e479@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20441882
+LOCATION:Svenska Gustafskyrkan
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20441882
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Koncert med Michala Petri og Lars Hannibal
+DTSTART:20261129T000000
+UID:c9a645622e8d7ca29edcc7f11734011b5fe07f45@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20249179
+LOCATION:Sundby Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20249179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Vi byder julen velkommen til Hvidovre
+DTSTART:20261129T000000
+UID:63620a1a5cd27b5d3e78e7a1db013e08d81851eb@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:Byfest/Torvedag/Festival\n\nMore info: https://www.kultunaut.d
+ k/perl/arrmore/type-nynaut?ArrNr=20547392
+LOCATION:Hvidovre Hovedbibliotek
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20547392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Højdepunkter fra barokken - lukketidskoncert
+DTSTART:20261129T000000
+UID:00efa61ed30af382cb48e0166a483a8bfeb5b424@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20556147
+LOCATION:Teatermuseet i Hofteatret
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556147
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Juleloppemarked - Damhustorvet
@@ -485,26 +218,6 @@ DESCRIPTION:Kom til julemarked på Damhustorvet og sælg ud af de ting du
  en stand.
 LOCATION:Damhustorvet 11A\, Rødovre\, Damhustorvet 11A\, Rødovre
 URL:https://oplevelser-i-koebenhavn.dk/begivenhed/julemarked-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Monday Night Big Band
-DTSTART:20261130T000000
-UID:631dd9704cc5bca8ab24e708b12582c4942ee71a@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20236932
-LOCATION:Bartof Station
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20236932
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Caroline Henderson - Julekoncert 2026
-DTSTART:20261201T000000
-UID:965d06baf9cb6cbd44d256bc1ed2faac62ff2904@citycalendar
-CATEGORIES:event
-DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=19843546
-LOCATION:Eliaskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19843546
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Musikforeningen UTZON
@@ -527,14 +240,14 @@ LOCATION:Strandmarkskirken
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20400361
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Bachs Juleoratorium i Helligaandskirken
-DTSTART:20261202T190000
-UID:62eec0c8e2ce27b48f1b90cbcd75780b2b572fa2@citycalendar
+SUMMARY:🎫 Det Kongelige Operakor synger julen ind
+DTSTART:20261202T133000
+UID:cf893becd636e4c15e6029aa554c2fc0f2952216@citycalendar
 CATEGORIES:event
 DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20445569
-LOCATION:Helligaandskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20445569
+ ype-nynaut?ArrNr=20566421
+LOCATION:Operaen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20566421
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Trio Con Brio Copenhagen
@@ -547,35 +260,14 @@ LOCATION:Herlev Medborgerhus
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20124451
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Jul i Sankt Pauls 2026 - Julekoncert i Sankt Pauls
-DTSTART:20261203T000000
-UID:dd416fe9796fd40824c1ed22613b8a7b7193a475@citycalendar
+SUMMARY:🎫 Julekoncert med Lille MUKO
+DTSTART:20261204T000000
+UID:0f06df3bbad93e59e15eb218290e65d2c677f285@citycalendar
 CATEGORIES:event
 DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20283601
-LOCATION:Sankt Pauls Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20283601
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Kristin Korb & Band feat. Mathias Heise\, "That Time of Year"
- \,
-DTSTART:20261204T204500
-UID:f050bf861b49380904fe5a5aff65455acf86e8a1@citycalendar
-CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20290313
-LOCATION:Ellegården
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20290313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 Julekoncert 2026
-DTSTART:20261205T000000
-UID:1ba8aebb1554f201dd83369fe6cc2d4f96ea346a@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20482851
-LOCATION:Frederiksholm Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20482851
+ -nynaut?ArrNr=20517513
+LOCATION:Kildevældskirken
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20517513
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 SkiOutlet kommer til DGI Byen\, København!
@@ -634,16 +326,6 @@ LOCATION:Center Boulevard 5\, 2300 Copenhagen\, Denmark\, Center Boulevard
 URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-i-bella/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Nøddeknækkeren
-DTSTART:20261205T100000
-UID:3cd549648ab909a06621dee44d0aaffa2101343b@citycalendar
-CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20514874
-LOCATION:Metronomen
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20514874
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🧺 Københavns Loppetorv
 DTSTART;TZID=Europe/Copenhagen:20261205T110000
 DTEND;TZID=Europe/Copenhagen:20261205T160000
@@ -655,6 +337,16 @@ LOCATION:Israels Plads\, Linnésgade 3\, København\, Israels Plads\, Linn
  ésgade 3\, København
 URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
  26-12-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Hjerteforeningens julekoncert
+DTSTART:20261206T000000
+UID:7e63adffe7d72218401297aa763af594e8278e0a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20434968
+LOCATION:Helligaandskirken
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20434968
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Juleloppemarked
@@ -702,6 +394,26 @@ URL:https://oplevelser-i-koebenhavn.dk/begivenhed/loppemarked-vinterlopper
  -2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Fællessang og Koncert · Decent Dreams
+DTSTART:20261206T110000
+UID:7c87fe722651cb06b6febd68e2be3ded5ffa56a3@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\, Børn\n\nMore info: https://www.kultunaut.dk/perl/arrmo
+ re/type-nynaut?ArrNr=20566343
+LOCATION:Nørrebro Bibliotek
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20566343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Messias i Stengård Kirke 6/12 2026
+DTSTART:20261206T160000
+UID:072469b257b88690dfd8aa629feb3270dac1fdb8@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20533349
+LOCATION:Stengård Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20533349
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Adventskoncert med Christian IV's Vokalensemble & Camerata Ø
  resund
 DTSTART:20261206T160000
@@ -713,24 +425,34 @@ LOCATION:Dalum Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Julekoncert med Claudiuskoret
-DTSTART:20261207T193000
-UID:13848bf0c2cd4836c812e66c3d72773f887ac88d@citycalendar
+SUMMARY:🎫 Julekoncert med Koriosum og Genklang
+DTSTART:20261209T000000
+UID:675be740be0cabc2f81bb305d93d893c19625c83@citycalendar
 CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20495279
-LOCATION:Mariendals Kirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20495279
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20468006
+LOCATION:Frederiksholm Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20468006
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 MESSIAS i Helligaandskirken
+SUMMARY:🎫 Carols by Candlelight
 DTSTART:20261210T193000
-UID:9329c93ecea78a64cbb29a1b40e2e169f2c84a08@citycalendar
+UID:d2ce370d6d94b6252819e29d675e0971a6957912@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20352645
+LOCATION:Sct. Matthæus Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20352645
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Det Kongelige Operakor synger julen ind
+DTSTART:20261212T000000
+UID:cac246bb31d2fcf60e09fb603e759347fedd5680@citycalendar
 CATEGORIES:event
 DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20441742
-LOCATION:Helligaandskirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20441742
+ ype-nynaut?ArrNr=19882728
+LOCATION:Operaen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19882728
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 Københavns Loppetorv
@@ -746,14 +468,24 @@ URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-loppetorv/20
  26-12-12/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Ensemble Hovaldt Julekoncert - Reden - Københavns Domkirke
-DTSTART:20261213T000000
-UID:4701bbe243305a0b219be67bdf86e016affe990f@citycalendar
+SUMMARY:🎫 Middag og Julekoncert med Cæcilie Nordby
+DTSTART:20261212T173000
+UID:075776708b47eaf2f081afb859c094d3902e8b16@citycalendar
 CATEGORIES:event
-DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
- ype-nynaut?ArrNr=20509054
-LOCATION:Vor Frue Kirke - Københavns Domkirke
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20509054
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20218072
+LOCATION:Nordhus
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20218072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Københavns Politi Orkester
+DTSTART:20261213T000000
+UID:8b037454ed41cf7670cb8abaa3fe4fb2a6465746@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20569165
+LOCATION:Frederiksberg Rådhusplads
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20569165
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 Caroline Henderson Julekoncert
@@ -764,6 +496,16 @@ DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
  nynaut?ArrNr=19983126
 LOCATION:Christians Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19983126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Ensemble Hovaldt Julekoncert - Reden - Københavns Domkirke
+DTSTART:20261213T000000
+UID:4701bbe243305a0b219be67bdf86e016affe990f@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20509054
+LOCATION:Vor Frue Kirke - Københavns Domkirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20509054
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎫 A capella-jul med koret Momentum
@@ -787,24 +529,24 @@ LOCATION:Haraldskirken
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20472522
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Monday Night Big Band
-DTSTART:20261214T000000
-UID:f9546e0f02cf66d2e727cb3f668c14667cae163d@citycalendar
+SUMMARY:🎫 Odense Kammerkor bringer julestemningen til Sankt Hans Kirke
+DTSTART:20261213T193000
+UID:49d4d7cfde349df01234e3aaad7b165764183922@citycalendar
 CATEGORIES:event
-DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
- nynaut?ArrNr=20236906
-LOCATION:Bartof Station
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20236906
+DESCRIPTION:Gospel/Korkoncert\n\nMore info: https://www.kultunaut.dk/perl/
+ arrmore/type-nynaut?ArrNr=20508766
+LOCATION:Sankt Hans Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508766
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎫 Naar Jul er Nær - julekoncert med Karitas
-DTSTART:20261215T193000
-UID:3ffd7891672a6282b0016476323762b214750efb@citycalendar
+SUMMARY:🎫 A Crooner Christmas feat. Bobo Moreno
+DTSTART:20261215T000000
+UID:734a377078cdc38ee92764301ba5b49eb09d602f@citycalendar
 CATEGORIES:event
 DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
- -nynaut?ArrNr=20544553
-LOCATION:Apostelkirken
-URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20544553
+ -nynaut?ArrNr=20473518
+LOCATION:KU.BE
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20473518
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 JuleBytteMarked i Frederiksholm kirke
@@ -815,6 +557,16 @@ DESCRIPTION:Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/per
  l/arrmore/type-nynaut?ArrNr=20475265
 LOCATION:Frederiksholm Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20475265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Julekoncert med Cantarellerne
+DTSTART:20261216T000000
+UID:3b04637957dba9eb67b540847b54e99f1af066a3@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20553748
+LOCATION:Thomas Kingos Kirke og sognehus
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20553748
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 JuleBytteMarked i Frederiksholm kirke
@@ -847,6 +599,26 @@ LOCATION:Trinitatis Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20407353
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎫 Caroline henderson julekoncert
+DTSTART:20261217T000000
+UID:51f5e76aabaf2680f8d240e50f0f885782940e92@citycalendar
+CATEGORIES:event
+DESCRIPTION:Jazz\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-
+ nynaut?ArrNr=19670671
+LOCATION:Bellevue Teatret
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19670671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Julekoncert med Andrea Pellegrini og LiveStrings
+DTSTART:20261217T193000
+UID:bd5f9d87f047e178c736a7a265149d5045cf4039@citycalendar
+CATEGORIES:event
+DESCRIPTION:Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type
+ -nynaut?ArrNr=20556850
+LOCATION:Ansgars Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556850
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎫 Musik i Mørket: J. S. Bach: Juleoratoriet del 1\, 2 & 3
 DTSTART:20261218T193000
 UID:31aafe653769458c6bbacc77b7f531b4d4761651@citycalendar
@@ -865,6 +637,64 @@ DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
  ype-nynaut?ArrNr=20407308
 LOCATION:Trinitatis Kirke
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20407308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 ½ times julekoncert med organist Tina Christiansen
+DTSTART:20261222T163000
+UID:2f46bb28dff518cae6c4579dabc38f67e5f25c3a@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20556848
+LOCATION:Ansgars Kirke
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556848
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎫 Nytårskoncert i Operaen 2026
+DTSTART:20261230T000000
+UID:18455221809bcc74d5ce2010bf609e74e5171707@citycalendar
+CATEGORIES:event
+DESCRIPTION:Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/t
+ ype-nynaut?ArrNr=20408444
+LOCATION:Operaen
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20408444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Skovriderkroens Vinter Loppemarked
+DTSTART;TZID=Europe/Copenhagen:20270103T090000
+DTEND;TZID=Europe/Copenhagen:20270103T150000
+UID:63f440067de8b05ad17a43de78e1261002474af5@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:❄️ VINTERLOPPER ❄️ \nGør dig klar til hyggelige sønd
+ age fyldt med loppefund\, god stemning og små skatte\, der fortjener et n
+ yt hjem. \nVi inviterer indenfor til vinterloppemarked i Skovriderkroens s
+ temningsfulde sale\, hvor du kan gå på opdagelse blandt boder fyldt med 
+ tøj\, bøger\, legetøj\, nips og finurligheder. Måske finder du lige de
+ t\, du ikke vidste\, du manglede – eller noget helt særligt\, der fortj
+ ener en plads derhjemme. \nTag vennerne\, familien eller din bedste loppe-
+ makker under armen\, og nyd en hyggelig søndag i godt selskab. Vi sørger
+  for de stemningsfulde rammer\, mens du kan forkæle dig selv med en kop v
+ arm kakao\, kaffe eller andre lækkerier fra baren. \n🗓️ Datoer for v
+ interens loppemarkeder 🗓️ \nSe alle datoer for Vinterlopper på vores
+  hjemmeside\, under eventkalenderen. \n☕️ 🥐 Kombinér loppejagten m
+ ed brunch 🥐 ☕️ \nGør lidt ekstra ud af søndagen\, og begynd dagen
+  med en lækker brunch i restauranten\, inden turen går på skattejagt me
+ llem boderne. \nMed Kroen 1936’s lækre brunch kan du nyde blandt andet 
+ kaffe\, friskbagt brød og softice ad libitum – den perfekte start på e
+ n hyggelig dag. \nBook bord til brunch\, og husk\, at børn spiser til kun
+  100 kr.\, når I booker bord til kl. 9.00. \nℹ️ Praktisk info \nGrati
+ s entré til loppemarkedet \nVarme drikke og lækkerier kan købes i baren
+  \nLoppemarkedet er åbent kl. 9.00–15.00 \n🛍️ Vil du være stadeho
+ lder 🛍️ \nSom stadeholder får du mulighed for at sælge ud af dine g
+ emmer i hyggelige\, stemningsfulde sale og professionelle rammer – helt 
+ uafhængigt af vejret udenfor. \nPris: 445 kr. pr. stand \nRegler og betin
+ gelser kan læses på vores hjemmeside under eventkalenderens loppemarkede
+ r. \nVi glæder os til at fylde Skovriderkroens sale med loppefund\, hygge
+ lige møder og god stemning – og til at se både nye og velkendte ansigt
+ er til en dejlig søndag på kroen. 🤎
+LOCATION:Strandvejen 235\, 2920 Charlottenlund\, Denmark\, Strandvejen 235
+ \, 2920 Charlottenlund\, Denmark
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/skovriderkroens-vinter-l
+ oppemarked-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 LOPPEMARKED: VINTERLOPPER
@@ -900,6 +730,29 @@ DESCRIPTION:Loppemarked/Genbrug\n\nMore info: https://www.kultunaut.dk/per
  l/arrmore/type-nynaut?ArrNr=20483449
 LOCATION:Tårnby Hovedbibliotek
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20483449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧺 Københavns Store Kræmmer og Loppemarked
+DTSTART;TZID=Europe/Copenhagen:20270109T100000
+DTEND;TZID=Europe/Copenhagen:20270110T160000
+UID:e165f1df6cbcca539fedcdd6ed9bb0eb17a29ef0@citycalendar
+CATEGORIES:flea_market
+DESCRIPTION:OPLEV ET AF DANMARKS STØRSTE MARKEDER \n📅 9.–10. JAN\n
+ 📍 Forum København\nJulius Thomsens Plads 1\, 1925 Frederiksberg \n🕙
+  Åbningstider \nLørdag: 10.00 – 16.00 \nSøndag: 10.00 – 16.00 \n
+ 🛍️ Hvad kan du opleve? \n500+ stande fyldt med alt fra antikviteter t
+ il unikke loppefund og spændende kræmmervarer \nKræmmere fra hele lande
+ t – oplev den ægte og hyggelige markedsstemning \nBåde nyt og brugt 
+ – der er noget for enhver smag \n🎟️ Entré \nVoksne: 50 kr. \nBørn
+  under 12 år: Gratis adgang i følge med en voksen \nVi glæder os til at
+  byde dig velkommen til to fantastiske markedsdage fyldt med gode fund\, i
+ nspiration og skøn stemning ✨ \n💼 Vil du have en stand? \nSkynd dig 
+ – standene sælger hurtigt! \nDu kan booke stand for én dag eller begge
+  dage her:\n👉 https://jharrangementer.dk/bliv-udstiller/forum-koebenhav
+ n.aspx \n📞 Har du spørgsmål? Ring til os på 27 28 17 08
+LOCATION:Forum\, København\, Forum\, København
+URL:https://oplevelser-i-koebenhavn.dk/begivenhed/koebenhavns-store-kraemm
+ er-og-loppemarked/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🧺 LOPPEMARKED: VINTERLOPPER

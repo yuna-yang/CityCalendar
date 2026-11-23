@@ -1,16 +1,5 @@
 [
   {
-    "title": "Adventskoncert med Christian IV's Vokalensemble & Camerata \u00d8resund",
-    "start": "2026-12-06T16:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Dalum Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227012",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227012",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
     "title": "Bach-Friday",
     "start": "2026-11-27T00:00:00",
     "city": "copenhagen",
@@ -22,36 +11,91 @@
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Efter\u00e5rssamtaler: Kammertoner",
-    "start": "2026-11-17T19:00:00",
+    "title": "Strong enough",
+    "start": "2026-11-28T19:30:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508703",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508703",
+    "location": "Teater Momentum",
+    "description": "Show/Stand up\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20055608",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20055608",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "Koncert med Women of Brass",
-    "start": "2026-11-19T19:00:00",
+    "title": "Julekoncert for velg\u00f8renhed 28. nov. 26 kl. 15.00",
+    "start": "2026-11-28T15:00:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Kunstbygningen Filosoffen",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20525689",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20525689",
+    "location": "Odense Domkirke (Skt. Knuds Kirke)",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20483267",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20483267",
     "source": "odense_kultunaut_highlights"
   },
   {
-    "title": "LYS i november - dansk-svensk venskabskoncert",
-    "start": "2026-11-22T15:00:00",
+    "title": "\u00bd times julekoncert med organist Tina Christiansen",
+    "start": "2026-12-22T16:30:00",
     "city": "copenhagen",
     "category": "event",
     "end": null,
-    "location": "Odense Koncerthus",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508740",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508740",
+    "location": "Ansgars Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556848",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556848",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Julekoncert med Andrea Pellegrini og LiveStrings",
+    "start": "2026-12-17T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Ansgars Kirke",
+    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556850",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20556850",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Julekoncert med Cantarellerne",
+    "start": "2026-12-16T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Thomas Kingos Kirke og sognehus",
+    "description": "Musik\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20553748",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20553748",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Adventskoncert med Christian IV's Vokalensemble & Camerata \u00d8resund",
+    "start": "2026-12-06T16:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Dalum Kirke",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227012",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20227012",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Odense Kammerkor bringer julestemningen til Sankt Hans Kirke",
+    "start": "2026-12-13T19:30:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Sankt Hans Kirke",
+    "description": "Gospel/Korkoncert\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508766",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508766",
+    "source": "odense_kultunaut_highlights"
+  },
+  {
+    "title": "Julekoncert i Carl Nielsen Museet",
+    "start": "2026-11-28T00:00:00",
+    "city": "copenhagen",
+    "category": "event",
+    "end": null,
+    "location": "Carl Nielsen Museet",
+    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20539762",
+    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20539762",
     "source": "odense_kultunaut_highlights"
   },
   {
@@ -63,50 +107,6 @@
     "location": "Sankt Hans Kirke",
     "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20542607",
     "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20542607",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Koncert \"Happy X-mas\" med Beatsalmer",
-    "start": "2026-11-28T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Tornbjerg Kirke og sogneg\u00e5rd",
-    "description": "Rock/Pop\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20411232",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20411232",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Efter\u00e5rssamtaler: Sankt Hans Kirke",
-    "start": "2026-11-19T17:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odeon - Konservatoriets Koncertsal",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508708",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20508708",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Brantelid-Ihle Hadland",
-    "start": "2026-11-29T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Odense Valgmenighed",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19441686",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19441686",
-    "source": "odense_kultunaut_highlights"
-  },
-  {
-    "title": "Messias med Odense Barokfestival",
-    "start": "2026-11-28T00:00:00",
-    "city": "copenhagen",
-    "category": "event",
-    "end": null,
-    "location": "Vor Frue Kirke",
-    "description": "Klassisk\n\nMore info: https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20439747",
-    "url": "https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20439747",
     "source": "odense_kultunaut_highlights"
   }
 ]
